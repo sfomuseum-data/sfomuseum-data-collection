@@ -9,21 +9,19 @@ import mapzen.whosonfirst.export
 import re
 
 """
-"John F. Kennedy International Airport (JFK)":[ 102534365 ]
-"Boeing 747-400": [ 1159289915, 1159293593, 1159289873 ]
-"Qantas Airways": [ 1159285043 ]
-"Sunset District": [ 1108830803, 85922583, 85688637, 85633793 ]
-"Richmond District": [ 1108830805, 85922583, 85688637, 85633793 ]
+	"John F. Kennedy International Airport (JFK)":[ 102534365 ],
+        "Boeing 747-400": [ 1159289915, 1159293593, 1159289873 ],
+        "Qantas Airways": [ 1159285043 ],
+        "Sunset District": [ 1108830803, 85922583, 85688637, 85633793 ],
+        "Richmond District": [ 1108830805, 85922583, 85688637, 85633793 ],
+        "Presidio": [ 85865991, 85922583, 85688637, 85633793 ],
+
 """
 
 if __name__ == "__main__":
 
     depicts_key = {
-        "Boeing 747-400": [ 1159289915, 1159293593, 1159289873 ],
-        "Qantas Airways": [ 1159285043 ],
-        "Sunset District": [ 1108830803, 85922583, 85688637, 85633793 ],
-        "Richmond District": [ 1108830805, 85922583, 85688637, 85633793 ],
-        "Presidio": [ 85865991, 85922583, 85688637, 85633793 ],        
+        "San Francisco International Airport (SFO)": [102527513],
     }
     
     data = "data"

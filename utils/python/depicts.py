@@ -12,16 +12,20 @@ import re
 "John F. Kennedy International Airport (JFK)":[ 102534365 ]
 "Boeing 747-400": [ 1159289915, 1159293593, 1159289873 ]
 "Qantas Airways": [ 1159285043 ]
+"Sunset District": [ 1108830803, 85922583, 85688637, 85633793 ]
+"Richmond District": [ 1108830805, 85922583, 85688637, 85633793 ]
 """
 
 if __name__ == "__main__":
 
-    depicts_label = "Qantas Airways"
-    depicts_id = [ 1159285043 ]
-
-    p = r'.*' + re.escape(depicts_label) + '.*'
-    pat = re.compile(p)
-
+    depicts_key = {
+        "Boeing 747-400": [ 1159289915, 1159293593, 1159289873 ],
+        "Qantas Airways": [ 1159285043 ],
+        "Sunset District": [ 1108830803, 85922583, 85688637, 85633793 ],
+        "Richmond District": [ 1108830805, 85922583, 85688637, 85633793 ],
+        "Presidio": [ 85865991, 85922583, 85688637, 85633793 ],        
+    }
+    
     data = "data"
 
     exporter = mapzen.whosonfirst.export.flatfile(data)
@@ -34,40 +38,54 @@ if __name__ == "__main__":
 
         wof_name = props["wof:name"]
         wof_id = props["wof:id"]
-        
-        candidates = [
-            "wof:name",
-            "sfomuseum:label",
-            "sfomuseum:description"
-        ]
 
-        match = False
-        
-        for k in candidates:
-            
-            v = props.get(k, None)
-
-            if not v:
-                continue
-
-            if not pat.match(v):
-                continue
-
-            match = True
-            break
-
-        if not match:
-            continue
-        
         depicts = props.get("wof:depicts", [])
+        updates = False
+        
+        for depicts_label, depicts_ids in depicts_key.items():
+        
+            p = r'.*' + re.escape(depicts_label) + '.*'
+            pat = re.compile(p)
+                        
+            candidates = [
+                "wof:name",
+                "sfomuseum:label",
+                "sfomuseum:description"
+            ]
 
-        if depicts_id in depicts:
+            match = False
+        
+            for k in candidates:
+            
+                v = props.get(k, None)
+
+                if not v:
+                    continue
+
+                if not pat.match(v):
+                    continue
+
+                match = True
+                break
+
+            if not match:
+                continue
+
+            for id in depicts_ids:
+                
+                if id in depicts:
+                    continue
+
+                depicts.append(id)
+                updates = True
+
+        if not updates:
             continue
-
-        depicts.append(depicts_id)
+        
         props["wof:depicts"] = depicts
         feature["properties"] = props
-        
+
+        print "update", wof_name
         print exporter.export_feature(feature)
         
         

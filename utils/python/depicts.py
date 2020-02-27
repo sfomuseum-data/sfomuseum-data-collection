@@ -15,13 +15,14 @@ import re
         "Sunset District": [ 1108830803, 85922583, 85688637, 85633793 ],
         "Richmond District": [ 1108830805, 85922583, 85688637, 85633793 ],
         "Presidio": [ 85865991, 85922583, 85688637, 85633793 ],
-
+        "San Francisco International Airport (SFO)": [102527513],	
 """
 
 if __name__ == "__main__":
 
     depicts_key = {
-        "San Francisco International Airport (SFO)": [102527513],
+        "downtown San Francisco": [ 1108830801, 85688637, 85633793 ],
+        "Oakland": [ 85921881, 85688637, 85633793 ]
     }
     
     data = "data"

@@ -7,6 +7,8 @@ import mapzen.whosonfirst.utils
 import mapzen.whosonfirst.export
 
 import re
+import sys
+import json
 
 """
 	"John F. Kennedy International Airport (JFK)":[ 102534365 ],
@@ -20,13 +22,15 @@ import re
         "Super Bay Hangar": [ 1477855969 ],
         "SFO Helicopter Airlines": [ 1159285141 ],
         "Sikorsky S-61": [ 1159291711] 
+        "San Francisco heliport": [ 1108830801, 85688637, 85633793 ],        
 """
 
 if __name__ == "__main__":
 
-    depicts_key = {
-        "San Francisco heliport": [ 1108830801, 85688637, 85633793 ],        
-    }
+    depicts_path = sys.argv[1]
+    depicts_fh = open(depicts_path, "r")
+    
+    depicts_key = json.load(depicts_fh)
     
     data = "data"
 
@@ -67,6 +71,10 @@ if __name__ == "__main__":
                 if not pat.match(v):
                     continue
 
+                if not depicts_label in v:
+                    print "NOT OKAY...", depicts_label, v
+                    continue
+                
                 match = True
                 break
 

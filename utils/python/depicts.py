@@ -16,16 +16,16 @@ import re
         "Richmond District": [ 1108830805, 85922583, 85688637, 85633793 ],
         "Presidio": [ 85865991, 85922583, 85688637, 85633793 ],
         "San Francisco International Airport (SFO)": [102527513],	
-        "downtown San Francisco": [ 1108830801, 85688637, 85633793 ],
         "Oakland": [ 85921881, 85688637, 85633793 ],
-        "Super Bay Hangar": [ 1477855969 ]
+        "Super Bay Hangar": [ 1477855969 ],
+        "SFO Helicopter Airlines": [ 1159285141 ],
+        "Sikorsky S-61": [ 1159291711] 
 """
 
 if __name__ == "__main__":
 
     depicts_key = {
-        "SFO Helicopter Airlines": [ 1159285141 ],
-        "Sikorsky S-61": [ 1159291711] 
+        "San Francisco heliport": [ 1108830801, 85688637, 85633793 ],        
     }
     
     data = "data"

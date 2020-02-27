@@ -95,7 +95,7 @@ if __name__ == "__main__":
         props["wof:depicts"] = depicts
         feature["properties"] = props
 
-        print "update", wof_name
+        print "update", wof_name, depicts
         print exporter.export_feature(feature)
         
         

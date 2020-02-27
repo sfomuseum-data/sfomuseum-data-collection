@@ -18,12 +18,14 @@ import re
         "San Francisco International Airport (SFO)": [102527513],	
         "downtown San Francisco": [ 1108830801, 85688637, 85633793 ],
         "Oakland": [ 85921881, 85688637, 85633793 ],
+        "Super Bay Hangar": [ 1477855969 ]
 """
 
 if __name__ == "__main__":
 
     depicts_key = {
-        "Super Bay Hangar": [ 1477855969 ]
+        "SFO Helicopter Airlines": [ 1159285141 ],
+        "Sikorsky S-61": [ 1159291711] 
     }
     
     data = "data"

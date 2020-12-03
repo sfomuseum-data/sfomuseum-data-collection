@@ -10,17 +10,18 @@
     "edtf:date":"195x",
     "edtf:inception":"1950-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
-    "millsfield:category_id":1511214245,
-    "millsfield:collection_id":1511214203,
-    "millsfield:subcategory_id":1511213273,
+    "millsfield:category_id":-1,
+    "millsfield:collection_id":-1,
+    "millsfield:subcategory_id":-1,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2003.065.172",
-    "sfomuseum:category":"Food Service",
+    "sfomuseum:airline":"TWA (Trans World Airlines)",
+    "sfomuseum:category":"Meal Service",
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:creditline":"Gift of Thomas G. Dragges",
     "sfomuseum:date":"1950s",
@@ -32,26 +33,26 @@
     "sfomuseum:placetype":"object",
     "sfomuseum:subcategory":"Galley",
     "wof:belongsto":[
-        1511214245,
+        1159162825,
         102527513,
         102191575,
         85633793,
-        1511213273,
         85922583,
         102087579,
-        1511214277,
-        1511214203,
+        1159160869,
         85688637
     ],
     "wof:breaches":[],
     "wof:country":"XX",
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159285393
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
-            "arcade_id":1511213273,
-            "building_id":1511214277,
+            "building_id":-1,
             "campus_id":102527513,
-            "concourse_id":1511214245,
+            "concourse_id":1159162825,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
@@ -59,13 +60,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511924521,
-            "wing_id":1511214203
+            "wing_id":1159160869
         }
     ],
     "wof:id":1511924521,
-    "wof:lastmodified":1581720048,
+    "wof:lastmodified":1607017229,
     "wof:name":"ice mallet: TWA (Trans World Airlines)",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -74,9 +75,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

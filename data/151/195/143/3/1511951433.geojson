@@ -10,12 +10,12 @@
     "edtf:date":"2003",
     "edtf:inception":"2003-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":-1,
-    "millsfield:collection_id":1511214203,
+    "millsfield:collection_id":-1,
     "millsfield:images":[
         1527846567,
         1527846565
@@ -24,13 +24,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2011.197.028",
-    "sfomuseum:category":"Food Service",
-    "sfomuseum:collection":"Aviation Museum",
+    "sfomuseum:airline":"United Airlines",
+    "sfomuseum:category":"Passenger Amenity",
+    "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Gift of Masako Matsuo",
     "sfomuseum:date":"2003",
     "sfomuseum:daterange_end":"2003-12-31",
     "sfomuseum:daterange_start":"2003-01-01",
-    "sfomuseum:description":"Menu and wine list produced by United Airlines, San Francisco - East Asia routes; color photographic image of artichokes on a plate; menu items include filet mignon, rotisserie chicken, and stir-fried prawns; menu number: 260C009-1 SFO-PVG/TPE/HKG/ICN (LD83-S89-L87); class: Business; date: 7/03.",
+    "sfomuseum:description":"Menu and wine list issued by United Airlines, San Francisco - East Asia routes; color photographic image of artichokes on a plate; menu items include filet mignon, rotisserie chicken, and stir-fried prawns; menu number: 260C009-1 SFO-PVG/TPE/HKG/ICN (LD83-S89-L87); class: Business; date: 7/03.",
     "sfomuseum:media_ids":[
         1527846565,
         1527846567
@@ -42,23 +43,27 @@
     "sfomuseum:subcategory":"Menu",
     "src:geom":"unknown",
     "wof:belongsto":[
+        1159162825,
         102527513,
         102191575,
         85633793,
         85922583,
         102087579,
-        1511214277,
-        1511214203,
+        1159160869,
         85688637
     ],
     "wof:breaches":[],
     "wof:country":"XX",
     "wof:created":1579906667,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159285413
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
-            "building_id":1511214277,
+            "building_id":-1,
             "campus_id":102527513,
+            "concourse_id":1159162825,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
@@ -66,13 +71,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511951433,
-            "wing_id":1511214203
+            "wing_id":1159160869
         }
     ],
     "wof:id":1511951433,
-    "wof:lastmodified":1603911511,
+    "wof:lastmodified":1607018566,
     "wof:name":"menu: United Airlines, Business Class",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -81,9 +86,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

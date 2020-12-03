@@ -10,8 +10,8 @@
     "edtf:date":"1968~",
     "edtf:inception":"1963-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214205,
@@ -24,13 +24,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2007.011.258",
+    "sfomuseum:airline":"Air West  (Hughes Airwest)",
     "sfomuseum:category":"Promotional",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Gift of the William Hough Collection",
     "sfomuseum:date":"c. 1968",
     "sfomuseum:daterange_end":"1973-12-31",
     "sfomuseum:daterange_start":"1963-01-01",
-    "sfomuseum:description":"Promotional brochure produced by Air West and Delta Air Lines, titled \"Air West and Delta Jet-Age Partners\"; light brown cover with illustration depicting two luggage tags with SFO and DAL markings; contains description and images of destinations served.",
+    "sfomuseum:description":"Promotional brochure issued by Air West and Delta Air Lines, titled \"Air West and Delta Jet-Age Partners\"; light brown cover with illustration depicting two luggage tags with SFO and DAL markings; contains description and images of destinations served.",
     "sfomuseum:media_ids":[
         1527846073,
         1527846079
@@ -51,12 +52,17 @@
         102087579,
         1511214277,
         1511214207,
-        85688637
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
     "wof:created":1579906665,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284261,
+        1159284509
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213631,
@@ -74,9 +80,9 @@
         }
     ],
     "wof:id":1511930429,
-    "wof:lastmodified":1603911973,
+    "wof:lastmodified":1607017656,
     "wof:name":"brochure: Air West and Delta Air Lines",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -85,9 +91,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

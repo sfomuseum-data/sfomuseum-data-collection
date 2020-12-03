@@ -10,8 +10,8 @@
     "edtf:date":"1996",
     "edtf:inception":"1996-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"",
     "millsfield:category_id":1511214243,
@@ -20,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1995.86.02 a k",
+    "sfomuseum:airline":"Virgin Atlantic",
     "sfomuseum:category":"Passenger Amenity",
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:continent":"Europe",
@@ -28,7 +29,7 @@
     "sfomuseum:date":"1996",
     "sfomuseum:daterange_end":"1996-12-31",
     "sfomuseum:daterange_start":"1996-01-01",
-    "sfomuseum:description":"Amenity kit produced by Virgin Atlantic with multiple parts:\ra. black canvas bag with red piping, zipper and \"Virgin Atlantic\" in white letters,\rb. white cotton bag with black drawstring \"Upper Class,\"\rc.-e. contents of b: nail file, black plastic toothbrush, green and blue tube of \"tau - marin\" toothpaste,\rf. Molton Brown cologne,\rg. Molton Brown body lotion,\rh. Molton Brown bath gel,\ri. Molton Brown mouthwash,\rj. ear plugs in taupe paper container,\rk. black shoe shine cloth in clear plastic wrapper",
+    "sfomuseum:description":"Amenity kit issued by Virgin Atlantic for Upper Class, in multiple parts:\ra. black amenity kit cover with red piping, wrap around top zipper closure, printed logo near lower right corner;\rb. cotton bag with drawstring closure, printed \"Upper Class\" on center;\rc.-e. contents of b: nail file, toothbrush, toothpaste;\rf. cologne by Molton Brown;\rg. body lotion by Molton Brown;\rh. bath gel by Molton Brown;\ri. mouthwash by Molton Brown;\rj. box containing earplugs;\rk. sealed in plastic bag, shoe shine cloth.",
     "sfomuseum:medium":"cotton fabric, plastic, nylon, metal",
     "sfomuseum:object_id":43807,
     "sfomuseum:placetype":"object",
@@ -44,11 +45,15 @@
         1511214277,
         1511214203,
         85688637,
-        102191581
+        102191581,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"",
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159285483
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213187,
@@ -70,9 +75,9 @@
         }
     ],
     "wof:id":1511907483,
-    "wof:lastmodified":1581721238,
-    "wof:name":"amenity kit: Virgin Atlantic",
-    "wof:parent_id":1511214277,
+    "wof:lastmodified":1607016364,
+    "wof:name":"amenity kit: Virgin Atlantic, Upper Class",
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -81,9 +86,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

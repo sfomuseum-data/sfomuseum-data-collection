@@ -10,8 +10,8 @@
     "edtf:date":"1966",
     "edtf:inception":"1966-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214205,
@@ -23,13 +23,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2006.059.383",
+    "sfomuseum:airline":"BOAC (British Overseas Airways Corporation)",
     "sfomuseum:category":"Promotional",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Gift of the Paul Edward Fair Estate",
     "sfomuseum:date":"1966",
     "sfomuseum:daterange_end":"1966-12-31",
     "sfomuseum:daterange_start":"1966-01-01",
-    "sfomuseum:description":"Fold-out color brochure produced by BOAC, titled \"Follow the sun\"; cover features names of destinations in Europe and the Middle East; effective winter 1966 through 1967; includes descriptions of holiday packages for European destinations with color photographs and map.",
+    "sfomuseum:description":"Fold-out color brochure issued by BOAC, titled \"Follow the sun\"; cover features names of destinations in Europe and the Middle East; effective winter 1966 through 1967; includes descriptions of holiday packages for European destinations with color photographs and map.",
     "sfomuseum:media_ids":[
         1527848515
     ],
@@ -49,12 +50,16 @@
         102087579,
         1511214277,
         1511214207,
-        85688637
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
     "wof:created":1579906674,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159283999
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213433,
@@ -72,9 +77,9 @@
         }
     ],
     "wof:id":1511928663,
-    "wof:lastmodified":1603911368,
+    "wof:lastmodified":1607017569,
     "wof:name":"brochure: BOAC (British Overseas Airways Corporation) and BOAC Cunard, Europe",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -83,9 +88,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

@@ -10,8 +10,8 @@
     "edtf:date":"1995~",
     "edtf:inception":"1990-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214205,
@@ -23,13 +23,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2011.061.0526",
+    "sfomuseum:airline":"LOT Polish Airlines",
     "sfomuseum:category":"Promotional",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Gift of the Frank J. Lichtanski Collection",
     "sfomuseum:date":"c. 1995",
     "sfomuseum:daterange_end":"2000-12-31",
     "sfomuseum:daterange_start":"1990-01-01",
-    "sfomuseum:description":"Promotional brochure produced by LOT (Polish Airlines), titled \u201cWir setzen Zeichen fur das nachste Jahrtausend\u201d [\u201dWe set the standard for the next millennium\u201d]; blue and white cover with close-up image depicting frontal view of aircraft nose; folded brochure contains text and route map.",
+    "sfomuseum:description":"Promotional brochure issued by LOT (Polish Airlines), titled \u201cWir setzen Zeichen fur das nachste Jahrtausend\u201d [\u201dWe set the standard for the next millennium\u201d]; blue and white cover with close-up image depicting frontal view of aircraft nose; folded brochure contains text and route map.",
     "sfomuseum:media_ids":[
         1527848489
     ],
@@ -49,12 +50,16 @@
         102087579,
         1511214277,
         1511214207,
-        85688637
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
     "wof:created":1579906674,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284705
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213631,
@@ -72,9 +77,9 @@
         }
     ],
     "wof:id":1511950035,
-    "wof:lastmodified":1603911556,
+    "wof:lastmodified":1607018500,
     "wof:name":"brochure: LOT (Polish Airlines)",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -83,9 +88,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

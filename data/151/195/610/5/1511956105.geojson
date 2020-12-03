@@ -10,12 +10,12 @@
     "edtf:date":"1961~",
     "edtf:inception":"1956-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214243,
-    "millsfield:collection_id":1511214207,
+    "millsfield:collection_id":1511214203,
     "millsfield:images":[
         1527853241,
         1527853243,
@@ -32,13 +32,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2013.088.001 a i",
+    "sfomuseum:aircraft":"Boeing",
+    "sfomuseum:airline":"Air France",
     "sfomuseum:category":"Passenger Amenity",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Gift of Patrick Moyroud",
     "sfomuseum:date":"c. 1961",
     "sfomuseum:daterange_end":"1966-12-31",
     "sfomuseum:daterange_start":"1956-01-01",
-    "sfomuseum:description":"Flight information packet produced by Air France, Boeing and Caravelle aircraft fleet.\ra. blue folder titled \u201cLe plus grand reseau du monde\u201d with montage of full color illustrations depicting various international landmarks representing Rio de Janeiro, Japan, Egypt, Greece, and London; tri-fold format with two pockets containing inserts b-i\rb. circular luggage label depicting two jets in flight; blue and white with red \u201cAir France\u201d logotype\rc. circular luggage label depicting two jets in flight; blue and white with red \u201cAir France\u201d logotype\rd. airport information titled \u201cParis Orly\u201d; blue and white pamphlet containing airport information printed in French and English; tri-fold format\re. traveler information titled \u201cReconfirmation obligatoire\u201d; blue and red text printed in French and English containing passenger confirmation instructions; double-sided sheet\rf. comment card titled \u201cMonsieur le Directeur General\u201d; light blue and white cover depicting stylized globe; suggestion card printed in French, English, and Spanish; tri-fold format\rg. pamphlet with in-flight information titled \u201cBon voyage jet / Air France\u201d; light blue cover with colorful block text; contains illustrated information printed in French and English; multipage booklet\rh. wine bar menu; gray background with full color illustration of champagne bottle and glassware branded with flag symbols; tri-fold format\ri. route map; yellow and blue globe design over black and white image of clouds; folded multipage booklet",
+    "sfomuseum:description":"Flight information packet issued by Air France, Boeing and Caravelle aircraft fleet.\ra. blue folder titled \u201cLe plus grand reseau du monde\u201d with montage of full color illustrations depicting various international landmarks representing Rio de Janeiro, Japan, Egypt, Greece, and London; tri-fold format with two pockets containing inserts b-i\rb. circular luggage label depicting two jets in flight; blue and white with red \u201cAir France\u201d logotype\rc. circular luggage label depicting two jets in flight; blue and white with red \u201cAir France\u201d logotype\rd. airport information titled \u201cParis Orly\u201d; blue and white pamphlet containing airport information printed in French and English; tri-fold format\re. traveler information titled \u201cReconfirmation obligatoire\u201d; blue and red text printed in French and English containing passenger confirmation instructions; double-sided sheet\rf. comment card titled \u201cMonsieur le Directeur General\u201d; light blue and white cover depicting stylized globe; suggestion card printed in French, English, and Spanish; tri-fold format\rg. pamphlet with inflight information titled \u201cBon voyage jet / Air France\u201d; light blue cover with colorful block text; contains illustrated information printed in French and English; multipage booklet\rh. wine bar menu; gray background with full color illustration of champagne bottle and glassware branded with flag symbols; tri-fold format\ri. route map; yellow and blue globe design over black and white image of clouds; folded multipage booklet",
     "sfomuseum:media_ids":[
         1527853223,
         1527853225,
@@ -66,13 +68,17 @@
         85922583,
         102087579,
         1511214277,
-        1511214207,
-        85688637
+        1511214203,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
     "wof:created":1579906658,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159283627
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213565,
@@ -86,13 +92,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511956105,
-            "wing_id":1511214207
+            "wing_id":1511214203
         }
     ],
     "wof:id":1511956105,
-    "wof:lastmodified":1603911470,
+    "wof:lastmodified":1607018780,
     "wof:name":"flight information packet: Air France, Boeing, Caravelle",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -101,9 +107,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

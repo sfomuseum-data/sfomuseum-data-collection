@@ -10,12 +10,12 @@
     "edtf:date":"196x",
     "edtf:inception":"1960-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214205,
-    "millsfield:collection_id":1511214203,
+    "millsfield:collection_id":1511214207,
     "millsfield:images":[
         1527819349,
         1527819347
@@ -24,13 +24,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2001.038.095",
+    "sfomuseum:airline":"Pan American World Airways",
     "sfomuseum:category":"Promotional",
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:creditline":"Gift of Barnaby Conrad III",
     "sfomuseum:date":"1960s",
     "sfomuseum:daterange_end":"1969-12-31",
     "sfomuseum:daterange_start":"1960-01-01",
-    "sfomuseum:description":"Airline bag produced by Pan American World Airways; square with bag with blue piping and logo and shoulder strap.\r",
+    "sfomuseum:description":"Airline bag issued by Pan American World Airways; square with bag with blue piping and logo and shoulder strap.\r",
     "sfomuseum:maker":"Hiromori Industrial",
     "sfomuseum:media_ids":[
         1527819347,
@@ -51,13 +52,17 @@
         85922583,
         102087579,
         1511214277,
-        1511214203,
-        85688637
+        1511214207,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
     "wof:created":1579906679,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284989
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213155,
@@ -71,13 +76,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511921093,
-            "wing_id":1511214203
+            "wing_id":1511214207
         }
     ],
     "wof:id":1511921093,
-    "wof:lastmodified":1603911397,
+    "wof:lastmodified":1607016999,
     "wof:name":"airline bag: Pan American World Airways",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -86,9 +91,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

@@ -10,8 +10,8 @@
     "edtf:date":"1939",
     "edtf:inception":"1939-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":1511214241,
@@ -23,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1999.046.012",
+    "sfomuseum:airport":"San Francisco Airport",
     "sfomuseum:category":"Map / Chart",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:continent":"North America",
@@ -31,7 +32,7 @@
     "sfomuseum:date":"1939",
     "sfomuseum:daterange_end":"1939-12-31",
     "sfomuseum:daterange_start":"1939-01-01",
-    "sfomuseum:description":"Architectural drawing produced by Airport Department of San Francisco Public Utilities Commission, titled \u201cSan Francisco Airport and Treasure Island Airport Vicinity Map\u201d; regional airfield locations highlighted in black, including San Francisco Airport, Crissy Field, Treasure Island Airport, San Francisco Bay Airdrome, Alameda, and Oakland Airport; wind rose diagram at lower right; drawing number A-10026, dated 1934 with revised date of October 20, 1939.",
+    "sfomuseum:description":"Architectural drawing issued by Airport Department of San Francisco Public Utilities Commission, titled \u201cSan Francisco Airport and Treasure Island Airport Vicinity Map\u201d; regional airfield locations highlighted in black, including San Francisco Airport, Crissy Field, Treasure Island Airport, San Francisco Bay Airdrome, Alameda, and Oakland Airport; wind rose diagram at lower right; drawing number A-10026, dated 1934 with revised date of October 20, 1939.",
     "sfomuseum:media_ids":[
         1527828747
     ],
@@ -43,7 +44,6 @@
     "src:geom":"unknown",
     "wof:belongsto":[
         102191575,
-        1511214207,
         85633793,
         136253057,
         1511214241,
@@ -52,8 +52,9 @@
         85922583,
         102087579,
         1511214277,
-        1511214203,
-        85688637
+        1511214207,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -61,16 +62,16 @@
     "wof:depicts":[
         85921881,
         85688637,
-        85633793
+        85633793,
+        1360695655
     ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "empire_id":136253057,
-            "venue_id":1511909409,
-            "wing_id":1511214207
+            "venue_id":1511909409
         },
         {
             "arcade_id":1511213279,
@@ -84,13 +85,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511909409,
-            "wing_id":1511214203
+            "wing_id":1511214207
         }
     ],
     "wof:id":1511909409,
-    "wof:lastmodified":1603912094,
+    "wof:lastmodified":1607016488,
     "wof:name":"map: San Francisco Public Utilities Commission, Airport Department, airfield locations",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -99,9 +100,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

@@ -10,8 +10,8 @@
     "edtf:date":"194x",
     "edtf:inception":"1940-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":1511214243,
@@ -24,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2000.149.007 a b ",
+    "sfomuseum:airline":"Pan American Airways  (Pan American World Airways)",
     "sfomuseum:category":"Passenger Amenity",
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:continent":"North America",
@@ -32,7 +33,7 @@
     "sfomuseum:date":"1940s",
     "sfomuseum:daterange_end":"1949-12-31",
     "sfomuseum:daterange_start":"1940-01-01",
-    "sfomuseum:description":"a. Sun goggles produced by Pan American World Airways. Black protective film with cardboard earpieces. \"Pan American World Airways\" printed on outside of earpieces.\rb. Paper cover \"Clipper Sun Goggles\" printed top quadrant in bold letters. Stylized image of woman wearing goggles left quadrant and Boeing Stratocruiser right quadrant. Adjustment instructions on reverse. Sun glasses.",
+    "sfomuseum:description":"a. Sun goggles issued by Pan American World Airways. Black protective film with cardboard earpieces. \"Pan American World Airways\" printed on outside of earpieces.\rb. Paper cover \"Clipper Sun Goggles\" printed top quadrant in bold letters. Stylized image of woman wearing goggles left quadrant and Boeing Stratocruiser right quadrant. Adjustment instructions on reverse. Sun glasses.",
     "sfomuseum:maker":"Spotswood Spec Co.",
     "sfomuseum:media_ids":[
         1527818153,
@@ -54,12 +55,16 @@
         1511214277,
         1511214203,
         85688637,
-        136253057
+        136253057,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1579906677,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284991
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213253,
@@ -83,9 +88,9 @@
         }
     ],
     "wof:id":1511919617,
-    "wof:lastmodified":1603912062,
+    "wof:lastmodified":1607016938,
     "wof:name":"sun goggles: Pan American Airways",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -94,9 +99,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

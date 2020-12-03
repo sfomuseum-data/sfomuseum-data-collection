@@ -10,20 +10,22 @@
     "edtf:date":"1993",
     "edtf:inception":"1993-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
-    "millsfield:category_id":1511214245,
-    "millsfield:collection_id":1511214203,
+    "millsfield:category_id":-1,
+    "millsfield:collection_id":-1,
     "millsfield:images":[
         1527818115
     ],
-    "millsfield:subcategory_id":1511213835,
+    "millsfield:subcategory_id":-1,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1997.54.02",
-    "sfomuseum:category":"Food Service",
+    "sfomuseum:aircraft":"Boeing 747",
+    "sfomuseum:airline":"KLM (Royal Dutch Airlines)",
+    "sfomuseum:category":"Beverage Service",
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:continent":"Transatlantic",
     "sfomuseum:country":"United States",
@@ -31,27 +33,25 @@
     "sfomuseum:date":"1993",
     "sfomuseum:daterange_end":"1993-12-31",
     "sfomuseum:daterange_start":"1993-01-01",
-    "sfomuseum:description":"Coaster produced by Royal Dutch Airlines for in-flight beverage service; white ceramic circular shape with cork backing; blue illustration of Boeing 747 aircraft and Golden Gate Bridge; \"KLM / bridging the world / San Francisco / Amsterdam / first flight / March 31, 1993\".",
+    "sfomuseum:description":"Coaster issued by Royal Dutch Airlines for inflight beverage service; white ceramic circular shape with cork backing; blue illustration of Boeing 747 aircraft and Golden Gate Bridge; \"KLM / bridging the world / San Francisco / Amsterdam / first flight / March 31, 1993\".",
     "sfomuseum:maker":"KLM Airline",
     "sfomuseum:media_ids":[
         1527818115
     ],
-    "sfomuseum:medium":"ceramic, cork",
+    "sfomuseum:medium":"glazed ceramic, cork",
     "sfomuseum:object_id":46735,
     "sfomuseum:placetype":"object",
     "sfomuseum:primary_media_id":1527818115,
-    "sfomuseum:subcategory":"Beverage Service, Coaster",
+    "sfomuseum:subcategory":"Coaster",
     "src:geom":"unknown",
     "wof:belongsto":[
-        1511214245,
+        1159162825,
         102527513,
         102191575,
         85633793,
-        1511213835,
         85922583,
         102087579,
-        1511214277,
-        1511214203,
+        1159160869,
         85688637,
         136253057
     ],
@@ -60,15 +60,15 @@
     "wof:created":1579906677,
     "wof:depicts":[
         1159289873,
-        1159293593
+        1159293593,
+        1159284613
     ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
-            "arcade_id":1511213835,
-            "building_id":1511214277,
+            "building_id":-1,
             "campus_id":102527513,
-            "concourse_id":1511214245,
+            "concourse_id":1159162825,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
@@ -76,7 +76,7 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511908177,
-            "wing_id":1511214203
+            "wing_id":1159160869
         },
         {
             "continent_id":102191575,
@@ -86,9 +86,9 @@
         }
     ],
     "wof:id":1511908177,
-    "wof:lastmodified":1603912082,
+    "wof:lastmodified":1607016415,
     "wof:name":"coaster: KLM (Royal Dutch Airlines)",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -97,9 +97,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

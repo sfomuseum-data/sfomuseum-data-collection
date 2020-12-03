@@ -10,8 +10,8 @@
     "edtf:date":"1953",
     "edtf:inception":"1953-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214205,
@@ -20,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2001.038.164.074 a b",
+    "sfomuseum:airline":"Pan American World Airways",
     "sfomuseum:category":"Promotional",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Gift of Barnaby Conrad III",
@@ -41,11 +42,15 @@
         102087579,
         1511214277,
         1511214207,
-        85688637
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284989
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213149,
@@ -63,9 +68,9 @@
         }
     ],
     "wof:id":1511951261,
-    "wof:lastmodified":1581720323,
+    "wof:lastmodified":1607018558,
     "wof:name":"advertisement: Pan American World Airways, Saturday Evening Post",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -74,9 +79,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

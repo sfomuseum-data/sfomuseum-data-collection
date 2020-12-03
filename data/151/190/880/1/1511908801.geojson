@@ -10,8 +10,8 @@
     "edtf:date":"1944",
     "edtf:inception":"1944-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214225,
@@ -20,13 +20,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1999.013.003",
+    "sfomuseum:airline":"Pan American World Airways",
     "sfomuseum:category":"Insignia",
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:creditline":"Gift of Vernon W. Smith",
     "sfomuseum:date":"1944-1959",
     "sfomuseum:daterange_end":"1959-12-31",
     "sfomuseum:daterange_start":"1944-01-01",
-    "sfomuseum:description":"Gold traffic and service pin, issued by Pan American World Airways; single wing with dark blue globe and raised dark blue \"PAA\" located on wing section. ",
+    "sfomuseum:description":"Ground crew wing issued by Pan American World Airways, manufactured by L.G. Balfour Company, worn by traffic service personnel; small blue globe and gold wing logomark, raised \u201cPAA\u201d on wing; stamped \u201cLGB\u201d on back, short post with clutch-back closure on back.",
+    "sfomuseum:maker":"L.G. Balfour Company",
     "sfomuseum:medium":"metal, enamel",
     "sfomuseum:object_id":48366,
     "sfomuseum:placetype":"object",
@@ -41,11 +43,15 @@
         102087579,
         1511214277,
         1511214203,
-        85688637
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284989
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213779,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":1511908801,
-    "wof:lastmodified":1581721217,
-    "wof:name":"traffic and service wing: Pan American World Airways",
-    "wof:parent_id":1511214277,
+    "wof:lastmodified":1607016445,
+    "wof:name":"ground crew wing: Pan American World Airways",
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -74,9 +80,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

@@ -10,8 +10,8 @@
     "edtf:date":"1947~",
     "edtf:inception":"1942-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":1511214241,
@@ -23,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1999.015.061",
+    "sfomuseum:airline":"United Air Lines  (United Airlines)",
     "sfomuseum:category":"Map / Chart",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:continent":"North America",
@@ -31,7 +32,7 @@
     "sfomuseum:date":"c. 1947",
     "sfomuseum:daterange_end":"1952-12-31",
     "sfomuseum:daterange_start":"1942-01-01",
-    "sfomuseum:description":"Route map produced by United Air Lines for domestic and partner flights; gray and red cover with  black and white illustration of an in-flight airplane against yellow silhouette of additional airplane; fold-out format.",
+    "sfomuseum:description":"Route map issued by United Air Lines for domestic and partner flights; gray and red cover with  black and white illustration of an inflight airplane against yellow silhouette of additional airplane; fold-out format.",
     "sfomuseum:media_ids":[
         1527844485
     ],
@@ -43,7 +44,6 @@
     "src:geom":"unknown",
     "wof:belongsto":[
         102191575,
-        1511214207,
         85633793,
         136253057,
         1511214241,
@@ -52,20 +52,23 @@
         85922583,
         102087579,
         1511214277,
-        1511214203,
-        85688637
+        1511214207,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1579906660,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159285415
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "empire_id":136253057,
-            "venue_id":1511908991,
-            "wing_id":1511214207
+            "venue_id":1511908991
         },
         {
             "arcade_id":1511213383,
@@ -79,13 +82,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511908991,
-            "wing_id":1511214203
+            "wing_id":1511214207
         }
     ],
     "wof:id":1511908991,
-    "wof:lastmodified":1603912118,
+    "wof:lastmodified":1607016465,
     "wof:name":"route map: United Air Lines, system map",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -94,9 +97,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

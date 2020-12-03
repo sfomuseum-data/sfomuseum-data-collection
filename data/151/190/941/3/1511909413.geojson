@@ -10,12 +10,12 @@
     "edtf:date":"1950~",
     "edtf:inception":"1945-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":1511214243,
-    "millsfield:collection_id":1511214207,
+    "millsfield:collection_id":1511214203,
     "millsfield:images":[
         1527819499,
         1527819509,
@@ -27,6 +27,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1999.049.009 a e",
+    "sfomuseum:airline":"American Airlines",
     "sfomuseum:category":"Passenger Amenity",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:continent":"North America",
@@ -35,7 +36,7 @@
     "sfomuseum:date":"c. 1950",
     "sfomuseum:daterange_end":"1955-12-31",
     "sfomuseum:daterange_start":"1945-01-01",
-    "sfomuseum:description":"Flight information packet produced by American Airlines, comprised of:\ra. outer jacket with diagrams of route maps. Folded into three sections with pockets, \"Business\", \"Airfreight\", and \"Pleasure\"\rb. route map for domestic and international service; tri-fold format\rc. brochure promoting winter travel to Europe; tri-fold\rd. comment card; bi-fold format\re. brochure promoting freight services, titled \u201cThe shipper\u2019s book of Father Goose\u201d; multipage booklet",
+    "sfomuseum:description":"Flight information packet issued by American Airlines, comprised of:\ra. outer jacket with diagrams of route maps. Folded into three sections with pockets, \"Business\", \"Airfreight\", and \"Pleasure\"\rb. route map for domestic and international service; tri-fold format\rc. brochure promoting winter travel to Europe; tri-fold\rd. comment card; bi-fold format\re. brochure promoting freight services, titled \u201cThe shipper\u2019s book of Father Goose\u201d; multipage booklet",
     "sfomuseum:media_ids":[
         1527819499,
         1527819503,
@@ -58,14 +59,18 @@
         85922583,
         102087579,
         1511214277,
-        1511214207,
+        1511214203,
         85688637,
-        136253057
+        136253057,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1579906679,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159283849
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213565,
@@ -79,7 +84,7 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511909413,
-            "wing_id":1511214207
+            "wing_id":1511214203
         },
         {
             "continent_id":102191575,
@@ -89,9 +94,9 @@
         }
     ],
     "wof:id":1511909413,
-    "wof:lastmodified":1603912092,
+    "wof:lastmodified":1607016488,
     "wof:name":"flight information packet: American Airlines",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -100,9 +105,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

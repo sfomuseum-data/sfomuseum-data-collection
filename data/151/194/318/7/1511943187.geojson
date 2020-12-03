@@ -10,8 +10,8 @@
     "edtf:date":"1999",
     "edtf:inception":"1999-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":1511214267,
@@ -20,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1999.244.0028.05",
+    "sfomuseum:airline":"TWA (Trans World Airlines)",
     "sfomuseum:category":"Oral History",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:continent":"North America",
@@ -27,23 +28,24 @@
     "sfomuseum:date":"1999",
     "sfomuseum:daterange_end":"1999-12-31",
     "sfomuseum:daterange_start":"1999-01-01",
-    "sfomuseum:description":"Interview conducted by Carol McLaughlin on April 7, 1999.\r\rThe interview describes Captain William Dixon\u2019s experiences during his career with TWA from 1936 to 1977. He describes the work he performed as a ticket agent, Chief Clerk of the TWA News Bureau, Co-pilot / First Officer, Pilot / Captain, Director of Flying, General Manager of Flying (Chief Pilot), and Manager of Pilots.  He discusses his training and service in the military as a transport pilot and his further training as a commercial pilot with TWA. He discusses his experiences while flying the following aircraft: Fairchild PT 19; the Cessna UC 78; the Curtiss C 46 Commando; the Douglas C 47 Skytrain, DC 3, and DC 4; the Martin 404 and 202; Convair 880; Lockheed Constellation L-049 and Constellation L-749, and the Boeing 707 and 747. \r\rCaptain Dixon describes his experiences in his base cities of Kansas City, MO; Wilmington, DE; San Francisco, CA; and New York, NY. He briefly describes the routes he flew, including Kansas City to New York, Chicago, Albuquerque, Indianapolis, and Cleveland; New York to Madrid, Paris, and Ireland; and San Francisco to New York, Chicago, Hawaii, Guam, Okinawa, Saigon, Bangkok, Hong Kong, and Tokyo. He discusses the salary he earned in his various capacities at TWA, the importance of seniority relative to job security, and his involvement with the Airline Pilots Association (ALPA) strike in 1946.\r\rCaptain Dixon discusses his encounters with Jack Frye, President of TWA and David Benke, President of ALPA; he discusses the effects of Carl Icahn\u2019s management of TWA. He describes meeting Walter Cronkite, Eleanor Roosevelt, Richard Nixon, and Harry Truman. He describes his experiences as the pilot of the plane carrying the White House press corps during Nixon\u2019s two flights to China in 1972, as well piloting the airplane with the press corps into Moscow in 1974; he also discusses his experiences in management during various crises. He describes his work as a writer of instruction manuals and of articles about the airline industry.",
+    "sfomuseum:description":"Interview conducted by Carol McLaughlin on April 7, 1999.\r\rThe interview describes Captain William Dixon\u2019s career as a ticket agent, chief clerk of the TWA news bureau, co-pilot, pilot, director of flying, general manager of flying (chief pilot), and manager of pilots from 1936 to 1977; training and service in the military as a transport pilot; training as a commercial pilot with TWA; aircraft he flew: Fairchild PT 19, Cessna UC-78, Curtiss C-46 Commando, Douglas C-47 Skytrain, DC-3, DC-4, Martin 404 and 202, Convair 880, Lockheed Constellation L-049 and L-749, Boeing 707 and 747; base cities: Kansas City, Wilmington, San Francisco, and New York; routes he flew: Kansas City to New York, Chicago, Albuquerque, Indianapolis, and Cleveland, New York to Madrid, Paris, and Ireland, and San Francisco to New York, Chicago, Hawaii, Guam, Okinawa, Saigon, Bangkok, Hong Kong, and Tokyo; salary he earned in his various capacities; importance of seniority relative to job security; involvement with the Airline Pilots Association (ALPA) strike in 1946; encounters with Jack Frye (President of TWA), David Benke (President of ALPA), Walter Cronkite, Eleanor Roosevelt, Richard Nixon, Harry Truman; experiences piloting the airplane carrying the White House press corps during Nixon\u2019s two flights to China in 1972 and the airplane with the press corps into Moscow in 1974; effects of Carl Icahn\u2019s management of TWA; experiences in management during various crises; writing instruction manuals and of articles about the airline industry.",
     "sfomuseum:medium":"paper, ink",
     "sfomuseum:object_id":112168,
     "sfomuseum:placetype":"object",
     "sfomuseum:subcategory":"Interview Transcript",
     "wof:belongsto":[
-        1511214267,
-        102527513,
         102191575,
         85633793,
+        136253057,
+        1511214267,
+        102527513,
         1511213437,
         85922583,
         102087579,
         1511214277,
         1511214207,
         85688637,
-        136253057
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -51,10 +53,17 @@
         1159292981,
         1159293697,
         1159289653,
-        1159293593
+        1159293593,
+        1159285393
     ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "venue_id":1511943187
+        },
         {
             "arcade_id":1511213437,
             "building_id":1511214277,
@@ -68,18 +77,12 @@
             "region_id":85688637,
             "venue_id":1511943187,
             "wing_id":1511214207
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "venue_id":1511943187
         }
     ],
     "wof:id":1511943187,
-    "wof:lastmodified":1582851489,
+    "wof:lastmodified":1607018201,
     "wof:name":"oral history transcript indexing notes: Captain William Arnold Dixon",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -88,9 +91,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

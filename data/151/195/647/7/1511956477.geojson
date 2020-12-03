@@ -10,12 +10,12 @@
     "edtf:date":"1960~",
     "edtf:inception":"1955-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"AU",
     "millsfield:category_id":-1,
-    "millsfield:collection_id":1511214203,
+    "millsfield:collection_id":-1,
     "millsfield:images":[
         1527853151,
         1527853147
@@ -24,16 +24,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2013.095.018",
+    "sfomuseum:airline":"Pan American World Airways",
     "sfomuseum:artist":"Lillian Sader",
-    "sfomuseum:category":"Food Service",
-    "sfomuseum:collection":"Aviation Museum",
+    "sfomuseum:category":"Passenger Amenity",
+    "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:continent":"Australia",
     "sfomuseum:country":"Australia",
     "sfomuseum:creditline":"Gift of the Estate of Jane Gottschall",
     "sfomuseum:date":"c. 1960",
     "sfomuseum:daterange_end":"1965-12-31",
     "sfomuseum:daterange_start":"1955-01-01",
-    "sfomuseum:description":"Menu produced by Pan American World Airways; beige cover with color illustrations of iconic images of the United States; cover design by Lillian Sader; breakfast menu items include scrambled eggs and bacon; no menu number; undated.",
+    "sfomuseum:description":"Menu issued by Pan American World Airways; beige cover with color illustrations of iconic images of the United States; cover design by Lillian Sader; breakfast menu items include scrambled eggs and bacon; no menu number; undated.",
     "sfomuseum:maker":"Pan American World Airways, Inc.",
     "sfomuseum:media_ids":[
         1527853147,
@@ -46,13 +47,13 @@
     "sfomuseum:subcategory":"Menu",
     "src:geom":"unknown",
     "wof:belongsto":[
+        1159162825,
         102527513,
         102191575,
         85633793,
         85922583,
         102087579,
-        1511214277,
-        1511214203,
+        1159160869,
         85688637,
         102191583,
         85632793,
@@ -61,11 +62,15 @@
     "wof:breaches":[],
     "wof:country":"AU",
     "wof:created":1579906658,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284989
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
-            "building_id":1511214277,
+            "building_id":-1,
             "campus_id":102527513,
+            "concourse_id":1159162825,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
@@ -73,7 +78,7 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511956477,
-            "wing_id":1511214203
+            "wing_id":1159160869
         },
         {
             "continent_id":102191583,
@@ -83,9 +88,9 @@
         }
     ],
     "wof:id":1511956477,
-    "wof:lastmodified":1603911544,
+    "wof:lastmodified":1607018797,
     "wof:name":"menu: Pan American World Airways",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -94,9 +99,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

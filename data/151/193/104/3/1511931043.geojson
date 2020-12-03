@@ -10,12 +10,12 @@
     "edtf:date":"1987",
     "edtf:inception":"1987-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":-1,
-    "millsfield:collection_id":1511214203,
+    "millsfield:collection_id":-1,
     "millsfield:images":[
         1527821801
     ],
@@ -23,13 +23,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2008.056.0551 a b",
-    "sfomuseum:category":"Food Service",
-    "sfomuseum:collection":"Aviation Museum",
+    "sfomuseum:aircraft":"Sikorsky (USA) S-38",
+    "sfomuseum:airline":"Pan American World Airways",
+    "sfomuseum:category":"Passenger Amenity",
+    "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Gift of Jon E. Krupnick",
     "sfomuseum:date":"1987",
     "sfomuseum:daterange_end":"1987-12-31",
     "sfomuseum:daterange_start":"1987-01-01",
-    "sfomuseum:description":"a. Menu produced by Pan American World Airways; white cover with color reproduction of a watercolor of first flight Sikorsky S-38 arriving in Canal Zone, 1929, by John T. McCoy; part of Historic First Flights of Pan American Clippers series with historic flight and artist information on interior of cover; Clipper Class menu items include duckling calvados, lobster thermidor, and ham and cheese croissant; menu number 1651, dated 1-1-87.\rb. Wine menu insert, dated 3-13-87.",
+    "sfomuseum:description":"a. Menu issued by Pan American World Airways; white cover with color reproduction of a watercolor of first flight Sikorsky S-38 arriving in Canal Zone, 1929, by John T. McCoy; part of Historic First Flights of Pan American Clippers series with historic flight and artist information on interior of cover; Clipper Class menu items include duckling calvados, lobster thermidor, and ham and cheese croissant; menu number 1651, dated 1-1-87.\rb. Wine menu insert, dated 3-13-87.",
     "sfomuseum:media_ids":[
         1527821801
     ],
@@ -40,23 +42,28 @@
     "sfomuseum:subcategory":"Menu",
     "src:geom":"unknown",
     "wof:belongsto":[
+        1159162825,
         102527513,
         102191575,
         85633793,
         85922583,
         102087579,
-        1511214277,
-        1511214203,
+        1159160869,
         85688637
     ],
     "wof:breaches":[],
     "wof:country":"XX",
     "wof:created":1579906687,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        1159284989,
+        1159291651
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
-            "building_id":1511214277,
+            "building_id":-1,
             "campus_id":102527513,
+            "concourse_id":1159162825,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
@@ -64,13 +71,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511931043,
-            "wing_id":1511214203
+            "wing_id":1159160869
         }
     ],
     "wof:id":1511931043,
-    "wof:lastmodified":1603911836,
+    "wof:lastmodified":1607017683,
     "wof:name":"menu: Pan American World Airways, Historic First Flights series, Sikorsky S-38",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -79,9 +86,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

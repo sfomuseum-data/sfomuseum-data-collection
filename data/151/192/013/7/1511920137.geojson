@@ -10,12 +10,12 @@
     "edtf:date":"1946",
     "edtf:inception":"1946-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"XX",
     "millsfield:category_id":1511214243,
-    "millsfield:collection_id":1511214207,
+    "millsfield:collection_id":1511214203,
     "millsfield:images":[
         1527820367,
         1527820363,
@@ -32,13 +32,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2001.013.011 a j",
+    "sfomuseum:aircraft":"Douglas DC-4",
+    "sfomuseum:airline":"United Air Lines  (United Airlines)",
     "sfomuseum:category":"Passenger Amenity",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:creditline":"Purchase",
     "sfomuseum:date":"1946",
     "sfomuseum:daterange_end":"1946-12-31",
     "sfomuseum:daterange_start":"1946-01-01",
-    "sfomuseum:description":"Flight information packet produced by United Air Lines, comprising:\ra. folder with illustration of aircraft on airport tarmac; tri-fold format with two pockets\rb. route map, titled \u201cMaps of the Main Line Highway\u201d; multipage booklet\rc. system route map; fold-out format \rd. flight log for service on May 28, 1946, signed by Captain George Trimble; bi-fold format\re. advertisement for TWA service, included in Saturday Evening Post (may not be part of original packet); fold-out format\rf. menu for dinner, featuring veal cutlet; postcard format \rg. menu for dinner, featuring veal cutlet; postcard format\rh. postcard with full color illustration of cutaway view of Douglas DC-4\ri. postcard with full color photographic image of in-flight Lockheed L-049 Constellation \rj. postcard with full color photographic of in-flight meal service",
+    "sfomuseum:description":"Flight information packet issued by United Air Lines, comprising:\ra. folder with illustration of aircraft on airport tarmac; tri-fold format with two pockets\rb. route map, titled \u201cMaps of the Main Line Highway\u201d; multipage booklet\rc. system route map; fold-out format \rd. flight log for service on May 28, 1946, signed by Captain George Trimble; bi-fold format\re. advertisement for TWA service, included in Saturday Evening Post (may not be part of original packet); fold-out format\rf. menu for dinner, featuring veal cutlet; postcard format \rg. menu for dinner, featuring veal cutlet; postcard format\rh. postcard with full color illustration of cutaway view of Douglas DC-4\ri. postcard with full color photographic image of inflight Lockheed L-049 Constellation \rj. postcard with full color photographic of inflight meal service",
     "sfomuseum:media_ids":[
         1527820327,
         1527820337,
@@ -65,8 +67,9 @@
         85922583,
         102087579,
         1511214277,
-        1511214207,
-        85688637
+        1511214203,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"XX",
@@ -74,9 +77,11 @@
     "wof:depicts":[
         1159291095,
         1159293697,
-        1159290421
+        1159290421,
+        1159285415,
+        1159292981
     ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "arcade_id":1511213565,
@@ -90,13 +95,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511920137,
-            "wing_id":1511214207
+            "wing_id":1511214203
         }
     ],
     "wof:id":1511920137,
-    "wof:lastmodified":1603911361,
+    "wof:lastmodified":1607016959,
     "wof:name":"flight information packet: United Air Lines, Douglas DC-4, Lockheed L-049 Constellation",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -105,9 +110,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

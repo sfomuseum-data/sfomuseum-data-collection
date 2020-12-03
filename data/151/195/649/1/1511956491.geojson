@@ -10,12 +10,12 @@
     "edtf:date":"1962",
     "edtf:inception":"1962-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":-1,
-    "millsfield:collection_id":1511214203,
+    "millsfield:collection_id":-1,
     "millsfield:images":[
         1527853177,
         1527853175
@@ -24,15 +24,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2013.095.024",
-    "sfomuseum:category":"Food Service",
-    "sfomuseum:collection":"Aviation Museum",
+    "sfomuseum:airline":"Pan American World Airways",
+    "sfomuseum:category":"Passenger Amenity",
+    "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:continent":"Transpacific",
     "sfomuseum:country":"United States",
     "sfomuseum:creditline":"Gift of the Estate of Jane Gottschall",
     "sfomuseum:date":"1962",
     "sfomuseum:daterange_end":"1962-12-31",
     "sfomuseum:daterange_start":"1962-01-01",
-    "sfomuseum:description":"Menu produced by Pan American World Airways; full color photographic image of an in-flight Boeing 707; menu items include chicken breast and rice pilaf; menu number: 8739-0213; class: Rainbow (economy); date: 2/62.",
+    "sfomuseum:description":"Menu issued by Pan American World Airways; full color photographic image of an inflight Boeing 707; menu items include chicken breast and rice pilaf; menu number: 8739-0213; class: Rainbow (economy); date: 2/62.",
     "sfomuseum:maker":"Pan American World Airways, Inc.",
     "sfomuseum:media_ids":[
         1527853175,
@@ -45,48 +46,50 @@
     "sfomuseum:subcategory":"Menu",
     "src:geom":"unknown",
     "wof:belongsto":[
-        102191575,
-        1511214203,
-        85633793,
-        136253057,
+        1159162825,
         102527513,
+        102191575,
+        85633793,
         85922583,
         102087579,
-        1511214277,
-        85688637
+        1159160869,
+        85688637,
+        136253057
     ],
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1579906658,
     "wof:depicts":[
         1159289653,
-        1159293593
+        1159293593,
+        1159284989
     ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "venue_id":1511956491,
-            "wing_id":1511214203
-        },
-        {
-            "building_id":1511214277,
+            "building_id":-1,
             "campus_id":102527513,
+            "concourse_id":1159162825,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
             "neighbourhood_id":-1,
             "region_id":85688637,
+            "venue_id":1511956491,
+            "wing_id":1159160869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
             "venue_id":1511956491
         }
     ],
     "wof:id":1511956491,
-    "wof:lastmodified":1603911543,
+    "wof:lastmodified":1607018798,
     "wof:name":"menu: Pan American World Airways, Rainbow (Economy) Class",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -95,9 +98,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

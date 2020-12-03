@@ -10,8 +10,8 @@
     "edtf:date":"1931",
     "edtf:inception":"1931-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":1511214231,
@@ -23,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"2013.099.060",
+    "sfomuseum:airport":"San Francisco International Airport",
     "sfomuseum:category":"Book",
     "sfomuseum:collection":"Aviation Library",
     "sfomuseum:continent":"North America",
@@ -42,23 +43,33 @@
     "sfomuseum:subcategory":"Book",
     "src:geom":"unknown",
     "wof:belongsto":[
-        1511214231,
-        102527513,
         102191575,
         85633793,
+        136253057,
+        1511214231,
+        102527513,
         1511213325,
         85922583,
         102087579,
         1511214277,
         1511214217,
         85688637,
-        136253057
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1579906659,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:depicts":[
+        102527513
+    ],
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "venue_id":1511956533
+        },
         {
             "arcade_id":1511213325,
             "building_id":1511214277,
@@ -72,18 +83,12 @@
             "region_id":85688637,
             "venue_id":1511956533,
             "wing_id":1511214217
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "venue_id":1511956533
         }
     ],
     "wof:id":1511956533,
-    "wof:lastmodified":1603911567,
+    "wof:lastmodified":1607018800,
     "wof:name":"San Francisco Airport: a report",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -92,9 +97,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

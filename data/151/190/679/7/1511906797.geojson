@@ -10,8 +10,8 @@
     "edtf:date":"1994",
     "edtf:inception":"1994-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "millsfield:category_id":1511214235,
@@ -20,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1994.16.02 a b",
+    "sfomuseum:aircraft":"Boeing 367-80",
     "sfomuseum:category":"Model Aircraft",
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:continent":"North America",
@@ -28,7 +29,7 @@
     "sfomuseum:date":"1994",
     "sfomuseum:daterange_end":"1994-12-31",
     "sfomuseum:daterange_start":"1994-01-01",
-    "sfomuseum:description":"a. Boeing 367-80 desktop model aircraft; yellow fuselage with brown and white cheatline, italicized brown \u201cBoeing\u201d printed on both sides of forward fuselage; silver wings, brown engine cowlings; yellow vertical stabilizer with \u201cBoeing 707\u201d and aircraft registration number \u201cN70700\u201d on both sides, silver horizontal stabilizers; scale 1:?.\rb. Wooden aircraft stand with carved silver \u201cBoeing\u201d wings logo in relief over black background; base attached to polished metal arm.",
+    "sfomuseum:description":"a. Boeing 367-80 desktop model airplane; yellow fuselage with brown and white cheatline, italicized brown \u201cBoeing\u201d printed on both sides of forward fuselage; silver wings, brown engine cowlings; yellow vertical stabilizer with \u201cBoeing 707\u201d and aircraft registration number \u201cN70700\u201d on both sides, silver horizontal stabilizers; scale 1:?.\rb. Wooden airplane stand with carved silver \u201cBoeing\u201d wings logo in relief over black background; base attached to polished metal arm.",
     "sfomuseum:maker":"Anderson Enterprises",
     "sfomuseum:medium":"polychrome mahogany, metal",
     "sfomuseum:object_id":42799,
@@ -36,7 +37,6 @@
     "sfomuseum:subcategory":"Model Airplane",
     "wof:belongsto":[
         102191575,
-        1511214203,
         85633793,
         136253057,
         1511214235,
@@ -45,7 +45,9 @@
         85922583,
         102087579,
         1511214277,
-        85688637
+        1511214203,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -54,14 +56,13 @@
         1159293593,
         1159292797
     ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "empire_id":136253057,
-            "venue_id":1511906797,
-            "wing_id":1511214203
+            "venue_id":1511906797
         },
         {
             "arcade_id":1511213161,
@@ -79,9 +80,9 @@
         }
     ],
     "wof:id":1511906797,
-    "wof:lastmodified":1582854664,
+    "wof:lastmodified":1607016321,
     "wof:name":"Boeing 367-80",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -90,9 +91,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

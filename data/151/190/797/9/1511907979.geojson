@@ -10,8 +10,8 @@
     "edtf:date":"1938",
     "edtf:inception":"1938-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"",
     "millsfield:category_id":1511214215,
@@ -43,28 +43,23 @@
     "sfomuseum:subcategory":"Airmail Flight Cover",
     "src:geom":"unknown",
     "wof:belongsto":[
-        102191575,
-        1511214207,
         1511214215,
         102527513,
+        102191575,
         85633793,
         1511213159,
         85922583,
         102087579,
         1511214277,
-        1511214203,
-        85688637
+        1511214207,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"",
     "wof:created":1579906682,
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "venue_id":1511907979,
-            "wing_id":1511214207
-        },
         {
             "arcade_id":1511213159,
             "building_id":1511214277,
@@ -77,13 +72,17 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511907979,
-            "wing_id":1511214203
+            "wing_id":1511214207
+        },
+        {
+            "continent_id":102191575,
+            "venue_id":1511907979
         }
     ],
     "wof:id":1511907979,
-    "wof:lastmodified":1603912068,
+    "wof:lastmodified":1607016398,
     "wof:name":"airmail flight cover: Golden Gate International Exposition, National Air Mail Week, May 15-21, 1939",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -92,9 +91,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

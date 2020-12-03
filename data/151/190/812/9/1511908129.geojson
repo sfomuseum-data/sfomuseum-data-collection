@@ -10,8 +10,8 @@
     "edtf:date":"1996-10-07",
     "edtf:inception":"1996-01-01",
     "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
+    "geom:bbox":"-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude":37.616357,
     "geom:longitude":-122.386155,
     "iso:country":"JP",
     "millsfield:category_id":1511214215,
@@ -24,6 +24,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:accession_number":"1997.46.11",
+    "sfomuseum:aircraft":"Boeing 747F",
+    "sfomuseum:airline":"Nippon Cargo Airlines",
     "sfomuseum:category":"Philately",
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:continent":"Asia",
@@ -45,7 +47,6 @@
     "src:geom":"unknown",
     "wof:belongsto":[
         102191569,
-        1511214207,
         85632429,
         1511214215,
         102527513,
@@ -55,23 +56,25 @@
         85922583,
         102087579,
         1511214277,
-        1511214203,
-        85688637
+        1511214207,
+        85688637,
+        1159162825
     ],
     "wof:breaches":[],
     "wof:country":"JP",
     "wof:created":1579906660,
     "wof:depicts":[
         1159289873,
-        1159293593
+        1159293593,
+        1159284873,
+        1159289927
     ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash":"30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632429,
-            "venue_id":1511908129,
-            "wing_id":1511214207
+            "venue_id":1511908129
         },
         {
             "arcade_id":1511213159,
@@ -85,13 +88,13 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1511908129,
-            "wing_id":1511214203
+            "wing_id":1511214207
         }
     ],
     "wof:id":1511908129,
-    "wof:lastmodified":1603912110,
+    "wof:lastmodified":1607016413,
     "wof:name":"airmail flight cover: Nippon Cargo Airlines, inaugurating flight, Tokyo - Manila route",
-    "wof:parent_id":1511214277,
+    "wof:parent_id":1159162825,
     "wof:placetype":"venue",
     "wof:repo":"sfomuseum-data-collection",
     "wof:superseded_by":[],
@@ -100,9 +103,9 @@
 },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
 ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

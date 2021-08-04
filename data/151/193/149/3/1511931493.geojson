@@ -14,6 +14,14 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1,
+      -1,
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285043
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,7 +32,15 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2008.009.006",
     "sfomuseum:aircraft": "Airbus A380",
+    "sfomuseum:aircraft_id": [
+      36,
+      36,
+      65
+    ],
     "sfomuseum:airline": "Qantas Airways",
+    "sfomuseum:airline_id": [
+      710
+    ],
     "sfomuseum:category": "Promotional",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Transfer",
@@ -32,6 +48,7 @@
     "sfomuseum:daterange_end": "2011-12-31",
     "sfomuseum:daterange_start": "2001-01-01",
     "sfomuseum:description": "Folded full color, double-sided poster with photographic image of AVRO biplane in flight over Australian outback with shadow of Airbus A380 below with caption \"We always did have big plans for the future\"; on reverse, series of color photographs and descriptions of seating in the A380.",
+    "sfomuseum:dimensions": "20 x 29 inches (50.8 x 73.7 cm)",
     "sfomuseum:media_ids": [
       1527819427
     ],
@@ -40,6 +57,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527819427,
     "sfomuseum:subcategory": "Print",
+    "sfomuseum:subject": "Qantas airlines.",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511213807,
@@ -57,9 +75,9 @@
     "wof:country": "XX",
     "wof:created": 1579906679,
     "wof:depicts": [
-      1159285043,
       1159289435,
-      1159293829
+      1159293829,
+      1159285043
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -79,7 +97,7 @@
       }
     ],
     "wof:id": 1511931493,
-    "wof:lastmodified": 1624660565,
+    "wof:lastmodified": 1628120170,
     "wof:name": "aircraft promotional print: Qantas Airways, Airbus A380",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

@@ -14,6 +14,15 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -21,8 +30,17 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1997.52.084.061 b",
     "sfomuseum:aircraft": "Boeing 707-131",
+    "sfomuseum:aircraft_id": [
+      141
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
+    "sfomuseum:airline_id": [
+      874
+    ],
     "sfomuseum:airport": "San Francisco International Airport",
+    "sfomuseum:airport_id": [
+      121
+    ],
     "sfomuseum:category": "Photograph",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:continent": "North America",
@@ -32,11 +50,13 @@
     "sfomuseum:daterange_end": "1979-12-31",
     "sfomuseum:daterange_start": "1970-01-01",
     "sfomuseum:description": "Color photograph depicting empennage section of TWA (Trans World Airlines) Boeing 707-131 at San Francisco International Airport (SFO); aircraft registration number “N782TW”; photo taken by E. Hoffman; original identification number 01257J4, 00380.",
+    "sfomuseum:dimensions": "5 x 5 inches (12.7 x 12.7 cm)",
     "sfomuseum:maker": "San Francisco Public Utilities Commission",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 146659,
     "sfomuseum:placetype": "object",
     "sfomuseum:subcategory": "Print, Photograph",
+    "sfomuseum:subject": "SFO Aircraft",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511214209,
@@ -55,11 +75,11 @@
     "wof:country": "US",
     "wof:created": 1618962264,
     "wof:depicts": [
+      1159285393,
       102527513,
       1159289653,
       1159293593,
-      1159289671,
-      1159285393
+      1159289671
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -85,7 +105,7 @@
       }
     ],
     "wof:id": 1511956273,
-    "wof:lastmodified": 1624660573,
+    "wof:lastmodified": 1628120167,
     "wof:name": "photograph: San Francisco International Airport (SFO), TWA (Trans World Airlines), Boeing 707-131",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

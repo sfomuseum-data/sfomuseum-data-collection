@@ -14,6 +14,13 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285183,
+      1159285187
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,7 +31,14 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2001.106.438",
     "sfomuseum:aircraft": "Boeing 707",
+    "sfomuseum:aircraft_id": [
+      133
+    ],
     "sfomuseum:airline": "South African Airways (SAA)",
+    "sfomuseum:airline_id": [
+      773,
+      774
+    ],
     "sfomuseum:category": "Scheduling / Ticketing",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of Mark F. Adams Collection",
@@ -32,6 +46,8 @@
     "sfomuseum:daterange_end": "1971-12-31",
     "sfomuseum:daterange_start": "1971-01-01",
     "sfomuseum:description": "Timetable issued by South African Airways (SAL), effective November 1, 1970 through March 31, 1971; white cover with blue, black, and red and a full-color illustration of the tail section of a company Boeing 707 with logo.",
+    "sfomuseum:dimensions": "9 x 4 inches (22.9 x 10.2 cm)",
+    "sfomuseum:issues_held": "Effective: 11-01-1970",
     "sfomuseum:media_ids": [
       1527838033
     ],
@@ -57,10 +73,10 @@
     "wof:country": "XX",
     "wof:created": 1579906674,
     "wof:depicts": [
+      1159285183,
       1159289653,
       1159293593,
-      1159285187,
-      1159285183
+      1159285187
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -80,7 +96,7 @@
       }
     ],
     "wof:id": 1511927317,
-    "wof:lastmodified": 1624660526,
+    "wof:lastmodified": 1628120153,
     "wof:name": "timetable: South African Airways (SAL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

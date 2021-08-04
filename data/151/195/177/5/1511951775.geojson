@@ -14,6 +14,15 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284309
+    ],
+    "millsfield:airport_id": [
+      102529403
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,8 +33,17 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2012.096.068",
     "sfomuseum:aircraft": "Boeing 727-100",
+    "sfomuseum:aircraft_id": [
+      188
+    ],
     "sfomuseum:airline": "Eastern Air Lines",
+    "sfomuseum:airline_id": [
+      376
+    ],
     "sfomuseum:airport": "Philadelphia International Airport",
+    "sfomuseum:airport_id": [
+      107
+    ],
     "sfomuseum:category": "Photograph",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
@@ -33,6 +51,7 @@
     "sfomuseum:daterange_end": "1965-12-31",
     "sfomuseum:daterange_start": "1965-01-01",
     "sfomuseum:description": "Color photograph depicting three-quarter elevated view of Eastern Air Lines Boeing 727-100 Whisperjet at Philadelphia Airport, November 1965; night scene facing aircraft from raised angle; white fuselage with cheatline stripes and “Eastern” name and logo across side.",
+    "sfomuseum:dimensions": "8 x 10 inches (20.3 x 25.4 cm)",
     "sfomuseum:media_ids": [
       1527853321
     ],
@@ -58,11 +77,11 @@
     "wof:country": "XX",
     "wof:created": 1579906659,
     "wof:depicts": [
-      1159289759,
-      1159293593,
       1159289777,
       1159284309,
-      102529403
+      102529403,
+      1159289759,
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -82,7 +101,7 @@
       }
     ],
     "wof:id": 1511951775,
-    "wof:lastmodified": 1624660546,
+    "wof:lastmodified": 1628120167,
     "wof:name": "photograph: Eastern Air Lines, Boeing 727-100",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

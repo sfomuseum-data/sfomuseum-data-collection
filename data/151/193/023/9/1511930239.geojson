@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284511
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,7 +30,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.010.666",
     "sfomuseum:aircraft": "McDonnell Douglas DC-10 Series 30",
+    "sfomuseum:aircraft_id": [
+      1449
+    ],
     "sfomuseum:airline": "Iberia",
+    "sfomuseum:airline_id": [
+      468
+    ],
     "sfomuseum:category": "Promotional",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
@@ -32,6 +44,7 @@
     "sfomuseum:daterange_end": "1973-12-31",
     "sfomuseum:daterange_start": "1973-01-01",
     "sfomuseum:description": "Brochure issued by Iberia, titled “Iberia DC/30 / The Silent Giant,” featuring McDonnell Douglas DC-10-30; orange cover, six-page accordion format.",
+    "sfomuseum:dimensions": "9 1/2 x 6 inches (24.1 x 15.2 cm)",
     "sfomuseum:media_ids": [
       1527819185
     ],
@@ -40,6 +53,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527819185,
     "sfomuseum:subcategory": "Brochure, Airline",
+    "sfomuseum:subject": "Airlines -- Commercial -- Iberia",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511214205,
@@ -57,12 +71,12 @@
     "wof:country": "XX",
     "wof:created": 1579906679,
     "wof:depicts": [
-      1159293083,
-      1159291259,
-      1159293561,
       1159291267,
       1159284511,
-      1159292537
+      1159292537,
+      1159293083,
+      1159291259,
+      1159293561
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -82,7 +96,7 @@
       }
     ],
     "wof:id": 1511930239,
-    "wof:lastmodified": 1624660559,
+    "wof:lastmodified": 1628120156,
     "wof:name": "brochure: Iberia, McDonnell Douglas DC-10-30",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

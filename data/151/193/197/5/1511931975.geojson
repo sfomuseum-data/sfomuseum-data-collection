@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,7 +30,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2008.055.925",
     "sfomuseum:aircraft": "Lockheed L-1649 Starliner",
+    "sfomuseum:aircraft_id": [
+      1308
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
+    "sfomuseum:airline_id": [
+      874
+    ],
     "sfomuseum:category": "Scheduling / Ticketing",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
@@ -32,6 +44,7 @@
     "sfomuseum:daterange_end": "1957-12-31",
     "sfomuseum:daterange_start": "1957-01-01",
     "sfomuseum:description": "Timetable issued by TWA (Trans World Airlines), effective June 1, 1957; folded multipage booklet with red, black, and white illustration on cover depicting three Lockheed L-1649 Starliner Super Constellation aircraft in flight.",
+    "sfomuseum:dimensions": "9 x 4 inches (22.9 x 10.2 cm)",
     "sfomuseum:media_ids": [
       1527819135
     ],
@@ -40,6 +53,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527819135,
     "sfomuseum:subcategory": "Timetable",
+    "sfomuseum:subject": "Airlines -- Commercial -- TWA (Trans World Airlines)",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511214223,
@@ -57,10 +71,10 @@
     "wof:country": "XX",
     "wof:created": 1579906679,
     "wof:depicts": [
-      1159291147,
       1159293697,
       1159285393,
-      1159292235
+      1159292235,
+      1159291147
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -80,7 +94,7 @@
       }
     ],
     "wof:id": 1511931975,
-    "wof:lastmodified": 1624660566,
+    "wof:lastmodified": 1628120179,
     "wof:name": "timetable: TWA (Trans World Airlines), Lockheed L-1649 Starliner Super Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

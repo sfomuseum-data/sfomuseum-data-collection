@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:airport_id": [
+      102531041,
+      -1,
+      102529283,
+      1360695653
+    ],
     "millsfield:category_id": 1511214241,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,6 +30,12 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2000.018.059",
     "sfomuseum:airport": "Mills Field Municipal Airport of San Francisco",
+    "sfomuseum:airport_id": [
+      97,
+      159,
+      160,
+      162
+    ],
     "sfomuseum:category": "Map / Chart",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Transfer from City and County of San Francisco",
@@ -31,6 +43,7 @@
     "sfomuseum:daterange_end": "1932-12-31",
     "sfomuseum:daterange_start": "1922-01-01",
     "sfomuseum:description": "Black and white map titled “Principal Airports in Vicinity of San Francisco” indicating locations of main airports throughout San Francisco Bay Area, including Curtiss Field, Mills Field (now SFO), Crissy Field, Alameda Airport, San Francisco Bay Airdrome, and Oakland Airport.",
+    "sfomuseum:dimensions": "12 1/4 x 9 1/4 inches (31.1 x 23.5 cm)",
     "sfomuseum:media_ids": [
       1527819163
     ],
@@ -56,12 +69,12 @@
     "wof:country": "XX",
     "wof:created": 1579906679,
     "wof:depicts": [
-      85921881,
-      85688637,
       85633793,
       102531041,
       102529283,
-      1360695653
+      1360695653,
+      85921881,
+      85688637
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -82,7 +95,7 @@
       }
     ],
     "wof:id": 1511910163,
-    "wof:lastmodified": 1624660514,
+    "wof:lastmodified": 1628120170,
     "wof:name": "map: San Francisco Bay Area, airfields",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

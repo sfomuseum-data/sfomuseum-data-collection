@@ -14,6 +14,17 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284217,
+      1159284939,
+      1159285785
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": -1,
     "millsfield:collection_id": -1,
     "millsfield:images": [
@@ -24,8 +35,19 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1997.52.084.071 a",
     "sfomuseum:aircraft": "Douglas DC-8",
+    "sfomuseum:aircraft_id": [
+      498
+    ],
     "sfomuseum:airline": "Overseas National Airways",
+    "sfomuseum:airline_id": [
+      335,
+      661,
+      1064
+    ],
     "sfomuseum:airport": "San Francisco International Airport",
+    "sfomuseum:airport_id": [
+      121
+    ],
     "sfomuseum:category": "Photograph",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:continent": "North America",
@@ -35,6 +57,7 @@
     "sfomuseum:daterange_end": "1979-12-31",
     "sfomuseum:daterange_start": "1970-01-01",
     "sfomuseum:description": "Color photograph with tracing paper overlay depicting airside view of South Terminal, San Francisco International Airport (SFO); aircraft in scene include JAL (Japan Air Lines), Canadian Pacific Air Lines, and Overseas National Airways; original identification number 00792.",
+    "sfomuseum:dimensions": "5 x 5 inches (12.7 x 12.7 cm)",
     "sfomuseum:maker": "San Francisco Public Utilities Commission",
     "sfomuseum:media_ids": [
       1527818951
@@ -44,6 +67,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527818951,
     "sfomuseum:subcategory": "Print, Photograph",
+    "sfomuseum:subject": "SFO Aircraft",
     "src:geom": "unknown",
     "wof:belongsto": [
       102191575,
@@ -62,11 +86,11 @@
     "wof:country": "US",
     "wof:created": 1579906685,
     "wof:depicts": [
-      102527513,
-      1159284217,
       1159284939,
       1159285785,
-      1159290443
+      1159290443,
+      102527513,
+      1159284217
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -94,7 +118,7 @@
       }
     ],
     "wof:id": 1511924239,
-    "wof:lastmodified": 1624660516,
+    "wof:lastmodified": 1628120165,
     "wof:name": "photograph: San Francisco International Airport (SFO), South Terminal",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

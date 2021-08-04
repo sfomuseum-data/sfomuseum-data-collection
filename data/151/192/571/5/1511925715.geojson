@@ -14,6 +14,13 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284009,
+      1159286455
+    ],
     "millsfield:category_id": -1,
     "millsfield:collection_id": -1,
     "millsfield:images": [
@@ -29,7 +36,14 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2005.032.014 a b",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Braniff International Airways  (Braniff International)",
+    "sfomuseum:airline_id": [
+      241,
+      1378
+    ],
     "sfomuseum:category": "Model Aircraft",
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:continent": "North America",
@@ -39,6 +53,7 @@
     "sfomuseum:daterange_end": "1980-12-31",
     "sfomuseum:daterange_start": "1970-01-01",
     "sfomuseum:description": "a. Braniff International Airways, Boeing 727-200 desktop model aircraft; top section of fuselage green, belly of aircraft light green; airline name and American flag emblem behind flight deck; silver wings, horizontal stabilizers, and engines; white “BI” initials on both sides of vertical stabilizer; aircraft registration number “N7276”.\rb. Black base.",
+    "sfomuseum:dimensions": "base: 4 x 2.5 x 3.5\"",
     "sfomuseum:media_ids": [
       1527857879,
       1527857881,
@@ -70,11 +85,11 @@
     "wof:country": "US",
     "wof:created": 1579906675,
     "wof:depicts": [
-      1159289789,
-      1159293593,
       1159289759,
       1159284009,
-      1159286455
+      1159286455,
+      1159289789,
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -100,7 +115,7 @@
       }
     ],
     "wof:id": 1511925715,
-    "wof:lastmodified": 1624660521,
+    "wof:lastmodified": 1628120176,
     "wof:name": "model airplane: Braniff International, Boeing 727-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

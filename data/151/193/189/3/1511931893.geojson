@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284563
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:images": [
@@ -30,7 +36,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2008.085.002 a b",
     "sfomuseum:aircraft": "Boeing 747-400",
+    "sfomuseum:aircraft_id": [
+      250
+    ],
     "sfomuseum:airline": "JAL (Japan Airlines)",
+    "sfomuseum:airline_id": [
+      492
+    ],
     "sfomuseum:category": "Model Aircraft",
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of Japan Airlines ",
@@ -38,6 +50,7 @@
     "sfomuseum:daterange_end": "2010-12-31",
     "sfomuseum:daterange_start": "2000-01-01",
     "sfomuseum:description": "a. Boeing 747-400 JAL (Japan Airlines) desktop model airplane; white fuselage with aircraft registration number \"JA8088\" and \"We support unicef\" on both sides of rear section; silver wings with winglets, four engines; large red \"hinomaru\" on vertical stabilizer; scale 1:100.\rb. Wood base with cherry-colored finish.",
+    "sfomuseum:dimensions": "4 x 19 1/2 x 18 1/2 inches (10.2 x 49.5 x 47 cm)",
     "sfomuseum:media_ids": [
       1527858249,
       1527858251,
@@ -52,6 +65,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527858249,
     "sfomuseum:subcategory": "Model Airplane",
+    "sfomuseum:subject": "Airlines -- Commercial -- Japan Airlines (JAL)",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511214235,
@@ -69,10 +83,10 @@
     "wof:country": "XX",
     "wof:created": 1579906676,
     "wof:depicts": [
-      1159289873,
       1159289915,
       1159293593,
-      1159284563
+      1159284563,
+      1159289873
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -92,7 +106,7 @@
       }
     ],
     "wof:id": 1511931893,
-    "wof:lastmodified": 1624660566,
+    "wof:lastmodified": 1628120154,
     "wof:name": "model airplane: JAL (Japan Airlines), Boeing 747-400",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

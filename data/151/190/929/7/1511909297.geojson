@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285591
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:images": [
@@ -29,7 +35,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1999.031.006 a b",
     "sfomuseum:aircraft": "Boeing 737",
+    "sfomuseum:aircraft_id": [
+      207
+    ],
     "sfomuseum:airline": "Southwest Airlines",
+    "sfomuseum:airline_id": [
+      964
+    ],
     "sfomuseum:category": "Model Aircraft",
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:continent": "North America",
@@ -39,6 +51,7 @@
     "sfomuseum:daterange_end": "1999-12-31",
     "sfomuseum:daterange_start": "1999-01-01",
     "sfomuseum:description": "a. Southwest Airlines, Boeing 737 desktop model aircraft; white fuselage with large image of California golden bear derived from state flag design; gold, red, orange diagonal stripes on vertical stabilizer; scale 1:100.\rb. Wood and metal stand.",
+    "sfomuseum:dimensions": "8 x 13 1/4 x 11 1/2 inches (20.3 x 33.7 x 29.2 cm)",
     "sfomuseum:media_ids": [
       1527857449,
       1527857453,
@@ -70,9 +83,9 @@
     "wof:country": "US",
     "wof:created": 1579906673,
     "wof:depicts": [
-      1159289819,
       1159293593,
-      1159285591
+      1159285591,
+      1159289819
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -98,7 +111,7 @@
       }
     ],
     "wof:id": 1511909297,
-    "wof:lastmodified": 1624660557,
+    "wof:lastmodified": 1628120159,
     "wof:name": "model airplane: Southwest Airlines, Boeing 737",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

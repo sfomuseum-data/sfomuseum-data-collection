@@ -14,6 +14,15 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284613
+    ],
+    "millsfield:airport_id": [
+      102553765
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,8 +33,17 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2012.096.042",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "KLM (Royal Dutch Airlines)",
+    "sfomuseum:airline_id": [
+      515
+    ],
     "sfomuseum:airport": "Princess Juliana International Airport",
+    "sfomuseum:airport_id": [
+      117
+    ],
     "sfomuseum:category": "Philately",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
@@ -33,6 +51,7 @@
     "sfomuseum:daterange_end": "2015-12-31",
     "sfomuseum:daterange_start": "2005-01-01",
     "sfomuseum:description": "Postcard depicting color photographic image of beach-front landing by KLM (Royal Dutch Airlines) Boeing 747 aircraft at Princess Juliana International Airport, Saint Maarten, Netherlands Antilles; spectators on beach view aircraft at low altitude; “St. Maarten / Maho Bay \u0026 Juliana Airport” printed at upper right; handwritten message on reverse addressed to Bill and Vivien Hough, dated February 22, 2010.",
+    "sfomuseum:dimensions": "4 x 6 inches (10.2 x 15.2 cm)",
     "sfomuseum:media_ids": [
       1527853465
     ],
@@ -58,10 +77,10 @@
     "wof:country": "XX",
     "wof:created": 1579906659,
     "wof:depicts": [
-      1159289873,
-      1159293593,
       1159284613,
-      102553765
+      102553765,
+      1159289873,
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -81,7 +100,7 @@
       }
     ],
     "wof:id": 1511951771,
-    "wof:lastmodified": 1624660546,
+    "wof:lastmodified": 1628120148,
     "wof:name": "postcard: KLM (Royal Dutch Airlines), Princess Juliana International Airport, Saint Maarten, Netherlands Antilles, Boeing 747",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

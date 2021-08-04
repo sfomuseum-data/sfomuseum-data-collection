@@ -14,6 +14,12 @@
     "geom:latitude": 37.616358,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285785
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:images": [
@@ -28,6 +34,14 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1999.061.114",
+    "sfomuseum:aircraft": "Boeing 747-100",
+    "sfomuseum:aircraft_id": [
+      236
+    ],
+    "sfomuseum:airline": "JAL (Japan Air Lines)",
+    "sfomuseum:airline_id": [
+      1064
+    ],
     "sfomuseum:category": "Model Aircraft",
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:continent": "North America",
@@ -37,6 +51,7 @@
     "sfomuseum:daterange_end": "1989-12-31",
     "sfomuseum:daterange_start": "1987-01-01",
     "sfomuseum:description": "Boeing 747-100 JAL (Japan Air Lines) desktop model aircraft; white fuselage with red and blue cheatline, “Japan Air Lines” printed on both sides of fuselage; silver wings, four engines, red hinomaru circle on top of both wings, “JAL” on port side wing, aircraft registration number “JA8101” on starboard side wing; red crane logo on both sides of vertical stabilizer.",
+    "sfomuseum:dimensions": "Measurements include base",
     "sfomuseum:media_ids": [
       1527858071,
       1527858073,
@@ -70,7 +85,8 @@
     "wof:depicts": [
       1159289873,
       1159293593,
-      1159289885
+      1159289885,
+      1159285785
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -98,7 +114,7 @@
       }
     ],
     "wof:id": 1511910309,
-    "wof:lastmodified": 1624660514,
+    "wof:lastmodified": 1628120161,
     "wof:name": "model airplane: JAL (Japan Air Lines), Boeing 747-100",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",

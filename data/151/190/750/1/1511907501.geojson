@@ -14,6 +14,13 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "DE",
+    "millsfield:aircraft_id": [
+      -1,
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284709
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:images": [
@@ -30,7 +37,14 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1995.79.01 a b",
     "sfomuseum:aircraft": "Boeing 767-300ER",
+    "sfomuseum:aircraft_id": [
+      265,
+      273
+    ],
     "sfomuseum:airline": "LTU International Airlines",
+    "sfomuseum:airline_id": [
+      559
+    ],
     "sfomuseum:category": "Model Aircraft",
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:continent": "Europe",
@@ -40,6 +54,7 @@
     "sfomuseum:daterange_end": "1999-12-31",
     "sfomuseum:daterange_start": "1990-01-01",
     "sfomuseum:description": "a. LTU International Airways Boeing 767-300ER desktop model aircraft assembled from original box; white fuselage with bright red cheatline from nose to vertical stabilizer; “D-AMUR” near vertical stabilizer; silver wings and engines; scale 1:100.\rb. White plastic base with stand, bright red rectangular label with white \"LTU International Airways\" on center.",
+    "sfomuseum:dimensions": "5 1/2 x 10 1/2 x 9 1/4 inches (14 x 26.7 x 23.5 cm)",
     "sfomuseum:maker": "K.V. Wooster International, Ltd.",
     "sfomuseum:media_ids": [
       1527857947,
@@ -74,11 +89,11 @@
     "wof:country": "DE",
     "wof:created": 1579906675,
     "wof:depicts": [
-      1159289949,
-      1159293593,
       1159289965,
       1159289967,
-      1159284709
+      1159284709,
+      1159289949,
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -103,7 +118,7 @@
       }
     ],
     "wof:id": 1511907501,
-    "wof:lastmodified": 1624660567,
+    "wof:lastmodified": 1628120145,
     "wof:name": "model airplane: LTU International Airlines, Boeing 767-300ER",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

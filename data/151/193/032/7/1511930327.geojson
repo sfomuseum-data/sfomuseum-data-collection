@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283849
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -25,7 +31,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.010.837",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "American Airlines",
+    "sfomuseum:airline_id": [
+      169
+    ],
     "sfomuseum:category": "Promotional",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
@@ -33,6 +45,7 @@
     "sfomuseum:daterange_end": "1975-12-31",
     "sfomuseum:daterange_start": "1965-01-01",
     "sfomuseum:description": "Brochure issued by American Airlines promoting Boeing 747; yellow cover with red and blue text, “American Airlines / New 747 Luxury Liner / The plane with no competition.\"",
+    "sfomuseum:dimensions": "12 1/2 x 8 1/2 inches (31.8 x 21.6 cm)",
     "sfomuseum:media_ids": [
       1527853421,
       1527820735
@@ -42,6 +55,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527820735,
     "sfomuseum:subcategory": "Brochure, Airline",
+    "sfomuseum:subject": "Airlines -- Commercial -- American Airlines.",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511214205,
@@ -59,9 +73,9 @@
     "wof:country": "XX",
     "wof:created": 1579906659,
     "wof:depicts": [
-      1159289873,
       1159293593,
-      1159283849
+      1159283849,
+      1159289873
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -81,7 +95,7 @@
       }
     ],
     "wof:id": 1511930327,
-    "wof:lastmodified": 1624660560,
+    "wof:lastmodified": 1628120158,
     "wof:name": "brochure: American Airlines, Boeing 747",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

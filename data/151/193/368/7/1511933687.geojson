@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:airline_id": [
+      1159284579
+    ],
+    "millsfield:airport_id": [
+      102533631
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,7 +30,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2008.108.398",
     "sfomuseum:airline": "Jet America Airlines",
+    "sfomuseum:airline_id": [
+      499
+    ],
     "sfomuseum:airport": "Chicago O'Hare International Airport",
+    "sfomuseum:airport_id": [
+      26
+    ],
     "sfomuseum:category": "Scheduling / Ticketing",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
@@ -32,6 +44,7 @@
     "sfomuseum:daterange_end": "1984-12-31",
     "sfomuseum:daterange_start": "1984-01-01",
     "sfomuseum:description": "Timetable issued by Jet America Airlines, effective July 1, 1984; double-sided fold-out with schedules for Long Beach, Dallas/Ft. Worth, Chicago O’Hare, Oakland and St. Louis; blue cover bordered in white with blue lettering.",
+    "sfomuseum:dimensions": "9 x 4 inches (22.9 x 10.2 cm)",
     "sfomuseum:media_ids": [
       1527840015
     ],
@@ -40,6 +53,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527840015,
     "sfomuseum:subcategory": "Timetable",
+    "sfomuseum:subject": "Airlines -- Commercial -- Jet America",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511214223,
@@ -57,11 +71,11 @@
     "wof:country": "XX",
     "wof:created": 1579906679,
     "wof:depicts": [
-      85921881,
-      85688637,
       85633793,
       1159284579,
-      102533631
+      102533631,
+      85921881,
+      85688637
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -81,7 +95,7 @@
       }
     ],
     "wof:id": 1511933687,
-    "wof:lastmodified": 1624660517,
+    "wof:lastmodified": 1628120157,
     "wof:name": "timetable: Jet America Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

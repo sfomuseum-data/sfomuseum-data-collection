@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283627
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,7 +30,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2012.149.1093",
     "sfomuseum:aircraft": "Lockheed L-1049 Super Constellation",
+    "sfomuseum:aircraft_id": [
+      811
+    ],
     "sfomuseum:airline": "Air France",
+    "sfomuseum:airline_id": [
+      70
+    ],
     "sfomuseum:category": "Promotional",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the Captain John B. Russell Family",
@@ -32,6 +44,7 @@
     "sfomuseum:daterange_end": "1955-12-31",
     "sfomuseum:daterange_start": "1945-01-01",
     "sfomuseum:description": "Luggage label promoting Air France; red circular label with illustration of Lockheed L-1049 Super Constellation in flight, winged seahorse logo, logotype and text, “Air France / Le plus grand reseau du monde”.",
+    "sfomuseum:dimensions": "3 3/4 x 3 3/4 inches (9.5 x 9.5 cm)",
     "sfomuseum:media_ids": [
       1527834955
     ],
@@ -57,9 +70,9 @@
     "wof:country": "XX",
     "wof:created": 1579906664,
     "wof:depicts": [
-      1159291139,
       1159293697,
-      1159283627
+      1159283627,
+      1159291139
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -79,7 +92,7 @@
       }
     ],
     "wof:id": 1511952839,
-    "wof:lastmodified": 1624660553,
+    "wof:lastmodified": 1628120159,
     "wof:name": "luggage label: Air France, Lockheed L-1049 Super Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

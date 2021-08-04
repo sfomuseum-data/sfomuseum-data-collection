@@ -14,6 +14,14 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:airline_id": [
+      1159283531,
+      1159283937,
+      1159284511,
+      1159284641,
+      1159285477,
+      1159285489
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,6 +32,14 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.059.137",
     "sfomuseum:airline": "Iberia",
+    "sfomuseum:airline_id": [
+      27,
+      209,
+      468,
+      528,
+      911,
+      917
+    ],
     "sfomuseum:category": "Scheduling / Ticketing",
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the Paul Edward Fair Estate",
@@ -31,6 +47,8 @@
     "sfomuseum:daterange_end": "1993-12-31",
     "sfomuseum:daterange_start": "1993-01-01",
     "sfomuseum:description": "Timetable for airlines in the Grupo Iberia consortium, effective March 28 through October 30, 1993; Red cover with white lettering. List of airlines: Iberia, Aviaco, Binter, Viva, Aerolineas Argentinas, Austral, Viasa, Ladeco.",
+    "sfomuseum:dimensions": "8 x 3 3/4 inches (20.3 x 9.5 cm)",
+    "sfomuseum:issues_held": "Effective: March 28 - October 30, 1993.",
     "sfomuseum:media_ids": [
       1527839347
     ],
@@ -39,6 +57,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527839347,
     "sfomuseum:subcategory": "Timetable",
+    "sfomuseum:subject": "Airlines -- timetables",
     "src:geom": "unknown",
     "wof:belongsto": [
       1511214223,
@@ -56,12 +75,12 @@
     "wof:country": "XX",
     "wof:created": 1579906678,
     "wof:depicts": [
-      1159283531,
-      1159283937,
       1159284511,
       1159284641,
       1159285477,
-      1159285489
+      1159285489,
+      1159283531,
+      1159283937
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -81,7 +100,7 @@
       }
     ],
     "wof:id": 1511928161,
-    "wof:lastmodified": 1624660530,
+    "wof:lastmodified": 1628120147,
     "wof:name": "timetable: Grupo Iberia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

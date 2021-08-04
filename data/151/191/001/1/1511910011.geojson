@@ -14,6 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285413
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -24,7 +30,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1999.047.653",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "United Airlines",
+    "sfomuseum:airline_id": [
+      883
+    ],
     "sfomuseum:category": "Promotional",
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:continent": "North America",
@@ -34,6 +46,7 @@
     "sfomuseum:daterange_end": "1999-12-31",
     "sfomuseum:daterange_start": "1990-01-01",
     "sfomuseum:description": "Poster produced by United Airlines promoting the airline’s Mileage Plus program; full color image of front view of Boeing 747 aircraft with pink blush marks added to image and text, \"Mileage Plus / Program of the year / Best customer service / Best elite program / Stop, you're making us blush\"; airline servicemark at bottom.",
+    "sfomuseum:dimensions": "28 x 22 inches (71.1 x 55.9 cm)",
     "sfomuseum:media_ids": [
       1527856307
     ],
@@ -60,9 +73,9 @@
     "wof:country": "US",
     "wof:created": 1579906668,
     "wof:depicts": [
+      1159285413,
       1159289873,
-      1159293593,
-      1159285413
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -90,7 +103,7 @@
       }
     ],
     "wof:id": 1511910011,
-    "wof:lastmodified": 1624660513,
+    "wof:lastmodified": 1628120144,
     "wof:name": "poster: United Airlines, Mileage Plus",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

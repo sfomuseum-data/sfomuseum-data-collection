@@ -2,13 +2,13 @@
   "id": 1511926301,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2001-12-31",
+    "date:cessation_lower": "2001-01-01",
     "date:cessation_upper": "2001-12-31",
     "date:inception_lower": "2001-01-01",
-    "date:inception_upper": "2001-01-01",
-    "edtf:cessation": "2001-12-31",
+    "date:inception_upper": "2001-12-31",
+    "edtf:cessation": "2001",
     "edtf:date": "2001",
-    "edtf:inception": "2001-01-01",
+    "edtf:inception": "2001",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -33,7 +33,7 @@
     "sfomuseum:aircraft_id": [
       226
     ],
-    "sfomuseum:airline": "Lufthansa  (Lufthansa German Airlines)",
+    "sfomuseum:airline": "Lufthansa",
     "sfomuseum:airline_id": [
       560
     ],
@@ -48,7 +48,7 @@
     "sfomuseum:date": "2001",
     "sfomuseum:daterange_end": "2001-12-31",
     "sfomuseum:daterange_start": "2001-01-01",
-    "sfomuseum:description": "Color photographic slide depicting Lufthansa German Airlines Boeing 737-500 at Frankfurt Airport (FRA), November 5, 2001; photo taken by William Hough.",
+    "sfomuseum:description": "Color photographic slide depicting Lufthansa German Airlines Boeing 737-500 at Frankfurt Airport (FRA), November 5, 2001; photo credit William Hough.",
     "sfomuseum:dimensions": "1 x 1 1/2 inches (2.5 x 3.8 cm)",
     "sfomuseum:medium": "color slide",
     "sfomuseum:object_id": 77741,
@@ -71,11 +71,11 @@
     "wof:country": "XX",
     "wof:created": 1618962232,
     "wof:depicts": [
-      1159289819,
-      1159284711,
       102549057,
       1159289861,
-      1159293593
+      1159293593,
+      1159289819,
+      1159284711
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -95,7 +95,7 @@
       }
     ],
     "wof:id": 1511926301,
-    "wof:lastmodified": 1630449709,
+    "wof:lastmodified": 1630529256,
     "wof:name": "slide: Lufthansa German Airlines, Boeing 737-500, Frankfurt Airport (FRA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

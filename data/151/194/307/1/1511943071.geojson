@@ -2,13 +2,13 @@
   "id": 1511943071,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1988-12-31",
+    "date:cessation_lower": "1988-01-01",
     "date:cessation_upper": "1988-12-31",
     "date:inception_lower": "1988-01-01",
-    "date:inception_upper": "1988-01-01",
-    "edtf:cessation": "1988-12-31",
+    "date:inception_upper": "1988-12-31",
+    "edtf:cessation": "1988",
     "edtf:date": "1988",
-    "edtf:inception": "1988-01-01",
+    "edtf:inception": "1988",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -66,11 +66,11 @@
     "wof:country": "XX",
     "wof:created": 1579906681,
     "wof:depicts": [
-      1159285413,
-      1159285417,
       85921881,
       85688637,
-      85633793
+      85633793,
+      1159285413,
+      1159285417
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -90,7 +90,7 @@
       }
     ],
     "wof:id": 1511943071,
-    "wof:lastmodified": 1630449723,
+    "wof:lastmodified": 1630529253,
     "wof:name": "timetable: United Airlines, quick reference San Francisco / Oakland / San Jose",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

@@ -2,13 +2,13 @@
   "id": 1511930271,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1980-12-31",
-    "date:cessation_upper": "1980-12-31",
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1989-12-31",
     "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1980-12-31",
+    "date:inception_upper": "1989-12-31",
+    "edtf:cessation": "198X",
     "edtf:date": "198x",
-    "edtf:inception": "1980-01-01",
+    "edtf:inception": "198X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -65,10 +65,10 @@
     "wof:country": "XX",
     "wof:created": 1579906674,
     "wof:depicts": [
-      1159285551,
-      85921881,
       85688637,
-      85633793
+      85633793,
+      1159285551,
+      85921881
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -88,7 +88,7 @@
       }
     ],
     "wof:id": 1511930271,
-    "wof:lastmodified": 1630449729,
+    "wof:lastmodified": 1630529260,
     "wof:name": "brochure: World Airways, general service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

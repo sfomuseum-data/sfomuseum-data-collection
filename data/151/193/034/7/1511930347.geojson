@@ -2,13 +2,13 @@
   "id": 1511930347,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1985-12-31",
+    "date:cessation_lower": "1985-01-01",
     "date:cessation_upper": "1985-12-31",
     "date:inception_lower": "1985-01-01",
-    "date:inception_upper": "1985-01-01",
-    "edtf:cessation": "1985-12-31",
+    "date:inception_upper": "1985-12-31",
+    "edtf:cessation": "1985",
     "edtf:date": "1985",
-    "edtf:inception": "1985-01-01",
+    "edtf:inception": "1985",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -45,7 +45,7 @@
     "sfomuseum:date": "1985",
     "sfomuseum:daterange_end": "1985-12-31",
     "sfomuseum:daterange_start": "1985-01-01",
-    "sfomuseum:description": "System timetable issued by AirCal, effective February 1, 1985; full color photographic image of Boeing 737 and text “Introducing the New Boeing 737-300!”",
+    "sfomuseum:description": "System timetable issued by AirCal, effective February 1, 1985; white cover with color photographic image of in-flight Boeing Model 737-300 and text “Introducing the New Boeing 737-300 / We Make Flying Easy”.",
     "sfomuseum:dimensions": "9 x 4 inches (22.9 x 10.2 cm)",
     "sfomuseum:issues_held": "                                                                                                                                                                                                                  ",
     "sfomuseum:media_ids": [
@@ -75,10 +75,10 @@
     "wof:country": "XX",
     "wof:created": 1579906660,
     "wof:depicts": [
-      1159283791,
       1159289819,
       1159293593,
-      1159289851
+      1159289851,
+      1159283791
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -98,7 +98,7 @@
       }
     ],
     "wof:id": 1511930347,
-    "wof:lastmodified": 1630449717,
+    "wof:lastmodified": 1630529275,
     "wof:name": "timetable: AirCal",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

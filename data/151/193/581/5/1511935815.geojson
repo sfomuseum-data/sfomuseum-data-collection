@@ -2,13 +2,13 @@
   "id": 1511935815,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1987-12-31",
+    "date:cessation_lower": "1987-01-01",
     "date:cessation_upper": "1987-12-31",
     "date:inception_lower": "1987-01-01",
-    "date:inception_upper": "1987-01-01",
-    "edtf:cessation": "1987-12-31",
+    "date:inception_upper": "1987-12-31",
+    "edtf:cessation": "1987",
     "edtf:date": "1987",
-    "edtf:inception": "1987-01-01",
+    "edtf:inception": "1987",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -48,7 +48,7 @@
     "sfomuseum:date": "1987",
     "sfomuseum:daterange_end": "1987-12-31",
     "sfomuseum:daterange_start": "1987-01-01",
-    "sfomuseum:description": "Timetable issued by AirCal, effective March 2, 1987, with American Airlines Chicago O’Hare Connection Supplement. The cover is blue with four small full color photographic images of points of interest. The lettering is black and white. The top of the schedule has the company name in black lettering.",
+    "sfomuseum:description": "Timetable issued by AirCal, effective March 2, 1987; blue cover with four small color photographic images of Air Cal destinations and text “Includes American Airlines Chicago O’Hare connection supplement”.",
     "sfomuseum:dimensions": "9 x 4 inches (22.9 x 10.2 cm)",
     "sfomuseum:media_ids": [
       1527834579
@@ -97,7 +97,7 @@
       }
     ],
     "wof:id": 1511935815,
-    "wof:lastmodified": 1630449717,
+    "wof:lastmodified": 1630529258,
     "wof:name": "timetable: AirCal, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

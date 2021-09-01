@@ -2,13 +2,13 @@
   "id": 1511954025,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1939-12-31",
-    "date:cessation_upper": "1939-12-31",
-    "date:inception_lower": "1937-01-01",
-    "date:inception_upper": "1937-01-01",
-    "edtf:cessation": "1939-12-31",
+    "date:cessation_lower": "1930-12-01",
+    "date:cessation_upper": "1930-12-31",
+    "date:inception_lower": "1930-09-01",
+    "date:inception_upper": "1930-09-30",
+    "edtf:cessation": "1930-12",
     "edtf:date": "1930-01/1930-04~",
-    "edtf:inception": "1937-01-01",
+    "edtf:inception": "1930-09",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -34,7 +34,7 @@
     "sfomuseum:aircraft_id": [
       118
     ],
-    "sfomuseum:airline": "Pan American Airways  (Pan American World Airways)",
+    "sfomuseum:airline": "Pan American Airways",
     "sfomuseum:airline_id": [
       685
     ],
@@ -73,12 +73,12 @@
     "wof:country": "XX",
     "wof:created": 1579906660,
     "wof:depicts": [
-      85921881,
-      85688637,
-      85633793,
       1159289619,
       1159293593,
-      1159284991
+      1159284991,
+      85921881,
+      85688637,
+      85633793
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -98,7 +98,7 @@
       }
     ],
     "wof:id": 1511954025,
-    "wof:lastmodified": 1630449703,
+    "wof:lastmodified": 1630529265,
     "wof:name": "airmail flight cover: Pan American Airways, Midway Island",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

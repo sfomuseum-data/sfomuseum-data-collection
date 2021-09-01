@@ -2,13 +2,13 @@
   "id": 1511923873,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1980-12-31",
+    "date:cessation_lower": "1980-01-01",
     "date:cessation_upper": "1980-12-31",
     "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1980-12-31",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980",
     "edtf:date": "1980",
-    "edtf:inception": "1980-01-01",
+    "edtf:inception": "1980",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -34,7 +34,7 @@
     "sfomuseum:aircraft_id": [
       207
     ],
-    "sfomuseum:airline": "Air California  (AirCal)",
+    "sfomuseum:airline": "Air California",
     "sfomuseum:airline_id": [
       144
     ],
@@ -45,7 +45,7 @@
     "sfomuseum:date": "1980",
     "sfomuseum:daterange_end": "1980-12-31",
     "sfomuseum:daterange_start": "1980-01-01",
-    "sfomuseum:description": "Safety information card issued by Air California for its Boeing 737 fleet; orange background; pilot in brown uniform leans on stairway top left quadrant; sun logo in yellow; airline name in brown with white background located top right quadrant; illustrations include safety instructions and emergency procedures.\r\rSafety information card issued by AIRLINE for AIRCRAFT; [background COLOR] [single/double-sided / bi-/tri-fold] card with [photographic images / illustrations]; identification code: ID NUMBER.",
+    "sfomuseum:description": "Safety information card issued by Air California for its Boeing 737 fleet; orange background; pilot in brown uniform leans on stairway top left quadrant; sun logo in yellow; airline name in brown with white background located top right quadrant; illustrations include safety instructions and emergency procedures.",
     "sfomuseum:dimensions": "10 1/4 x 6 3/4 inches (26 x 17.1 cm)",
     "sfomuseum:media_ids": [
       1527850029,
@@ -73,9 +73,9 @@
     "wof:country": "XX",
     "wof:created": 1579906683,
     "wof:depicts": [
+      1159283793,
       1159289819,
-      1159293593,
-      1159283793
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -96,7 +96,7 @@
       }
     ],
     "wof:id": 1511923873,
-    "wof:lastmodified": 1630449694,
+    "wof:lastmodified": 1630529246,
     "wof:name": "safety information card: Air California, Boeing 737",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

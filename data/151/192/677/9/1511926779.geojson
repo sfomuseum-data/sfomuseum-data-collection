@@ -2,13 +2,13 @@
   "id": 1511926779,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1995-12-31",
+    "date:cessation_lower": "1995-01-01",
     "date:cessation_upper": "1995-12-31",
     "date:inception_lower": "1995-01-01",
-    "date:inception_upper": "1995-01-01",
-    "edtf:cessation": "1995-12-31",
+    "date:inception_upper": "1995-12-31",
+    "edtf:cessation": "1995",
     "edtf:date": "1995",
-    "edtf:inception": "1995-01-01",
+    "edtf:inception": "1995",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -30,7 +30,7 @@
     "sfomuseum:aircraft_id": [
       61
     ],
-    "sfomuseum:airline": "Trans World Express  (TWA (Trans World Airlines))",
+    "sfomuseum:airline": "Trans World Express",
     "sfomuseum:airline_id": [
       876
     ],
@@ -41,7 +41,7 @@
     "sfomuseum:date": "1995",
     "sfomuseum:daterange_end": "1995-12-31",
     "sfomuseum:daterange_start": "1995-01-01",
-    "sfomuseum:description": "Color photographic slide depicting TW Express ATR 42-300, October 29, 1995; photo taken by William Hough.",
+    "sfomuseum:description": "Color photographic slide depicting TW Express ATR 42-300, October 29, 1995; photo credit William Hough.",
     "sfomuseum:dimensions": "1 x 1 1/2 inches (2.5 x 3.8 cm)",
     "sfomuseum:medium": "color slide",
     "sfomuseum:object_id": 78197,
@@ -64,9 +64,9 @@
     "wof:country": "XX",
     "wof:created": 1618962233,
     "wof:depicts": [
-      1159293891,
       1159285397,
-      1159289491
+      1159289491,
+      1159293891
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -86,7 +86,7 @@
       }
     ],
     "wof:id": 1511926779,
-    "wof:lastmodified": 1630449698,
+    "wof:lastmodified": 1630529279,
     "wof:name": "slide: TW Express, ATR 42-300",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

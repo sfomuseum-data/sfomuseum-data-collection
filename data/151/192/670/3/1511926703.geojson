@@ -2,13 +2,13 @@
   "id": 1511926703,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2001-12-31",
+    "date:cessation_lower": "2001-01-01",
     "date:cessation_upper": "2001-12-31",
     "date:inception_lower": "2001-01-01",
-    "date:inception_upper": "2001-01-01",
-    "edtf:cessation": "2001-12-31",
+    "date:inception_upper": "2001-12-31",
+    "edtf:cessation": "2001",
     "edtf:date": "2001",
-    "edtf:inception": "2001-01-01",
+    "edtf:inception": "2001",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -48,7 +48,7 @@
     "sfomuseum:date": "2001",
     "sfomuseum:daterange_end": "2001-12-31",
     "sfomuseum:daterange_start": "2001-01-01",
-    "sfomuseum:description": "Color photographic slide depicting Northwest Airlines Douglas DC-9 Series 50 at John F. Kennedy International Airport (JFK), New York, July 15, 2001; photo taken by William Hough.",
+    "sfomuseum:description": "Color photographic slide depicting Northwest Airlines Douglas DC-9 Series 50 at John F. Kennedy International Airport (JFK), New York, July 15, 2001; photo credit William Hough.",
     "sfomuseum:dimensions": "1 x 1 1/2 inches (2.5 x 3.8 cm)",
     "sfomuseum:medium": "color slide",
     "sfomuseum:object_id": 78141,
@@ -71,11 +71,11 @@
     "wof:country": "XX",
     "wof:created": 1618962233,
     "wof:depicts": [
-      1159284907,
       1159291247,
       102534365,
       1159291223,
-      1159291227
+      1159291227,
+      1159284907
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -95,7 +95,7 @@
       }
     ],
     "wof:id": 1511926703,
-    "wof:lastmodified": 1630449724,
+    "wof:lastmodified": 1630529243,
     "wof:name": "slide: Northwest Airlines, Douglas DC-9 Series 50, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

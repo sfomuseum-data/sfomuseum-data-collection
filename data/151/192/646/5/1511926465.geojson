@@ -2,13 +2,13 @@
   "id": 1511926465,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2000-12-31",
+    "date:cessation_lower": "2000-01-01",
     "date:cessation_upper": "2000-12-31",
     "date:inception_lower": "2000-01-01",
-    "date:inception_upper": "2000-01-01",
-    "edtf:cessation": "2000-12-31",
+    "date:inception_upper": "2000-12-31",
+    "edtf:cessation": "2000",
     "edtf:date": "2000",
-    "edtf:inception": "2000-01-01",
+    "edtf:inception": "2000",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -48,7 +48,7 @@
     "sfomuseum:date": "2000",
     "sfomuseum:daterange_end": "2000-12-31",
     "sfomuseum:daterange_start": "2000-01-01",
-    "sfomuseum:description": "Color photographic slide depicting Canadian Airlines International Boeing 747-400 at Toronto Pearson International Airport (YYZ), July 1, 2000; photo taken by William Hough.",
+    "sfomuseum:description": "Color photographic slide depicting Canadian Airlines International Boeing 747-400 at Toronto Pearson International Airport (YYZ), July 1, 2000; photo credit William Hough.",
     "sfomuseum:dimensions": "1 x 1 1/2 inches (2.5 x 3.8 cm)",
     "sfomuseum:medium": "color slide",
     "sfomuseum:object_id": 77873,
@@ -71,11 +71,11 @@
     "wof:country": "XX",
     "wof:created": 1618962232,
     "wof:depicts": [
+      1159289873,
       1159289915,
       1159293593,
       102555091,
-      1159284085,
-      1159289873
+      1159284085
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -95,7 +95,7 @@
       }
     ],
     "wof:id": 1511926465,
-    "wof:lastmodified": 1630449711,
+    "wof:lastmodified": 1630529278,
     "wof:name": "slide: Canadian Airlines International, Boeing 747-400, Toronto Pearson International Airport (YYZ)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

@@ -2,13 +2,13 @@
   "id": 1511924029,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1998-12-31",
+    "date:cessation_lower": "1998-01-01",
     "date:cessation_upper": "1998-12-31",
     "date:inception_lower": "1998-01-01",
-    "date:inception_upper": "1998-01-01",
-    "edtf:cessation": "1998-12-31",
+    "date:inception_upper": "1998-12-31",
+    "edtf:cessation": "1998",
     "edtf:date": "1998",
-    "edtf:inception": "1998-01-01",
+    "edtf:inception": "1998",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -34,7 +34,7 @@
     "sfomuseum:aircraft_id": [
       239
     ],
-    "sfomuseum:airline": "Lufthansa  (Lufthansa German Airlines)",
+    "sfomuseum:airline": "Lufthansa",
     "sfomuseum:airline_id": [
       560
     ],
@@ -45,7 +45,7 @@
     "sfomuseum:date": "1998",
     "sfomuseum:daterange_end": "1998-12-31",
     "sfomuseum:daterange_start": "1998-01-01",
-    "sfomuseum:description": "Seating chart issued by Lufthansa German Airlines for the Boeing 747-200; white background with black text and line illustrations; \"More comfort and new seats in all classes\" in black along top edge; logo and airline name in yellow located bottom right corner.",
+    "sfomuseum:description": "Seating chart issued by Lufthansa for the Boeing 747-200; white background with black text and line illustrations; \"More comfort and new seats in all classes\" in black along top edge; logo and airline name in yellow located bottom right corner.",
     "sfomuseum:dimensions": "11 x 8 1/2 inches (27.9 x 21.6 cm)",
     "sfomuseum:media_ids": [
       1527850067,
@@ -73,10 +73,10 @@
     "wof:country": "XX",
     "wof:created": 1579906683,
     "wof:depicts": [
-      1159289891,
       1159284711,
       1159289873,
-      1159293593
+      1159293593,
+      1159289891
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -97,8 +97,8 @@
       }
     ],
     "wof:id": 1511924029,
-    "wof:lastmodified": 1630449710,
-    "wof:name": "seating chart: Lufthansa German Airlines, Boeing 747-200",
+    "wof:lastmodified": 1630529269,
+    "wof:name": "seating chart: Lufthansa, Boeing 747-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-collection",

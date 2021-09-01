@@ -2,13 +2,13 @@
   "id": 1511951709,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1979-12-31",
+    "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1979-12-31",
     "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "1979-12-31",
+    "date:inception_upper": "1979-12-31",
+    "edtf:cessation": "197X",
     "edtf:date": "197x",
-    "edtf:inception": "1970-01-01",
+    "edtf:inception": "197X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -34,7 +34,7 @@
     "sfomuseum:date": "1970s",
     "sfomuseum:daterange_end": "1979-12-31",
     "sfomuseum:daterange_start": "1970-01-01",
-    "sfomuseum:description": "Matchbook issued by Arrow Air; red and white cover with airline logotype in reverse colors on either side; white-tipped matches. ",
+    "sfomuseum:description": "Matchbook issued by Arrow Air; red and white cover with airline logotype in reverse colors on either side extending to back cover; white-tipped matches.",
     "sfomuseum:dimensions": "2 x 2 1/8 x 1/4 inches (5.1 x 5.4 x .6 cm)",
     "sfomuseum:medium": "cardboard, ink, phosphorus, metal",
     "sfomuseum:object_id": 128791,
@@ -57,9 +57,9 @@
     "wof:country": "XX",
     "wof:created": 1618962247,
     "wof:depicts": [
-      1159283913,
       1159289489,
-      1159293815
+      1159293815,
+      1159283913
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1511951709,
-    "wof:lastmodified": 1630449696,
+    "wof:lastmodified": 1630529274,
     "wof:name": "matchbook: Arrow Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

@@ -2,13 +2,13 @@
   "id": 1511943385,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2008-12-31",
+    "date:cessation_lower": "2008-01-01",
     "date:cessation_upper": "2008-12-31",
     "date:inception_lower": "2008-01-01",
-    "date:inception_upper": "2008-01-01",
-    "edtf:cessation": "2008-12-31",
+    "date:inception_upper": "2008-12-31",
+    "edtf:cessation": "2008",
     "edtf:date": "2008",
-    "edtf:inception": "2008-01-01",
+    "edtf:inception": "2008",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -25,7 +25,7 @@
     "sfomuseum:category": "Book",
     "sfomuseum:classification_id": 105,
     "sfomuseum:collection": "Aviation Library",
-    "sfomuseum:creditline": "Purchase",
+    "sfomuseum:creditline": "Collection of SFO Museum",
     "sfomuseum:date": "2008",
     "sfomuseum:daterange_end": "2008-12-31",
     "sfomuseum:daterange_start": "2008-01-01",
@@ -55,9 +55,9 @@
     "wof:country": "XX",
     "wof:created": 1618962232,
     "wof:depicts": [
-      85921881,
       85688637,
-      85633793
+      85633793,
+      85921881
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -77,7 +77,7 @@
       }
     ],
     "wof:id": 1511943385,
-    "wof:lastmodified": 1630449716,
+    "wof:lastmodified": 1630529275,
     "wof:name": "Oakland aviation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

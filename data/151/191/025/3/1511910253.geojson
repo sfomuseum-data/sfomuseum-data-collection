@@ -2,13 +2,13 @@
   "id": 1511910253,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1935-12-31",
+    "date:cessation_lower": "1935-01-01",
     "date:cessation_upper": "1935-12-31",
     "date:inception_lower": "1935-01-01",
-    "date:inception_upper": "1935-01-01",
-    "edtf:cessation": "1935-12-31",
+    "date:inception_upper": "1935-12-31",
+    "edtf:cessation": "1935",
     "edtf:date": "1935",
-    "edtf:inception": "1935-01-01",
+    "edtf:inception": "1935",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -34,7 +34,7 @@
     "sfomuseum:aircraft_id": [
       115
     ],
-    "sfomuseum:airline": "United Air Lines  (United Airlines)",
+    "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
     ],
@@ -74,9 +74,9 @@
     "wof:country": "XX",
     "wof:created": 1579906674,
     "wof:depicts": [
-      1159289611,
       1159293593,
-      1159285415
+      1159285415,
+      1159289611
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -97,7 +97,7 @@
       }
     ],
     "wof:id": 1511910253,
-    "wof:lastmodified": 1630449727,
+    "wof:lastmodified": 1630529262,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

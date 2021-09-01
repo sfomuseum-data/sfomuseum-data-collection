@@ -2,13 +2,13 @@
   "id": 1511926327,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1994-12-31",
+    "date:cessation_lower": "1994-01-01",
     "date:cessation_upper": "1994-12-31",
     "date:inception_lower": "1994-01-01",
-    "date:inception_upper": "1994-01-01",
-    "edtf:cessation": "1994-12-31",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "1994",
     "edtf:date": "1994",
-    "edtf:inception": "1994-01-01",
+    "edtf:inception": "1994",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -33,7 +33,7 @@
     "sfomuseum:aircraft_id": [
       236
     ],
-    "sfomuseum:airline": "Air France Cargo  (Air France)",
+    "sfomuseum:airline": "Air France Cargo",
     "sfomuseum:airline_id": [
       71
     ],
@@ -48,7 +48,7 @@
     "sfomuseum:date": "1994",
     "sfomuseum:daterange_end": "1994-12-31",
     "sfomuseum:daterange_start": "1994-01-01",
-    "sfomuseum:description": "Color photographic slide depicting Air France Cargo Boeing 747-100 at John F. Kennedy International Airport (JFK), New York, September 11, 1994; photo taken by William Hough.",
+    "sfomuseum:description": "Color photographic slide depicting Air France Cargo Boeing 747-100 at John F. Kennedy International Airport (JFK), New York, September 11, 1994; photo credit William Hough.",
     "sfomuseum:dimensions": "1 x 1 1/2 inches (2.5 x 3.8 cm)",
     "sfomuseum:medium": "color slide",
     "sfomuseum:object_id": 77753,
@@ -71,11 +71,11 @@
     "wof:country": "XX",
     "wof:created": 1618962232,
     "wof:depicts": [
-      1159289885,
       1159283629,
       102534365,
       1159289873,
-      1159293593
+      1159293593,
+      1159289885
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -95,7 +95,7 @@
       }
     ],
     "wof:id": 1511926327,
-    "wof:lastmodified": 1630449730,
+    "wof:lastmodified": 1630529276,
     "wof:name": "slide: Air France Cargo, Boeing 747-100, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

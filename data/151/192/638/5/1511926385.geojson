@@ -2,13 +2,13 @@
   "id": 1511926385,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2003-12-31",
+    "date:cessation_lower": "2003-01-01",
     "date:cessation_upper": "2003-12-31",
     "date:inception_lower": "2003-01-01",
-    "date:inception_upper": "2003-01-01",
-    "edtf:cessation": "2003-12-31",
+    "date:inception_upper": "2003-12-31",
+    "edtf:cessation": "2003",
     "edtf:date": "2003",
-    "edtf:inception": "2003-01-01",
+    "edtf:inception": "2003",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -48,7 +48,7 @@
     "sfomuseum:date": "2003",
     "sfomuseum:daterange_end": "2003-12-31",
     "sfomuseum:daterange_start": "2003-01-01",
-    "sfomuseum:description": "Color photographic slide depicting ground-to-air profile view of Alitalia Boeing 777-200 at John F. Kennedy International Airport (JFK), New York, March 15, 2003; photo taken by William Hough.",
+    "sfomuseum:description": "Color photographic slide depicting ground-to-air profile view of Alitalia Boeing 777-200 at John F. Kennedy International Airport (JFK), New York, March 15, 2003; photo credit William Hough.",
     "sfomuseum:dimensions": "1 x 1 1/2 inches (2.5 x 3.8 cm)",
     "sfomuseum:medium": "color slide",
     "sfomuseum:object_id": 77790,
@@ -71,11 +71,11 @@
     "wof:country": "XX",
     "wof:created": 1618962232,
     "wof:depicts": [
-      102534365,
       1159289979,
       1159293593,
       1159289985,
-      1159283823
+      1159283823,
+      102534365
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -95,7 +95,7 @@
       }
     ],
     "wof:id": 1511926385,
-    "wof:lastmodified": 1630449728,
+    "wof:lastmodified": 1630529281,
     "wof:name": "slide: Alitalia, Boeing 777-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

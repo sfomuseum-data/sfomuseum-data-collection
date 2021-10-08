@@ -3,12 +3,12 @@
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "1980-01-01",
-    "date:cessation_upper": "1989-12-31",
+    "date:cessation_upper": "1980-12-31",
     "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1989-12-31",
-    "edtf:cessation": "198X",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980~",
     "edtf:date": "198x",
-    "edtf:inception": "198X",
+    "edtf:inception": "1980~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -42,10 +42,10 @@
     "sfomuseum:classification_id": 158,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
-    "sfomuseum:date": "1980s",
-    "sfomuseum:daterange_end": "1989-12-31",
-    "sfomuseum:daterange_start": "1980-01-01",
-    "sfomuseum:description": "Timetable issued by SFO Helicopter Airlines, no date given; three page double-sided fold-out. The cover is white and black with a pixelated map of the San Francisco Bay Area and cities served.",
+    "sfomuseum:date": "c. 1980",
+    "sfomuseum:daterange_end": "1985-12-31",
+    "sfomuseum:daterange_start": "1975-01-01",
+    "sfomuseum:description": "Timetable issued by SFO Helicopter Airlines, undated (c. 1980); tri-fold format; white cover with pixelated map of San Francisco Bay area.",
     "sfomuseum:dimensions": "8 3/4 x 3 1/2 inches (22.2 x 8.9 cm)",
     "sfomuseum:media_ids": [
       1527838017
@@ -54,6 +54,7 @@
     "sfomuseum:object_id": 99687,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527838017,
+    "sfomuseum:publication": ": , c. 1980.",
     "sfomuseum:subcategory": "Timetable",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -93,7 +94,7 @@
       }
     ],
     "wof:id": 1511938335,
-    "wof:lastmodified": 1631039603,
+    "wof:lastmodified": 1633724584,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

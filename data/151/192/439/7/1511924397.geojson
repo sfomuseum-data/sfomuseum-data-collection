@@ -3,12 +3,12 @@
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "1960-01-01",
-    "date:cessation_upper": "1960-12-31",
+    "date:cessation_upper": "1969-12-31",
     "date:inception_lower": "1960-01-01",
-    "date:inception_upper": "1960-12-31",
-    "edtf:cessation": "1960",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "196X",
     "edtf:date": "1960",
-    "edtf:inception": "1960",
+    "edtf:inception": "196X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -17,13 +17,13 @@
     "millsfield:airport_id": [
       102527513
     ],
-    "millsfield:category_id": 1511214209,
+    "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
       1527819101
     ],
     "millsfield:primary_image": 1527819101,
-    "millsfield:subcategory_id": 1511213367,
+    "millsfield:subcategory_id": 1511213487,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1997.52.084.086",
@@ -31,16 +31,16 @@
     "sfomuseum:airport_id": [
       121
     ],
-    "sfomuseum:category": "Photograph",
-    "sfomuseum:classification_id": 129,
+    "sfomuseum:category": "Company Record / Document",
+    "sfomuseum:classification_id": 192,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:continent": "North America",
     "sfomuseum:country": "United States",
     "sfomuseum:creditline": "Transfer",
-    "sfomuseum:date": "1960",
-    "sfomuseum:daterange_end": "1960-12-31",
+    "sfomuseum:date": "1960s",
+    "sfomuseum:daterange_end": "1969-12-31",
     "sfomuseum:daterange_start": "1960-01-01",
-    "sfomuseum:description": "Black and white photograph architectural rendering of exterior of South Terminal (now Terminal 1 / T1). Dated 1960.",
+    "sfomuseum:description": "Black and white printed architectural master plan rendering depicting aerial view of San Francisco International Airport (SFO).",
     "sfomuseum:dimensions": "8 x 10 inches (20.3 x 25.4 cm)",
     "sfomuseum:maker": "San Francisco Public Utilities Commission",
     "sfomuseum:media_ids": [
@@ -50,7 +50,8 @@
     "sfomuseum:object_id": 69802,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527819101,
-    "sfomuseum:subcategory": "Print, Photograph",
+    "sfomuseum:publication": ": , 1960s.",
+    "sfomuseum:subcategory": "Other, Company Record / Document",
     "sfomuseum:subject": "SFO Terminal Models and Architectural Renderings",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -96,8 +97,8 @@
       }
     ],
     "wof:id": 1511924397,
-    "wof:lastmodified": 1631039609,
-    "wof:name": "photograph: San Francisco International Airport (SFO), terminal model",
+    "wof:lastmodified": 1633724613,
+    "wof:name": "print: San Francisco International Airport (SFO), master plan rendering",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",
     "wof:repo": "sfomuseum-data-collection",

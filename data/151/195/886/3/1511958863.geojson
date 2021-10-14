@@ -14,10 +14,10 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "loc:named_authorities": {
-      "n83056359": "Air Line Pilots Association",
-      "n92104867": "Icahn, Carl C., 1936-"
-    },
+    "loc:named_authorities": [
+      "n83056359",
+      "n92104867"
+    ],
     "loc:subject_heading": {
       "sh85002650": "Airlines",
       "sh85002673": "Air pilots",
@@ -29,6 +29,17 @@
       "sh85073684": "Labor disputes",
       "sh87002007": "Martin airplanes"
     },
+    "loc:subject_headings": [
+      "sh85002650",
+      "sh85002673",
+      "sh85002679",
+      "sh85073684",
+      "sh87002007",
+      "sh85031674",
+      "sh85031312",
+      "sh85015272",
+      "sh85015275"
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -105,7 +116,7 @@
       }
     ],
     "wof:id": 1511958863,
-    "wof:lastmodified": 1634248246,
+    "wof:lastmodified": 1634252477,
     "wof:name": "oral history digital recording: Captain William Arnold Dixon",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

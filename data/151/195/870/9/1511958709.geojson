@@ -14,14 +14,19 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
-    "loc:named_authorities": {
-      "n50056823": "National Register of Historic Places",
-      "n78095330": "United States"
-    },
+    "loc:named_authorities": [
+      "n50056823",
+      "n50056823",
+      "n78095330"
+    ],
     "loc:subject_heading": {
       "sh85001319": "Aeronautics",
       "sh85002963": "Airport buildings"
     },
+    "loc:subject_headings": [
+      "sh85001319",
+      "sh85002963"
+    ],
     "millsfield:category_id": 1511214231,
     "millsfield:collection_id": 1511214217,
     "millsfield:subcategory_id": 1511213325,
@@ -84,7 +89,7 @@
       }
     ],
     "wof:id": 1511958709,
-    "wof:lastmodified": 1634242839,
+    "wof:lastmodified": 1634252459,
     "wof:name": "Guidelines for evaluating and documenting historic aviation properties",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

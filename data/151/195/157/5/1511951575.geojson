@@ -14,11 +14,12 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
-    "loc:named_authorities": {
-      "n00065592": "United Airlines",
-      "n79114181": "Eastern Air Lines",
-      "n80083545": "National Airlines"
-    },
+    "loc:named_authorities": [
+      "n00065592",
+      "n79114181",
+      "n80083545",
+      "n00065592"
+    ],
     "millsfield:airline_id": [
       1159285413
     ],
@@ -88,7 +89,7 @@
       }
     ],
     "wof:id": 1511951575,
-    "wof:lastmodified": 1634248246,
+    "wof:lastmodified": 1634252457,
     "wof:name": "Accidents and incidents involving the Douglas DC-7, including: Eastern Air Lines flight 663, Eastern Air Lines flight 512, Caledonian airways flight 153, National Airlines flight 967, 1956 Grand Canyon mid-air collision, United Airlines flight 736",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

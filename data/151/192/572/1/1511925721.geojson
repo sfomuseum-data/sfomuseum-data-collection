@@ -20,6 +20,9 @@
     "millsfield:airline_id": [
       1159285393
     ],
+    "millsfield:airport_id": [
+      102544453
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -39,6 +42,10 @@
     "sfomuseum:airline_id": [
       874
     ],
+    "sfomuseum:airport": "Paris Orly Airport",
+    "sfomuseum:airport_id": [
+      183
+    ],
     "sfomuseum:category": "Scheduling / Ticketing",
     "sfomuseum:classification_id": 492,
     "sfomuseum:collection": "Aviation Archive",
@@ -46,7 +53,7 @@
     "sfomuseum:date": "c. 1955",
     "sfomuseum:daterange_end": "1960-12-31",
     "sfomuseum:daterange_start": "1950-01-01",
-    "sfomuseum:description": "Boarding pass issued by TWA (Trans World Airlines); red and green text and graphics with illustration of Lockheed L-049 Constellation and TWA servicemark flanked by “Paris” and “Orly”; instructions for use printed in English and French.",
+    "sfomuseum:description": "Boarding pass issued by TWA (Trans World Airlines), in-transit, at Paris Orly Airport; white, red, and green card with illustration of Lockheed L-049 Constellation; instructions for use in English and French; Form number OR-2-A.",
     "sfomuseum:dimensions": "6 1/4 x 4 1/2 inches (15.9 x 11.4 cm)",
     "sfomuseum:media_ids": [
       1527843455,
@@ -75,9 +82,10 @@
     "wof:country": "XX",
     "wof:created": 1579906657,
     "wof:depicts": [
+      1159285393,
+      102544453,
       1159291095,
-      1159293697,
-      1159285393
+      1159293697
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -97,8 +105,8 @@
       }
     ],
     "wof:id": 1511925721,
-    "wof:lastmodified": 1633724607,
-    "wof:name": "boarding pass: TWA (Trans World Airlines)",
+    "wof:lastmodified": 1637695777,
+    "wof:name": "boarding pass: TWA (Trans World Airlines), Paris Orly Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",
     "wof:repo": "sfomuseum-data-collection",

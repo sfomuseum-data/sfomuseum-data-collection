@@ -2,18 +2,24 @@
   "id": 1511907245,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1940-12-31",
-    "date:cessation_upper": "1940-12-31",
-    "date:inception_lower": "1940-01-01",
-    "date:inception_upper": "1940-01-01",
-    "edtf:cessation": "1940-12-31",
+    "date:cessation_lower": "1940-07-18",
+    "date:cessation_upper": "1940-07-18",
+    "date:inception_lower": "1940-07-18",
+    "date:inception_upper": "1940-07-18",
+    "edtf:cessation": "1940-07-18",
     "edtf:date": "1940-07-18",
-    "edtf:inception": "1940-01-01",
+    "edtf:inception": "1940-07-18",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      1159289619
+    ],
+    "millsfield:airline_id": [
+      1159284991
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -25,23 +31,33 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1994.18.136",
     "sfomuseum:aircraft": "Boeing 314 Clipper",
-    "sfomuseum:airline": "Pan American Airways  (Pan American World Airways)",
+    "sfomuseum:aircraft_id": [
+      118
+    ],
+    "sfomuseum:airline": "Pan American Airways",
+    "sfomuseum:airline_id": [
+      685
+    ],
     "sfomuseum:category": "Philately",
+    "sfomuseum:classification_id": 10,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:continent": "Transpacific",
     "sfomuseum:creditline": "Purchase",
     "sfomuseum:date": "7/18/1940",
+    "sfomuseum:date_acquired": "1994-06-29",
     "sfomuseum:daterange_end": "1940-07-18",
     "sfomuseum:daterange_start": "1940-07-18",
-    "sfomuseum:description": "Airmail flight cover, Pan American Airways, part of first airmail service between United States and New Zealand, Noumea - Auckland route; blue cachet with image of in-flight Boeing 314 above sailing ship; two stamps: green 25-franc and blue 9-franc (New Caledonia); postmark: July 18, 1940 in Noumea; backstamp: July 18, 1940 in Auckland; envelope: white air mail with blue and red rhomboids around border.",
+    "sfomuseum:description": "Airmail flight cover, Pan American Airways, part of first airmail service between United States and New Zealand, Noumea - Auckland route; blue cachet with image of Boeing 314 in flight above sailing ship; two stamps: green 25-franc and blue 9-franc (New Caledonia); postmark: July 18, 1940 in Noumea; backstamp: July 18, 1940 in Auckland; envelope: white air mail with blue and red rhomboids around border.",
+    "sfomuseum:dimensions": "4 1/8 x 9 1/2 inches (10.5 x 24.1 cm)",
     "sfomuseum:maker": "Pan American Airways, Inc.",
     "sfomuseum:media_ids": [
       1527829093
     ],
-    "sfomuseum:medium": "ink on paper",
+    "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 43670,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527829093,
+    "sfomuseum:publication": ": , 7/18/1940.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -81,7 +97,7 @@
       }
     ],
     "wof:id": 1511907245,
-    "wof:lastmodified": 1631039611,
+    "wof:lastmodified": 1638212043,
     "wof:name": "airmail flight cover: Pan American Airways, first airmail flight, Noumea (New Caledonia) - Auckland route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

@@ -2,18 +2,24 @@
   "id": 1511907451,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1952-12-31",
-    "date:cessation_upper": "1952-12-31",
-    "date:inception_lower": "1952-01-01",
-    "date:inception_upper": "1952-01-01",
-    "edtf:cessation": "1952-12-31",
+    "date:cessation_lower": "1952-12-06",
+    "date:cessation_upper": "1952-12-06",
+    "date:inception_lower": "1952-12-06",
+    "date:inception_upper": "1952-12-06",
+    "edtf:cessation": "1952-12-06",
     "edtf:date": "1952-12-06",
-    "edtf:inception": "1952-01-01",
+    "edtf:inception": "1952-12-06",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      1159289651
+    ],
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -26,24 +32,34 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1994.18.228",
     "sfomuseum:aircraft": "Boeing 377 Stratocruiser",
+    "sfomuseum:aircraft_id": [
+      132
+    ],
     "sfomuseum:airline": "Pan American World Airways",
+    "sfomuseum:airline_id": [
+      684
+    ],
     "sfomuseum:category": "Philately",
+    "sfomuseum:classification_id": 10,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:continent": "Transpacific",
     "sfomuseum:creditline": "Purchase",
     "sfomuseum:date": "12/6/1952",
+    "sfomuseum:date_acquired": "1994-06-29",
     "sfomuseum:daterange_end": "1952-12-06",
     "sfomuseum:daterange_start": "1952-12-06",
-    "sfomuseum:description": "Airmail flight cover commemorating first Pan American airmail flight from Wake Island to Rangoon, Burma (now Yangon, Myanmar); black cachet with image of of in-flight Boeing 377 Stratocruiser and list of cities; postmarked December 6, 1952 in Wake Island with four-bar cancellation mark over 25-cent stamp; backstamp: December 10, 1952, Rangoon.",
+    "sfomuseum:description": "Airmail flight cover commemorating first Pan American airmail flight from Wake Island to Rangoon, Burma (now Yangon, Myanmar); black cachet with image of Boeing 377 Stratocruiser in flight and list of cities; postmarked December 6, 1952 in Wake Island with four-bar cancellation mark over 25-cent stamp; backstamp: December 10, 1952, Rangoon.",
+    "sfomuseum:dimensions": "3 1/2 x 6 1/2 inches (8.9 x 16.5 cm)",
     "sfomuseum:maker": "Pan American Airways, Inc.",
     "sfomuseum:media_ids": [
       1527829903,
       1527829905
     ],
-    "sfomuseum:medium": "ink on paper",
+    "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 43766,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527829903,
+    "sfomuseum:publication": ": , 12/6/1952.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -62,9 +78,9 @@
     "wof:country": "XX",
     "wof:created": 1579906677,
     "wof:depicts": [
+      1159284989,
       1159289651,
-      1159293593,
-      1159284989
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -84,7 +100,7 @@
       }
     ],
     "wof:id": 1511907451,
-    "wof:lastmodified": 1631039592,
+    "wof:lastmodified": 1638212036,
     "wof:name": "airmail flight cover: Pan American World Airways, Wake Island - Rangoon route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "venue",

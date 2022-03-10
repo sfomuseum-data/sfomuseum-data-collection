@@ -10,10 +10,10 @@
     "edtf:date": "1980",
     "edtf:inception": "1980",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "2.431220,48.952922,2.542809,49.007854",
+    "geom:latitude": 48.980388000000005,
+    "geom:longitude": 2.4870145,
+    "iso:country": "",
     "millsfield:airport_id": [
       102544459,
       102544455
@@ -26,6 +26,7 @@
     "millsfield:primary_image": 1527849853,
     "millsfield:subcategory_id": 1511213425,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.123.080",
     "sfomuseum:airport": "Paris Charles de Gaulle Airport",
@@ -52,33 +53,50 @@
     "sfomuseum:primary_media_id": 1527849853,
     "sfomuseum:publication": ": , 1980.",
     "sfomuseum:subcategory": "Timetable",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102544459,
+      102544455
+    ],
     "wof:belongsto": [
-      1511214223,
       102527513,
       102191575,
       85633793,
-      1511213425,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      102544459,
+      102191581,
+      85633147,
+      102066709,
+      404396781,
+      101751311,
+      404228003,
+      404227465,
+      85683451,
+      102544455,
+      102065873,
+      404417837,
+      101749819,
+      404227789,
+      85683475
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "",
     "wof:created": 1579906677,
     "wof:depicts": [
-      102544455,
-      102544459
+      102544459,
+      102544455
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "0f485c46db4b333d76884dfaad4a977d",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213425,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214223,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -86,12 +104,37 @@
         "neighbourhood_id": -1,
         "object_id": 1511950357,
         "region_id": 85688637,
-        "venue_id": 1511950357,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102544459,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102066709,
+        "localadmin_id": 404396781,
+        "locality_id": 101751311,
+        "macrocounty_id": 404228003,
+        "macroregion_id": 404227465,
+        "neighbourhood_id": -1,
+        "object_id": 1511950357,
+        "region_id": 85683451
+      },
+      {
+        "campus_id": 102544455,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102065873,
+        "localadmin_id": 404417837,
+        "locality_id": 101749819,
+        "macrocounty_id": 404227789,
+        "macroregion_id": 404227465,
+        "neighbourhood_id": -1,
+        "object_id": 1511950357,
+        "region_id": 85683475
       }
     ],
     "wof:id": 1511950357,
-    "wof:lastmodified": 1646874769,
+    "wof:lastmodified": 1646944847,
     "wof:name": "timetable: Aeroport de Paris (Charles de Gaulle, Le Bourget, Orly), pocket schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -102,10 +145,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    2.43122,
+    48.952922,
+    2.542809,
+    49.007854
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[2.542809,49.007854],[2.43122,48.952922]],"type":"MultiPoint"}
 }

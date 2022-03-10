@@ -10,13 +10,13 @@
     "edtf:date": "1970",
     "edtf:inception": "1970",
     "geom:area": 0,
-    "geom:bbox": "-122.385464,37.627080,-122.385464,37.627080",
-    "geom:latitude": 37.62708036894155,
-    "geom:longitude": -122.38546371459962,
+    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
+    "geom:latitude": 37.61799,
+    "geom:longitude": -122.370943,
     "geotag:depictions": [
       1527827189
     ],
-    "iso:country": "XX",
+    "iso:country": "US",
     "millsfield:airport_id": [
       102527513
     ],
@@ -28,6 +28,7 @@
     "millsfield:primary_image": 1527827189,
     "millsfield:subcategory_id": 1511213801,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.032.2165",
     "sfomuseum:airport": "San Francisco International Airport",
@@ -54,33 +55,54 @@
     "sfomuseum:primary_media_id": 1527827189,
     "sfomuseum:publication": ": , 1970.",
     "sfomuseum:subcategory": "Negative",
-    "src:geom": "sfomuseum#geotagged",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102527513
+    ],
     "wof:belongsto": [
-      1511214209,
       102527513,
       102191575,
       85633793,
-      1511213801,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      554784711,
+      102085387,
+      1159162825,
+      1159160869
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "US",
     "wof:created": 1579906667,
     "wof:depicts": [
       1477855969,
       102527513
     ],
-    "wof:geomhash": "b7e8c92d98e009428a0fa162282f21f3",
+    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213801,
-        "building_id": 1511214277,
         "campus_id": 102527513,
-        "concourse_id": 1511214209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "object_id": 1511948229,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1511948229,
+        "region_id": 85688637
+      },
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -88,12 +110,11 @@
         "neighbourhood_id": -1,
         "object_id": 1511948229,
         "region_id": 85688637,
-        "venue_id": 1511948229,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1511948229,
-    "wof:lastmodified": 1646874778,
+    "wof:lastmodified": 1646944852,
     "wof:name": "negative: San Francisco International Airport (SFO), Super Bay Hangar construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -104,10 +125,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38546371459962,
-    37.62708036894155,
-    -122.38546371459962,
-    37.62708036894155
+    -122.370943,
+    37.61799,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.38546371459962,37.62708036894155]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

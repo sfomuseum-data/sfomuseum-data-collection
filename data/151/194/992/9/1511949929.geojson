@@ -10,10 +10,10 @@
     "edtf:date": "1975~",
     "edtf:inception": "1975~",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "145.756977,-16.885153,145.756977,-16.885153",
+    "geom:latitude": -16.885153,
+    "geom:longitude": 145.756977,
+    "iso:country": "",
     "millsfield:airport_id": [
       102557971
     ],
@@ -25,6 +25,7 @@
     "millsfield:primary_image": 1527847791,
     "millsfield:subcategory_id": 1511213633,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.061.0307",
     "sfomuseum:airport": "Cairns Airport",
@@ -50,32 +51,40 @@
     "sfomuseum:primary_media_id": 1527847791,
     "sfomuseum:publication": ": , c. 1975.",
     "sfomuseum:subcategory": "Brochure, Airport",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102557971
+    ],
     "wof:belongsto": [
-      1511214205,
       102527513,
       102191575,
       85633793,
-      1511213633,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      102557971,
+      102191583,
+      85632793,
+      102048911,
+      136253039,
+      101933763,
+      85681463
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "",
     "wof:created": 1579906671,
     "wof:depicts": [
       102557971
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "b95b736055749b5a4814c79ce4df78f3",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213633,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214205,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -83,12 +92,22 @@
         "neighbourhood_id": -1,
         "object_id": 1511949929,
         "region_id": 85688637,
-        "venue_id": 1511949929,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102557971,
+        "continent_id": 102191583,
+        "country_id": 85632793,
+        "county_id": 102048911,
+        "empire_id": 136253039,
+        "locality_id": 101933763,
+        "neighbourhood_id": -1,
+        "object_id": 1511949929,
+        "region_id": 85681463
       }
     ],
     "wof:id": 1511949929,
-    "wof:lastmodified": 1646874782,
+    "wof:lastmodified": 1646944853,
     "wof:name": "airport information guide: Cairns International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -99,10 +118,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    145.756977,
+    -16.885153,
+    145.756977,
+    -16.885153
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[145.756977,-16.885153]],"type":"MultiPoint"}
 }

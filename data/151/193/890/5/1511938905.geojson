@@ -10,10 +10,10 @@
     "edtf:date": "1987",
     "edtf:inception": "1987",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "-87.894364,41.983038,-87.894364,41.983038",
+    "geom:latitude": 41.983038,
+    "geom:longitude": -87.894364,
+    "iso:country": "US",
     "millsfield:airline_id": [
       1159285439
     ],
@@ -31,6 +31,7 @@
     "millsfield:primary_image": 1527854685,
     "millsfield:subcategory_id": 1511213425,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2003.105.024.003",
     "sfomuseum:airline": "America West Airlines",
@@ -62,33 +63,41 @@
     "sfomuseum:primary_media_id": 1527854685,
     "sfomuseum:publication": ": , 1987.",
     "sfomuseum:subcategory": "Timetable",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102533631
+    ],
     "wof:belongsto": [
-      1511214223,
       102527513,
       102191575,
       85633793,
-      1511213425,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      958020405,
+      102533631,
+      102084317,
+      404496273,
+      85940195,
+      1024608977,
+      85688697
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "US",
     "wof:created": 1579906662,
     "wof:depicts": [
       1159285439,
       102533631
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "7b3bbc54c892c856b4b1b7eb583f40c7",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213425,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214223,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -96,12 +105,23 @@
         "neighbourhood_id": -1,
         "object_id": 1511938905,
         "region_id": 85688637,
-        "venue_id": 1511938905,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "borough_id": 958020405,
+        "campus_id": 102533631,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084317,
+        "localadmin_id": 404496273,
+        "locality_id": 85940195,
+        "neighbourhood_id": 1024608977,
+        "object_id": 1511938905,
+        "region_id": 85688697
       }
     ],
     "wof:id": 1511938905,
-    "wof:lastmodified": 1646874780,
+    "wof:lastmodified": 1646944848,
     "wof:name": "timetable: America West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -112,10 +132,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -87.894364,
+    41.983038,
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-87.894364,41.983038]],"type":"MultiPoint"}
 }

@@ -8,10 +8,11 @@
     "date:inception_upper": "1959-12-31",
     "edtf:cessation": "195X",
     "edtf:inception": "195X",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-149.968401,61.173606,-149.968401,61.173606",
+    "geom:latitude": 61.173606,
+    "geom:longitude": -149.968401,
+    "iso:country": "US",
     "millsfield:airline_id": [
       1159284903
     ],
@@ -32,6 +33,7 @@
     "millsfield:tailnumbers": [
       "N4905"
     ],
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1083",
     "sfomuseum:aircraft": "Fairchild F-27",
@@ -59,7 +61,10 @@
     "sfomuseum:publication": ": , 1950s.",
     "sfomuseum:registration_number": "N4905",
     "sfomuseum:subcategory": "Postcard",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      1746879043
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -68,16 +73,21 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      1746879043,
+      102085881,
+      85915707,
+      85850461,
+      85688573
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1641345022,
     "wof:depicts": [
       1746879043,
       1159286971,
       1159284903
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "ccd73504384d365aefb49bc43960646c",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -92,10 +102,20 @@
         "object_id": 1762696479,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 1746879043,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085881,
+        "locality_id": 85915707,
+        "neighbourhood_id": 85850461,
+        "object_id": 1762696479,
+        "region_id": 85688573
       }
     ],
     "wof:id": 1762696479,
-    "wof:lastmodified": 1646874799,
+    "wof:lastmodified": 1646944842,
     "wof:name": "postcard: Northern Consolidated Airlines, Fairchild F-27, Anchorage International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -105,10 +125,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -149.968401,
+    61.173606,
+    -149.968401,
+    61.173606
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-149.968401,61.173606]],"type":"MultiPoint"}
 }

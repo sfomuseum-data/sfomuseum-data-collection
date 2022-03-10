@@ -10,10 +10,10 @@
     "edtf:date": "193x",
     "edtf:inception": "193X",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "",
+    "geom:bbox": "-122.391953,37.624731,-122.391953,37.624731",
+    "geom:latitude": 37.624731,
+    "geom:longitude": -122.391953,
+    "iso:country": "US",
     "millsfield:airport_id": [
       1360695655
     ],
@@ -21,6 +21,7 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213677,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2001.013.004",
     "sfomuseum:airport": "San Francisco Airport",
@@ -43,37 +44,36 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1930s.",
     "sfomuseum:subcategory": "Matchbook / Matchbox",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      1360695655
+    ],
     "wof:belongsto": [
       102191575,
-      1511214205,
       102527513,
       85633793,
-      1511213677,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      1360695655,
+      554784711,
+      102085387
     ],
     "wof:breaches": [],
-    "wof:country": "",
+    "wof:country": "US",
     "wof:created": 1618962251,
     "wof:depicts": [
       1360695655
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "3abf1c04b00c12d6593e9cd3c35f0056",
     "wof:hierarchy": [
       {
-        "continent_id": 102191575,
-        "object_id": 1511920079,
-        "venue_id": 1511920079
-      },
-      {
-        "arcade_id": 1511213677,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214205,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -81,12 +81,29 @@
         "neighbourhood_id": -1,
         "object_id": 1511920079,
         "region_id": 85688637,
-        "venue_id": 1511920079,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "object_id": 1511920079,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1511920079,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1511920079,
-    "wof:lastmodified": 1646874762,
+    "wof:lastmodified": 1646944843,
     "wof:name": "matchbook: San Francisco Airport, Skyway Cafe",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -97,10 +114,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -122.391953,
+    37.624731,
+    -122.391953,
+    37.624731
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
 }

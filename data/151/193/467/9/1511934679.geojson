@@ -10,10 +10,10 @@
     "edtf:date": "1991",
     "edtf:inception": "1991",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "-74.177526,40.691243,-0.450443,51.470087",
+    "geom:latitude": 46.080664999999996,
+    "geom:longitude": -37.313984500000004,
+    "iso:country": "XZ",
     "millsfield:airline_id": [
       1159285413,
       1159285417
@@ -33,6 +33,7 @@
     "millsfield:primary_image": 1527840915,
     "millsfield:subcategory_id": 1511213425,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2008.108.843",
     "sfomuseum:airline": "United Airlines",
@@ -65,36 +66,52 @@
     "sfomuseum:publication": ": , 1991.",
     "sfomuseum:subcategory": "Timetable",
     "sfomuseum:subject": "Airlines -- Commercial -- United",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102556703,
+      102530049
+    ],
     "wof:belongsto": [
-      1511214223,
       102527513,
       102191575,
       85633793,
-      1511213425,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      1158857261,
+      102556703,
+      102191581,
+      85633159,
+      101750367,
+      404227469,
+      85788065,
+      1360698645,
+      102530049,
+      102085043,
+      404478049,
+      85975279,
+      85873011,
+      85688607
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "XZ",
     "wof:created": 1579906681,
     "wof:depicts": [
+      1159285417,
+      1159288779,
       102556703,
       102530049,
-      1159285413,
-      1159285417,
-      1159288779
+      1159285413
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "529ac11c99c5e186ade2943823483cc0",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213425,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214223,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -102,12 +119,33 @@
         "neighbourhood_id": -1,
         "object_id": 1511934679,
         "region_id": 85688637,
-        "venue_id": 1511934679,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "borough_id": 1158857261,
+        "campus_id": 102556703,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85788065,
+        "object_id": 1511934679,
+        "region_id": 1360698645
+      },
+      {
+        "campus_id": 102530049,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085043,
+        "localadmin_id": 404478049,
+        "locality_id": 85975279,
+        "neighbourhood_id": 85873011,
+        "object_id": 1511934679,
+        "region_id": 85688607
       }
     ],
     "wof:id": 1511934679,
-    "wof:lastmodified": 1646874771,
+    "wof:lastmodified": 1646944846,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -118,10 +156,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -74.177526,
+    40.691243,
+    -0.450443,
+    51.470087
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-0.450443,51.470087],[-74.177526,40.691243]],"type":"MultiPoint"}
 }

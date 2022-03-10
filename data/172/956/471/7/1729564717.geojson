@@ -10,10 +10,10 @@
     "edtf:date": "1960~",
     "edtf:inception": "1953",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "-9.135591,38.772844,-9.135591,38.772844",
+    "geom:latitude": 38.772844,
+    "geom:longitude": -9.135591,
+    "iso:country": "",
     "millsfield:airline_id": [
       1159285393
     ],
@@ -31,6 +31,7 @@
     "millsfield:primary_image": 1729566305,
     "millsfield:subcategory_id": 1511213663,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2003.200.071.015",
     "sfomuseum:airline": "TWA (Trans World Airlines)",
@@ -55,34 +56,52 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1953.",
     "sfomuseum:subcategory": "Baggage Destination / Handling Tag",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102535643
+    ],
     "wof:belongsto": [
-      1511214223,
       102527513,
       102191575,
       85633793,
-      1511213663,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      102535643,
+      102191581,
+      85633735,
+      1511679077,
+      101752087,
+      85799047,
+      85687367,
+      1159162825,
+      1159160869
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "",
     "wof:created": 1618962249,
     "wof:depicts": [
-      102535643,
       1159285393,
-      1159287531
+      1159287531,
+      102535643
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "b113eb96e6a2a7db7da0c92369bcbfe6",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213663,
-        "building_id": 1511214277,
+        "campus_id": 102535643,
+        "continent_id": 102191581,
+        "country_id": 85633735,
+        "localadmin_id": 1511679077,
+        "locality_id": 101752087,
+        "neighbourhood_id": 85799047,
+        "object_id": 1729564717,
+        "region_id": 85687367
+      },
+      {
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214223,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -90,12 +109,11 @@
         "neighbourhood_id": -1,
         "object_id": 1729564717,
         "region_id": 85688637,
-        "venue_id": 1729564717,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1729564717,
-    "wof:lastmodified": 1646874781,
+    "wof:lastmodified": 1646944843,
     "wof:name": "baggage destination tag: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -106,10 +124,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -9.135591,
+    38.772844,
+    -9.135591,
+    38.772844
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-9.135591,38.772844]],"type":"MultiPoint"}
 }

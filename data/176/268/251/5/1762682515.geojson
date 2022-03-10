@@ -8,10 +8,11 @@
     "date:inception_upper": "1959-12-31",
     "edtf:cessation": "195X",
     "edtf:inception": "195X",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-104.689858,38.773626,-104.689858,38.773626",
+    "geom:latitude": 38.773626,
+    "geom:longitude": -104.689858,
+    "iso:country": "US",
     "millsfield:aircraft_id": [
       1159291101
     ],
@@ -32,6 +33,7 @@
     ],
     "millsfield:primary_image": 1762710623,
     "millsfield:subcategory_id": 1511213363,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1882",
     "sfomuseum:aircraft": "Lockheed Model 10 Electra",
@@ -61,7 +63,10 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1950s.",
     "sfomuseum:subcategory": "Postcard",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102526247
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -70,9 +75,13 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      102526247,
+      102086875,
+      85929457,
+      85688603
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1641340358,
     "wof:depicts": [
       1159293697,
@@ -80,8 +89,17 @@
       102526247,
       1159291101
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "321576cdf5c09e752216995c8060fa32",
     "wof:hierarchy": [
+      {
+        "campus_id": 102526247,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086875,
+        "locality_id": 85929457,
+        "object_id": 1762682515,
+        "region_id": 85688603
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -98,7 +116,7 @@
       }
     ],
     "wof:id": 1762682515,
-    "wof:lastmodified": 1646874790,
+    "wof:lastmodified": 1646944840,
     "wof:name": "postcard: Continental Airlines, Lockheed Electra, Colorado Springs Municipal Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -108,10 +126,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -104.689858,
+    38.773626,
+    -104.689858,
+    38.773626
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-104.689858,38.773626]],"type":"MultiPoint"}
 }

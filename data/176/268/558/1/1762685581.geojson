@@ -8,10 +8,11 @@
     "date:inception_upper": "1979-12-31",
     "edtf:cessation": "197X",
     "edtf:inception": "197X",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-149.968401,61.173606,-149.968401,61.173606",
+    "geom:latitude": 61.173606,
+    "geom:longitude": -149.968401,
+    "iso:country": "US",
     "millsfield:airline_id": [
       1159283813,
       1159284397
@@ -30,6 +31,7 @@
     ],
     "millsfield:primary_image": 1762708513,
     "millsfield:subcategory_id": 1511213363,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1781",
     "sfomuseum:aircraft": "Boeing 727",
@@ -57,7 +59,10 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1970s.",
     "sfomuseum:subcategory": "Postcard",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102531979
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -66,17 +71,22 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      102531979,
+      102085881,
+      85915707,
+      85850461,
+      85688573
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1641341359,
     "wof:depicts": [
+      1159288207,
       1159283813,
       1159284397,
-      102531979,
-      1159288207
+      102531979
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "ccd73504384d365aefb49bc43960646c",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -91,10 +101,20 @@
         "object_id": 1762685581,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102531979,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085881,
+        "locality_id": 85915707,
+        "neighbourhood_id": 85850461,
+        "object_id": 1762685581,
+        "region_id": 85688573
       }
     ],
     "wof:id": 1762685581,
-    "wof:lastmodified": 1646874797,
+    "wof:lastmodified": 1646944842,
     "wof:name": "postcard: Anchorage International Airport, Alaska Airlines, Flying Tiger Airlines, Boeing 727, Convair 990, Lockheed Constellation, Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -104,10 +124,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -149.968401,
+    61.173606,
+    -149.968401,
+    61.173606
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-149.968401,61.173606]],"type":"MultiPoint"}
 }

@@ -10,10 +10,10 @@
     "edtf:date": "2004",
     "edtf:inception": "2004",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "-73.787845,40.643286,-73.787845,40.643286",
+    "geom:latitude": 40.643286,
+    "geom:longitude": -73.787845,
+    "iso:country": "US",
     "millsfield:aircraft_id": [
       1159290043
     ],
@@ -31,6 +31,7 @@
     ],
     "millsfield:subcategory_id": 1511213401,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0049",
     "sfomuseum:aircraft": "Bombardier CRJ",
@@ -62,38 +63,45 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 2004.",
     "sfomuseum:subcategory": "Slide",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102534365
+    ],
     "wof:belongsto": [
-      1511214209,
       102527513,
       102191575,
       85633793,
-      1511213401,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      421205767,
+      102534365,
+      102082377,
+      85977539,
+      907131691,
+      85688543
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "US",
     "wof:created": 1618962231,
     "wof:depicts": [
+      1528104585,
+      1159287931,
+      1159290043,
       1159293567,
       1159284191,
       1159284271,
-      102534365,
-      1528104585,
-      1159287931,
-      1159290043
+      102534365
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213401,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214209,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -101,12 +109,22 @@
         "neighbourhood_id": -1,
         "object_id": 1511926017,
         "region_id": 85688637,
-        "venue_id": 1511926017,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1511926017,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1511926017,
-    "wof:lastmodified": 1646874773,
+    "wof:lastmodified": 1646944845,
     "wof:name": "slide: Delta Connection (Comair), Bombardier CRJ200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -117,10 +135,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -73.787845,
+    40.643286,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
 }

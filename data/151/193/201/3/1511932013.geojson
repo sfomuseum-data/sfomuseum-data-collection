@@ -10,10 +10,10 @@
     "edtf:date": "1986",
     "edtf:inception": "1986",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "-77.453702,38.949246,-77.453702,38.949246",
+    "geom:latitude": 38.949246,
+    "geom:longitude": -77.453702,
+    "iso:country": "US",
     "loc:subject_headings": [
       "sh85002960"
     ],
@@ -28,6 +28,7 @@
     "millsfield:primary_image": 1527849779,
     "millsfield:subcategory_id": 1511213425,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2008.055.946",
     "sfomuseum:airport": "Dulles International Airport",
@@ -54,32 +55,36 @@
     "sfomuseum:publication": ": , 1986.",
     "sfomuseum:subcategory": "Timetable",
     "sfomuseum:subject": "Airports",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102528817
+    ],
     "wof:belongsto": [
-      1511214223,
       102527513,
       102191575,
       85633793,
-      1511213425,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      102528817,
+      102084951,
+      85688747
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "US",
     "wof:created": 1579906677,
     "wof:depicts": [
       102528817
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "99a24076fefe979035d415054169e2fd",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213425,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214223,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -87,12 +92,19 @@
         "neighbourhood_id": -1,
         "object_id": 1511932013,
         "region_id": 85688637,
-        "venue_id": 1511932013,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102528817,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084951,
+        "object_id": 1511932013,
+        "region_id": 85688747
       }
     ],
     "wof:id": 1511932013,
-    "wof:lastmodified": 1646874765,
+    "wof:lastmodified": 1646944845,
     "wof:name": "timetable: Washington Dulles International Airport, winter and spring schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -103,10 +115,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -77.453702,
+    38.949246,
+    -77.453702,
+    38.949246
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-77.453702,38.949246]],"type":"MultiPoint"}
 }

@@ -10,10 +10,10 @@
     "edtf:date": "1996~",
     "edtf:inception": "1996~",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "2.431220,48.952922,2.542809,49.007854",
+    "geom:latitude": 48.980388000000005,
+    "geom:longitude": 2.4870145,
+    "iso:country": "",
     "millsfield:airport_id": [
       102544459,
       102544455
@@ -22,6 +22,7 @@
     "millsfield:collection_id": 1511214217,
     "millsfield:subcategory_id": 1511213325,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.023.036",
     "sfomuseum:airport": "Paris Charles de Gaulle Airport",
@@ -49,33 +50,50 @@
     "sfomuseum:publisher_location": "Shrewsbury, England",
     "sfomuseum:subcategory": "Book",
     "sfomuseum:subject": "A‚eroport d'Orly (Paris, France)",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102544459,
+      102544455
+    ],
     "wof:belongsto": [
-      1511214231,
       102527513,
       102191575,
       85633793,
-      1511213325,
       85922583,
       102087579,
-      1511214277,
-      1511214217,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      102544459,
+      102191581,
+      85633147,
+      102066709,
+      404396781,
+      101751311,
+      404228003,
+      404227465,
+      85683451,
+      102544455,
+      102065873,
+      404417837,
+      101749819,
+      404227789,
+      85683475
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "",
     "wof:created": 1618962238,
     "wof:depicts": [
       102544455,
       102544459
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "0f485c46db4b333d76884dfaad4a977d",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213325,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214231,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -83,12 +101,37 @@
         "neighbourhood_id": -1,
         "object_id": 1511928725,
         "region_id": 85688637,
-        "venue_id": 1511928725,
-        "wing_id": 1511214217
+        "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102544459,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102066709,
+        "localadmin_id": 404396781,
+        "locality_id": 101751311,
+        "macrocounty_id": 404228003,
+        "macroregion_id": 404227465,
+        "neighbourhood_id": -1,
+        "object_id": 1511928725,
+        "region_id": 85683451
+      },
+      {
+        "campus_id": 102544455,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102065873,
+        "localadmin_id": 404417837,
+        "locality_id": 101749819,
+        "macrocounty_id": 404227789,
+        "macroregion_id": 404227465,
+        "neighbourhood_id": -1,
+        "object_id": 1511928725,
+        "region_id": 85683475
       }
     ],
     "wof:id": 1511928725,
-    "wof:lastmodified": 1646874779,
+    "wof:lastmodified": 1646944847,
     "wof:name": "Paris airports: Orly, Charles de Gaulle, Le Bourget",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -99,10 +142,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    2.43122,
+    48.952922,
+    2.542809,
+    49.007854
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[2.542809,49.007854],[2.43122,48.952922]],"type":"MultiPoint"}
 }

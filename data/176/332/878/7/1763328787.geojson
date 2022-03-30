@@ -2,38 +2,51 @@
   "id": 1763328787,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1977-01-01",
-    "date:cessation_upper": "1977-12-31",
-    "date:inception_lower": "1977-01-01",
-    "date:inception_upper": "1977-12-31",
-    "edtf:cessation": "1977~",
-    "edtf:inception": "1977~",
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1980-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980",
+    "edtf:inception": "1980",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:airline_id": [
+      1159286455
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159286951
+    ],
+    "millsfield:images": [
+      1763380403
+    ],
+    "millsfield:primary_image": 1763380403,
     "millsfield:subcategory_id": 1511213361,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.010.130",
     "sfomuseum:airline": "Braniff International",
+    "sfomuseum:airline_id": [
+      1378
+    ],
     "sfomuseum:category": "Passenger Amenity, Museum",
     "sfomuseum:classification_id": 126,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
-    "sfomuseum:date": "c. 1977",
+    "sfomuseum:date": "1980",
     "sfomuseum:date_acquired": "2006-03-26",
-    "sfomuseum:daterange_end": "1982-12-31",
-    "sfomuseum:daterange_start": "1972-01-01",
+    "sfomuseum:daterange_end": "1980-12-31",
+    "sfomuseum:daterange_start": "1980-01-01",
     "sfomuseum:description": "Deck of playing cards issued by Braniff International; dark red box with white airline logotype in double-ended format; box sealed.",
     "sfomuseum:dimensions": "3 3/4 x 2 1/4 x 3/4 inches (9.5 x 5.7 x 1.9 cm)",
     "sfomuseum:issues_held": "1988",
     "sfomuseum:medium": "cardboard, plastic, ink",
     "sfomuseum:object_id": 81000,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , c. 1977.",
+    "sfomuseum:publication": ": , 1980.",
     "sfomuseum:subcategory": "Playing Cards",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -48,6 +61,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1647935051,
+    "wof:depicts": [
+      1159286455,
+      1159286951
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -66,7 +83,7 @@
       }
     ],
     "wof:id": 1763328787,
-    "wof:lastmodified": 1647935051,
+    "wof:lastmodified": 1648683806,
     "wof:name": "playing cards: Braniff International",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

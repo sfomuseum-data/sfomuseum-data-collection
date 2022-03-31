@@ -16,7 +16,7 @@
     "iso:country": "XZ",
     "millsfield:airport_id": [
       102531041,
-      -1,
+      1746899345,
       102529283,
       1360695653
     ],
@@ -87,16 +87,36 @@
     "wof:country": "XZ",
     "wof:created": 1579906679,
     "wof:depicts": [
-      102529283,
-      1360695653,
-      85921881,
       85688637,
       85633793,
       1746899345,
-      102531041
+      102531041,
+      102529283,
+      1360695653,
+      85921881
     ],
     "wof:geomhash": "7f8678da2ae31e50b0d83f99ea5807a3",
     "wof:hierarchy": [
+      {
+        "campus_id": 102531041,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "neighbourhood_id": 1108794155,
+        "object_id": 1511910163,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102529283,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921923,
+        "neighbourhood_id": 85859035,
+        "object_id": 1511910163,
+        "region_id": 85688637
+      },
       {
         "campus_id": 1360695653,
         "continent_id": 102191575,
@@ -128,30 +148,10 @@
         "object_id": 1511910163,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102531041,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086959,
-        "locality_id": 85921881,
-        "neighbourhood_id": 1108794155,
-        "object_id": 1511910163,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 102529283,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086959,
-        "locality_id": 85921923,
-        "neighbourhood_id": 85859035,
-        "object_id": 1511910163,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1511910163,
-    "wof:lastmodified": 1646944843,
+    "wof:lastmodified": 1648682547,
     "wof:name": "map: San Francisco Bay Area, airfields",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

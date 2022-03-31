@@ -2,37 +2,50 @@
   "id": 1763350699,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1980-01-01",
-    "date:cessation_upper": "1989-12-31",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1989-12-31",
-    "edtf:cessation": "198X",
-    "edtf:inception": "198X",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1979-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1979-12-31",
+    "edtf:cessation": "197X",
+    "edtf:inception": "197X",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:airline_id": [
+      1159285787
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159288505
+    ],
+    "millsfield:images": [
+      1763380601
+    ],
+    "millsfield:primary_image": 1763380601,
     "millsfield:subcategory_id": 1511213361,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2010.106.035",
     "sfomuseum:airline": "JALcargo (Japan Airlines)",
+    "sfomuseum:airline_id": [
+      1065
+    ],
     "sfomuseum:category": "Passenger Amenity, Museum",
     "sfomuseum:classification_id": 126,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
-    "sfomuseum:date": "1980s",
+    "sfomuseum:date": "1970s",
     "sfomuseum:date_acquired": "2011-02-24",
-    "sfomuseum:daterange_end": "1989-12-31",
-    "sfomuseum:daterange_start": "1980-01-01",
+    "sfomuseum:daterange_end": "1979-12-31",
+    "sfomuseum:daterange_start": "1970-01-01",
     "sfomuseum:description": "Double deck of bridge cards issued by Japan Air Lines; in case with black base and clear top; one blue and one red deck with gold airline servicemark and logotype for JALCargo; box sealed.",
     "sfomuseum:dimensions": "3 3/4 x 5 x 1 inches (9.5 x 12.7 x 2.5 cm)",
     "sfomuseum:medium": "cardboard, plastic, ink",
     "sfomuseum:object_id": 107902,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1980s.",
+    "sfomuseum:publication": ": , 1970s.",
     "sfomuseum:subcategory": "Playing Cards",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -47,6 +60,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1648280483,
+    "wof:depicts": [
+      1159288505,
+      1159285787
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -65,7 +82,7 @@
       }
     ],
     "wof:id": 1763350699,
-    "wof:lastmodified": 1648280483,
+    "wof:lastmodified": 1648683806,
     "wof:name": "playing cards: Japan Air Lines, JALCargo, double deck bridge set",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

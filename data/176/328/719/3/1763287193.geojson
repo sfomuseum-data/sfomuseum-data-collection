@@ -2,38 +2,51 @@
   "id": 1763287193,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1960-01-01",
-    "date:cessation_upper": "1969-12-31",
-    "date:inception_lower": "1960-01-01",
-    "date:inception_upper": "1969-12-31",
-    "edtf:cessation": "196X",
-    "edtf:inception": "196X",
+    "date:cessation_lower": "1953-01-01",
+    "date:cessation_upper": "1953-12-31",
+    "date:inception_lower": "1953-01-01",
+    "date:inception_upper": "1953-12-31",
+    "edtf:cessation": "1953",
+    "edtf:inception": "1953",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:airline_id": [
+      1159283849
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1360700619
+    ],
+    "millsfield:images": [
+      1763379647
+    ],
+    "millsfield:primary_image": 1763379647,
     "millsfield:subcategory_id": 1511213361,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2002.095.035",
     "sfomuseum:aircraft": "Douglas DC-7C",
     "sfomuseum:airline": "American Airlines",
+    "sfomuseum:airline_id": [
+      169
+    ],
     "sfomuseum:category": "Passenger Amenity, Museum",
     "sfomuseum:classification_id": 126,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
-    "sfomuseum:date": "1960s",
+    "sfomuseum:date": "1953",
     "sfomuseum:date_acquired": "2003-10-23",
-    "sfomuseum:daterange_end": "1969-12-31",
-    "sfomuseum:daterange_start": "1960-01-01",
+    "sfomuseum:daterange_end": "1953-12-31",
+    "sfomuseum:daterange_start": "1953-01-01",
     "sfomuseum:description": "Deck of playing cards issued by American Airlines; gold box with green fabric cover and single blue and white playing card over front, depicting airline logo and stylized gold text,“DC-7C” in double-ended format; green felt sides; unsealed.",
     "sfomuseum:dimensions": "3 3/4 x 2 1/2 x 3/32 inches (9.5 x 6.4 x .3 cm)",
     "sfomuseum:medium": "cardboard, fabric, ink",
     "sfomuseum:object_id": 67584,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1960s.",
+    "sfomuseum:publication": ": , 1953.",
     "sfomuseum:subcategory": "Playing Cards",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -48,6 +61,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1647416626,
+    "wof:depicts": [
+      1360700619,
+      1159283849
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -66,7 +83,7 @@
       }
     ],
     "wof:id": 1763287193,
-    "wof:lastmodified": 1647416626,
+    "wof:lastmodified": 1648683806,
     "wof:name": "playing cards: American Airlines, DC-7C",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

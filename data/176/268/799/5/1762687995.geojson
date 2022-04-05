@@ -14,7 +14,7 @@
     "geom:longitude": -118.38951,
     "iso:country": "US",
     "millsfield:aircraft_id": [
-      1159289619
+      1159291095
     ],
     "millsfield:airline_id": [
       1159284989
@@ -25,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159293593
+      1159293697
     ],
     "millsfield:images": [
       1762711369,
@@ -38,7 +38,7 @@
     "sfomuseum:accession_number": "2015.166.2048",
     "sfomuseum:aircraft": "Lockheed L-049 Constellation",
     "sfomuseum:aircraft_id": [
-      118
+      791
     ],
     "sfomuseum:airline": "Pan American World Airways",
     "sfomuseum:airline_id": [
@@ -85,6 +85,8 @@
     "wof:country": "US",
     "wof:created": 1641342162,
     "wof:depicts": [
+      1159291095,
+      1159293697,
       1159284989,
       102533795,
       1159289619,
@@ -92,17 +94,6 @@
     ],
     "wof:geomhash": "fecd3d7ab1fc2bc81dc4fce83bbb8c45",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533795,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086957,
-        "locality_id": 85923517,
-        "macrohood_id": 1108692797,
-        "neighbourhood_id": 85856747,
-        "object_id": 1762687995,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -116,10 +107,21 @@
         "object_id": 1762687995,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85856747,
+        "object_id": 1762687995,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762687995,
-    "wof:lastmodified": 1647934902,
+    "wof:lastmodified": 1648683110,
     "wof:name": "postcard: Los Angeles Airport, Lockheed L-049 Clipper, Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

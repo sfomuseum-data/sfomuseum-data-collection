@@ -13,6 +13,9 @@
     "geom:latitude": 49.19333,
     "geom:longitude": -123.1792,
     "iso:country": "CA",
+    "millsfield:aircraft_id": [
+      1159292335
+    ],
     "millsfield:airline_id": [
       1159284217
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288301
+      1159294175
     ],
     "millsfield:images": [
       1762712885,
@@ -33,7 +36,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2381",
-    "sfomuseum:aircraft": "Bristol Britannia 312",
+    "sfomuseum:aircraft": "Bristol Model 312 Britannia",
+    "sfomuseum:aircraft_id": [
+      1356
+    ],
     "sfomuseum:airline": "Canadian Pacific Airlines",
     "sfomuseum:airline_id": [
       335
@@ -80,9 +86,11 @@
     "wof:country": "CA",
     "wof:created": 1641344217,
     "wof:depicts": [
+      1159288301,
+      1159292335,
+      1159294175,
       1159284217,
-      102555307,
-      1159288301
+      102555307
     ],
     "wof:geomhash": "31051e825b3185d67348489e5c718227",
     "wof:hierarchy": [
@@ -112,7 +120,7 @@
       }
     ],
     "wof:id": 1762694151,
-    "wof:lastmodified": 1646944841,
+    "wof:lastmodified": 1649749419,
     "wof:name": "postcard: Vancouver Airport, Canadian Pacific Airlines Bristol Britannia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

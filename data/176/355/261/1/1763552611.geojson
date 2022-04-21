@@ -1,5 +1,5 @@
 {
-  "id": 1763136979,
+  "id": 1763552611,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "1960-01-01",
@@ -12,31 +12,42 @@
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1746152533,
-    "millsfield:collection_id": 1511214203,
-    "millsfield:images": [
-      1763137481
+    "millsfield:airline_id": [
+      1159285393
     ],
-    "millsfield:primary_image": 1763137481,
-    "millsfield:subcategory_id": 1746152535,
+    "millsfield:category_id": 1511214245,
+    "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159287531
+    ],
+    "millsfield:images": [
+      1763552627
+    ],
+    "millsfield:primary_image": 1763552627,
+    "millsfield:subcategory_id": 1511213417,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2015.146.002 b",
-    "sfomuseum:category": "Beverage Service",
-    "sfomuseum:classification_id": 560,
+    "sfomuseum:accession_number": "2020.044.038",
+    "sfomuseum:airline": "TWA (Trans World Airlines)",
+    "sfomuseum:airline_id": [
+      874
+    ],
+    "sfomuseum:category": "Meal Service",
+    "sfomuseum:classification_id": 154,
     "sfomuseum:collection": "Aviation Museum",
-    "sfomuseum:creditline": "Gift of Harriet Blomkvist Hiram",
+    "sfomuseum:creditline": "Gift of Shirley A. Rohe",
     "sfomuseum:date": "1960s",
-    "sfomuseum:date_acquired": "2015-12-03",
+    "sfomuseum:date_acquired": "2020-08-03",
     "sfomuseum:daterange_end": "1969-12-31",
     "sfomuseum:daterange_start": "1960-01-01",
-    "sfomuseum:description": "Demitasse saucer issued by Pan American World Airways for inflight beverage service; “President” pattern; white saucer with logo near top rim and blue stripe near interior rim; manufacturer name on bottom.",
-    "sfomuseum:dimensions": "4 x 7 x 7 inches (10.2 x 17.8 x 17.8 cm)",
-    "sfomuseum:maker": "Noritake",
-    "sfomuseum:medium": "glazed porcelain",
-    "sfomuseum:object_id": 187620,
+    "sfomuseum:description": "Fork issued by Trans World Airlines for inflight meal service; silver metal with logotype embossed on tapered handle.",
+    "sfomuseum:dimensions": "6 1/2 x 1 x 1 inches (16.5 x 2.5 x 2.5 cm)",
+    "sfomuseum:maker": "International Silver Company",
+    "sfomuseum:medium": "metal",
+    "sfomuseum:object_id": 217326,
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1960s.",
-    "sfomuseum:subcategory": "Coffee cup / Teacup / Saucer",
+    "sfomuseum:subcategory": "Flatware",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -49,7 +60,11 @@
       1159160869
     ],
     "wof:country": "XY",
-    "wof:created": 1645561695,
+    "wof:created": 1650527218,
+    "wof:depicts": [
+      1159287531,
+      1159285393
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -62,14 +77,14 @@
         "county_id": 102087579,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "object_id": 1763136979,
+        "object_id": 1763552611,
         "region_id": 85688637,
         "wing_id": 1159160869
       }
     ],
-    "wof:id": 1763136979,
-    "wof:lastmodified": 1650527122,
-    "wof:name": "saucer: Pan American World Airways, President class service",
+    "wof:id": 1763552611,
+    "wof:lastmodified": 1650527359,
+    "wof:name": "fork: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

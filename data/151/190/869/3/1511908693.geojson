@@ -2,9 +2,13 @@
   "id": 1511908693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1999-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "1999~",
     "edtf:date": "",
-    "edtf:inception": "",
+    "edtf:inception": "1999~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -35,7 +39,10 @@
     "sfomuseum:classification_id": 22,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of The Henry Steiner Air Sickness Bag Collection",
+    "sfomuseum:date": "c. 1999",
     "sfomuseum:date_acquired": "1999-07-13",
+    "sfomuseum:daterange_end": "2004-12-31",
+    "sfomuseum:daterange_start": "1994-01-01",
     "sfomuseum:description": "Airsickness bag and seat occupied card issued by Mexicana Airlines; white and blue bag with servicemark and text “Seat occupied”; gusset wedge, adhesive closure.",
     "sfomuseum:dimensions": "11 x 4 3/4 inches (27.9 x 12.1 cm)",
     "sfomuseum:media_ids": [
@@ -46,6 +53,7 @@
     "sfomuseum:object_id": 47823,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527852875,
+    "sfomuseum:publication": ": , c. 1999.",
     "sfomuseum:subcategory": "Airsickness Bag",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -83,7 +91,7 @@
       }
     ],
     "wof:id": 1511908693,
-    "wof:lastmodified": 1646874804,
+    "wof:lastmodified": 1650612637,
     "wof:name": "airsickness bag / seat occupied card: Mexicana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

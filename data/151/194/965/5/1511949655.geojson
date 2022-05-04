@@ -10,10 +10,10 @@
     "edtf:date": "2010",
     "edtf:inception": "2010",
     "geom:area": 0,
-    "geom:bbox": "121.233152,25.078566,121.233152,25.078566",
-    "geom:latitude": 25.078566,
-    "geom:longitude": 121.233152,
-    "iso:country": "",
+    "geom:bbox": "121.233152,25.078566,140.395257,35.755744",
+    "geom:latitude": 30.417155,
+    "geom:longitude": 130.8142045,
+    "iso:country": "XZ",
     "millsfield:airline_id": [
       1159285413
     ],
@@ -21,8 +21,8 @@
       102551487,
       1746879101
     ],
-    "millsfield:category_id": 1511214243,
-    "millsfield:collection_id": 1511214203,
+    "millsfield:category_id": 1762671311,
+    "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159288779
     ],
@@ -67,7 +67,8 @@
     "sfomuseum:subcategory": "Menu",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
-      102551487
+      102551487,
+      1746879101
     ],
     "wof:belongsto": [
       1159162825,
@@ -83,19 +84,33 @@
       85632403,
       1108499669,
       1108808543,
-      85679589
+      85679589,
+      1746879101,
+      85632429,
+      890524535,
+      102031933,
+      85672797
     ],
     "wof:breaches": [],
-    "wof:country": "",
+    "wof:country": "XZ",
     "wof:created": 1579906667,
     "wof:depicts": [
-      1746879101,
       1159288779,
       1159285413,
-      102551487
+      102551487,
+      1746879101
     ],
-    "wof:geomhash": "11d266d5240266b6bc0b2efd15b1aa7a",
+    "wof:geomhash": "a2edaec2b753dc25d0c2ec9d799aa243",
     "wof:hierarchy": [
+      {
+        "campus_id": 1746879101,
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 890524535,
+        "locality_id": 102031933,
+        "object_id": 1511949655,
+        "region_id": 85672797
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -121,7 +136,7 @@
       }
     ],
     "wof:id": 1511949655,
-    "wof:lastmodified": 1648682347,
+    "wof:lastmodified": 1651700040,
     "wof:name": "menu: United Airlines, Business Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -134,8 +149,8 @@
   "bbox": [
     121.233152,
     25.078566,
-    121.233152,
-    25.078566
+    140.395257,
+    35.755744
   ],
-  "geometry": {"coordinates":[[121.233152,25.078566]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[121.233152,25.078566],[140.395257,35.755744]],"type":"MultiPoint"}
 }

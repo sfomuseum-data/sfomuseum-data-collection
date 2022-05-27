@@ -14,7 +14,7 @@
     "geom:longitude": -73.787845,
     "iso:country": "US",
     "millsfield:airline_id": [
-      1159284693
+      1159284695
     ],
     "millsfield:airport_id": [
       1746879091
@@ -34,9 +34,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.0751",
     "sfomuseum:aircraft": "Douglas DC-8-63",
-    "sfomuseum:airline": "Loftleiðir Icelandic",
+    "sfomuseum:airline": "Icelandic Airlines",
     "sfomuseum:airline_id": [
-      552
+      553
     ],
     "sfomuseum:airport": "New York International Airport",
     "sfomuseum:airport_id": [
@@ -80,23 +80,13 @@
     "wof:country": "US",
     "wof:created": 1641340576,
     "wof:depicts": [
-      1159284693,
       1746879091,
-      1159288801
+      1159288801,
+      1159284695,
+      1159284693
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
-      {
-        "borough_id": 421205767,
-        "campus_id": 1746879091,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762683155,
-        "region_id": 85688543
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -110,10 +100,21 @@
         "object_id": 1762683155,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 421205767,
+        "campus_id": 1746879091,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762683155,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1762683155,
-    "wof:lastmodified": 1646944841,
+    "wof:lastmodified": 1653637666,
     "wof:name": "postcard: Loftleidir Icelandic Airlines, Douglas DC-8-63, New York JFK airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

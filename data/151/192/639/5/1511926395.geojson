@@ -18,7 +18,7 @@
       1159289939
     ],
     "millsfield:airline_id": [
-      1159284841
+      1159285801
     ],
     "millsfield:airport_id": [
       102527513
@@ -43,7 +43,7 @@
     ],
     "sfomuseum:airline": "National Airlines",
     "sfomuseum:airline_id": [
-      618
+      1071
     ],
     "sfomuseum:airport": "San Francisco International Airport",
     "sfomuseum:airport_id": [
@@ -85,15 +85,30 @@
     "wof:country": "US",
     "wof:created": 1618962232,
     "wof:depicts": [
+      1159284841,
+      1159285801,
       102527513,
       1159289935,
       1159288429,
       1159293593,
-      1159289939,
-      1159284841
+      1159289939
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1511926395,
+        "region_id": 85688637,
+        "wing_id": 1159160869
+      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -111,24 +126,10 @@
         "county_id": 102085387,
         "object_id": 1511926395,
         "region_id": 85688637
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1511926395,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1511926395,
-    "wof:lastmodified": 1649405534,
+    "wof:lastmodified": 1658217155,
     "wof:name": "slide: National Airlines, Boeing 757-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

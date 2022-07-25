@@ -26,7 +26,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159294331
+      1159287931
     ],
     "millsfield:images": [
       1763442111
@@ -40,7 +40,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0705",
-    "sfomuseum:aircraft": "British Aerospace Jetstream 41",
+    "sfomuseum:aircraft": "British Aerospace Jetstream 42",
     "sfomuseum:aircraft_id": [
       332
     ],
@@ -93,6 +93,7 @@
     "wof:country": "US",
     "wof:created": 1618962233,
     "wof:depicts": [
+      1159287931,
       1159290101,
       1159294331,
       102534365,
@@ -100,6 +101,17 @@
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1511926711,
+        "region_id": 85688543
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -113,21 +125,10 @@
         "object_id": 1511926711,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1511926711,
-        "region_id": 85688543
       }
     ],
     "wof:id": 1511926711,
-    "wof:lastmodified": 1649405533,
+    "wof:lastmodified": 1658735419,
     "wof:name": "slide: Delta Connection, BAe Jetstream 41, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -10,9 +10,9 @@
     "edtf:date": "1935-11-22",
     "edtf:inception": "1935-11-22",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.431272,37.778008,-75.168428,39.990821",
+    "geom:latitude": 38.8844145,
+    "geom:longitude": -98.79985,
     "iso:country": "XX",
     "millsfield:aircraft_id": [
       1159291191
@@ -54,6 +54,8 @@
     "sfomuseum:daterange_start": "1935-11-22",
     "sfomuseum:description": "a. Green cachet with image of Martin M-130 and text, “First Flight / Trans-Pacific F.A.M. Route 14,” postmarked San Francisco, November 22, 1935; handwritten address to Albert Ewell, Jr., Philadelphia, Pennsylvania; single blue 25-cent postage stamp at upper right corner; backstamp Honolulu, Hawaii, November 23, 1935.\rb. Enclosure, handwritten correspondence, dated October 28, 1935, from Emma Kind Ewell to Albert Ewell, Jr.\rc. Enclosed blue 25-cent postage stamp.",
     "sfomuseum:dimensions": "3 3/4 x 5 3/4 inches (9.5 x 14.6 cm)",
+    "sfomuseum:flightcover_address_to": 101718083,
+    "sfomuseum:flightcover_postmark_sent": 85922583,
     "sfomuseum:media_ids": [
       1527856341,
       1527856343,
@@ -66,7 +68,11 @@
     "sfomuseum:primary_media_id": 1527856341,
     "sfomuseum:publication": ": , 11/22/1935.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "flightcover-postmark-sent",
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -87,7 +93,7 @@
       1159286839,
       1159291191
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "951532228b1ad4a98c455174639408be",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -106,21 +112,32 @@
       }
     ],
     "wof:id": 1511957059,
-    "wof:lastmodified": 1646874780,
+    "wof:lastmodified": 1659661204,
     "wof:name": "airmail flight cover: Pan American Airways, FAM-14, San Francisco (Alameda) - Honolulu route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      404483701,
+      101718083,
+      85633793,
+      85688481,
+      102081353
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -122.431272,
+    37.778008,
+    -75.168428,
+    39.990821
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-122.431272,37.778008],[-75.168428,39.990821]],"type":"MultiPoint"}
 }

@@ -10,9 +10,9 @@
     "edtf:date": "1926-04-01",
     "edtf:inception": "1926-04-01",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-97.331810,25.766368,-80.210268,32.729442",
+    "geom:latitude": 29.247905,
+    "geom:longitude": -88.771039,
     "iso:country": "US",
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
@@ -38,6 +38,8 @@
     "sfomuseum:daterange_start": "1926-04-01",
     "sfomuseum:description": "a. Airmail flight cover, first flight inaugurating contract air mail from Miami, CAM-10; circular purple cachet with commemorative cancellation mark; postmarked April 1, 1926 in Miami with wavy cancellation mark over 10-cent stamp; backstamp: April 1, 1926, Jacksonville, Florida.\rb. Typed notation regarding flight, including airline Florida Airways Inc. and pilots’ names: N.W. Potter and Leonard S. Flo.",
     "sfomuseum:dimensions": "3 3/4 x 6 1/4 inches (9.5 x 15.9 cm)",
+    "sfomuseum:flightcover_address_to": 101724443,
+    "sfomuseum:flightcover_postmark_sent": 85933669,
     "sfomuseum:media_ids": [
       1527854389,
       1527820051,
@@ -49,7 +51,11 @@
     "sfomuseum:primary_media_id": 1527820051,
     "sfomuseum:publication": ": , 04/01/1926.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "flightcover-address-to",
+      "flightcover-postmark-sent"
+    ],
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -66,7 +72,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1579906661,
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "41189b672c9a6a95fd5ce6f80cb3c1d9",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -92,21 +98,31 @@
       }
     ],
     "wof:id": 1511922827,
-    "wof:lastmodified": 1646874767,
+    "wof:lastmodified": 1659741211,
     "wof:name": "airmail flight cover: First airmail flight, CAM-10, Miami - Jacksonville",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85933669,
+      85688651,
+      102191575,
+      85633793,
+      102083201,
+      101724443,
+      85688753,
+      102085771
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -97.33181,
+    25.766368,
+    -80.210268,
+    32.729442
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-97.33181,32.729442],[-80.210268,25.766368]],"type":"MultiPoint"}
 }

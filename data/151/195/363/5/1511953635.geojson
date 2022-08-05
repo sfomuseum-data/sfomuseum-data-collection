@@ -10,9 +10,9 @@
     "edtf:date": "1954-01-01",
     "edtf:inception": "1954-01-01",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-118.121307,33.797395,139.753910,35.695126",
+    "geom:latitude": 34.746260500000005,
+    "geom:longitude": 10.816301499999994,
     "iso:country": "XX",
     "millsfield:airline_id": [
       1159284989
@@ -45,6 +45,8 @@
     "sfomuseum:daterange_start": "1954-01-01",
     "sfomuseum:description": "Airmail flight cover, Pan American World Airways, international date line crossing; light blue cachet at left with text, “Jet Stream Service / Japan / Hawaii / Mailed in ’54 / Arrived in ’53”; postmarked January 1, 1954 in Tokyo with 7-cent postage stamp; backstamp: December 31, 1953 in Honolulu; addressed to Oscar H. Fatout.",
     "sfomuseum:dimensions": "3 1/2 x 6 1/2 inches (8.9 x 16.5 cm)",
+    "sfomuseum:flightcover_address_to": 85923525,
+    "sfomuseum:flightcover_postmark_sent": 102031307,
     "sfomuseum:media_ids": [
       1527832763,
       1527832765
@@ -55,7 +57,11 @@
     "sfomuseum:primary_media_id": 1527832763,
     "sfomuseum:publication": ": , 01/01/1954.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "flightcover-postmark-sent",
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -75,7 +81,7 @@
       1159284989,
       1159286839
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "7a132056f74b14e82a1ed7827421d1b4",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -94,21 +100,33 @@
       }
     ],
     "wof:id": 1511953635,
-    "wof:lastmodified": 1646874775,
+    "wof:lastmodified": 1659660914,
     "wof:name": "airmail flight cover: Pan American World Airways, Jet Stream Service, International Date Line",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      102086957,
+      102031307,
+      85672817,
+      85632429,
+      85923525,
+      85633793,
+      102191569,
+      1108741679,
+      85688637,
+      102191575
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -118.121307,
+    33.797395,
+    139.75391,
+    35.695126
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[139.75391,35.695126],[-118.121307,33.797395]],"type":"MultiPoint"}
 }

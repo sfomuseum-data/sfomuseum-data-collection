@@ -10,9 +10,9 @@
     "edtf:date": "1929-05-11",
     "edtf:inception": "1929-05-11",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.431272,37.778008,-93.810770,38.407800",
+    "geom:latitude": 38.092904000000004,
+    "geom:longitude": -108.12102100000001,
     "iso:country": "US",
     "millsfield:airline_id": [
       1159284001
@@ -46,6 +46,8 @@
     "sfomuseum:daterange_start": "1929-05-11",
     "sfomuseum:description": "Red and blue alternating design around exterior of envelope; purple cachet with route map of US with high wing monoplane; \"First Flight - May 11, 1919 / Transcontinental Night-Schedule / Boeing Air Transport / CAM 15\"; postmarked San Francisco, May 12, 1929; three US stamps, one green 1-cent 2 red 2-cent stamps with image of George Washington; addressed to M. James, Livingston, Mont.; two backstamps: Livingston, May 2, 6 PM with football shaped killer stamp and Butte, May 2, 1929.s",
     "sfomuseum:dimensions": "3 1/2 x 6 inches (8.9 x 15.2 cm)",
+    "sfomuseum:flightcover_address_to": 1310327797,
+    "sfomuseum:flightcover_postmark_sent": 85922583,
     "sfomuseum:media_ids": [
       1527821089
     ],
@@ -55,7 +57,11 @@
     "sfomuseum:primary_media_id": 1527821089,
     "sfomuseum:publication": ": , 05/11/1929.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "flightcover-address-to",
+      "flightcover-postmark-sent"
+    ],
     "wof:belongsto": [
       102191575,
       85633793,
@@ -76,7 +82,7 @@
       1159284001,
       1159287139
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "ee762df76afe7a98bae8be15d8912eb2",
     "wof:hierarchy": [
       {
         "continent_id": 102191575,
@@ -102,21 +108,32 @@
       }
     ],
     "wof:id": 1511922899,
-    "wof:lastmodified": 1646874767,
+    "wof:lastmodified": 1660073237,
     "wof:name": "airmail flight cover: Boeing Air Transport (BAT), CAM-18, San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85922583,
+      102191575,
+      85633793,
+      102080805,
+      404515631,
+      1310327797,
+      102087579,
+      85688661,
+      85688637
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -122.431272,
+    37.778008,
+    -93.81077,
+    38.4078
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-93.81077,38.4078],[-122.431272,37.778008]],"type":"MultiPoint"}
 }

@@ -10,12 +10,21 @@
     "edtf:date": "1926-07-17",
     "edtf:inception": "1926-07-17",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-87.660630,41.672118,-86.277976,41.878970",
+    "geom:latitude": 41.775544,
+    "geom:longitude": -86.969303,
+    "georeference:depictions": [
+      1527820003
+    ],
     "iso:country": "US",
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_sent": [
+      85942439
+    ],
+    "millsfield:flightcover_address_to": [
+      85940195
+    ],
     "millsfield:images": [
       1527820003,
       1527820005
@@ -47,7 +56,7 @@
     "sfomuseum:primary_media_id": 1527820003,
     "sfomuseum:publication": ": , 07/17/1926.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -64,7 +73,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1579906679,
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "476f38f0e7c9214310b29397f5326f63",
     "wof:hierarchy": [
       {
         "continent_id": 102191575,
@@ -90,21 +99,33 @@
       }
     ],
     "wof:id": 1511908961,
-    "wof:lastmodified": 1646874808,
+    "wof:lastmodified": 1660860039,
     "wof:name": "airmail flight cover: first airmail flight, CAM-27, South Bend, Indiana - Chicago route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85688697,
+      404496273,
+      85942439,
+      102086969,
+      404501471,
+      85940195,
+      85688709,
+      102191575,
+      102084317,
+      85633793
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -87.66063,
+    41.672118,
+    -86.277976,
+    41.87897
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-86.277976,41.672118],[-87.66063,41.87897]],"type":"MultiPoint"}
 }

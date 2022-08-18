@@ -10,9 +10,12 @@
     "edtf:date": "1988-06-07",
     "edtf:inception": "1988-06-07",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "4.899730,35.695126,139.753910,52.372430",
+    "geom:latitude": 44.033778,
+    "geom:longitude": 72.32682,
+    "georeference:depictions": [
+      1527853989
+    ],
     "iso:country": "JP",
     "millsfield:aircraft_id": [
       1159289927
@@ -24,6 +27,12 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159287387
+    ],
+    "millsfield:flightcover_address_sent": [
+      102031307
+    ],
+    "millsfield:flightcover_address_to": [
+      101751893
     ],
     "millsfield:images": [
       1527853987,
@@ -63,7 +72,7 @@
     "sfomuseum:primary_media_id": 1527853989,
     "sfomuseum:publication": ": , 06/07/1988.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       102191569,
       85632429,
@@ -82,13 +91,13 @@
     "wof:country": "JP",
     "wof:created": 1579906660,
     "wof:depicts": [
-      1159289873,
       1159293593,
       1159287387,
       1159289927,
-      1159284873
+      1159284873,
+      1159289873
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "970b3ad047fcba7d135e3512325702e1",
     "wof:hierarchy": [
       {
         "continent_id": 102191569,
@@ -113,21 +122,33 @@
       }
     ],
     "wof:id": 1511951549,
-    "wof:lastmodified": 1646874771,
+    "wof:lastmodified": 1660851261,
     "wof:name": "airmail flight cover: Nippon Cargo Airlines, Boeing 747F, Tokyo - Amsterdam route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      1108741679,
+      85633337,
+      102191569,
+      85632429,
+      85687053,
+      85672817,
+      101751893,
+      102191581,
+      102031307,
+      136253051
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    4.89973,
+    35.695126,
+    139.75391,
+    52.37243
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[139.75391,35.695126],[4.89973,52.37243]],"type":"MultiPoint"}
 }

@@ -10,10 +10,10 @@
     "edtf:date": "1960~",
     "edtf:inception": "1958",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geom:bbox": "50.152000,26.265400,50.152000,26.265400",
+    "geom:latitude": 26.2654,
+    "geom:longitude": 50.152,
+    "iso:country": "",
     "millsfield:airline_id": [
       1159285393
     ],
@@ -31,6 +31,7 @@
     "millsfield:primary_image": 1729566289,
     "millsfield:subcategory_id": 1511213663,
     "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2003.200.071.008",
     "sfomuseum:airline": "TWA (Trans World Airlines)",
@@ -46,6 +47,7 @@
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
     "sfomuseum:date": "1958",
+    "sfomuseum:date_acquired": "2022-04-18",
     "sfomuseum:daterange_end": "1958-12-31",
     "sfomuseum:daterange_start": "1958-01-01",
     "sfomuseum:description": "Baggage destination tag issued by TWA (Trans World Airlines), DHA (Dhahran, Saudi Arabia); yellow and blue with string attachment, form number 0-63A.",
@@ -55,34 +57,40 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1958.",
     "sfomuseum:subcategory": "Baggage Destination / Handling Tag",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102537437
+    ],
     "wof:belongsto": [
-      1511214223,
       102527513,
       102191575,
       85633793,
-      1511213663,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      102537437,
+      102191569,
+      85632253,
+      1108720599,
+      85676819
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "",
     "wof:created": 1618962249,
     "wof:depicts": [
       1159287531,
       1159285393,
       102537437
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "71d7a01b917703e4a02d5f7792f15c1b",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213663,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214223,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -90,12 +98,21 @@
         "neighbourhood_id": -1,
         "object_id": 1729564701,
         "region_id": 85688637,
-        "venue_id": 1729564701,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102537437,
+        "continent_id": 102191569,
+        "country_id": 85632253,
+        "county_id": 1108720599,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "object_id": 1729564701,
+        "region_id": 85676819
       }
     ],
     "wof:id": 1729564701,
-    "wof:lastmodified": 1648682457,
+    "wof:lastmodified": 1661154594,
     "wof:name": "baggage destination tag: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -106,10 +123,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    50.152,
+    26.2654,
+    50.152,
+    26.2654
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[50.152,26.2654]],"type":"MultiPoint"}
 }

@@ -47,6 +47,7 @@
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
     "sfomuseum:date": "1973",
+    "sfomuseum:date_acquired": "2022-04-18",
     "sfomuseum:daterange_end": "1973-12-31",
     "sfomuseum:daterange_start": "1973-01-01",
     "sfomuseum:description": "Baggage destination tag issued by TWA (Trans World Airlines), MCI (Kansas City, Missouri); white and red, form number PAS 270, serial number 735160; used.",
@@ -68,12 +69,13 @@
       102087579,
       85688637,
       102533051,
-      102085271,
       85970739,
       85851839,
       85688661,
       1159162825,
-      1159160869
+      1159160869,
+      102081227,
+      404518075
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -85,15 +87,6 @@
     ],
     "wof:geomhash": "18e2610a9a6a76fe61709378452ed71b",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533051,
-        "country_id": 85633793,
-        "county_id": 102085271,
-        "locality_id": 85970739,
-        "neighbourhood_id": 85851839,
-        "object_id": 1729564753,
-        "region_id": 85688661
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -107,10 +100,21 @@
         "object_id": 1729564753,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533051,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081227,
+        "localadmin_id": 404518075,
+        "locality_id": 85970739,
+        "neighbourhood_id": 85851839,
+        "object_id": 1729564753,
+        "region_id": 85688661
       }
     ],
     "wof:id": 1729564753,
-    "wof:lastmodified": 1646944843,
+    "wof:lastmodified": 1661154615,
     "wof:name": "baggage destination tag: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

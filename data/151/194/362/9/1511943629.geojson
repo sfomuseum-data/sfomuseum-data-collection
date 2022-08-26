@@ -2,13 +2,13 @@
   "id": 1511943629,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1950-01-01",
-    "date:cessation_upper": "1950-12-31",
+    "date:cessation_lower": "1950-04-01",
+    "date:cessation_upper": "1950-04-30",
     "date:inception_lower": "1950-01-01",
-    "date:inception_upper": "1950-12-31",
-    "edtf:cessation": "1950",
+    "date:inception_upper": "1950-01-31",
+    "edtf:cessation": "1950-04",
     "edtf:date": "1950",
-    "edtf:inception": "1950",
+    "edtf:inception": "1950-01",
     "geom:area": 0,
     "geom:bbox": "-122.391953,37.617990,-122.370943,37.624731",
     "geom:latitude": 37.621360499999994,
@@ -38,9 +38,9 @@
     "sfomuseum:classification_id": 518,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Transfer from San Francisco International Airport",
-    "sfomuseum:date": "1950",
+    "sfomuseum:date": "early 1950s",
     "sfomuseum:date_acquired": "2011-03-02",
-    "sfomuseum:daterange_end": "1950-12-31",
+    "sfomuseum:daterange_end": "1953-12-31",
     "sfomuseum:daterange_start": "1950-01-01",
     "sfomuseum:description": "Black and white photographic negative depicting oblique aerial view of buildings, San Francisco Airport; view facing southeast toward Administration Building, hangars, and runways.",
     "sfomuseum:dimensions": "3 1/4 x 4 1/4 inches (8.3 x 10.8 cm)",
@@ -51,7 +51,7 @@
     "sfomuseum:object_id": 114167,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527821545,
-    "sfomuseum:publication": ": , 1950.",
+    "sfomuseum:publication": ": , early 1950s.",
     "sfomuseum:subcategory": "Negative",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
@@ -75,47 +75,11 @@
     "wof:country": "US",
     "wof:created": 1579906683,
     "wof:depicts": [
-      1360695655,
-      102527513
+      102527513,
+      1360695655
     ],
     "wof:geomhash": "fda2c2562cae0b6b99a07b8f9ebb436d",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "object_id": 1511943629,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1511943629,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 1360695655,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "object_id": 1511943629,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 1360695655,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1511943629,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -129,10 +93,46 @@
         "object_id": 1511943629,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "object_id": 1511943629,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1511943629,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "object_id": 1511943629,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1511943629,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1511943629,
-    "wof:lastmodified": 1646944846,
+    "wof:lastmodified": 1661500404,
     "wof:name": "negative: San Francisco Airport, aerial",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -1,41 +1,45 @@
 {
-  "id": 1762692487,
+  "id": 1780347437,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-01-01",
-    "date:cessation_upper": "2016-12-31",
-    "date:inception_lower": "2016-01-01",
-    "date:inception_upper": "2016-12-31",
-    "edtf:cessation": "2016",
-    "edtf:inception": "2016",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "isbn:number": "0711238413, 9780711238411",
-    "millsfield:category_id": 1511214231,
-    "millsfield:collection_id": 1511214217,
-    "millsfield:subcategory_id": 1511213325,
+    "millsfield:airline_id": [
+      1159284989
+    ],
+    "millsfield:category_id": 1762679663,
+    "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159286839
+    ],
+    "millsfield:images": [
+      1780347441
+    ],
+    "millsfield:primary_image": 1780347441,
+    "millsfield:subcategory_id": 1511213563,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2017.025.008",
-    "sfomuseum:author": "Eiselin, Stefan; and Gutzmer, Alexander",
-    "sfomuseum:callnumber": "NA6300 .E37 2016",
-    "sfomuseum:category": "Book",
-    "sfomuseum:classification_id": 105,
-    "sfomuseum:collection": "Aviation Library",
-    "sfomuseum:creditline": "Purchase",
-    "sfomuseum:date": "2016",
-    "sfomuseum:date_acquired": "2017-03-02",
-    "sfomuseum:daterange_end": "2016-12-31",
-    "sfomuseum:daterange_start": "2016-01-01",
-    "sfomuseum:description_library": "192 pages ; illustrations, chiefly color ; 29 cm.",
-    "sfomuseum:object_id": 185580,
+    "sfomuseum:accession_number": "2022.087.007 a b",
+    "sfomuseum:airline": "Pan American World Airways",
+    "sfomuseum:airline_id": [
+      684
+    ],
+    "sfomuseum:category": "Passenger Amenity, Museum",
+    "sfomuseum:classification_id": 239,
+    "sfomuseum:collection": "Aviation Museum",
+    "sfomuseum:creditline": "Anonymous gift",
+    "sfomuseum:date_acquired": "2000-12-14",
+    "sfomuseum:description": "Lint brush issued by Pan American World Airways; flight attendant would have available for first class passengers. \ra. blue broad handle with black bristles, white flip-out lid with logo near edge;\rb. sealed in bag, sewing kit.",
+    "sfomuseum:dimensions": "3/4 x 4 1/4 x 1 3/4 inches (1.9 x 10.8 x 4.4 cm)",
+    "sfomuseum:medium": "plastic, ink",
+    "sfomuseum:object_id": 231677,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": "London: Frances Lincoln, 2016.",
-    "sfomuseum:publisher": "Frances Lincoln",
-    "sfomuseum:publisher_location": "London",
-    "sfomuseum:subcategory": "Book",
-    "sfomuseum:subject": "Airports -- Design.",
+    "sfomuseum:series": "Historic First Flights Series; cover illustrations by John T. McCoy",
+    "sfomuseum:subcategory": "Other, Passenger Amenity",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -47,11 +51,12 @@
       85688637,
       1159160869
     ],
-    "wof:concordances": {
-      "isbn:number": "0711238413, 9780711238411"
-    },
     "wof:country": "XY",
-    "wof:created": 1641343681,
+    "wof:created": 1661500494,
+    "wof:depicts": [
+      1159286839,
+      1159284989
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -64,14 +69,14 @@
         "county_id": 102087579,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "object_id": 1762692487,
+        "object_id": 1780347437,
         "region_id": 85688637,
         "wing_id": 1159160869
       }
     ],
-    "wof:id": 1762692487,
-    "wof:lastmodified": 1661500409,
-    "wof:name": "The art of the airport : the world's most beautiful terminals",
+    "wof:id": 1780347437,
+    "wof:lastmodified": 1661500649,
+    "wof:name": "lint brush kit: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

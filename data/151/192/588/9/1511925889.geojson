@@ -10,9 +10,12 @@
     "edtf:date": "1981-03-26",
     "edtf:inception": "1981-03-26",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "8.537087,47.373754,8.537087,47.373754",
+    "geom:latitude": 47.373754,
+    "geom:longitude": 8.537087,
+    "georeference:depictions": [
+      1527820451
+    ],
     "iso:country": "XX",
     "millsfield:aircraft_id": [
       1159290633
@@ -24,6 +27,9 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159288009
+    ],
+    "millsfield:flightcover_address_to": [
+      101748463
     ],
     "millsfield:images": [
       1527820451,
@@ -66,7 +72,7 @@
     "sfomuseum:publication": ": , 03/26/1981.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
     "sfomuseum:subject": "Airlines -- Commercial -- Swiss Air",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -87,7 +93,7 @@
       1159290633,
       1159288009
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "7b70126ce02d71713c93ff59eea161c4",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -106,21 +112,29 @@
       }
     ],
     "wof:id": 1511925889,
-    "wof:lastmodified": 1646874773,
+    "wof:lastmodified": 1662665996,
     "wof:name": "airmail flight cover: Swissair, 50th anniversary",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      1394254167,
+      101748463,
+      85682309,
+      102191581,
+      85633051,
+      102063071
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    8.537087,
+    47.373754,
+    8.537087,
+    47.373754
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[8.537087,47.373754]],"type":"MultiPoint"}
 }

@@ -10,9 +10,12 @@
     "edtf:date": "1959-04-26",
     "edtf:inception": "1959-04-26",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-80.210268,25.766368,-73.970800,40.682950",
+    "geom:latitude": 33.224659,
+    "geom:longitude": -77.09053399999999,
+    "georeference:depictions": [
+      1527834139
+    ],
     "iso:country": "XX",
     "millsfield:aircraft_id": [
       -1
@@ -24,6 +27,12 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159288429
+    ],
+    "millsfield:flightcover_address_sent": [
+      85933669
+    ],
+    "millsfield:flightcover_address_to": [
+      85977539
     ],
     "millsfield:images": [
       1527834139,
@@ -66,7 +75,7 @@
     "sfomuseum:primary_media_id": 1527834139,
     "sfomuseum:publication": ": , 04/26/1959.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -86,7 +95,7 @@
       1159288429,
       1159284841
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "11de9def85a69472126f8868e7b424b1",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -105,21 +114,35 @@
       }
     ],
     "wof:id": 1511954083,
-    "wof:lastmodified": 1646874776,
+    "wof:lastmodified": 1662670542,
     "wof:name": "airmail flight cover: National Airlines, Lockheed Prop-Jet Electra",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      102191575,
+      102085771,
+      85933669,
+      85688651,
+      85977539,
+      85633793,
+      102082377,
+      102083063,
+      102081863,
+      85688543,
+      102081779,
+      102082361
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -80.210268,
+    25.766368,
+    -73.9708,
+    40.68295
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-80.210268,25.766368],[-73.9708,40.68295]],"type":"MultiPoint"}
 }

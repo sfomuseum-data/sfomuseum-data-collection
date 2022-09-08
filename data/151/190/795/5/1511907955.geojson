@@ -10,15 +10,21 @@
     "edtf:date": "1928-12-17",
     "edtf:inception": "1928-12-17",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-87.660630,41.878970,-87.660630,41.878970",
+    "geom:latitude": 41.87897,
+    "geom:longitude": -87.66063,
+    "georeference:depictions": [
+      1527819819
+    ],
     "iso:country": "US",
     "millsfield:aircraft_id": [
       -1
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_to": [
+      85940195
+    ],
     "millsfield:images": [
       1527819819,
       1527819823
@@ -53,7 +59,7 @@
     "sfomuseum:primary_media_id": 1527819819,
     "sfomuseum:publication": ": , 12/17/1928.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -70,7 +76,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1579906681,
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "8b03eade794f3751a2e622cc6965508f",
     "wof:hierarchy": [
       {
         "continent_id": 102191575,
@@ -96,21 +102,29 @@
       }
     ],
     "wof:id": 1511907955,
-    "wof:lastmodified": 1646874808,
+    "wof:lastmodified": 1662666332,
     "wof:name": "airmail flight cover: Wright Brothers first flight, 25th Anniversary",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85633793,
+      102084317,
+      404496273,
+      85940195,
+      85688697,
+      102191575
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -87.66063,
+    41.87897,
+    -87.66063,
+    41.87897
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-87.66063,41.87897]],"type":"MultiPoint"}
 }

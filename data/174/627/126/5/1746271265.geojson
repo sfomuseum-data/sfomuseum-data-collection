@@ -9,9 +9,9 @@
     "edtf:cessation": "1998-07-05",
     "edtf:inception": "1998-07-05",
     "geom:area": 0,
-    "geom:bbox": "-122.363639,37.593912,-122.363639,37.593912",
-    "geom:latitude": 37.593912,
-    "geom:longitude": -122.363639,
+    "geom:bbox": "-122.431272,22.381131,114.135572,37.778008",
+    "geom:latitude": 32.58435033333333,
+    "geom:longitude": -43.553113,
     "georeference:depictions": [
       1746281451
     ],
@@ -21,6 +21,12 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_from": [
+      85922583
+    ],
+    "millsfield:flightcover_address_sent": [
+      890437279
+    ],
     "millsfield:flightcover_address_to": [
       85922537
     ],
@@ -77,7 +83,7 @@
     "wof:depicts": [
       1360691531
     ],
-    "wof:geomhash": "c0c04b2798db4b296512707ab2d6d19e",
+    "wof:geomhash": "57ad37b33818b1e2eb80e03204741a40",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -105,27 +111,34 @@
       }
     ],
     "wof:id": 1746271265,
-    "wof:lastmodified": 1662667476,
+    "wof:lastmodified": 1662677913,
     "wof:name": "airmail flight cover: Kai Tak Airport (Hong Kong)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
     "wof:references": [
-      85633793,
-      102085387,
-      85922537,
       85688637,
-      102191575
+      102085387,
+      102087579,
+      85671775,
+      85632483,
+      890437279,
+      102191575,
+      85922583,
+      85922537,
+      102191569,
+      85633793,
+      1159397233
     ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.363639,
-    37.593912,
-    -122.363639,
-    37.593912
+    -122.431272,
+    22.381131,
+    114.135572,
+    37.778008
   ],
-  "geometry": {"coordinates":[[-122.363639,37.593912]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.431272,37.778008],[-122.363639,37.593912],[114.135572,22.381131]],"type":"MultiPoint"}
 }

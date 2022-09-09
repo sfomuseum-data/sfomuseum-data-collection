@@ -10,9 +10,12 @@
     "edtf:date": "1947-06-30",
     "edtf:inception": "1947-06-30",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "100.644533,13.881591,120.992302,14.593819",
+    "geom:latitude": 14.237705,
+    "geom:longitude": 110.8184175,
+    "georeference:depictions": [
+      1527829359
+    ],
     "iso:country": "PH",
     "millsfield:airline_id": [
       1159284989
@@ -21,6 +24,12 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159286839
+    ],
+    "millsfield:flightcover_address_sent": [
+      1159397249
+    ],
+    "millsfield:flightcover_address_to": [
+      102025263
     ],
     "millsfield:images": [
       1527829359,
@@ -59,7 +68,7 @@
     "sfomuseum:primary_media_id": 1527829359,
     "sfomuseum:publication": ": , 6/30/1947.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -81,7 +90,7 @@
       1159284989,
       1159286839
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "98e811cba56ea8e328e251f8f447464c",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -106,21 +115,31 @@
       }
     ],
     "wof:id": 1511906947,
-    "wof:lastmodified": 1646874803,
+    "wof:lastmodified": 1662684161,
     "wof:name": "airmail flight cover: Pan American World Airways, Manila - Bangkok route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      890466393,
+      102025263,
+      85678739,
+      102191569,
+      85632509,
+      1159397249,
+      1159397243,
+      85632293
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    100.644533,
+    13.881591,
+    120.992302,
+    14.593819
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[120.992302,14.593819],[100.644533,13.881591]],"type":"MultiPoint"}
 }

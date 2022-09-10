@@ -18,8 +18,7 @@
       1159290043
     ],
     "millsfield:airline_id": [
-      1159284191,
-      1159284271
+      1159284191
     ],
     "millsfield:airport_id": [
       102534365
@@ -27,7 +26,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287931
+      1159288629
     ],
     "millsfield:images": [
       1763442453
@@ -42,10 +41,9 @@
     "sfomuseum:aircraft_id": [
       307
     ],
-    "sfomuseum:airline": "Delta Connection (Comair)",
+    "sfomuseum:airline": "ComAir (Delta Connection)",
     "sfomuseum:airline_id": [
-      324,
-      359
+      324
     ],
     "sfomuseum:airport": "John F. Kennedy International Airport",
     "sfomuseum:airport_id": [
@@ -91,16 +89,28 @@
     "wof:country": "US",
     "wof:created": 1618962231,
     "wof:depicts": [
-      1528104585,
-      1159287931,
-      1159290043,
       1159293567,
       1159284191,
       1159284271,
-      102534365
+      102534365,
+      1159288629,
+      1528104585,
+      1159287931,
+      1159290043
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1511926017,
+        "region_id": 85688543
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,21 +124,10 @@
         "object_id": 1511926017,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1511926017,
-        "region_id": 85688543
       }
     ],
     "wof:id": 1511926017,
-    "wof:lastmodified": 1649405535,
+    "wof:lastmodified": 1662796215,
     "wof:name": "slide: Delta Connection (Comair), Bombardier CRJ200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -17,7 +17,7 @@
       1159291129
     ],
     "millsfield:airline_id": [
-      1159284597
+      1159283863
     ],
     "millsfield:airport_id": [
       102531023
@@ -39,9 +39,9 @@
     "sfomuseum:aircraft_id": [
       806
     ],
-    "sfomuseum:airline": "Kalitta Air",
+    "sfomuseum:airline": "American International Airways",
     "sfomuseum:airline_id": [
-      507
+      176
     ],
     "sfomuseum:airport": "Miami International Airport",
     "sfomuseum:airport_id": [
@@ -87,10 +87,21 @@
       102531023,
       1159291129,
       1159293697,
-      1159284597
+      1159284597,
+      1159283863
     ],
     "wof:geomhash": "c66831237e200a408b9ec647c9b5d8f8",
     "wof:hierarchy": [
+      {
+        "campus_id": 102531023,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085771,
+        "locality_id": -1,
+        "neighbourhood_id": 85896183,
+        "object_id": 1762761355,
+        "region_id": 85688651
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -104,20 +115,10 @@
         "object_id": 1762761355,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102531023,
-        "continent_id": -1,
-        "country_id": 85633793,
-        "county_id": 102085771,
-        "locality_id": -1,
-        "neighbourhood_id": 85896183,
-        "object_id": 1762761355,
-        "region_id": 85688651
       }
     ],
     "wof:id": 1762761355,
-    "wof:lastmodified": 1649405534,
+    "wof:lastmodified": 1662796248,
     "wof:name": "slide: Kalitta Air, Lockheed L-1011 TriStar, Miami International Airport (MIA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

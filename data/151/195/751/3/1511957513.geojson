@@ -10,12 +10,21 @@
     "edtf:date": "1937-08-04",
     "edtf:inception": "1937-08-04",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-82.549852,27.331803,-73.789860,40.898430",
+    "geom:latitude": 34.1151165,
+    "geom:longitude": -78.16985600000001,
+    "georeference:depictions": [
+      1527856517
+    ],
     "iso:country": "XX",
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_sent": [
+      85932709
+    ],
+    "millsfield:flightcover_address_to": [
+      1259402365
+    ],
     "millsfield:images": [
       1527856517,
       1527856519
@@ -45,7 +54,7 @@
     "sfomuseum:primary_media_id": 1527856517,
     "sfomuseum:publication": ": , 08/04/1937.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -61,7 +70,7 @@
     "wof:breaches": [],
     "wof:country": "XX",
     "wof:created": 1579906669,
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "346b3528eae2c774ade762c9f1eadb32",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -80,21 +89,32 @@
       }
     ],
     "wof:id": 1511957513,
-    "wof:lastmodified": 1646874781,
+    "wof:lastmodified": 1663364865,
     "wof:name": "airmail flight cover: AM-31, Everglades, Florida",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85688543,
+      404523375,
+      1259402365,
+      85932709,
+      102085795,
+      85633793,
+      102082373,
+      85688651,
+      102191575
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -82.549852,
+    27.331803,
+    -73.78986,
+    40.89843
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-73.78986,40.89843],[-82.549852,27.331803]],"type":"MultiPoint"}
 }

@@ -10,9 +10,12 @@
     "edtf:date": "1934-01-10",
     "edtf:inception": "1934-01-10",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-157.950439,21.362202,-118.247740,34.176355",
+    "geom:latitude": 27.7692785,
+    "geom:longitude": -138.0990895,
+    "georeference:depictions": [
+      1527831793
+    ],
     "iso:country": "XX",
     "millsfield:airline_id": [
       1159285407
@@ -20,6 +23,12 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [],
+    "millsfield:flightcover_address_sent": [
+      1125864761
+    ],
+    "millsfield:flightcover_address_to": [
+      85923615
+    ],
     "millsfield:images": [
       1527831793
     ],
@@ -52,7 +61,7 @@
     "sfomuseum:primary_media_id": 1527831793,
     "sfomuseum:publication": ": , 01/10/1934.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -72,7 +81,7 @@
       1159286573,
       1159285407
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "2ebd6e2b0ad6397c6a52641d2af11552",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -91,21 +100,31 @@
       }
     ],
     "wof:id": 1511931721,
-    "wof:lastmodified": 1646874765,
+    "wof:lastmodified": 1663355342,
     "wof:name": "airmail flight cover: First U.S. Navy Squadron flight, San Francisco - Hawaii, January 10, 1934",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      102085417,
+      1125864761,
+      85688671,
+      85633793,
+      102086957,
+      85923615,
+      85688637,
+      102191575
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -157.950439,
+    21.362202,
+    -118.24774,
+    34.176355
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-118.24774,34.176355],[-157.950439,21.362202]],"type":"MultiPoint"}
 }

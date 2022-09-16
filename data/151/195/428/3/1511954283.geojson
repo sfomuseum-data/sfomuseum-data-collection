@@ -10,9 +10,12 @@
     "edtf:date": "1939-05-21",
     "edtf:inception": "1939-05-21",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-75.168428,39.990821,5.401581,43.295314",
+    "geom:latitude": 41.6430675,
+    "geom:longitude": -34.883423500000006,
+    "georeference:depictions": [
+      1527852081
+    ],
     "iso:country": "XX",
     "millsfield:airline_id": [
       1159284991
@@ -21,6 +24,12 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159286839
+    ],
+    "millsfield:flightcover_address_sent": [
+      101749199
+    ],
+    "millsfield:flightcover_address_to": [
+      101718083
     ],
     "millsfield:images": [
       1527852081,
@@ -56,7 +65,7 @@
     "sfomuseum:publication": ": , 05/21/1939.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
     "sfomuseum:subject": "Airlines -- Commercial -- Pan American Airways.",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -73,10 +82,10 @@
     "wof:country": "XX",
     "wof:created": 1579906656,
     "wof:depicts": [
-      1159284991,
-      1159286839
+      1159286839,
+      1159284991
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "ce1bcedbfff7d48326e989da64378c8a",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -95,21 +104,36 @@
       }
     ],
     "wof:id": 1511954283,
-    "wof:lastmodified": 1646874776,
+    "wof:lastmodified": 1663370213,
     "wof:name": "airmail flight cover: Pan American Airways, FAM-18, first airmail flight, Horta - Marseilles route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      102081353,
+      102191581,
+      85688481,
+      101718083,
+      85633793,
+      102072499,
+      404228029,
+      102191575,
+      404227445,
+      85633147,
+      85683441,
+      101749199,
+      404483701
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -75.168428,
+    39.990821,
+    5.401581,
+    43.295314
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[5.401581,43.295314],[-75.168428,39.990821]],"type":"MultiPoint"}
 }

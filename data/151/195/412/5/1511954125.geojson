@@ -11,11 +11,11 @@
     "edtf:inception": "1948-04-25",
     "geom:area": 0,
     "geom:bbox": "-105.945888,35.221849,-101.840963,35.681375",
-    "geom:latitude": 35.37502433333333,
+    "geom:latitude": 35.375024333333336,
     "geom:longitude": -103.20927133333333,
     "georeference:depictions": [
-      1527834441,
-      1527834433
+      1527834433,
+      1527834441
     ],
     "iso:country": "XX",
     "millsfield:airline_id": [
@@ -26,7 +26,10 @@
     "millsfield:company_id": [
       1159287531
     ],
-    "millsfield:flightcover_address_received": [
+    "millsfield:flightcover_address_sent": [
+      85976697
+    ],
+    "millsfield:flightcover_address_to": [
       101724103
     ],
     "millsfield:images": [
@@ -86,7 +89,7 @@
       1159287531,
       1159285395
     ],
-    "wof:geomhash": "8a9258dd7e24765d03b44c3dcc9dab6e",
+    "wof:geomhash": "0424ee078b91436a2c08321e98ec4e3c",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -105,7 +108,7 @@
       }
     ],
     "wof:id": 1511954125,
-    "wof:lastmodified": 1663630544,
+    "wof:lastmodified": 1663630885,
     "wof:name": "airmail flight cover: Transcontinental \u0026 Western Air (TWA), Santa Fe, New Mexico",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -131,5 +134,5 @@
     -101.840963,
     35.681375
   ],
-  "geometry": {"coordinates":[[-105.945888,35.681375],[-101.840963,35.221849],[-101.840963,35.221849]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-101.840963,35.221849],[-101.840963,35.221849],[-105.945888,35.681375]],"type":"MultiPoint"}
 }

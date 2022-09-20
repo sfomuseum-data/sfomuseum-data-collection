@@ -10,9 +10,12 @@
     "edtf:date": "1957-06-21",
     "edtf:inception": "1957-06-21",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-118.257030,32.296698,-64.764346,34.055130",
+    "geom:latitude": 33.175914,
+    "geom:longitude": -91.510688,
+    "georeference:depictions": [
+      1527832815
+    ],
     "iso:country": "XX",
     "millsfield:airline_id": [
       1159284989
@@ -21,6 +24,12 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159286839
+    ],
+    "millsfield:flightcover_address_sent": [
+      85632731
+    ],
+    "millsfield:flightcover_address_to": [
+      85923517
     ],
     "millsfield:images": [
       1527832815,
@@ -55,7 +64,7 @@
     "sfomuseum:primary_media_id": 1527832815,
     "sfomuseum:publication": ": , 06/21/1957.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -75,7 +84,7 @@
       1159284989,
       1159286839
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "29ffa58c3a903feb3fe562a37deadbf9",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -94,21 +103,30 @@
       }
     ],
     "wof:id": 1511953649,
-    "wof:lastmodified": 1646874775,
+    "wof:lastmodified": 1663702679,
     "wof:name": "airmail flight cover: Imperial Airways, Pan American World Airways, Bermuda - United States, 20th Anniversary",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85688637,
+      85633793,
+      102086957,
+      136253055,
+      102191575,
+      85632731,
+      85923517
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -118.25703,
+    32.296698,
+    -64.764346,
+    34.05513
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-64.764346,32.296698],[-118.25703,34.05513]],"type":"MultiPoint"}
 }

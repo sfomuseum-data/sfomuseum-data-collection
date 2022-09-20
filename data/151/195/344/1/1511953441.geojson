@@ -10,15 +10,24 @@
     "edtf:date": "1940-04-24",
     "edtf:inception": "1940-04-24",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.756961,38.996664,-105.547822,47.539867",
+    "geom:latitude": 43.2682655,
+    "geom:longitude": -114.1523915,
+    "georeference:depictions": [
+      1527834743
+    ],
     "iso:country": "XX",
     "millsfield:aircraft_id": [
       1159291191
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_sent": [
+      85688603
+    ],
+    "millsfield:flightcover_address_to": [
+      101730469
+    ],
     "millsfield:images": [
       1527834743,
       1527834745
@@ -52,7 +61,7 @@
     "sfomuseum:primary_media_id": 1527834743,
     "sfomuseum:publication": ": , 04/24/1940.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -71,7 +80,7 @@
     "wof:depicts": [
       1159291191
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "5a4f263a3ced26576ed2594957baae40",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -90,21 +99,29 @@
       }
     ],
     "wof:id": 1511953441,
-    "wof:lastmodified": 1646874774,
+    "wof:lastmodified": 1663706534,
     "wof:name": "airmail flight cover: United States Air Mail, Hawaiian Islands",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      102191575,
+      85633793,
+      85688603,
+      102081243,
+      101730469,
+      85688623
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -122.756961,
+    38.996664,
+    -105.547822,
+    47.539867
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-105.547822,38.996664],[-122.756961,47.539867]],"type":"MultiPoint"}
 }

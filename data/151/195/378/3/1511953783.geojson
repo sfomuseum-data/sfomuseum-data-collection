@@ -10,9 +10,12 @@
     "edtf:date": "1962-07-02",
     "edtf:inception": "1962-07-02",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-157.859944,21.308822,-74.871618,43.408777",
+    "geom:latitude": 32.3587995,
+    "geom:longitude": -116.365781,
+    "georeference:depictions": [
+      1527833333
+    ],
     "iso:country": "XX",
     "millsfield:aircraft_id": [
       1159289619
@@ -24,6 +27,12 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
       1159293593
+    ],
+    "millsfield:flightcover_address_sent": [
+      85688543
+    ],
+    "millsfield:flightcover_address_to": [
+      1141909415
     ],
     "millsfield:images": [
       1527833333,
@@ -62,7 +71,7 @@
     "sfomuseum:primary_media_id": 1527833333,
     "sfomuseum:publication": ": , 07/02/1962.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference-flightcover",
     "wof:belongsto": [
       1511214215,
       102527513,
@@ -83,7 +92,7 @@
       1159293593,
       1159289619
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "3ec828fce2d456b0ac9cd5d636061520",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -102,21 +111,29 @@
       }
     ],
     "wof:id": 1511953783,
-    "wof:lastmodified": 1646874775,
+    "wof:lastmodified": 1663701579,
     "wof:name": "airmail flight cover: Pan American World Airways, 100,000th Transatlantic Flight",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
+    "wof:references": [
+      85633793,
+      102085417,
+      1141909415,
+      85688671,
+      85688543,
+      102191575
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -157.859944,
+    21.308822,
+    -74.871618,
+    43.408777
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[-157.859944,21.308822],[-74.871618,43.408777]],"type":"MultiPoint"}
 }

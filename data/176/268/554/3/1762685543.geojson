@@ -13,6 +13,9 @@
     "geom:latitude": 42.083127,
     "geom:longitude": -80.173867,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290199
+    ],
     "millsfield:airline_id": [
       1159283827
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288673
+      1159293605
     ],
     "millsfield:images": [
       1762710839,
@@ -33,7 +36,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1930",
-    "sfomuseum:aircraft": "Convair 240",
+    "sfomuseum:aircraft": "Convair 340 Convair-Liner",
+    "sfomuseum:aircraft_id": [
+      378
+    ],
     "sfomuseum:airline": "Allegheny Airlines",
     "sfomuseum:airline_id": [
       159
@@ -73,15 +79,17 @@
       102524857,
       102080955,
       404486789,
-      85829561,
-      85688481
+      85688481,
+      1729462003
     ],
     "wof:country": "US",
     "wof:created": 1641341346,
     "wof:depicts": [
       1159283827,
       102524857,
-      1159288673
+      1159288673,
+      1159290199,
+      1159293605
     ],
     "wof:geomhash": "27bec80a2f4054e3bd2a97d3c9accfa6",
     "wof:hierarchy": [
@@ -105,15 +113,15 @@
         "country_id": 85633793,
         "county_id": 102080955,
         "localadmin_id": 404486789,
-        "locality_id": -1,
-        "neighbourhood_id": 85829561,
+        "locality_id": 1729462003,
+        "neighbourhood_id": -1,
         "object_id": 1762685543,
         "region_id": 85688481
       }
     ],
     "wof:id": 1762685543,
-    "wof:lastmodified": 1646944842,
-    "wof:name": "postcard: Port Erie Air Terminal, Allegheny Airlines, Convair 240",
+    "wof:lastmodified": 1665820199,
+    "wof:name": "postcard: Port Erie Air Terminal, Allegheny Airlines, Convair 340",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

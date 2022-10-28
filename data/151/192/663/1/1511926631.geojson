@@ -18,7 +18,7 @@
       1159289777
     ],
     "millsfield:airline_id": [
-      1159283877
+      1159285745
     ],
     "millsfield:airport_id": [
       102557783
@@ -26,7 +26,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287295
+      1159288271
     ],
     "millsfield:images": [
       1763442771
@@ -41,9 +41,9 @@
     "sfomuseum:aircraft_id": [
       188
     ],
-    "sfomuseum:airline": "Ansett Australia",
+    "sfomuseum:airline": "Ansett Airlines of Australia",
     "sfomuseum:airline_id": [
-      182
+      1044
     ],
     "sfomuseum:airport": "Sydney (Kingsford Smith) Airport",
     "sfomuseum:airport_id": [
@@ -97,10 +97,25 @@
       1159283877,
       1159289759,
       1159293593,
-      1159289777
+      1159289777,
+      1159285745,
+      1159288271
     ],
     "wof:geomhash": "2cf0c9019341fb7980e15094e56b6642",
     "wof:hierarchy": [
+      {
+        "campus_id": 102557783,
+        "continent_id": 102191583,
+        "country_id": 85632793,
+        "county_id": 102049567,
+        "empire_id": 136253039,
+        "localadmin_id": 404224771,
+        "locality_id": 101931173,
+        "macrocounty_id": 1376953385,
+        "neighbourhood_id": -1,
+        "object_id": 1511926631,
+        "region_id": 85681545
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,24 +129,11 @@
         "object_id": 1511926631,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102557783,
-        "continent_id": 102191583,
-        "country_id": 85632793,
-        "county_id": 102049567,
-        "empire_id": 136253039,
-        "localadmin_id": 404224771,
-        "locality_id": 101931173,
-        "macrocounty_id": 1376953385,
-        "neighbourhood_id": -1,
-        "object_id": 1511926631,
-        "region_id": 85681545
       }
     ],
     "wof:id": 1511926631,
-    "wof:lastmodified": 1649405534,
-    "wof:name": "slide: Ansett Airlines of Australia, Boeing 727-100, Sydney Airport (SYD)",
+    "wof:lastmodified": 1666943196,
+    "wof:name": "slide: Ansett Australia, Boeing 727-100, Sydney Airport (SYD)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

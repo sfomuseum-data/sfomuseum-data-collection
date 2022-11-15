@@ -1,54 +1,60 @@
 {
-  "id": 1746836661,
+  "id": 1796629045,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1980-01-01",
-    "date:cessation_upper": "1980-12-31",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-12-31",
-    "edtf:cessation": "1980",
-    "edtf:inception": "1980",
+    "date:cessation_lower": "1950-01-01",
+    "date:cessation_upper": "1950-12-31",
+    "date:inception_lower": "1950-01-01",
+    "date:inception_upper": "1950-12-31",
+    "edtf:cessation": "1950~",
+    "edtf:inception": "1950~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:airline_id": [
-      1159283813
+    "millsfield:aircraft_id": [
+      1159291095
     ],
-    "millsfield:category_id": 1763416373,
+    "millsfield:airline_id": [
+      1159284989
+    ],
+    "millsfield:category_id": 1511214257,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288915
+      1159293697
     ],
     "millsfield:images": [
-      1763372819
+      1796629081
     ],
-    "millsfield:primary_image": 1763372819,
-    "millsfield:subcategory_id": 1511213365,
+    "millsfield:primary_image": 1796629081,
+    "millsfield:subcategory_id": 1511213793,
+    "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2001.135.026",
-    "sfomuseum:airline": "Alaska Airlines",
-    "sfomuseum:airline_id": [
-      153
+    "sfomuseum:accession_number": "2012.147.051",
+    "sfomuseum:aircraft": "Lockheed L-049 Constellation",
+    "sfomuseum:aircraft_id": [
+      791
     ],
-    "sfomuseum:artist": "John Alvin",
-    "sfomuseum:category": "Promotional, Museum",
-    "sfomuseum:classification_id": 128,
+    "sfomuseum:airline": "Pan American World Airways",
+    "sfomuseum:airline_id": [
+      684
+    ],
+    "sfomuseum:artist": "Jean Carlu",
+    "sfomuseum:category": "Art",
+    "sfomuseum:classification_id": 514,
     "sfomuseum:collection": "Aviation Museum",
-    "sfomuseum:continent": "North America",
-    "sfomuseum:country": "United States",
-    "sfomuseum:creditline": "Gift of Thomas G. Dragges",
-    "sfomuseum:date": "1980",
-    "sfomuseum:date_acquired": "2002-12-24",
-    "sfomuseum:daterange_end": "1980-12-31",
-    "sfomuseum:daterange_start": "1980-01-01",
-    "sfomuseum:description": "Poster issued by Alaska Airlines promoting service to Glacier Bay; white background with full color illustration of Glacier Bay, aircraft in flight, white eagle, and assorted images of destination sights and activities; text at top, “Glacier Bay”; airline logotype and tagline at bottom.",
-    "sfomuseum:dimensions": "40 x 25 inches (101.6 x 63.5 cm)",
+    "sfomuseum:creditline": "Gift of the Captain John B. Russell Family",
+    "sfomuseum:date": "c. 1950",
+    "sfomuseum:date_acquired": "2014-04-14",
+    "sfomuseum:daterange_end": "1955-12-31",
+    "sfomuseum:daterange_start": "1945-01-01",
+    "sfomuseum:description": "Poster issued by Pan American World Airways promoting service to Portugal; full color illustration by artist Jean Carlu depicting matador surrounded by framed views of various destinations and landmarks; text “Portugal and Spain by Clipper”; airline servicemark and logotype at bottom.",
+    "sfomuseum:dimensions": "42 x 28 inches (106.7 x 71.1 cm)",
     "sfomuseum:medium": "paper, ink",
-    "sfomuseum:object_id": 62939,
+    "sfomuseum:object_id": 134051,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1980.",
-    "sfomuseum:subcategory": "Poster, Airline",
+    "sfomuseum:publication": ": , c. 1950.",
+    "sfomuseum:subcategory": "Print",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -61,10 +67,11 @@
       1159160869
     ],
     "wof:country": "XY",
-    "wof:created": 1639525247,
+    "wof:created": 1668503307,
     "wof:depicts": [
-      1159288915,
-      1159283813
+      1159284989,
+      1159291095,
+      1159293697
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -78,14 +85,14 @@
         "county_id": 102087579,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "object_id": 1746836661,
+        "object_id": 1796629045,
         "region_id": 85688637,
         "wing_id": 1159160869
       }
     ],
-    "wof:id": 1746836661,
-    "wof:lastmodified": 1668503258,
-    "wof:name": "poster: Alaska Airlines, Glacier Bay",
+    "wof:id": 1796629045,
+    "wof:lastmodified": 1668503454,
+    "wof:name": "poster: Pan American World Airways, Portugal",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

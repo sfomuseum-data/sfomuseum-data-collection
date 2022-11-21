@@ -10,12 +10,28 @@
     "edtf:inception": "1920~",
     "geom:area": 0,
     "geom:bbox": "-122.419281,37.808699,-122.419281,37.808699",
-    "geom:latitude": 37.808698976006795,
-    "geom:longitude": -122.41928100585939,
+    "geom:latitude": 37.808698976007,
+    "geom:longitude": -122.41928100586,
     "geotag:depictions": [
-      1762696661
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      85922583
     ],
-    "iso:country": null,
+    "geotag:whosonfirst": {
+      "wof:hierarchy": [
+        {
+          "continent_id": 102191575,
+          "country_id": 85633793,
+          "county_id": 102087579,
+          "locality_id": 85922583,
+          "region_id": 85688637
+        }
+      ],
+      "wof:id": 85922583
+    },
+    "iso:country": "US",
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -52,9 +68,9 @@
       85688637,
       1159160869
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1641339715,
-    "wof:geomhash": "da324f5299cc579f0ab2379ebfe5d0f2",
+    "wof:geomhash": "f72b2c299382ee246b4fded72b5af95b",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -72,9 +88,9 @@
       }
     ],
     "wof:id": 1762680539,
-    "wof:lastmodified": 1668460133,
+    "wof:lastmodified": 1669062605,
     "wof:name": "glass negative: San Francisco",
-    "wof:parent_id": 1762680539,
+    "wof:parent_id": 85922583,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
     "wof:repo": "sfomuseum-data-collection",
@@ -82,10 +98,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.41928100585939,
-    37.808698976006795,
-    -122.41928100585939,
-    37.808698976006795
+    -122.41928100586,
+    37.808698976007,
+    -122.41928100586,
+    37.808698976007
   ],
-  "geometry": {"coordinates":[[-122.41928100585939,37.808698976006795]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.41928100586,37.808698976007]],"type":"MultiPoint"}
 }

@@ -10,12 +10,40 @@
     "edtf:date": "1970",
     "edtf:inception": "1970",
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
-    "geom:latitude": 37.61799,
-    "geom:longitude": -122.370943,
+    "geom:bbox": "-122.385464,37.627080,-122.385464,37.627080",
+    "geom:latitude": 37.627080368942,
+    "geom:longitude": -122.3854637146,
     "geotag:depictions": [
-      1527827189
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      102085387,
+      85688637,
+      102527513,
+      102191575
     ],
+    "geotag:whosonfirst": {
+      "wof:hierarchy": [
+        {
+          "campus_id": 102527513,
+          "continent_id": 102191575,
+          "country_id": 85633793,
+          "county_id": 102087579,
+          "locality_id": 85922583,
+          "postalcode_id": 554784711,
+          "region_id": 85688637
+        },
+        {
+          "campus_id": 102527513,
+          "continent_id": 102191575,
+          "country_id": 85633793,
+          "county_id": 102085387,
+          "region_id": 85688637
+        }
+      ],
+      "wof:id": 102527513
+    },
     "iso:country": "US",
     "millsfield:airport_id": [
       102527513
@@ -55,7 +83,7 @@
     "sfomuseum:primary_media_id": 1527827189,
     "sfomuseum:publication": ": , 1970.",
     "sfomuseum:subcategory": "Negative",
-    "src:geom": "sfomuseum#derived",
+    "src:geom": "sfomuseum#geotagged",
     "src:geom_derived_from": [
       102527513
     ],
@@ -78,7 +106,7 @@
       1477855969,
       102527513
     ],
-    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
+    "wof:geomhash": "1c79c49c941f9700c6345f2fbc200903",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -114,9 +142,9 @@
       }
     ],
     "wof:id": 1511948229,
-    "wof:lastmodified": 1649835325,
+    "wof:lastmodified": 1669063618,
     "wof:name": "negative: San Francisco International Airport (SFO), Super Bay Hangar construction",
-    "wof:parent_id": 1159162825,
+    "wof:parent_id": 102527513,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
     "wof:repo": "sfomuseum-data-collection",
@@ -125,10 +153,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943,
-    37.61799,
-    -122.370943,
-    37.61799
+    -122.3854637146,
+    37.627080368942,
+    -122.3854637146,
+    37.627080368942
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3854637146,37.627080368942]],"type":"MultiPoint"}
 }

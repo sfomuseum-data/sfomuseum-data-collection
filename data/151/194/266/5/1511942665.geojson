@@ -11,12 +11,24 @@
     "edtf:inception": "1920~",
     "geom:area": 0,
     "geom:bbox": "-122.320404,37.762030,-122.320404,37.762030",
-    "geom:latitude": 37.76202988573211,
-    "geom:longitude": -122.32040405273439,
+    "geom:latitude": 37.762029885732,
+    "geom:longitude": -122.32040405273,
     "geotag:depictions": [
-      1527855819
+      85633793,
+      85688637,
+      102191575
     ],
-    "iso:country": "XX",
+    "geotag:whosonfirst": {
+      "wof:hierarchy": [
+        {
+          "continent_id": 102191575,
+          "country_id": 85633793,
+          "region_id": 85688637
+        }
+      ],
+      "wof:id": 85688637
+    },
+    "iso:country": "US",
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:images": [
@@ -61,14 +73,14 @@
       85688637
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "US",
     "wof:created": 1579906666,
     "wof:depicts": [
-      85633793,
       85921881,
-      85688637
+      85688637,
+      85633793
     ],
-    "wof:geomhash": "95eee41eef81cf1415fb0ef5c62b02e5",
+    "wof:geomhash": "2c0c0202afe854064d287cc46764bc24",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213367,
@@ -87,9 +99,9 @@
       }
     ],
     "wof:id": 1511942665,
-    "wof:lastmodified": 1668463994,
+    "wof:lastmodified": 1669063692,
     "wof:name": "photograph: San Francisco Bay Area aerial, Alameda and Oakland",
-    "wof:parent_id": 1511942665,
+    "wof:parent_id": 85688637,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
     "wof:repo": "sfomuseum-data-collection",
@@ -98,10 +110,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.32040405273439,
-    37.76202988573211,
-    -122.32040405273439,
-    37.76202988573211
+    -122.32040405273,
+    37.762029885732,
+    -122.32040405273,
+    37.762029885732
   ],
-  "geometry": {"coordinates":[[-122.32040405273439,37.76202988573211]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.32040405273,37.762029885732]],"type":"MultiPoint"}
 }

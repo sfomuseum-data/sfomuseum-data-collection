@@ -10,12 +10,26 @@
     "edtf:date": "1937",
     "edtf:inception": "1937",
     "geom:area": 0,
-    "geom:bbox": "-122.391953,37.617990,-122.370943,37.624731",
-    "geom:latitude": 37.621360499999994,
-    "geom:longitude": -122.381448,
+    "geom:bbox": "-122.383575,37.613280,-122.383575,37.613280",
+    "geom:latitude": 37.613279552752,
+    "geom:longitude": -122.38357543945,
     "geotag:depictions": [
-      1527821525
+      102191575,
+      85633793,
+      102085387,
+      85688637
     ],
+    "geotag:whosonfirst": {
+      "wof:hierarchy": [
+        {
+          "continent_id": 102191575,
+          "country_id": 85633793,
+          "county_id": 102085387,
+          "region_id": 85688637
+        }
+      ],
+      "wof:id": 102085387
+    },
     "iso:country": "US",
     "millsfield:airport_id": [
       102527513,
@@ -56,7 +70,7 @@
     "sfomuseum:primary_media_id": 1527821525,
     "sfomuseum:publication": ": , 1937.",
     "sfomuseum:subcategory": "Negative",
-    "src:geom": "sfomuseum#derived",
+    "src:geom": "sfomuseum#geotagged",
     "src:geom_derived_from": [
       102527513,
       1360695655
@@ -81,7 +95,7 @@
       1360695655,
       102527513
     ],
-    "wof:geomhash": "fda2c2562cae0b6b99a07b8f9ebb436d",
+    "wof:geomhash": "dc33ef7d652409358ec4e8bd42fb2d57",
     "wof:hierarchy": [
       {
         "campus_id": 1360695655,
@@ -135,9 +149,9 @@
       }
     ],
     "wof:id": 1511943609,
-    "wof:lastmodified": 1646944845,
+    "wof:lastmodified": 1669063291,
     "wof:name": "negative: San Francisco Airport, aerial",
-    "wof:parent_id": 1159162825,
+    "wof:parent_id": 102085387,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
     "wof:repo": "sfomuseum-data-collection",
@@ -146,10 +160,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.391953,
-    37.61799,
-    -122.370943,
-    37.624731
+    -122.38357543945,
+    37.613279552752,
+    -122.38357543945,
+    37.613279552752
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38357543945,37.613279552752]],"type":"MultiPoint"}
 }

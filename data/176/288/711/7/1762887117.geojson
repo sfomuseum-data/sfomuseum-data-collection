@@ -10,12 +10,27 @@
     "edtf:inception": "1961-11-10",
     "geom:area": 0,
     "geom:bbox": "-122.350960,37.610356,-122.350960,37.610356",
-    "geom:latitude": 37.610355898363146,
-    "geom:longitude": -122.35095977783205,
+    "geom:latitude": 37.610355898363,
+    "geom:longitude": -122.35095977783,
     "geotag:depictions": [
       1762891413
     ],
-    "iso:country": null,
+    "geotag:whosonfirst": {
+      "wof:belongsto": [
+        85688637,
+        102191575,
+        85633793
+      ],
+      "wof:hierarchy": [
+        {
+          "continent_id": 102191575,
+          "country_id": 85633793,
+          "region_id": 85688637
+        }
+      ],
+      "wof:id": 85688637
+    },
+    "iso:country": "US",
     "millsfield:airport_id": [
       102527513
     ],
@@ -61,12 +76,12 @@
       85688637,
       1159160869
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1643411520,
     "wof:depicts": [
       102527513
     ],
-    "wof:geomhash": "2bb58c186c87a86e2b1ce7fe20309f1b",
+    "wof:geomhash": "69469ceebfab0ac7cdb11a66f54b8373",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -84,7 +99,7 @@
       }
     ],
     "wof:id": 1762887117,
-    "wof:lastmodified": 1668467263,
+    "wof:lastmodified": 1669150802,
     "wof:name": "photograph: San Francisco International Airport (SFO), aerial",
     "wof:parent_id": 1762887117,
     "wof:placetype": "custom",
@@ -94,10 +109,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.35095977783205,
-    37.610355898363146,
-    -122.35095977783205,
-    37.610355898363146
+    -122.35095977783,
+    37.610355898363,
+    -122.35095977783,
+    37.610355898363
   ],
-  "geometry": {"coordinates":[[-122.35095977783205,37.610355898363146]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.35095977783,37.610355898363]],"type":"MultiPoint"}
 }

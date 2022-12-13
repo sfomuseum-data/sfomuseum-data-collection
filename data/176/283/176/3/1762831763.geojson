@@ -2,12 +2,12 @@
   "id": 1762831763,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1975-01-01",
-    "date:cessation_upper": "1975-12-31",
-    "date:inception_lower": "1975-01-01",
-    "date:inception_upper": "1975-12-31",
-    "edtf:cessation": "1975~",
-    "edtf:inception": "1975~",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1970~",
+    "edtf:inception": "1970~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -16,6 +16,9 @@
       1159283823,
       1159285393,
       1159285415
+    ],
+    "millsfield:airport_id": [
+      102534365
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
@@ -36,20 +39,24 @@
       874,
       884
     ],
+    "sfomuseum:airport": "John F. Kennedy International Airport",
+    "sfomuseum:airport_id": [
+      94
+    ],
     "sfomuseum:category": "Photograph",
     "sfomuseum:classification_id": 129,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
-    "sfomuseum:date": "c. 1975",
+    "sfomuseum:date": "c. 1970",
     "sfomuseum:date_acquired": "2013-03-21",
-    "sfomuseum:daterange_end": "1980-12-31",
-    "sfomuseum:daterange_start": "1970-01-01",
-    "sfomuseum:description": "Black and white photograph depicting interior airport scene; back view of three figures looking out of window onto ramp activity, including close-up of TWA (Trans World Airlines) and Alitalia, and United Air Lines Douglas DC-8 on takeoff in distance.",
+    "sfomuseum:daterange_end": "1975-12-31",
+    "sfomuseum:daterange_start": "1965-01-01",
+    "sfomuseum:description": "Black and white photograph depicting interior airport scene; back view of three figures looking out of window onto ramp activity, including close-up of TWA (Trans World Airlines) and Alitalia, and United Air Lines Douglas DC-8 on takeoff in distance. John F. Kennedy International Airport (JFK)",
     "sfomuseum:dimensions": "8 x 10 inches (20.3 x 25.4 cm)",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 129391,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , c. 1975.",
+    "sfomuseum:publication": ": , c. 1970.",
     "sfomuseum:subcategory": "Print, Photograph",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -68,7 +75,8 @@
       1159283823,
       1159285393,
       1159285415,
-      1159288779
+      1159288779,
+      102534365
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -88,7 +96,7 @@
       }
     ],
     "wof:id": 1762831763,
-    "wof:lastmodified": 1648683096,
+    "wof:lastmodified": 1670923538,
     "wof:name": "photograph: TWA (Trans World Airlines), Alitalia, United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -15,6 +15,9 @@
     "millsfield:airline_id": [
       1159285067
     ],
+    "millsfield:airport_id": [
+      102531041
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
@@ -32,6 +35,10 @@
     "sfomuseum:airline_id": [
       721
     ],
+    "sfomuseum:airport": "Oakland International Airport",
+    "sfomuseum:airport_id": [
+      97
+    ],
     "sfomuseum:artist": "William “Bill” Hough",
     "sfomuseum:category": "Photograph",
     "sfomuseum:classification_id": 129,
@@ -41,7 +48,7 @@
     "sfomuseum:date_acquired": "2015-07-16",
     "sfomuseum:daterange_end": "1981-12-31",
     "sfomuseum:daterange_start": "1981-01-01",
-    "sfomuseum:description": "Color photograph depicting Republic Airlines Douglas DC-9, in Hughes Airwest livery; from set of images with handwritten label, “July 1981 / HNL”.",
+    "sfomuseum:description": "Color photograph depicting Republic Airlines Douglas DC-9, in Hughes Airwest livery; Oakland International Airport (OAK)",
     "sfomuseum:dimensions": "3 1/2 x 4 1/2 inches (8.9 x 11.4 cm)",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 168778,
@@ -62,8 +69,9 @@
     "wof:country": "XY",
     "wof:created": 1641941770,
     "wof:depicts": [
-      1159287361,
-      1159285067
+      1159285067,
+      102531041,
+      1159287361
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -83,7 +91,7 @@
       }
     ],
     "wof:id": 1762761119,
-    "wof:lastmodified": 1649405532,
+    "wof:lastmodified": 1670923526,
     "wof:name": "photograph: Republic Airlines, Douglas DC-9",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

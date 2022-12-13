@@ -9,9 +9,9 @@
     "edtf:cessation": "2021-02-26",
     "edtf:inception": "2021-02-26",
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.485833,-90.678889,37.617990",
-    "geom:latitude": 35.5519115,
-    "geom:longitude": -106.52491599999999,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
     "iso:country": "US",
     "loc:named_authorities": [
       "n00065592",
@@ -32,7 +32,7 @@
     ],
     "millsfield:airport_id": [
       102527513,
-      1746879091
+      102534069
     ],
     "millsfield:category_id": 1511214267,
     "millsfield:collection_id": 1511214207,
@@ -103,24 +103,11 @@
       1159293605,
       1159285413,
       1159285415,
-      102527513
+      102527513,
+      102534069
     ],
-    "wof:geomhash": "aecbe69b4ef1367eb56ef789521a0bde",
+    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1779806627,
-        "region_id": 85688637,
-        "wing_id": 1159160869
-      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -149,10 +136,24 @@
         "neighbourhood_id": 907131691,
         "object_id": 1779806627,
         "region_id": 85688543
+      },
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1779806627,
+        "region_id": 85688637,
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1779806627,
-    "wof:lastmodified": 1670883901,
+    "wof:lastmodified": 1670923584,
     "wof:name": "oral history transcript: Jacquie Perreault",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,9 +164,9 @@
   },
   "bbox": [
     -122.370943,
-    33.485833,
-    -90.678889,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-90.678889,33.485833]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
 }

@@ -14,16 +14,14 @@
     "geom:longitude": -122.304268,
     "iso:country": "US",
     "millsfield:airline_id": [
-      1159284913
+      1159284907
     ],
     "millsfield:airport_id": [
       102533269
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287407
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762708927,
       1762708929
@@ -34,9 +32,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1156",
     "sfomuseum:aircraft": "Boeing 720B",
-    "sfomuseum:airline": "Northwest Orient Airlines",
+    "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
-      650
+      647
     ],
     "sfomuseum:airport": "Seattle - Tacoma International Airport",
     "sfomuseum:airport_id": [
@@ -81,20 +79,11 @@
     "wof:depicts": [
       1159287407,
       1159284913,
-      102533269
+      102533269,
+      1159284907
     ],
     "wof:geomhash": "dab3b21e84c7273184687abaac52f6d8",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533269,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086191,
-        "locality_id": 101730403,
-        "neighbourhood_id": 85833347,
-        "object_id": 1762693169,
-        "region_id": 85688623
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -108,10 +97,20 @@
         "object_id": 1762693169,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533269,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "locality_id": 101730403,
+        "neighbourhood_id": 85833347,
+        "object_id": 1762693169,
+        "region_id": 85688623
       }
     ],
     "wof:id": 1762693169,
-    "wof:lastmodified": 1646944851,
+    "wof:lastmodified": 1672478849,
     "wof:name": "postcard: Northwest Orient Airlines, Boeing 720B, Seattle-Tacoma International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

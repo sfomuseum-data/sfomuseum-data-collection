@@ -13,6 +13,7 @@
     "geom:bbox": "-0.183008,51.144421,-0.183008,51.144421",
     "geom:latitude": 51.144421,
     "geom:longitude": -0.183008,
+    "isbn:number": "185310468X (pbk.), 9781853104688 (pbk.)",
     "iso:country": "",
     "millsfield:airport_id": [
       102556713
@@ -70,6 +71,9 @@
       1360698607
     ],
     "wof:breaches": [],
+    "wof:concordances": {
+      "isbn:number": "185310468X (pbk.), 9781853104688 (pbk.)"
+    },
     "wof:country": "",
     "wof:created": 1618962242,
     "wof:depicts": [
@@ -77,6 +81,17 @@
     ],
     "wof:geomhash": "c72b42f76691c2af4a3ce2fd5eac3bd7",
     "wof:hierarchy": [
+      {
+        "campus_id": 102556713,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698757,
+        "locality_id": 101750321,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": -1,
+        "object_id": 1511917085,
+        "region_id": 1360698607
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -90,21 +105,10 @@
         "object_id": 1511917085,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102556713,
-        "continent_id": 102191581,
-        "country_id": 85633159,
-        "county_id": 1360698757,
-        "locality_id": 101750321,
-        "macroregion_id": 404227469,
-        "neighbourhood_id": -1,
-        "object_id": 1511917085,
-        "region_id": 1360698607
       }
     ],
     "wof:id": 1511917085,
-    "wof:lastmodified": 1646944846,
+    "wof:lastmodified": 1672910912,
     "wof:name": "Gatwick Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

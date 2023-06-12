@@ -38,7 +38,7 @@
     "sfomuseum:airline_id": [
       684
     ],
-    "sfomuseum:airport": "Seattle - Tacoma International Airport",
+    "sfomuseum:airport": "Seattle-Tacoma International Airport",
     "sfomuseum:airport_id": [
       128
     ],
@@ -79,12 +79,22 @@
     "wof:country": "US",
     "wof:created": 1641342321,
     "wof:depicts": [
+      102533269,
       1159286839,
-      1159284989,
-      102533269
+      1159284989
     ],
     "wof:geomhash": "dab3b21e84c7273184687abaac52f6d8",
     "wof:hierarchy": [
+      {
+        "campus_id": 102533269,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "locality_id": 101730403,
+        "neighbourhood_id": 85833347,
+        "object_id": 1762688459,
+        "region_id": 85688623
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -98,20 +108,10 @@
         "object_id": 1762688459,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102533269,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086191,
-        "locality_id": 101730403,
-        "neighbourhood_id": 85833347,
-        "object_id": 1762688459,
-        "region_id": 85688623
       }
     ],
     "wof:id": 1762688459,
-    "wof:lastmodified": 1646944843,
+    "wof:lastmodified": 1686557868,
     "wof:name": "postcard: Seattle - Tacoma International Airport, Pan American World Airways, Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

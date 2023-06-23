@@ -32,7 +32,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.114",
-    "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft": "Boeing 727-200",
     "sfomuseum:airline": "Delta Air Lines",
     "sfomuseum:airline_id": [
       355
@@ -76,12 +76,22 @@
     "wof:country": "US",
     "wof:created": 1641941130,
     "wof:depicts": [
-      102527513,
       1159287931,
-      1159284261
+      1159284261,
+      102527513
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "object_id": 1762759445,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -103,20 +113,10 @@
         "object_id": 1762759445,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "object_id": 1762759445,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1762759445,
-    "wof:lastmodified": 1649405534,
+    "wof:lastmodified": 1687508395,
     "wof:name": "photograph: Delta Air Lines, Boeing 727, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

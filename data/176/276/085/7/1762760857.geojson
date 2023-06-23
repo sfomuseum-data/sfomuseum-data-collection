@@ -13,6 +13,9 @@
     "geom:latitude": 53.411253,
     "geom:longitude": -2.337608,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1780261445
+    ],
     "millsfield:airline_id": [
       1159283495
     ],
@@ -35,7 +38,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.038",
-    "sfomuseum:aircraft": "BAC One-Eleven",
+    "sfomuseum:aircraft": "BAC One-Eleven Series 200",
+    "sfomuseum:aircraft_id": [
+      2024
+    ],
     "sfomuseum:airline": "Aer Lingus",
     "sfomuseum:airline_id": [
       11
@@ -89,22 +95,11 @@
     "wof:depicts": [
       1159283495,
       102556861,
-      1159288269
+      1159288269,
+      1780261445
     ],
     "wof:geomhash": "507030cac884ff51233c55c34f67cd5a",
     "wof:hierarchy": [
-      {
-        "campus_id": 102556861,
-        "continent_id": 102191581,
-        "country_id": 85633159,
-        "county_id": 1360698935,
-        "localadmin_id": 1360817437,
-        "locality_id": 1125985817,
-        "macroregion_id": 404227469,
-        "neighbourhood_id": -1,
-        "object_id": 1762760857,
-        "region_id": 1360698555
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -130,10 +125,22 @@
         "neighbourhood_id": -1,
         "object_id": 1762760857,
         "region_id": 1360698555
+      },
+      {
+        "campus_id": 102556861,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698935,
+        "localadmin_id": 1360817437,
+        "locality_id": 1125985817,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": -1,
+        "object_id": 1762760857,
+        "region_id": 1360698555
       }
     ],
     "wof:id": 1762760857,
-    "wof:lastmodified": 1649405534,
+    "wof:lastmodified": 1687508352,
     "wof:name": "photograph: Aer Lingus, BAC One-Eleven Series 200, Manchester International Airport (MAN)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

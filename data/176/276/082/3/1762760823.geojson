@@ -13,6 +13,9 @@
     "geom:latitude": 53.411253,
     "geom:longitude": -2.337608,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159292537
+    ],
     "millsfield:airline_id": [
       1159285495
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288235
+      1159293561,
+      1159291259
     ],
     "millsfield:images": [
       1763444681
@@ -32,7 +36,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.057",
-    "sfomuseum:aircraft": "McDonnell Douglas DC-10",
+    "sfomuseum:aircraft": "McDonnell Douglas DC-10 Series 30",
+    "sfomuseum:aircraft_id": [
+      1449
+    ],
     "sfomuseum:airline": "Wardair",
     "sfomuseum:airline_id": [
       919
@@ -83,12 +90,27 @@
     "wof:country": "",
     "wof:created": 1641941664,
     "wof:depicts": [
+      102556861,
+      1159292537,
+      1159293561,
+      1159291259,
       1159288235,
-      1159285495,
-      102556861
+      1159285495
     ],
     "wof:geomhash": "507030cac884ff51233c55c34f67cd5a",
     "wof:hierarchy": [
+      {
+        "campus_id": 102556861,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698935,
+        "localadmin_id": 1360817437,
+        "locality_id": 1125985817,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": -1,
+        "object_id": 1762760823,
+        "region_id": 1360698555
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,22 +136,10 @@
         "neighbourhood_id": -1,
         "object_id": 1762760823,
         "region_id": 1360698555
-      },
-      {
-        "campus_id": 102556861,
-        "continent_id": 102191581,
-        "country_id": 85633159,
-        "county_id": 1360698935,
-        "localadmin_id": 1360817437,
-        "locality_id": 1125985817,
-        "macroregion_id": 404227469,
-        "neighbourhood_id": -1,
-        "object_id": 1762760823,
-        "region_id": 1360698555
       }
     ],
     "wof:id": 1762760823,
-    "wof:lastmodified": 1649405533,
+    "wof:lastmodified": 1687508338,
     "wof:name": "photograph: Wardair, McDonnell Douglas DC-10, Manchester International Airport (MAN)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

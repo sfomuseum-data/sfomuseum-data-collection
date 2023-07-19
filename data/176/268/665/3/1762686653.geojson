@@ -17,7 +17,7 @@
       1159284973
     ],
     "millsfield:airport_id": [
-      1746879115
+      1746879077
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
@@ -38,9 +38,9 @@
     "sfomuseum:airline_id": [
       677
     ],
-    "sfomuseum:airport": "Hollywood Burbank Airport",
+    "sfomuseum:airport": "Bob Hope Airport",
     "sfomuseum:airport_id": [
-      206
+      21
     ],
     "sfomuseum:category": "Philately",
     "sfomuseum:classification_id": 127,
@@ -77,12 +77,22 @@
     "wof:country": "US",
     "wof:created": 1641341711,
     "wof:depicts": [
+      1159286629,
+      1746879077,
       1159284973,
-      1746879115,
-      1159286629
+      1746879115
     ],
     "wof:geomhash": "aa27fc90c742041ff2640ce4ac2cf3bc",
     "wof:hierarchy": [
+      {
+        "campus_id": 1746879115,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923691,
+        "object_id": 1762686653,
+        "region_id": 85688637
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -96,19 +106,10 @@
         "object_id": 1762686653,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 1746879115,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086957,
-        "locality_id": 85923691,
-        "object_id": 1762686653,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1762686653,
-    "wof:lastmodified": 1686557888,
+    "wof:lastmodified": 1689754708,
     "wof:name": "postcard: Pacific Southwest Airlines (PSA), Boeing 727, Hollywood-Burbank Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

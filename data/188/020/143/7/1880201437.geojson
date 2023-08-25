@@ -1,45 +1,59 @@
 {
-  "id": 1780279109,
+  "id": 1880201437,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1960-01-01",
-    "date:cessation_upper": "1969-12-31",
-    "date:inception_lower": "1960-01-01",
-    "date:inception_upper": "1969-12-31",
-    "edtf:cessation": "196X",
-    "edtf:inception": "196X",
+    "date:cessation_lower": "1934-01-01",
+    "date:cessation_upper": "1934-12-31",
+    "date:inception_lower": "1934-01-01",
+    "date:inception_upper": "1934-12-31",
+    "edtf:cessation": "1934",
+    "edtf:inception": "1934",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1746152533,
-    "millsfield:collection_id": 1511214203,
-    "millsfield:images": [
-      1780279339,
-      1780280031,
-      1780280033
+    "millsfield:aircraft_id": [
+      1159291167
     ],
-    "millsfield:primary_image": 1780280031,
-    "millsfield:subcategory_id": 1746152547,
+    "millsfield:airline_id": [
+      1159284181
+    ],
+    "millsfield:category_id": 1511214209,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159293653
+    ],
+    "millsfield:images": [
+      1880201467
+    ],
+    "millsfield:primary_image": 1880201467,
+    "millsfield:subcategory_id": 1511213367,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2004.047.001",
-    "sfomuseum:category": "Beverage Service",
-    "sfomuseum:classification_id": 565,
-    "sfomuseum:collection": "Aviation Museum",
-    "sfomuseum:creditline": "Gift of Frank A. Norick",
-    "sfomuseum:date": "1960s",
-    "sfomuseum:date_acquired": "2004-12-08",
-    "sfomuseum:daterange_end": "1969-12-31",
-    "sfomuseum:daterange_start": "1960-01-01",
-    "sfomuseum:description": "Miniature Champagne bottle produced by Remy Martin; Centaure XO Remy Martin, 50 ml.; empty.",
-    "sfomuseum:dimensions": "3 1/2 x 2 3/4 x 1 1/4 inches (8.9 x 7 x 3.2 cm)",
-    "sfomuseum:maker": "Remy Martin \u0026 Company",
-    "sfomuseum:medium": "glass, paper",
-    "sfomuseum:object_id": 73525,
+    "sfomuseum:accession_number": "2019.121.0099",
+    "sfomuseum:aircraft": "Loening C-2 Air Yacht",
+    "sfomuseum:aircraft_id": [
+      823
+    ],
+    "sfomuseum:airline": "CNAC (China National Aviation Corporation)",
+    "sfomuseum:airline_id": [
+      319
+    ],
+    "sfomuseum:category": "Photograph",
+    "sfomuseum:classification_id": 129,
+    "sfomuseum:collection": "Aviation Archive",
+    "sfomuseum:creditline": "Purchase",
+    "sfomuseum:date": "1934",
+    "sfomuseum:date_acquired": "2019-11-22",
+    "sfomuseum:daterange_end": "1934-12-31",
+    "sfomuseum:daterange_start": "1934-01-01",
+    "sfomuseum:description": "Black and white photograph from collection of Pan American World Airways executive Harold M. Bixby, depicting Chili Vaughn’s Loening at Hankow, China.",
+    "sfomuseum:dimensions": "8 x 10 1/2 inches (20.3 x 26.7 cm)",
+    "sfomuseum:medium": "photograph",
+    "sfomuseum:object_id": 210374,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1960s.",
-    "sfomuseum:subcategory": "Liquor Bottle / Alcohol Container",
+    "sfomuseum:publication": ": , 1934.",
+    "sfomuseum:subcategory": "Print, Photograph",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -52,7 +66,12 @@
       1159160869
     ],
     "wof:country": "XY",
-    "wof:created": 1660722415,
+    "wof:created": 1692952095,
+    "wof:depicts": [
+      1159284181,
+      1159291167,
+      1159293653
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -65,14 +84,14 @@
         "county_id": 102087579,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "object_id": 1780279109,
+        "object_id": 1880201437,
         "region_id": 85688637,
         "wing_id": 1159160869
       }
     ],
-    "wof:id": 1780279109,
-    "wof:lastmodified": 1692952294,
-    "wof:name": "miniature liquor bottle: Remy Martin Champagne cognac",
+    "wof:id": 1880201437,
+    "wof:lastmodified": 1692952295,
+    "wof:name": "photograph: Chili Vaughn’s Loening at Hankow",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

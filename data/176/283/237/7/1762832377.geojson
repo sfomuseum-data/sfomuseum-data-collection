@@ -2,8 +2,12 @@
   "id": 1762832377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-12-31",
+    "edtf:cessation": "2010~",
+    "edtf:inception": "2010~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -31,12 +35,16 @@
     "sfomuseum:classification_id": 515,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of Art Huggard",
+    "sfomuseum:date": "c. 2010",
     "sfomuseum:date_acquired": "2019-10-16",
+    "sfomuseum:daterange_end": "2015-12-31",
+    "sfomuseum:daterange_start": "2005-01-01",
     "sfomuseum:description": "Flight attendant sweater (male) issued by Virgin America; black long-sleeved crewneck cardigan with front zipper closure; part of launch uniform.",
     "sfomuseum:dimensions": "25 x 19 1/2 inches (63.5 x 49.5 cm)",
     "sfomuseum:medium": "wool, acrylic, metal",
     "sfomuseum:object_id": 203246,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , c. 2010.",
     "sfomuseum:subcategory": "Sweater",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -52,8 +60,8 @@
     "wof:country": "XY",
     "wof:created": 1642730460,
     "wof:depicts": [
-      1159288091,
-      1159285481
+      1159285481,
+      1159288091
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -73,7 +81,7 @@
       }
     ],
     "wof:id": 1762832377,
-    "wof:lastmodified": 1651700459,
+    "wof:lastmodified": 1693297171,
     "wof:name": "flight attendant sweater (male): Virgin America",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

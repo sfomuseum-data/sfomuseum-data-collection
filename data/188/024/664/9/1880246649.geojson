@@ -1,45 +1,52 @@
 {
-  "id": 1780279109,
+  "id": 1880246649,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1960-01-01",
-    "date:cessation_upper": "1969-12-31",
-    "date:inception_lower": "1960-01-01",
-    "date:inception_upper": "1969-12-31",
-    "edtf:cessation": "196X",
-    "edtf:inception": "196X",
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-12-31",
+    "edtf:cessation": "2010~",
+    "edtf:inception": "2010~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1746152533,
-    "millsfield:collection_id": 1511214203,
-    "millsfield:images": [
-      1780279339,
-      1780280031,
-      1780280033
+    "millsfield:airline_id": [
+      1159285481
     ],
-    "millsfield:primary_image": 1780280031,
-    "millsfield:subcategory_id": 1746152547,
+    "millsfield:category_id": 1763416373,
+    "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159288091
+    ],
+    "millsfield:images": [
+      1880246805
+    ],
+    "millsfield:primary_image": 1880246805,
+    "millsfield:subcategory_id": 1511213371,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2004.047.001",
-    "sfomuseum:category": "Beverage Service",
-    "sfomuseum:classification_id": 565,
+    "sfomuseum:accession_number": "2021.020.0686",
+    "sfomuseum:airline": "Virgin America",
+    "sfomuseum:airline_id": [
+      913
+    ],
+    "sfomuseum:category": "Promotional, Museum",
+    "sfomuseum:classification_id": 131,
     "sfomuseum:collection": "Aviation Museum",
-    "sfomuseum:creditline": "Gift of Frank A. Norick",
-    "sfomuseum:date": "1960s",
-    "sfomuseum:date_acquired": "2004-12-08",
-    "sfomuseum:daterange_end": "1969-12-31",
-    "sfomuseum:daterange_start": "1960-01-01",
-    "sfomuseum:description": "Miniature Champagne bottle produced by Remy Martin; Centaure XO Remy Martin, 50 ml.; empty.",
-    "sfomuseum:dimensions": "3 1/2 x 2 3/4 x 1 1/4 inches (8.9 x 7 x 3.2 cm)",
-    "sfomuseum:maker": "Remy Martin \u0026 Company",
-    "sfomuseum:medium": "glass, paper",
-    "sfomuseum:object_id": 73525,
+    "sfomuseum:creditline": "Gift of Vincent Ma",
+    "sfomuseum:date": "c. 2010",
+    "sfomuseum:date_acquired": "2021-03-31",
+    "sfomuseum:daterange_end": "2015-12-31",
+    "sfomuseum:daterange_start": "2005-01-01",
+    "sfomuseum:description": "Snow globe issued by Virgin America to promote the airline; wood grain base with logo; clear globe with aircraft over clouds.",
+    "sfomuseum:dimensions": "4 x 3 1/2 x 3 1/2 inches (10.2 x 8.9 x 8.9 cm)",
+    "sfomuseum:medium": "glass, plastic, liquid, ink",
+    "sfomuseum:object_id": 222251,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1960s.",
-    "sfomuseum:subcategory": "Liquor Bottle / Alcohol Container",
+    "sfomuseum:publication": ": , c. 2010.",
+    "sfomuseum:subcategory": "Product",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -52,7 +59,11 @@
       1159160869
     ],
     "wof:country": "XY",
-    "wof:created": 1660722415,
+    "wof:created": 1693383277,
+    "wof:depicts": [
+      1159288091,
+      1159285481
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -65,14 +76,14 @@
         "county_id": 102087579,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "object_id": 1780279109,
+        "object_id": 1880246649,
         "region_id": 85688637,
         "wing_id": 1159160869
       }
     ],
-    "wof:id": 1780279109,
+    "wof:id": 1880246649,
     "wof:lastmodified": 1693383510,
-    "wof:name": "miniature liquor bottle: Remy Martin Champagne cognac",
+    "wof:name": "snow globe: Virgin America",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

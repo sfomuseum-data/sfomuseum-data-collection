@@ -1,45 +1,54 @@
 {
-  "id": 1780279109,
+  "id": 1880246535,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1960-01-01",
-    "date:cessation_upper": "1969-12-31",
-    "date:inception_lower": "1960-01-01",
-    "date:inception_upper": "1969-12-31",
-    "edtf:cessation": "196X",
-    "edtf:inception": "196X",
+    "date:cessation_lower": "2007-01-01",
+    "date:cessation_upper": "2007-12-31",
+    "date:inception_lower": "2007-01-01",
+    "date:inception_upper": "2007-12-31",
+    "edtf:cessation": "2007~",
+    "edtf:inception": "2007~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1746152533,
-    "millsfield:collection_id": 1511214203,
-    "millsfield:images": [
-      1780279339,
-      1780280031,
-      1780280033
+    "millsfield:airline_id": [
+      1159285481
     ],
-    "millsfield:primary_image": 1780280031,
-    "millsfield:subcategory_id": 1746152547,
+    "millsfield:category_id": 1763416397,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159288091
+    ],
+    "millsfield:images": [
+      1880246785,
+      1880246787
+    ],
+    "millsfield:primary_image": 1880246785,
+    "millsfield:subcategory_id": 1511213411,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2004.047.001",
-    "sfomuseum:category": "Beverage Service",
-    "sfomuseum:classification_id": 565,
-    "sfomuseum:collection": "Aviation Museum",
-    "sfomuseum:creditline": "Gift of Frank A. Norick",
-    "sfomuseum:date": "1960s",
-    "sfomuseum:date_acquired": "2004-12-08",
-    "sfomuseum:daterange_end": "1969-12-31",
-    "sfomuseum:daterange_start": "1960-01-01",
-    "sfomuseum:description": "Miniature Champagne bottle produced by Remy Martin; Centaure XO Remy Martin, 50 ml.; empty.",
-    "sfomuseum:dimensions": "3 1/2 x 2 3/4 x 1 1/4 inches (8.9 x 7 x 3.2 cm)",
-    "sfomuseum:maker": "Remy Martin \u0026 Company",
-    "sfomuseum:medium": "glass, paper",
-    "sfomuseum:object_id": 73525,
+    "sfomuseum:accession_number": "2019.032.109",
+    "sfomuseum:aircraft": "Airbus A320",
+    "sfomuseum:airline": "Virgin America",
+    "sfomuseum:airline_id": [
+      913
+    ],
+    "sfomuseum:category": "Promotional, Archive",
+    "sfomuseum:classification_id": 151,
+    "sfomuseum:collection": "Aviation Archive",
+    "sfomuseum:creditline": "Gift of Sirena Lam",
+    "sfomuseum:date": "c. 2007",
+    "sfomuseum:date_acquired": "2019-12-02",
+    "sfomuseum:daterange_end": "2012-12-31",
+    "sfomuseum:daterange_start": "2002-01-01",
+    "sfomuseum:description": "Stationery paper issued by Virgin America promoting Airbus A320 fleet; red and white graphics with paper airplane-folding instructions.",
+    "sfomuseum:dimensions": "7 1/2 x 5 1/2 inches (19.1 x 14 cm)",
+    "sfomuseum:medium": "paper, ink",
+    "sfomuseum:object_id": 202660,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1960s.",
-    "sfomuseum:subcategory": "Liquor Bottle / Alcohol Container",
+    "sfomuseum:publication": ": , c. 2007.",
+    "sfomuseum:subcategory": "Stationery",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -52,7 +61,11 @@
       1159160869
     ],
     "wof:country": "XY",
-    "wof:created": 1660722415,
+    "wof:created": 1693383251,
+    "wof:depicts": [
+      1159285481,
+      1159288091
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -65,14 +78,14 @@
         "county_id": 102087579,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "object_id": 1780279109,
+        "object_id": 1880246535,
         "region_id": 85688637,
         "wing_id": 1159160869
       }
     ],
-    "wof:id": 1780279109,
+    "wof:id": 1880246535,
     "wof:lastmodified": 1693383510,
-    "wof:name": "miniature liquor bottle: Remy Martin Champagne cognac",
+    "wof:name": "stationery paper: Virgin America, Airbus A320",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

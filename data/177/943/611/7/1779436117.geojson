@@ -2,9 +2,13 @@
   "id": 1779436117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
-    "geom:area": 2.4750474575706356e-7,
+    "date:cessation_lower": "2000-01-01",
+    "date:cessation_upper": "2009-12-31",
+    "date:inception_lower": "2000-01-01",
+    "date:inception_upper": "2009-12-31",
+    "edtf:cessation": "200X",
+    "edtf:inception": "200X",
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -51,13 +55,17 @@
     "sfomuseum:classification_id": 11,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of the San Francisco Aeronautical Society",
+    "sfomuseum:date": "2000s",
     "sfomuseum:date_acquired": "2022-06-16",
+    "sfomuseum:daterange_end": "2009-12-31",
+    "sfomuseum:daterange_start": "2000-01-01",
     "sfomuseum:description": "Model airplane of TWA (Trans World Airlines) Lockheed L-1049 Super G Constellation;\ra. model; 1:100 scale\rb. stand.",
     "sfomuseum:dimensions": "8 x 15 1/4 x 14 inches (20.3 x 38.7 x 35.6 cm)",
     "sfomuseum:maker": "Pendleton Woolen Mills",
     "sfomuseum:medium": "plastic, wood, metal, paint",
     "sfomuseum:object_id": 230585,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 2000s.",
     "sfomuseum:subcategory": "Model Airplane",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -73,10 +81,10 @@
     "wof:country": "XY",
     "wof:created": 1652312617,
     "wof:depicts": [
-      1159287531,
       1159285393,
       1159291097,
-      1159293697
+      1159293697,
+      1159287531
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -96,7 +104,7 @@
       }
     ],
     "wof:id": 1779436117,
-    "wof:lastmodified": 1694116937,
+    "wof:lastmodified": 1694161081,
     "wof:name": "model airplane: TWA (Trans World Airlines), Lockheed L-1049G Super G Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

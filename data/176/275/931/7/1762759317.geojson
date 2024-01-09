@@ -9,15 +9,15 @@
     "edtf:cessation": "1962~",
     "edtf:inception": "1962~",
     "geom:area": 0,
-    "geom:bbox": "-73.787845,40.643286,-73.787845,40.643286",
-    "geom:latitude": 40.643286,
-    "geom:longitude": -73.787845,
+    "geom:bbox": "-90.678889,33.485833,-90.678889,33.485833",
+    "geom:latitude": 33.485833,
+    "geom:longitude": -90.678889,
     "iso:country": "US",
     "millsfield:airline_id": [
       1159285393
     ],
     "millsfield:airport_id": [
-      102534069
+      102534365
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
@@ -42,9 +42,9 @@
     "sfomuseum:airline_id": [
       874
     ],
-    "sfomuseum:airport": "Idlewild Airport",
+    "sfomuseum:airport": "John F. Kennedy International Airport",
     "sfomuseum:airport_id": [
-      164
+      94
     ],
     "sfomuseum:artist": "William “Bill” Hough",
     "sfomuseum:category": "Photograph",
@@ -55,7 +55,7 @@
     "sfomuseum:date_acquired": "2015-07-16",
     "sfomuseum:daterange_end": "1967-12-31",
     "sfomuseum:daterange_start": "1957-01-01",
-    "sfomuseum:description": "Color photographic print of rendering by artist David G. Beigle depicting TWA (Trans World Airlines) Douglas aircraft in front of TWA Flight Center at Idlewild Airport, New York.",
+    "sfomuseum:description": "Color photographic print of rendering by artist David G. Beigle depicting TWA (Trans World Airlines) Douglas aircraft in front of TWA Flight Center at John F. Kennedy International Airport, New York.",
     "sfomuseum:dimensions": "8 x 10 inches (20.3 x 25.4 cm)",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 169100,
@@ -64,7 +64,7 @@
     "sfomuseum:subcategory": "Print, Photograph",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
-      1746879091
+      102534069
     ],
     "wof:belongsto": [
       102527513,
@@ -75,22 +75,19 @@
       85922583,
       85688637,
       1159160869,
-      1746879091,
-      421205767,
-      102082377,
-      85977539,
-      907131691,
-      85688543
+      102534069,
+      85688579
     ],
     "wof:country": "US",
     "wof:created": 1641941084,
     "wof:depicts": [
+      1159287531,
+      102534365,
       102534069,
       1159285393,
-      1746879091,
-      1159287531
+      1746879091
     ],
-    "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
+    "wof:geomhash": "2b1cb18b20d479af7d60ca7806ff84aa",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -107,20 +104,15 @@
         "wing_id": 1159160869
       },
       {
-        "borough_id": 421205767,
-        "campus_id": 1746879091,
-        "continent_id": 102191575,
+        "campus_id": 102534069,
         "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
         "object_id": 1762759317,
-        "region_id": 85688543
+        "region_id": 85688579
       }
     ],
     "wof:id": 1762759317,
-    "wof:lastmodified": 1701883748,
-    "wof:name": "photograph: TWA (Trans World Airlines), Douglas, Idlewild Airport",
+    "wof:lastmodified": 1704789094,
+    "wof:name": "photograph: TWA (Trans World Airlines), Douglas, John F. Kennedy International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",
@@ -129,10 +121,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -73.787845,
-    40.643286,
-    -73.787845,
-    40.643286
+    -90.678889,
+    33.485833,
+    -90.678889,
+    33.485833
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-90.678889,33.485833]],"type":"MultiPoint"}
 }

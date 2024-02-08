@@ -26,7 +26,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159293777
+      1159286839
     ],
     "millsfield:images": [
       1762712575,
@@ -95,14 +95,24 @@
     "wof:country": "",
     "wof:created": 1641341631,
     "wof:depicts": [
-      1159284989,
       102547655,
       1159291963,
       1159293777,
-      1159283495
+      1159283495,
+      1159286839,
+      1159284989
     ],
     "wof:geomhash": "522942f0d8f50d57d195ac317aad6acf",
     "wof:hierarchy": [
+      {
+        "campus_id": 102547655,
+        "continent_id": 102191581,
+        "country_id": 85633241,
+        "locality_id": 101804821,
+        "neighbourhood_id": -1,
+        "object_id": 1762686365,
+        "region_id": 85685037
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -116,19 +126,10 @@
         "object_id": 1762686365,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102547655,
-        "continent_id": 102191581,
-        "country_id": 85633241,
-        "locality_id": 101804821,
-        "neighbourhood_id": -1,
-        "object_id": 1762686365,
-        "region_id": 85685037
       }
     ],
     "wof:id": 1762686365,
-    "wof:lastmodified": 1701883747,
+    "wof:lastmodified": 1707381141,
     "wof:name": "postcard: Aer Lingus, Pan American World Airways, Vickers Viscount, Boeing 707, Shannon Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -19,7 +19,7 @@
     "millsfield:airport_id": [
       102527513
     ],
-    "millsfield:category_id": 1762679695,
+    "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
       1159286839
@@ -37,7 +37,7 @@
       1762899229
     ],
     "millsfield:primary_image": 1762899227,
-    "millsfield:subcategory_id": 1511213443,
+    "millsfield:subcategory_id": 1511213403,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2012.147.451",
@@ -50,8 +50,8 @@
     "sfomuseum:airport_id": [
       121
     ],
-    "sfomuseum:category": "Award",
-    "sfomuseum:classification_id": 167,
+    "sfomuseum:category": "Promotional, Museum",
+    "sfomuseum:classification_id": 147,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of the Captain John B. Russell Family",
     "sfomuseum:date": "1970",
@@ -63,7 +63,7 @@
     "sfomuseum:object_id": 137633,
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1970.",
-    "sfomuseum:subcategory": "Medal / Medallion / Trophy",
+    "sfomuseum:subcategory": "Souvenir",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
       102527513
@@ -83,12 +83,26 @@
     "wof:country": "US",
     "wof:created": 1642730438,
     "wof:depicts": [
+      102527513,
       1159286839,
-      1159284989,
-      102527513
+      1159284989
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1762832283,
+        "region_id": 85688637,
+        "wing_id": 1159160869
+      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -106,24 +120,10 @@
         "county_id": 102085387,
         "object_id": 1762832283,
         "region_id": 85688637
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762832283,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1762832283,
-    "wof:lastmodified": 1705566735,
+    "wof:lastmodified": 1708676980,
     "wof:name": "commemorative medallion: Pan American World Airways, Boeing 747, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -6,9 +6,9 @@
     "date:cessation_upper": "1989-12-31",
     "date:inception_lower": "1980-01-01",
     "date:inception_upper": "1989-12-31",
-    "edtf:cessation": "~198X-01-01/~198X-12-31",
+    "edtf:cessation": "198X",
     "edtf:date": "1980~",
-    "edtf:inception": "~198X-01-01/~198X-12-31",
+    "edtf:inception": "198X",
     "geom:area": 0,
     "geom:bbox": "-87.894364,41.983038,-87.894364,41.983038",
     "geom:latitude": 41.983038,
@@ -52,10 +52,10 @@
     "sfomuseum:classification_id": 158,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
-    "sfomuseum:date": "c. 1980s",
+    "sfomuseum:date": "1980s",
     "sfomuseum:date_acquired": "2022-04-18",
-    "sfomuseum:daterange_end": "1994-12-31",
-    "sfomuseum:daterange_start": "1975-01-01",
+    "sfomuseum:daterange_end": "1989-12-31",
+    "sfomuseum:daterange_start": "1980-01-01",
     "sfomuseum:description": "Timetable double-sided card issued by Jet America Airlines, unknown effective date; white card with servicemark at top and scheduled service between Long Beach Airport and Chicago O’Hare Airport.",
     "sfomuseum:dimensions": "9 x 4 inches (22.9 x 10.2 cm)",
     "sfomuseum:media_ids": [
@@ -65,7 +65,7 @@
     "sfomuseum:object_id": 92617,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527839975,
-    "sfomuseum:publication": ": , c. 1980s.",
+    "sfomuseum:publication": ": , 1980s.",
     "sfomuseum:subcategory": "Timetable",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
@@ -99,6 +99,18 @@
     "wof:geomhash": "7b3bbc54c892c856b4b1b7eb583f40c7",
     "wof:hierarchy": [
       {
+        "borough_id": 958020405,
+        "campus_id": 102533631,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084317,
+        "localadmin_id": 404496273,
+        "locality_id": 85940195,
+        "neighbourhood_id": 1024608977,
+        "object_id": 1511932755,
+        "region_id": 85688697
+      },
+      {
         "building_id": -1,
         "campus_id": 102527513,
         "collection_id": 1159162825,
@@ -111,22 +123,10 @@
         "object_id": 1511932755,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 958020405,
-        "campus_id": 102533631,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102084317,
-        "localadmin_id": 404496273,
-        "locality_id": 85940195,
-        "neighbourhood_id": 1024608977,
-        "object_id": 1511932755,
-        "region_id": 85688697
       }
     ],
     "wof:id": 1511932755,
-    "wof:lastmodified": 1701883684,
+    "wof:lastmodified": 1708676988,
     "wof:name": "timetable: Jet America Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

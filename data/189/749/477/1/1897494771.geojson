@@ -2,14 +2,24 @@
   "id": 1897494771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1940-01-01",
+    "date:cessation_upper": "1940-12-31",
+    "date:inception_lower": "1940-01-01",
+    "date:inception_upper": "1940-12-31",
+    "edtf:cessation": "1940~",
+    "edtf:inception": "1940~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159288779
+    ],
     "millsfield:images": [
       1897552873
     ],
@@ -17,15 +27,25 @@
     "millsfield:subcategory_id": 1511213245,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2024.024.012",
+    "sfomuseum:accession_number": "2024.024.011",
+    "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:airline": "United Air Lines",
+    "sfomuseum:airline_id": [
+      884
+    ],
     "sfomuseum:category": "Photograph",
     "sfomuseum:classification_id": 56,
     "sfomuseum:collection": "Aviation Archive",
-    "sfomuseum:description": "Photograph from career history of Nancy Sullivan",
+    "sfomuseum:creditline": "Gift of Nancy Cochran Sullivan",
+    "sfomuseum:date": "c. 1940",
+    "sfomuseum:daterange_end": "1945-12-31",
+    "sfomuseum:daterange_start": "1935-01-01",
+    "sfomuseum:description": "Digital scan of black and white photograph depicting United Air Lines DC-3 in flight over Treasure Island, Yerba Buena Island, and Bay Bridge; San Francisco Bay in background.",
     "sfomuseum:dimensions": "8 x 10 inches (20.3 x 25.4 cm)",
     "sfomuseum:medium": "digital file",
     "sfomuseum:object_id": 244522,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , c. 1940.",
     "sfomuseum:subcategory": "Digital Image",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -40,6 +60,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1709368286,
+    "wof:depicts": [
+      1159285415,
+      1159288779
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -58,8 +82,8 @@
       }
     ],
     "wof:id": 1897494771,
-    "wof:lastmodified": 1709800597,
-    "wof:name": "photograph: (from career history of Nancy Sullivan) [digital scan]",
+    "wof:lastmodified": 1709973074,
+    "wof:name": "photograph: United Air Lines, DC-3 [digital scan]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": "object",

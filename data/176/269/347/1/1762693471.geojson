@@ -13,6 +13,9 @@
     "geom:latitude": 43.645615,
     "geom:longitude": -70.320898,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290421
+    ],
     "millsfield:airline_id": [
       1159284893
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288917
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762712153,
       1762712155
@@ -42,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2220",
     "sfomuseum:aircraft": "Douglas DC-4",
+    "sfomuseum:aircraft_id": [
+      489
+    ],
     "sfomuseum:airline": "Northeast Airlines",
     "sfomuseum:airline_id": [
       641
@@ -80,31 +84,20 @@
       1159160869,
       102534331,
       102087463,
-      404475429,
-      85948877,
-      85851275,
-      85688769
+      85688769,
+      404475439,
+      85948879
     ],
     "wof:country": "US",
     "wof:created": 1641343984,
     "wof:depicts": [
       102534331,
       1159288917,
-      1159284893
+      1159284893,
+      1159290421
     ],
     "wof:geomhash": "3e52caf90b0d13802010ade85cad8e4c",
     "wof:hierarchy": [
-      {
-        "campus_id": 102534331,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087463,
-        "localadmin_id": 404475429,
-        "locality_id": 85948877,
-        "neighbourhood_id": 85851275,
-        "object_id": 1762693471,
-        "region_id": 85688769
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -118,10 +111,21 @@
         "object_id": 1762693471,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102534331,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087463,
+        "localadmin_id": 404475439,
+        "locality_id": 85948879,
+        "neighbourhood_id": -1,
+        "object_id": 1762693471,
+        "region_id": 85688769
       }
     ],
     "wof:id": 1762693471,
-    "wof:lastmodified": 1701883738,
+    "wof:lastmodified": 1710355705,
     "wof:name": "postcard: Portland Municipal Airport (Maine), Northeast Airlines, Douglas DC-4",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

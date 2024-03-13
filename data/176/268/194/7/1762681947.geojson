@@ -13,6 +13,9 @@
     "geom:latitude": 45.462004,
     "geom:longitude": -73.744749,
     "iso:country": "CA",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159283597,
       1159284613
@@ -22,9 +25,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287541
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762711609,
       1762711611
@@ -43,6 +44,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2101",
     "sfomuseum:aircraft": "Douglas DC-8",
+    "sfomuseum:aircraft_id": [
+      498
+    ],
     "sfomuseum:airline": "KLM (Royal Dutch Airlines)",
     "sfomuseum:airline_id": [
       57,
@@ -92,20 +96,11 @@
       102554351,
       1159287541,
       1159283597,
-      1159284613
+      1159284613,
+      1159290443
     ],
     "wof:geomhash": "1fb9cddd6bf9528f5f18238889868548",
     "wof:hierarchy": [
-      {
-        "campus_id": 102554351,
-        "continent_id": 102191575,
-        "country_id": 85633041,
-        "county_id": 890458661,
-        "locality_id": 101736475,
-        "neighbourhood_id": -1,
-        "object_id": 1762681947,
-        "region_id": 136251273
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -119,10 +114,20 @@
         "object_id": 1762681947,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102554351,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890458661,
+        "locality_id": 101736475,
+        "neighbourhood_id": -1,
+        "object_id": 1762681947,
+        "region_id": 136251273
       }
     ],
     "wof:id": 1762681947,
-    "wof:lastmodified": 1701883733,
+    "wof:lastmodified": 1710355734,
     "wof:name": "postcard: Montreal Airport, KLM, Air Canada, Douglas DC-8",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

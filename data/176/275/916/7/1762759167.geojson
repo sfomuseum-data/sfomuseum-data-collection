@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289745
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293593
     ],
     "millsfield:images": [
       1763444797
@@ -33,6 +36,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.109",
     "sfomuseum:aircraft": "Boeing 720",
+    "sfomuseum:aircraft_id": [
+      174
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
     "sfomuseum:airline_id": [
       874
@@ -76,20 +82,14 @@
     "wof:country": "US",
     "wof:created": 1641941016,
     "wof:depicts": [
+      1159293593,
       1159287531,
       1159285393,
-      102527513
+      102527513,
+      1159289745
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1762759167,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -113,10 +113,18 @@
         "object_id": 1762759167,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1762759167,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762759167,
-    "wof:lastmodified": 1649405532,
+    "wof:lastmodified": 1710355696,
     "wof:name": "photograph: TWA (Trans World Airlines), Boeing 720, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

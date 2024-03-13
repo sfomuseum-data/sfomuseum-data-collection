@@ -14,13 +14,16 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      1159291285
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293561
     ],
     "millsfield:images": [
       1527836509
@@ -37,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2003.105.025.001",
     "sfomuseum:aircraft": "McDonnell Douglas MD-80",
+    "sfomuseum:aircraft_id": [
+      876
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -77,11 +83,13 @@
     "wof:country": "XX",
     "wof:created": 1579906669,
     "wof:depicts": [
-      1159283849,
       1360700619,
       85921881,
       85688637,
-      85633793
+      85633793,
+      1159291285,
+      1159293561,
+      1159283849
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -102,7 +110,7 @@
       }
     ],
     "wof:id": 1511938919,
-    "wof:lastmodified": 1701883702,
+    "wof:lastmodified": 1710355696,
     "wof:name": "timetable: American Airlines, quick reference, San Francisco / Oakland / San Jose",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

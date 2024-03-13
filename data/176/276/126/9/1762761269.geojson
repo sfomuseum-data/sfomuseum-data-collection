@@ -13,6 +13,9 @@
     "geom:latitude": -33.934928,
     "geom:longitude": 151.173388,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289913
+    ],
     "millsfield:airline_id": [
       1159285745
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288271
+      1159293593,
+      1159289873
     ],
     "millsfield:images": [
       1763388773
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.108.054",
     "sfomuseum:aircraft": "Boeing 747-300",
+    "sfomuseum:aircraft_id": [
+      249
+    ],
     "sfomuseum:airline": "Ansett Airlines of Australia",
     "sfomuseum:airline_id": [
       1044
@@ -93,27 +100,17 @@
     "wof:country": "",
     "wof:created": 1641941817,
     "wof:depicts": [
+      1159289873,
       1159288271,
       1159283877,
       102557783,
       1159287295,
-      1159285745
+      1159285745,
+      1159289913,
+      1159293593
     ],
     "wof:geomhash": "2cf0c9019341fb7980e15094e56b6642",
     "wof:hierarchy": [
-      {
-        "campus_id": 102557783,
-        "continent_id": 102191583,
-        "country_id": 85632793,
-        "county_id": 102049567,
-        "empire_id": 136253039,
-        "localadmin_id": 404224771,
-        "locality_id": 101931173,
-        "macrocounty_id": 1376953385,
-        "neighbourhood_id": -1,
-        "object_id": 1762761269,
-        "region_id": 85681545
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -127,10 +124,23 @@
         "object_id": 1762761269,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102557783,
+        "continent_id": 102191583,
+        "country_id": 85632793,
+        "county_id": 102049567,
+        "empire_id": 136253039,
+        "localadmin_id": 404224771,
+        "locality_id": 101931173,
+        "macrocounty_id": 1376953385,
+        "neighbourhood_id": -1,
+        "object_id": 1762761269,
+        "region_id": 85681545
       }
     ],
     "wof:id": 1762761269,
-    "wof:lastmodified": 1701883754,
+    "wof:lastmodified": 1710355690,
     "wof:name": "slide: Ansett Australia, Boeing 747-300, Sydney Airport (SYD)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

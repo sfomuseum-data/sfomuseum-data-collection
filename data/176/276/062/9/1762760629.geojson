@@ -13,6 +13,9 @@
     "geom:latitude": 52.314791,
     "geom:longitude": 4.782907,
     "iso:country": "NL",
+    "millsfield:aircraft_id": [
+      1159289409
+    ],
     "millsfield:airline_id": [
       1159284035
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288023
+      1159293829
     ],
     "millsfield:images": [
       1763445005
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.181",
     "sfomuseum:aircraft": "Airbus A320",
+    "sfomuseum:aircraft_id": [
+      25
+    ],
     "sfomuseum:airline": "British Midland Airways",
     "sfomuseum:airline_id": [
       253
@@ -91,12 +97,25 @@
     "wof:country": "NL",
     "wof:created": 1641941580,
     "wof:depicts": [
-      102542801,
       1159288023,
-      1159284035
+      1159284035,
+      1159289409,
+      1159293829,
+      102542801
     ],
     "wof:geomhash": "c97c5c719ccc4d0199c2fa6f18cd1aab",
     "wof:hierarchy": [
+      {
+        "campus_id": 102542801,
+        "continent_id": 102191581,
+        "country_id": 85633337,
+        "empire_id": 136253051,
+        "localadmin_id": 404474065,
+        "locality_id": 1158822865,
+        "neighbourhood_id": -1,
+        "object_id": 1762760629,
+        "region_id": 85687053
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -110,21 +129,10 @@
         "object_id": 1762760629,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102542801,
-        "continent_id": 102191581,
-        "country_id": 85633337,
-        "empire_id": 136253051,
-        "localadmin_id": 404474065,
-        "locality_id": 1158822865,
-        "neighbourhood_id": -1,
-        "object_id": 1762760629,
-        "region_id": 85687053
       }
     ],
     "wof:id": 1762760629,
-    "wof:lastmodified": 1694116939,
+    "wof:lastmodified": 1710355725,
     "wof:name": "slide: British Midland Airways, Airbus A320-200, Amsterdam Airport Schiphol (AMS)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 49.945918,
     "geom:longitude": 7.267284,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159291931
+    ],
     "millsfield:airline_id": [
       1159286129
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287113
+      1159294153
     ],
     "millsfield:images": [
       1763388811
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.108.072",
     "sfomuseum:aircraft": "Tupolev Tu-134",
+    "sfomuseum:aircraft_id": [
+      1166
+    ],
     "sfomuseum:airline": "Belavia Belarusian Airlines",
     "sfomuseum:airline_id": [
       1220
@@ -92,10 +98,21 @@
     "wof:depicts": [
       1159286129,
       102549057,
-      1159287113
+      1159287113,
+      1159291931,
+      1159294153
     ],
     "wof:geomhash": "44be089feec7c5122a95ff58a62cb165",
     "wof:hierarchy": [
+      {
+        "campus_id": 102549057,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063601,
+        "locality_id": 101907073,
+        "object_id": 1762761307,
+        "region_id": 85682491
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -109,19 +126,10 @@
         "object_id": 1762761307,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102549057,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063601,
-        "locality_id": 101907073,
-        "object_id": 1762761307,
-        "region_id": 85682491
       }
     ],
     "wof:id": 1762761307,
-    "wof:lastmodified": 1701883754,
+    "wof:lastmodified": 1710355720,
     "wof:name": "slide: Belavia Belarusian Airlines, Tupolev Tu-134, Frankfurt Airport (FRA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

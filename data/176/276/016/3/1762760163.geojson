@@ -13,6 +13,9 @@
     "geom:latitude": 40.691243,
     "geom:longitude": -74.177526,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159291239
+    ],
     "millsfield:airline_id": [
       1159285447
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288239
+      1159291223
     ],
     "millsfield:images": [
       1763389163
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.108.228",
     "sfomuseum:aircraft": "Douglas DC-9-30",
+    "sfomuseum:aircraft_id": [
+      855
+    ],
     "sfomuseum:airline": "USAir",
     "sfomuseum:airline_id": [
       898
@@ -84,12 +90,13 @@
       102085043,
       404478049,
       85975279,
-      85873011,
       85688607
     ],
     "wof:country": "US",
     "wof:created": 1641941406,
     "wof:depicts": [
+      1159291239,
+      1159291223,
       1159288239,
       1159285447,
       102530049
@@ -117,13 +124,13 @@
         "county_id": 102085043,
         "localadmin_id": 404478049,
         "locality_id": 85975279,
-        "neighbourhood_id": 85873011,
+        "neighbourhood_id": -1,
         "object_id": 1762760163,
         "region_id": 85688607
       }
     ],
     "wof:id": 1762760163,
-    "wof:lastmodified": 1701883751,
+    "wof:lastmodified": 1710355704,
     "wof:name": "slide: USAir, McDonnell Douglas DC-9-30, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

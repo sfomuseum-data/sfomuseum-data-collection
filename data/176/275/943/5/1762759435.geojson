@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159284021
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287729
+      1159293593,
+      1159289873
     ],
     "millsfield:images": [
       1762899167
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2018.101.038",
     "sfomuseum:aircraft": "Boeing 747-400",
+    "sfomuseum:aircraft_id": [
+      250
+    ],
     "sfomuseum:airline": "British Airways",
     "sfomuseum:airline_id": [
       246
@@ -86,20 +93,15 @@
     "wof:country": "US",
     "wof:created": 1641941127,
     "wof:depicts": [
+      1159289915,
+      1159293593,
+      1159289873,
       102527513,
       1159287729,
       1159284021
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1762759435,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -123,10 +125,18 @@
         "object_id": 1762759435,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1762759435,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762759435,
-    "wof:lastmodified": 1701883749,
+    "wof:lastmodified": 1710355692,
     "wof:name": "slide: British Airways, Boeing 747-400, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

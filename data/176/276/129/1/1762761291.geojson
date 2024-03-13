@@ -13,6 +13,9 @@
     "geom:latitude": 53.411253,
     "geom:longitude": -2.337608,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159291239
+    ],
     "millsfield:airline_id": [
       1159284529
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288267
+      1159291223
     ],
     "millsfield:images": [
       1763444663
@@ -36,6 +39,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.049",
     "sfomuseum:aircraft": "Douglas DC-9-30",
+    "sfomuseum:aircraft_id": [
+      855
+    ],
     "sfomuseum:airline": "Inex-Adria Airways",
     "sfomuseum:airline_id": [
       476
@@ -87,12 +93,26 @@
     "wof:country": "",
     "wof:created": 1641941824,
     "wof:depicts": [
-      1159284529,
       102556861,
-      1159288267
+      1159288267,
+      1159291239,
+      1159291223,
+      1159284529
     ],
     "wof:geomhash": "507030cac884ff51233c55c34f67cd5a",
     "wof:hierarchy": [
+      {
+        "campus_id": 102556861,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698935,
+        "localadmin_id": 1360817437,
+        "locality_id": 1125985817,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": -1,
+        "object_id": 1762761291,
+        "region_id": 1360698555
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -118,22 +138,10 @@
         "neighbourhood_id": -1,
         "object_id": 1762761291,
         "region_id": 1360698555
-      },
-      {
-        "campus_id": 102556861,
-        "continent_id": 102191581,
-        "country_id": 85633159,
-        "county_id": 1360698935,
-        "localadmin_id": 1360817437,
-        "locality_id": 1125985817,
-        "macroregion_id": 404227469,
-        "neighbourhood_id": -1,
-        "object_id": 1762761291,
-        "region_id": 1360698555
       }
     ],
     "wof:id": 1762761291,
-    "wof:lastmodified": 1663141647,
+    "wof:lastmodified": 1710355698,
     "wof:name": "photograph: Inex-Adria Airways, McDonnell Douglas DC-9-32, Manchester International Airport (MAN)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 25.322186,
     "geom:longitude": 55.518278,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159292085
+    ],
     "millsfield:airline_id": [
       1159285249
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288921
+      1159293829,
+      1159289409
     ],
     "millsfield:images": [
       1763445011
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.184",
     "sfomuseum:aircraft": "Airbus A320-200",
+    "sfomuseum:aircraft_id": [
+      1237
+    ],
     "sfomuseum:airline": "SyrianAir",
     "sfomuseum:airline_id": [
       804
@@ -90,12 +97,25 @@
     "wof:country": "",
     "wof:created": 1641941616,
     "wof:depicts": [
+      1159288921,
+      1159292085,
+      1159293829,
+      1159289409,
       1159285249,
-      102558449,
-      1159288921
+      102558449
     ],
     "wof:geomhash": "14e6773ad91ada1d885c5cc457c4f1bf",
     "wof:hierarchy": [
+      {
+        "campus_id": 102558449,
+        "continent_id": 102191569,
+        "country_id": 85632573,
+        "county_id": 421171391,
+        "locality_id": 421168683,
+        "neighbourhood_id": -1,
+        "object_id": 1762760681,
+        "region_id": 85667977
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -109,20 +129,10 @@
         "object_id": 1762760681,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102558449,
-        "continent_id": 102191569,
-        "country_id": 85632573,
-        "county_id": 421171391,
-        "locality_id": 421168683,
-        "neighbourhood_id": -1,
-        "object_id": 1762760681,
-        "region_id": 85667977
       }
     ],
     "wof:id": 1762760681,
-    "wof:lastmodified": 1701883752,
+    "wof:lastmodified": 1710355688,
     "wof:name": "slide: Syrian Air, Airbus A320-200, Sharjah International Airport (SHJ)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

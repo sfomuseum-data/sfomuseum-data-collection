@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284011
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286951
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1763389299
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2016.097.041",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Braniff Airways",
     "sfomuseum:airline_id": [
       242
@@ -86,20 +93,15 @@
     "wof:country": "US",
     "wof:created": 1641941554,
     "wof:depicts": [
+      1159289759,
       1159284011,
       102527513,
-      1159286951
+      1159286951,
+      1159289789,
+      1159293593
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1762760553,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -123,10 +125,18 @@
         "object_id": 1762760553,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1762760553,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762760553,
-    "wof:lastmodified": 1694116939,
+    "wof:lastmodified": 1710355726,
     "wof:name": "slide: Braniff Inc., Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

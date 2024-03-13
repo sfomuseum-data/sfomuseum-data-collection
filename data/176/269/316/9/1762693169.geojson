@@ -13,6 +13,9 @@
     "geom:latitude": 47.441823,
     "geom:longitude": -122.304268,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289755
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -21,7 +24,10 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289745
+    ],
     "millsfield:images": [
       1762708927,
       1762708929
@@ -40,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1156",
     "sfomuseum:aircraft": "Boeing 720B",
+    "sfomuseum:aircraft_id": [
+      179
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -85,10 +94,13 @@
     "wof:country": "US",
     "wof:created": 1641343893,
     "wof:depicts": [
-      1159287407,
-      1159284913,
       102533269,
-      1159284907
+      1159284907,
+      1159289755,
+      1159293593,
+      1159289745,
+      1159287407,
+      1159284913
     ],
     "wof:geomhash": "dab3b21e84c7273184687abaac52f6d8",
     "wof:hierarchy": [
@@ -118,7 +130,7 @@
       }
     ],
     "wof:id": 1762693169,
-    "wof:lastmodified": 1701883737,
+    "wof:lastmodified": 1710355703,
     "wof:name": "postcard: Northwest Orient Airlines, Boeing 720B, Seattle-Tacoma International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

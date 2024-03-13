@@ -13,6 +13,9 @@
     "geom:latitude": 25.79047,
     "geom:longitude": -80.296006,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289699
+    ],
     "millsfield:airline_id": [
       1159284805
     ],
@@ -22,7 +25,9 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287441
+      1159293593,
+      1159289653,
+      1159289695
     ],
     "millsfield:images": [
       1763444319
@@ -42,6 +47,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0171",
     "sfomuseum:aircraft": "Boeing 707-321C",
+    "sfomuseum:aircraft_id": [
+      154
+    ],
     "sfomuseum:airline": "Millon Airlines",
     "sfomuseum:airline_id": [
       602
@@ -88,12 +96,26 @@
     "wof:country": "US",
     "wof:created": 1641940991,
     "wof:depicts": [
+      1159289695,
       1159284805,
       102531023,
-      1159287441
+      1159287441,
+      1159289699,
+      1159293593,
+      1159289653
     ],
     "wof:geomhash": "c66831237e200a408b9ec647c9b5d8f8",
     "wof:hierarchy": [
+      {
+        "campus_id": 102531023,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085771,
+        "locality_id": -1,
+        "neighbourhood_id": 85896183,
+        "object_id": 1762759085,
+        "region_id": 85688651
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -107,20 +129,10 @@
         "object_id": 1762759085,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102531023,
-        "continent_id": -1,
-        "country_id": 85633793,
-        "county_id": 102085771,
-        "locality_id": -1,
-        "neighbourhood_id": 85896183,
-        "object_id": 1762759085,
-        "region_id": 85688651
       }
     ],
     "wof:id": 1762759085,
-    "wof:lastmodified": 1701883748,
+    "wof:lastmodified": 1710355713,
     "wof:name": "slide: Millon, Boeing 707-321C, Miami International Airport (MIA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

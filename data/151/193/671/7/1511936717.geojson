@@ -14,12 +14,17 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      1159290439
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159290435
+    ],
     "millsfield:images": [
       1527837887
     ],
@@ -35,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2005.132.035.008",
     "sfomuseum:aircraft": "Douglas DC-7C",
+    "sfomuseum:aircraft_id": [
+      497
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -76,9 +84,11 @@
     "wof:country": "XX",
     "wof:created": 1579906674,
     "wof:depicts": [
+      1159290435,
       1159284907,
       1159284913,
-      1159287407
+      1159287407,
+      1159290439
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -99,7 +109,7 @@
       }
     ],
     "wof:id": 1511936717,
-    "wof:lastmodified": 1701883694,
+    "wof:lastmodified": 1710355713,
     "wof:name": "timetable: Northwest Orient Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

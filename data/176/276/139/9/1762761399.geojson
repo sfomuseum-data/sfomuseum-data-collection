@@ -13,6 +13,9 @@
     "geom:latitude": 40.691243,
     "geom:longitude": -74.177526,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -21,7 +24,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289935
+    ],
     "millsfield:images": [
       1763442617
     ],
@@ -40,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2014.158.063",
     "sfomuseum:aircraft": "Boeing 757-200",
+    "sfomuseum:aircraft_id": [
+      260
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -82,12 +91,14 @@
       102085043,
       404478049,
       85975279,
-      85873011,
       85688607
     ],
     "wof:country": "US",
     "wof:created": 1641941859,
     "wof:depicts": [
+      1159289939,
+      1159293593,
+      1159289935,
       102530049,
       1159284907
     ],
@@ -114,13 +125,13 @@
         "county_id": 102085043,
         "localadmin_id": 404478049,
         "locality_id": 85975279,
-        "neighbourhood_id": 85873011,
+        "neighbourhood_id": -1,
         "object_id": 1762761399,
         "region_id": 85688607
       }
     ],
     "wof:id": 1762761399,
-    "wof:lastmodified": 1694116940,
+    "wof:lastmodified": 1710355728,
     "wof:name": "slide: Northwest Airlines, Boeing 757",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 43.113083,
     "geom:longitude": -76.111213,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159284309
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287349
+      1159293593
     ],
     "millsfield:images": [
       1762712617,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2323",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "Eastern Air Lines",
     "sfomuseum:airline_id": [
       376
@@ -85,19 +91,12 @@
     "wof:depicts": [
       1159284309,
       102529833,
-      1159287349
+      1159287349,
+      1159289759,
+      1159293593
     ],
     "wof:geomhash": "16fc88c46c4a10b0b79d56f29d9ce464",
     "wof:hierarchy": [
-      {
-        "campus_id": 102529833,
-        "continent_id": -1,
-        "country_id": -1,
-        "locality_id": -1,
-        "neighbourhood_id": -1,
-        "object_id": 1762695397,
-        "region_id": -1
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -111,10 +110,19 @@
         "object_id": 1762695397,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102529833,
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "object_id": 1762695397,
+        "region_id": -1
       }
     ],
     "wof:id": 1762695397,
-    "wof:lastmodified": 1706257845,
+    "wof:lastmodified": 1710355729,
     "wof:name": "postcard: Eastern, Boeing 727 Whisperjet",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

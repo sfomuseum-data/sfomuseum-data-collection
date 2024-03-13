@@ -13,6 +13,9 @@
     "geom:latitude": 40.643286,
     "geom:longitude": -73.787845,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289419
+    ],
     "millsfield:airline_id": [
       1159285101
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287229
+      1159293829
     ],
     "millsfield:images": [
       1763444175
@@ -39,6 +42,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0111",
     "sfomuseum:aircraft": "Airbus A330",
+    "sfomuseum:aircraft_id": [
+      29
+    ],
     "sfomuseum:airline": "Sabena",
     "sfomuseum:airline_id": [
       736
@@ -88,10 +94,23 @@
     "wof:depicts": [
       1159285101,
       102534365,
-      1159287229
+      1159287229,
+      1159289419,
+      1159293829
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762759297,
+        "region_id": 85688543
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -105,21 +124,10 @@
         "object_id": 1762759297,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762759297,
-        "region_id": 85688543
       }
     ],
     "wof:id": 1762759297,
-    "wof:lastmodified": 1701883748,
+    "wof:lastmodified": 1710355719,
     "wof:name": "slide: Sabena, Airbus A330, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

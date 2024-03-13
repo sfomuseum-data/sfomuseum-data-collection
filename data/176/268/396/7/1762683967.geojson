@@ -13,11 +13,17 @@
     "geom:latitude": 41.16816,
     "geom:longitude": -71.57783,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159293189
+    ],
     "millsfield:airport_id": [
       102530393
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159294115
+    ],
     "millsfield:images": [
       1762710277,
       1762710279
@@ -34,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1807",
     "sfomuseum:aircraft": "Cessna 170",
+    "sfomuseum:aircraft_id": [
+      1773
+    ],
     "sfomuseum:airport": "Block Island State Airport",
     "sfomuseum:airport_id": [
       199
@@ -69,12 +78,15 @@
       102530393,
       102081219,
       404488333,
-      85688509
+      85688509,
+      1729467937
     ],
     "wof:country": "US",
     "wof:created": 1641340841,
     "wof:depicts": [
-      102530393
+      102530393,
+      1159293189,
+      1159294115
     ],
     "wof:geomhash": "9942162c9be792cd85539e6cab6e3c7e",
     "wof:hierarchy": [
@@ -98,12 +110,14 @@
         "country_id": 85633793,
         "county_id": 102081219,
         "localadmin_id": 404488333,
+        "locality_id": 1729467937,
+        "neighbourhood_id": -1,
         "object_id": 1762683967,
         "region_id": 85688509
       }
     ],
     "wof:id": 1762683967,
-    "wof:lastmodified": 1701883739,
+    "wof:lastmodified": 1710355716,
     "wof:name": "postcard: Block Island Airport, Cessna 170",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

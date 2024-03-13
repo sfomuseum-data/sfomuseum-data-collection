@@ -13,6 +13,9 @@
     "geom:latitude": 41.934353,
     "geom:longitude": -72.687108,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290197
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293605
     ],
     "millsfield:images": [
       1762712975,
@@ -40,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2401",
     "sfomuseum:aircraft": "Convair 240",
+    "sfomuseum:aircraft_id": [
+      377
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -85,22 +91,14 @@
     "wof:country": "US",
     "wof:created": 1641341739,
     "wof:depicts": [
-      1360700619,
       1159283849,
-      102532701
+      102532701,
+      1159290197,
+      1159293605,
+      1360700619
     ],
     "wof:geomhash": "78c56c21c1f3c219caf3d42a8ee01991",
     "wof:hierarchy": [
-      {
-        "campus_id": 102532701,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085381,
-        "localadmin_id": 404495835,
-        "locality_id": 85931007,
-        "object_id": 1762686749,
-        "region_id": 85688629
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,10 +112,21 @@
         "object_id": 1762686749,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102532701,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085381,
+        "localadmin_id": 404495835,
+        "locality_id": 85931007,
+        "neighbourhood_id": -1,
+        "object_id": 1762686749,
+        "region_id": 85688629
       }
     ],
     "wof:id": 1762686749,
-    "wof:lastmodified": 1701883748,
+    "wof:lastmodified": 1710355694,
     "wof:name": "postcard: Bradley Field, Convair 240, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

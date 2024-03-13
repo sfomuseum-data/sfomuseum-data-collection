@@ -13,6 +13,9 @@
     "geom:latitude": 40.643286,
     "geom:longitude": -73.787845,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159291293
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293561
     ],
     "millsfield:images": [
       1763389149
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.108.222",
     "sfomuseum:aircraft": "McDonnell Douglas MD-83",
+    "sfomuseum:aircraft_id": [
+      879
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
     "sfomuseum:airline_id": [
       874
@@ -90,12 +96,25 @@
     "wof:country": "US",
     "wof:created": 1641941826,
     "wof:depicts": [
+      1159293561,
       1159287531,
       1159285393,
-      102534365
+      102534365,
+      1159291293
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762761299,
+        "region_id": 85688543
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -109,21 +128,10 @@
         "object_id": 1762761299,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762761299,
-        "region_id": 85688543
       }
     ],
     "wof:id": 1762761299,
-    "wof:lastmodified": 1701883754,
+    "wof:lastmodified": 1710355733,
     "wof:name": "slide: TWA (Trans World Airlines), McDonnell Douglas MD-83, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

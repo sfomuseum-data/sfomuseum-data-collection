@@ -14,6 +14,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159284973
     ],
@@ -23,7 +26,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286629
+      1159293593
     ],
     "millsfield:images": [
       1527826143
@@ -41,6 +44,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.032.1700",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "Pacific Southwest Airlines (PSA)",
     "sfomuseum:airline_id": [
       677
@@ -89,12 +95,22 @@
     "wof:country": "US",
     "wof:created": 1579906664,
     "wof:depicts": [
+      1159293593,
       102527513,
       1159284973,
-      1159286629
+      1159286629,
+      1159289759
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1511947171,
+        "region_id": 85688637
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -118,18 +134,10 @@
         "object_id": 1511947171,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      },
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1511947171,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1511947171,
-    "wof:lastmodified": 1694116939,
+    "wof:lastmodified": 1710355717,
     "wof:name": "negative: San Francisco International Airport (SFO), Central Terminal",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

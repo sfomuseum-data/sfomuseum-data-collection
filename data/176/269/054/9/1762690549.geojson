@@ -13,6 +13,10 @@
     "geom:latitude": 49.945918,
     "geom:longitude": 7.267284,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159290435,
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159283627,
       1159284989
@@ -23,7 +27,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286839
+      1159293697
     ],
     "millsfield:images": [
       1762710897,
@@ -43,6 +47,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1943",
     "sfomuseum:aircraft": "Douglas DC-7",
+    "sfomuseum:aircraft_id": [
+      495,
+      1666
+    ],
     "sfomuseum:airline": "Pan American World Airways",
     "sfomuseum:airline_id": [
       70,
@@ -90,14 +98,26 @@
     "wof:country": "",
     "wof:created": 1641343056,
     "wof:depicts": [
+      1159292981,
+      1159293697,
       1159286839,
       1159283627,
       1159284989,
       1159284991,
-      102549057
+      102549057,
+      1159290435
     ],
     "wof:geomhash": "44be089feec7c5122a95ff58a62cb165",
     "wof:hierarchy": [
+      {
+        "campus_id": 102549057,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063601,
+        "locality_id": 101907073,
+        "object_id": 1762690549,
+        "region_id": 85682491
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -111,19 +131,10 @@
         "object_id": 1762690549,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102549057,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063601,
-        "locality_id": 101907073,
-        "object_id": 1762690549,
-        "region_id": 85682491
       }
     ],
     "wof:id": 1762690549,
-    "wof:lastmodified": 1701883729,
+    "wof:lastmodified": 1710355709,
     "wof:name": "postcard: Frankfurt Main Airport, Pan Am, Air France, Douglas DC-7, Lockheed Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

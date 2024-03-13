@@ -26,7 +26,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288239
+      1159293561
     ],
     "millsfield:images": [
       1763443227
@@ -86,7 +86,6 @@
       102085043,
       404478049,
       85975279,
-      85873011,
       85688607,
       1159162825,
       1159160869
@@ -95,25 +94,14 @@
     "wof:country": "US",
     "wof:created": 1618962232,
     "wof:depicts": [
+      102530049,
       1159288239,
       1159285447,
       1159291285,
-      1159293561,
-      102530049
+      1159293561
     ],
     "wof:geomhash": "4b819771a65ce5f91cf16e2f94402c48",
     "wof:hierarchy": [
-      {
-        "campus_id": 102530049,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085043,
-        "localadmin_id": 404478049,
-        "locality_id": 85975279,
-        "neighbourhood_id": 85873011,
-        "object_id": 1511926453,
-        "region_id": 85688607
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -127,10 +115,21 @@
         "object_id": 1511926453,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102530049,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085043,
+        "localadmin_id": 404478049,
+        "locality_id": 85975279,
+        "neighbourhood_id": -1,
+        "object_id": 1511926453,
+        "region_id": 85688607
       }
     ],
     "wof:id": 1511926453,
-    "wof:lastmodified": 1701883690,
+    "wof:lastmodified": 1710355705,
     "wof:name": "slide: USAir, McDonnell Douglas MD-80, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

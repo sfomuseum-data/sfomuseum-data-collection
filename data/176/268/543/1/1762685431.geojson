@@ -13,6 +13,10 @@
     "geom:latitude": 47.260278,
     "geom:longitude": 11.343889,
     "iso:country": "AT",
+    "millsfield:aircraft_id": [
+      1159289519,
+      1159290901
+    ],
     "millsfield:airline_id": [
       1159283947,
       1159284017
@@ -23,7 +27,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288437
+      1159294003
     ],
     "millsfield:images": [
       1762711145,
@@ -43,6 +47,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1998",
     "sfomuseum:aircraft": "Hawker Siddeley HS.748",
+    "sfomuseum:aircraft_id": [
+      74,
+      704
+    ],
     "sfomuseum:airline": "Austrian Airlines",
     "sfomuseum:airline_id": [
       213,
@@ -92,18 +100,13 @@
       1159288437,
       1159283947,
       1159284017,
-      102556255
+      102556255,
+      1159289519,
+      1159290901,
+      1159294003
     ],
     "wof:geomhash": "a161eefcbab3804dd274911a2959a6f0",
     "wof:hierarchy": [
-      {
-        "campus_id": 102556255,
-        "country_id": 85632785,
-        "county_id": 102049735,
-        "neighbourhood_id": 85904329,
-        "object_id": 1762685431,
-        "region_id": 85681661
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -117,10 +120,18 @@
         "object_id": 1762685431,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102556255,
+        "country_id": 85632785,
+        "county_id": 102049735,
+        "neighbourhood_id": 85904329,
+        "object_id": 1762685431,
+        "region_id": 85681661
       }
     ],
     "wof:id": 1762685431,
-    "wof:lastmodified": 1701883744,
+    "wof:lastmodified": 1710355720,
     "wof:name": "postcard: Austrian Airlines, British Eagle, Hawker Siddeley HS.748, BAC One-Eleven, Innsbruck Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 40.492624,
     "geom:longitude": -80.259551,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762707305,
       1762707307
@@ -45,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1670",
     "sfomuseum:aircraft": "Douglas DC-8",
+    "sfomuseum:aircraft_id": [
+      498
+    ],
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
@@ -85,14 +89,16 @@
       102528181,
       102080887,
       404484901,
-      85688481
+      85688481,
+      1729444317
     ],
     "wof:country": "US",
     "wof:created": 1641340528,
     "wof:depicts": [
       1159288779,
       1159285415,
-      102528181
+      102528181,
+      1159290443
     ],
     "wof:geomhash": "49baab651e51ed61da88ddc0e8743876",
     "wof:hierarchy": [
@@ -116,12 +122,14 @@
         "country_id": 85633793,
         "county_id": 102080887,
         "localadmin_id": 404484901,
+        "locality_id": 1729444317,
+        "neighbourhood_id": -1,
         "object_id": 1762683023,
         "region_id": 85688481
       }
     ],
     "wof:id": 1762683023,
-    "wof:lastmodified": 1701883737,
+    "wof:lastmodified": 1710355723,
     "wof:name": "postcard: United Air Lines, Douglas DC-8, Pittsburgh Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

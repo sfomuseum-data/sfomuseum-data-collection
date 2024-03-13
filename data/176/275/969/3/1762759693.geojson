@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289827
+    ],
     "millsfield:airline_id": [
       1159285591
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700737
+      1159293593,
+      1159289819
     ],
     "millsfield:images": [
       1762899253
@@ -33,6 +37,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2019.100.005",
     "sfomuseum:aircraft": "Boeing 737-200",
+    "sfomuseum:aircraft_id": [
+      211
+    ],
     "sfomuseum:airline": "Southwest Airlines",
     "sfomuseum:airline_id": [
       964
@@ -76,20 +83,15 @@
     "wof:country": "US",
     "wof:created": 1641941233,
     "wof:depicts": [
-      1159285591,
       102527513,
-      1360700737
+      1360700737,
+      1159289827,
+      1159293593,
+      1159289819,
+      1159285591
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1762759693,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -113,10 +115,18 @@
         "object_id": 1762759693,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1762759693,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762759693,
-    "wof:lastmodified": 1646944848,
+    "wof:lastmodified": 1710355734,
     "wof:name": "slide: Southwest Airlines, Boeing 737, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

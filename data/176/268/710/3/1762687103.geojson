@@ -13,11 +13,17 @@
     "geom:latitude": 35.755744,
     "geom:longitude": 140.395257,
     "iso:country": "JP",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airport_id": [
       1746879101
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159293593
+    ],
     "millsfield:images": [
       1762712799,
       1762712801
@@ -36,6 +42,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2362",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airport": "New Tokyo International Airport",
     "sfomuseum:airport_id": [
       146
@@ -78,19 +87,12 @@
     "wof:country": "JP",
     "wof:created": 1641341852,
     "wof:depicts": [
-      1746879101
+      1746879101,
+      1159289873,
+      1159293593
     ],
     "wof:geomhash": "57134c91d5fe4cbc8a8afe0d934bd822",
     "wof:hierarchy": [
-      {
-        "campus_id": 1746879101,
-        "continent_id": 102191569,
-        "country_id": 85632429,
-        "county_id": 890524535,
-        "locality_id": 102031933,
-        "object_id": 1762687103,
-        "region_id": 85672797
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -104,10 +106,19 @@
         "object_id": 1762687103,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 1746879101,
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 890524535,
+        "locality_id": 102031933,
+        "object_id": 1762687103,
+        "region_id": 85672797
       }
     ],
     "wof:id": 1762687103,
-    "wof:lastmodified": 1701883749,
+    "wof:lastmodified": 1710355710,
     "wof:name": "postcard: New Tokyo International Airport (Narita), Boeing 747",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289819
+    ],
     "millsfield:airline_id": [
       1159285521
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288025
+      1159293593
     ],
     "millsfield:images": [
       1762708339,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1743",
     "sfomuseum:aircraft": "Boeing 737",
+    "sfomuseum:aircraft_id": [
+      207
+    ],
     "sfomuseum:airline": "Western Pacific Airlines",
     "sfomuseum:airline_id": [
       931
@@ -86,18 +92,12 @@
     "wof:depicts": [
       1159285521,
       102527513,
-      1159288025
+      1159288025,
+      1159289819,
+      1159293593
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1762688809,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -121,10 +121,18 @@
         "object_id": 1762688809,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1762688809,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762688809,
-    "wof:lastmodified": 1701883754,
+    "wof:lastmodified": 1710355740,
     "wof:name": "postcard: Western Pacific Airlines, Boeing 737, San Francisco Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

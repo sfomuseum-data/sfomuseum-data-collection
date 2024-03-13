@@ -13,6 +13,9 @@
     "geom:latitude": 41.983038,
     "geom:longitude": -87.894364,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289671
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293593,
+      1159289653
     ],
     "millsfield:images": [
       1762710511,
@@ -45,6 +49,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1859",
     "sfomuseum:aircraft": "Boeing 707-131",
+    "sfomuseum:aircraft_id": [
+      141
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
     "sfomuseum:airline_id": [
       874
@@ -95,22 +102,13 @@
     "wof:depicts": [
       1159285393,
       102533631,
-      1159287531
+      1159287531,
+      1159289671,
+      1159293593,
+      1159289653
     ],
     "wof:geomhash": "7b3bbc54c892c856b4b1b7eb583f40c7",
     "wof:hierarchy": [
-      {
-        "borough_id": 958020405,
-        "campus_id": 102533631,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102084317,
-        "localadmin_id": 404496273,
-        "locality_id": 85940195,
-        "neighbourhood_id": 1024608977,
-        "object_id": 1762684223,
-        "region_id": 85688697
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -124,10 +122,22 @@
         "object_id": 1762684223,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 958020405,
+        "campus_id": 102533631,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084317,
+        "localadmin_id": 404496273,
+        "locality_id": 85940195,
+        "neighbourhood_id": 1024608977,
+        "object_id": 1762684223,
+        "region_id": 85688697
       }
     ],
     "wof:id": 1762684223,
-    "wof:lastmodified": 1701883740,
+    "wof:lastmodified": 1710355693,
     "wof:name": "postcard: Chicago O’Hare International Airport, TWA (Trans World Airlines), Boeing 707-131",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

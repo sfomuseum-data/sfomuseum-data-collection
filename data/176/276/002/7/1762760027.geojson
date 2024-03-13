@@ -13,6 +13,9 @@
     "geom:latitude": 40.643286,
     "geom:longitude": -73.787845,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293593,
+      1159289935
     ],
     "millsfield:images": [
       1763444261
@@ -39,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0149",
     "sfomuseum:aircraft": "Boeing 757-200",
+    "sfomuseum:aircraft_id": [
+      260
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -86,9 +93,12 @@
     "wof:country": "US",
     "wof:created": 1641941362,
     "wof:depicts": [
+      1360700619,
+      1159289939,
+      1159293593,
+      1159289935,
       1159283849,
-      102534365,
-      1360700619
+      102534365
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -119,7 +129,7 @@
       }
     ],
     "wof:id": 1762760027,
-    "wof:lastmodified": 1701883750,
+    "wof:lastmodified": 1710355693,
     "wof:name": "American Airlines, Boeing 757-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

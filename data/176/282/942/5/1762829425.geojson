@@ -13,6 +13,9 @@
     "geom:latitude": 36.081003,
     "geom:longitude": -115.15644,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290043
+    ],
     "millsfield:airline_id": [
       1159284773
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288243
+      1159293567
     ],
     "millsfield:images": [
       1763442381
@@ -39,6 +42,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.010.352.005",
     "sfomuseum:aircraft": "Bombardier CRJ",
+    "sfomuseum:aircraft_id": [
+      307
+    ],
     "sfomuseum:airline": "Mesa Airlines",
     "sfomuseum:airline_id": [
       587
@@ -86,10 +92,22 @@
     "wof:depicts": [
       102527209,
       1159288243,
-      1159284773
+      1159284773,
+      1159290043,
+      1159293567
     ],
     "wof:geomhash": "f3c8ee9b6de8bf21de9a4b8429a7627c",
     "wof:hierarchy": [
+      {
+        "campus_id": 102527209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081553,
+        "locality_id": 85975035,
+        "neighbourhood_id": 85840429,
+        "object_id": 1762829425,
+        "region_id": 85688531
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -103,20 +121,10 @@
         "object_id": 1762829425,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102527209,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102081553,
-        "locality_id": 85975035,
-        "neighbourhood_id": 85840429,
-        "object_id": 1762829425,
-        "region_id": 85688531
       }
     ],
     "wof:id": 1762829425,
-    "wof:lastmodified": 1701883759,
+    "wof:lastmodified": 1710355689,
     "wof:name": "slide: Mesa Airlines, Bombardier CRJ-200, McCarran International Airport (LAS)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

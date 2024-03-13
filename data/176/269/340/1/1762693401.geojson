@@ -13,6 +13,9 @@
     "geom:latitude": 43.676352,
     "geom:longitude": -79.628342,
     "iso:country": "CA",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159283597
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288851
+      1159293593
     ],
     "millsfield:images": [
       1762712849,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2373",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "Air Canada",
     "sfomuseum:airline_id": [
       57
@@ -90,12 +96,25 @@
     "wof:country": "CA",
     "wof:created": 1641343963,
     "wof:depicts": [
+      1159289873,
+      1159293593,
       1159283597,
       102555091,
       1159288851
     ],
     "wof:geomhash": "6931d010096d09ff39f85883ce327551",
     "wof:hierarchy": [
+      {
+        "campus_id": 102555091,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890456343,
+        "locality_id": 101735893,
+        "microhood_id": 1108905413,
+        "neighbourhood_id": 85895633,
+        "object_id": 1762693401,
+        "region_id": 85682057
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -120,21 +139,10 @@
         "neighbourhood_id": 85895633,
         "object_id": 1762693401,
         "region_id": 85682057
-      },
-      {
-        "campus_id": 102555091,
-        "continent_id": 102191575,
-        "country_id": 85633041,
-        "county_id": 890456343,
-        "locality_id": 101735893,
-        "microhood_id": 1108905413,
-        "neighbourhood_id": 85895633,
-        "object_id": 1762693401,
-        "region_id": 85682057
       }
     ],
     "wof:id": 1762693401,
-    "wof:lastmodified": 1701883738,
+    "wof:lastmodified": 1710355706,
     "wof:name": "postcard: Toronto International Airport, Air Canada, Boeing 747",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

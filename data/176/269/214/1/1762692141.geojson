@@ -13,6 +13,9 @@
     "geom:latitude": 58.35472,
     "geom:longitude": -134.57611,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289653
+    ],
     "millsfield:airline_id": [
       1159284967
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287391
+      1159293593
     ],
     "millsfield:images": [
       1762709093,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1193",
     "sfomuseum:aircraft": "Boeing 707",
+    "sfomuseum:aircraft_id": [
+      133
+    ],
     "sfomuseum:airline": "Pacific Northern Airlines",
     "sfomuseum:airline_id": [
       675
@@ -89,10 +95,22 @@
     "wof:depicts": [
       1159284967,
       102532925,
-      1159287391
+      1159287391,
+      1159289653,
+      1159293593
     ],
     "wof:geomhash": "cdf4dbfe5a8907feeb5670071c3f3d75",
     "wof:hierarchy": [
+      {
+        "campus_id": 102532925,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081399,
+        "locality_id": 85915729,
+        "neighbourhood_id": 85833767,
+        "object_id": 1762692141,
+        "region_id": 85688573
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -106,20 +124,10 @@
         "object_id": 1762692141,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102532925,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102081399,
-        "locality_id": 85915729,
-        "neighbourhood_id": 85833767,
-        "object_id": 1762692141,
-        "region_id": 85688573
       }
     ],
     "wof:id": 1762692141,
-    "wof:lastmodified": 1701883734,
+    "wof:lastmodified": 1710355700,
     "wof:name": "postcard: Pacific Northern Airlines, Boeing 707, Juneau International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

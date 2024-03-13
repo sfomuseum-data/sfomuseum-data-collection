@@ -13,6 +13,9 @@
     "geom:latitude": 42.21886,
     "geom:longitude": -83.351709,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289653
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293593
     ],
     "millsfield:images": [
       1762710789,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1919",
     "sfomuseum:aircraft": "Boeing 707",
+    "sfomuseum:aircraft_id": [
+      133
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -87,9 +93,11 @@
     "wof:country": "US",
     "wof:created": 1641339518,
     "wof:depicts": [
+      1159283849,
+      1159289653,
+      1159293593,
       102525635,
-      1360700619,
-      1159283849
+      1360700619
     ],
     "wof:geomhash": "8f3dac9c06aa631b6f25f2d82464e51b",
     "wof:hierarchy": [
@@ -114,12 +122,13 @@
         "county_id": 102083147,
         "localadmin_id": 404508657,
         "locality_id": 85951131,
+        "neighbourhood_id": -1,
         "object_id": 1762679905,
         "region_id": 85688599
       }
     ],
     "wof:id": 1762679905,
-    "wof:lastmodified": 1701883727,
+    "wof:lastmodified": 1710355711,
     "wof:name": "postcard: American Airlines, Boeing 707,  Detroit Metropolitan Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

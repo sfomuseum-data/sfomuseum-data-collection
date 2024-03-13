@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159285413
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1762899105
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2018.101.012",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "United Airlines",
     "sfomuseum:airline_id": [
       883
@@ -86,9 +93,12 @@
     "wof:country": "US",
     "wof:created": 1641941311,
     "wof:depicts": [
+      1159285413,
+      1159289789,
+      1159293593,
+      1159289759,
       102527513,
-      1159288779,
-      1159285413
+      1159288779
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -126,7 +136,7 @@
       }
     ],
     "wof:id": 1762759919,
-    "wof:lastmodified": 1701883750,
+    "wof:lastmodified": 1710355732,
     "wof:name": "slide: United Airlines, Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

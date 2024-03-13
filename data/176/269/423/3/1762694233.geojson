@@ -13,6 +13,9 @@
     "geom:latitude": 52.385085,
     "geom:longitude": 13.518116,
     "iso:country": "DE",
+    "millsfield:aircraft_id": [
+      1159290959
+    ],
     "millsfield:airline_id": [
       1159284535
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286523
+      1159294129
     ],
     "millsfield:images": [
       1762705605,
@@ -45,6 +48,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.0781",
     "sfomuseum:aircraft": "Ilyushin Il-62",
+    "sfomuseum:aircraft_id": [
+      730
+    ],
     "sfomuseum:airline": "Interflug",
     "sfomuseum:airline_id": [
       480
@@ -94,10 +100,21 @@
     "wof:depicts": [
       1159286523,
       1159284535,
-      102549025
+      102549025,
+      1159290959,
+      1159294129
     ],
     "wof:geomhash": "cef3feab75a86bf318e6ea764a35e1a3",
     "wof:hierarchy": [
+      {
+        "campus_id": 102549025,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063913,
+        "locality_id": 101756499,
+        "object_id": 1762694233,
+        "region_id": 85682553
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -111,19 +128,10 @@
         "object_id": 1762694233,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102549025,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063913,
-        "locality_id": 101756499,
-        "object_id": 1762694233,
-        "region_id": 85682553
       }
     ],
     "wof:id": 1762694233,
-    "wof:lastmodified": 1701883741,
+    "wof:lastmodified": 1710355700,
     "wof:name": "postcard: Interflug, Ilyushin Il-62, Berlin Schönefeld Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 33.942593,
     "geom:longitude": -118.38951,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159284201,
       1159284973,
@@ -24,7 +27,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593
     ],
     "millsfield:images": [
       1763444635
@@ -35,6 +38,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.037",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "Pacific Southwest Airlines (PSA)",
     "sfomuseum:airline_id": [
       328,
@@ -83,25 +89,16 @@
     "wof:country": "US",
     "wof:created": 1641941656,
     "wof:depicts": [
+      1159293593,
       1159284201,
       1159284973,
       1159285413,
       102533795,
-      1159288779
+      1159288779,
+      1159289759
     ],
     "wof:geomhash": "fecd3d7ab1fc2bc81dc4fce83bbb8c45",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533795,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086957,
-        "locality_id": 85923517,
-        "macrohood_id": 1108692797,
-        "neighbourhood_id": 85856747,
-        "object_id": 1762760797,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -115,10 +112,21 @@
         "object_id": 1762760797,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85856747,
+        "object_id": 1762760797,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762760797,
-    "wof:lastmodified": 1649405533,
+    "wof:lastmodified": 1710355712,
     "wof:name": "photograph: Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

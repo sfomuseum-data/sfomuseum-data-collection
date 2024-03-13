@@ -13,6 +13,10 @@
     "geom:latitude": 40.492624,
     "geom:longitude": -80.259551,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417,
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159284093
     ],
@@ -22,7 +26,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288671
+      1159293697
     ],
     "millsfield:images": [
       1762712131,
@@ -42,6 +46,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2215",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487,
+      1666
+    ],
     "sfomuseum:airline": "Capital Airlines",
     "sfomuseum:airline_id": [
       280
@@ -81,17 +89,32 @@
       102528181,
       102080887,
       404484901,
-      85688481
+      85688481,
+      1729444317
     ],
     "wof:country": "US",
     "wof:created": 1641340702,
     "wof:depicts": [
+      1159284093,
+      1159290417,
+      1159292981,
+      1159293697,
       102528181,
-      1159288671,
-      1159284093
+      1159288671
     ],
     "wof:geomhash": "49baab651e51ed61da88ddc0e8743876",
     "wof:hierarchy": [
+      {
+        "campus_id": 102528181,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080887,
+        "localadmin_id": 404484901,
+        "locality_id": 1729444317,
+        "neighbourhood_id": -1,
+        "object_id": 1762683527,
+        "region_id": 85688481
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -105,19 +128,10 @@
         "object_id": 1762683527,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102528181,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102080887,
-        "localadmin_id": 404484901,
-        "object_id": 1762683527,
-        "region_id": 85688481
       }
     ],
     "wof:id": 1762683527,
-    "wof:lastmodified": 1701883738,
+    "wof:lastmodified": 1710355689,
     "wof:name": "postcard: Greater Pittsburgh Airport, Lockheed Constellation, Douglas DC-3, Capital Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

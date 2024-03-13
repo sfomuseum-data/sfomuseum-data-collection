@@ -10,9 +10,9 @@
     "edtf:date": "1992",
     "edtf:inception": "1992",
     "geom:area": 0,
-    "geom:bbox": "-73.787845,40.643286,-73.787845,40.643286",
-    "geom:latitude": 40.643286,
-    "geom:longitude": -73.787845,
+    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
+    "geom:latitude": 37.61799,
+    "geom:longitude": -122.370943,
     "iso:country": "US",
     "millsfield:aircraft_id": [
       1159292721
@@ -26,7 +26,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293749
     ],
     "millsfield:images": [
       1763442779
@@ -77,7 +77,7 @@
     "sfomuseum:subcategory": "Slide",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
-      102534365
+      102527513
     ],
     "wof:belongsto": [
       102527513,
@@ -88,12 +88,8 @@
       85688637,
       1159162825,
       1159160869,
-      421205767,
-      102534365,
-      102082377,
-      85977539,
-      907131691,
-      85688543
+      554784711,
+      102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -103,9 +99,10 @@
       1159292721,
       102534365,
       1159285417,
-      102527513
+      102527513,
+      1159293749
     ],
-    "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
+    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -122,19 +119,26 @@
         "wing_id": 1159160869
       },
       {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
+        "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
+        "county_id": 102087579,
+        "locality_id": 85922583,
         "object_id": 1511926637,
-        "region_id": 85688543
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1511926637,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1511926637,
-    "wof:lastmodified": 1704789086,
+    "wof:lastmodified": 1710355702,
     "wof:name": "slide: United Express, Jetstream 31, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -145,10 +149,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -73.787845,
-    40.643286,
-    -73.787845,
-    40.643286
+    -122.370943,
+    37.61799,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

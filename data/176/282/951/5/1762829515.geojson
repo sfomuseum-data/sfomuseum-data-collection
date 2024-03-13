@@ -13,6 +13,9 @@
     "geom:latitude": 40.774956,
     "geom:longitude": -73.875778,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -21,7 +24,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289759
+    ],
     "millsfield:images": [
       1762895717
     ],
@@ -37,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2012.096.151",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -83,11 +92,14 @@
     "wof:country": "US",
     "wof:created": 1642729704,
     "wof:depicts": [
-      1159284907,
-      1159284309,
       1159284913,
       102526001,
-      1159287407
+      1159287407,
+      1159289789,
+      1159293593,
+      1159289759,
+      1159284907,
+      1159284309
     ],
     "wof:geomhash": "2bd90d65b7f03a1b5c911d17c1bf9349",
     "wof:hierarchy": [
@@ -118,7 +130,7 @@
       }
     ],
     "wof:id": 1762829515,
-    "wof:lastmodified": 1705566760,
+    "wof:lastmodified": 1710355737,
     "wof:name": "photograph: Northwest Orient, Boeing 727-200, LaGuardia Airport, New York",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

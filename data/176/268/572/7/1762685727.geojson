@@ -13,6 +13,10 @@
     "geom:latitude": 21.332508,
     "geom:longitude": -157.918416,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289653,
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159283999,
       1159285415
@@ -22,9 +26,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762711033,
       1762711035
@@ -41,6 +43,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1973",
     "sfomuseum:aircraft": "Douglas DC-8",
+    "sfomuseum:aircraft_id": [
+      133,
+      498
+    ],
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       236,
@@ -87,23 +93,15 @@
     "wof:country": "US",
     "wof:created": 1641341409,
     "wof:depicts": [
+      1159290443,
       1159288779,
       1159283999,
       1159285415,
-      102533997
+      102533997,
+      1159289653
     ],
     "wof:geomhash": "382edc22b29c8aed42538ed9679487ca",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533997,
-        "continent_id": -1,
-        "country_id": 85633793,
-        "county_id": 102085417,
-        "locality_id": 85937601,
-        "neighbourhood_id": 85869065,
-        "object_id": 1762685727,
-        "region_id": 85688671
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -117,10 +115,20 @@
         "object_id": 1762685727,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533997,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085417,
+        "locality_id": 85937601,
+        "neighbourhood_id": 85869065,
+        "object_id": 1762685727,
+        "region_id": 85688671
       }
     ],
     "wof:id": 1762685727,
-    "wof:lastmodified": 1701883745,
+    "wof:lastmodified": 1710355707,
     "wof:name": "postcard: Honolulu International Airport, United Air Lines, BOAC, Boeing 707, Douglas DC-8",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

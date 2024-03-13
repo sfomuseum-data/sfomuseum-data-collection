@@ -13,6 +13,9 @@
     "geom:latitude": 61.173606,
     "geom:longitude": -149.968401,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290553
+    ],
     "millsfield:airline_id": [
       1159284903
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286971
+      1159294105
     ],
     "millsfield:images": [
       1762707845,
@@ -45,6 +48,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1083",
     "sfomuseum:aircraft": "Fairchild F-27",
+    "sfomuseum:aircraft_id": [
+      549
+    ],
     "sfomuseum:airline": "Northern Consolidated Airlines",
     "sfomuseum:airline_id": [
       645
@@ -93,20 +99,12 @@
     "wof:depicts": [
       1159286971,
       1159284903,
-      1746879043
+      1746879043,
+      1159290553,
+      1159294105
     ],
     "wof:geomhash": "ccd73504384d365aefb49bc43960646c",
     "wof:hierarchy": [
-      {
-        "campus_id": 1746879043,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085881,
-        "locality_id": 85915707,
-        "neighbourhood_id": 85850461,
-        "object_id": 1762696479,
-        "region_id": 85688573
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -120,10 +118,20 @@
         "object_id": 1762696479,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 1746879043,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085881,
+        "locality_id": 85915707,
+        "neighbourhood_id": 85850461,
+        "object_id": 1762696479,
+        "region_id": 85688573
       }
     ],
     "wof:id": 1762696479,
-    "wof:lastmodified": 1701883747,
+    "wof:lastmodified": 1710355711,
     "wof:name": "postcard: Northern Consolidated Airlines, Fairchild F-27, Anchorage International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

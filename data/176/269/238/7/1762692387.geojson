@@ -13,11 +13,15 @@
     "geom:latitude": 39.999443,
     "geom:longitude": -82.885217,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airport_id": [
       102532255
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762710663,
       1762710665
@@ -36,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1891",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airport": "Columbus International Airport",
     "sfomuseum:airport_id": [
       29
@@ -78,21 +85,11 @@
     "wof:country": "US",
     "wof:created": 1641343652,
     "wof:depicts": [
-      102532255
+      102532255,
+      1159290417
     ],
     "wof:geomhash": "9cc26360257a3497c19753590252ea67",
     "wof:hierarchy": [
-      {
-        "campus_id": 102532255,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102080969,
-        "localadmin_id": 404524625,
-        "locality_id": 101712381,
-        "neighbourhood_id": 85870311,
-        "object_id": 1762692387,
-        "region_id": 85688485
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -106,10 +103,21 @@
         "object_id": 1762692387,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102532255,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080969,
+        "localadmin_id": 404524625,
+        "locality_id": 101712381,
+        "neighbourhood_id": 85870311,
+        "object_id": 1762692387,
+        "region_id": 85688485
       }
     ],
     "wof:id": 1762692387,
-    "wof:lastmodified": 1701883735,
+    "wof:lastmodified": 1710355738,
     "wof:name": "postcard: Columbus Airport, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

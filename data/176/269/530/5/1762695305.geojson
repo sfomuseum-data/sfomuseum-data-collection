@@ -12,6 +12,10 @@
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:aircraft_id": [
+      1159290223,
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159284415,
       1159285785
@@ -21,9 +25,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288505
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762712705,
       1762712707
@@ -41,6 +43,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2341",
     "sfomuseum:aircraft": "Douglas DC-8",
+    "sfomuseum:aircraft_id": [
+      389,
+      498
+    ],
     "sfomuseum:airline": "Japan Air Lines",
     "sfomuseum:airline_id": [
       423,
@@ -79,11 +85,13 @@
     "wof:country": "XY",
     "wof:created": 1641344600,
     "wof:depicts": [
-      1159284563,
-      1159288585,
       1159284415,
       1159285785,
-      1159288505
+      1159288505,
+      1159290223,
+      1159290443,
+      1159284563,
+      1159288585
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -103,7 +111,7 @@
       }
     ],
     "wof:id": 1762695305,
-    "wof:lastmodified": 1701883744,
+    "wof:lastmodified": 1710355727,
     "wof:name": "postcard: Japan Air Lines, Garuda, Douglas DC-8, Convair 990, Tokyo Haneda Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -12,13 +12,17 @@
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284261
     ],
     "millsfield:category_id": 1762671311,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287931
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1762894127,
@@ -40,6 +44,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2003.105.221",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Delta Air Lines",
     "sfomuseum:airline_id": [
       355
@@ -52,7 +59,7 @@
     "sfomuseum:date_acquired": "2003-12-29",
     "sfomuseum:daterange_end": "1986-12-31",
     "sfomuseum:daterange_start": "1986-01-01",
-    "sfomuseum:description": "Safety information card issued by Delta Air Lines for the Boeing 727-200 fleet; white double-sided multi-fold sheet with illustrations and text demonstrating safety instructions and emergency procedures; information code 0412 - 80700 card 8-83, revised August 1983.",
+    "sfomuseum:description": "Safety information card issued by Delta Air Lines for its Boeing 727-200 fleet; white double-sided multi-fold sheet with illustrations demonstrating inflight safety and emergency procedures; ID number: 0412 - 80700; revision date: 8-83.",
     "sfomuseum:dimensions": "8 1/2 x 4 inches (21.6 x 10.2 cm)",
     "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 71912,
@@ -73,8 +80,11 @@
     "wof:country": "XY",
     "wof:created": 1642730134,
     "wof:depicts": [
+      1159289759,
       1159284261,
-      1159287931
+      1159287931,
+      1159289789,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -94,7 +104,7 @@
       }
     ],
     "wof:id": 1762831097,
-    "wof:lastmodified": 1701883761,
+    "wof:lastmodified": 1710355715,
     "wof:name": "safety information card: Delta Air Lines, Boeing 727-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

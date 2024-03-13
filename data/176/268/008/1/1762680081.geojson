@@ -13,6 +13,9 @@
     "geom:latitude": 39.999443,
     "geom:longitude": -82.885217,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293697
     ],
     "millsfield:images": [
       1762710667,
@@ -40,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1892",
     "sfomuseum:aircraft": "Lockheed Constellation",
+    "sfomuseum:aircraft_id": [
+      1666
+    ],
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
@@ -88,10 +94,23 @@
     "wof:depicts": [
       1159285415,
       102532255,
-      1159288779
+      1159288779,
+      1159292981,
+      1159293697
     ],
     "wof:geomhash": "9cc26360257a3497c19753590252ea67",
     "wof:hierarchy": [
+      {
+        "campus_id": 102532255,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080969,
+        "localadmin_id": 404524625,
+        "locality_id": 101712381,
+        "neighbourhood_id": 85870311,
+        "object_id": 1762680081,
+        "region_id": 85688485
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -105,21 +124,10 @@
         "object_id": 1762680081,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102532255,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102080969,
-        "localadmin_id": 404524625,
-        "locality_id": 101712381,
-        "neighbourhood_id": 85870311,
-        "object_id": 1762680081,
-        "region_id": 85688485
       }
     ],
     "wof:id": 1762680081,
-    "wof:lastmodified": 1701883727,
+    "wof:lastmodified": 1710355725,
     "wof:name": "postcard: Port Columbus Municipal Airport, Lockheed Constellation, United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

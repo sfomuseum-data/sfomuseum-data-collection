@@ -13,6 +13,9 @@
     "geom:latitude": 39.304107,
     "geom:longitude": -94.716176,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293697
     ],
     "millsfield:images": [
       1762711231,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2017",
     "sfomuseum:aircraft": "Lockheed Constellation",
+    "sfomuseum:aircraft_id": [
+      1666
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
     "sfomuseum:airline_id": [
       874
@@ -79,17 +85,20 @@
       85688637,
       1159160869,
       102533051,
-      102085271,
       85970739,
       85851839,
-      85688661
+      85688661,
+      102081227,
+      404518075
     ],
     "wof:country": "US",
     "wof:created": 1641342271,
     "wof:depicts": [
+      1159293697,
       1159285393,
       102533051,
-      1159287531
+      1159287531,
+      1159292981
     ],
     "wof:geomhash": "18e2610a9a6a76fe61709378452ed71b",
     "wof:hierarchy": [
@@ -109,8 +118,10 @@
       },
       {
         "campus_id": 102533051,
+        "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102085271,
+        "county_id": 102081227,
+        "localadmin_id": 404518075,
         "locality_id": 85970739,
         "neighbourhood_id": 85851839,
         "object_id": 1762688321,
@@ -118,7 +129,7 @@
       }
     ],
     "wof:id": 1762688321,
-    "wof:lastmodified": 1701883753,
+    "wof:lastmodified": 1710355695,
     "wof:name": "postcard: TWA, Lockheed Constellation, Kansas City airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

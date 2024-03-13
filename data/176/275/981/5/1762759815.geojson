@@ -13,6 +13,9 @@
     "geom:latitude": 40.643286,
     "geom:longitude": -73.787845,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -21,7 +24,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289873
+    ],
     "millsfield:images": [
       1763444253
     ],
@@ -37,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0146",
     "sfomuseum:aircraft": "Boeing 747-400",
+    "sfomuseum:aircraft_id": [
+      250
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -85,21 +94,13 @@
     "wof:created": 1641941275,
     "wof:depicts": [
       1159284907,
-      102534365
+      102534365,
+      1159289915,
+      1159293593,
+      1159289873
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762759815,
-        "region_id": 85688543
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -113,10 +114,21 @@
         "object_id": 1762759815,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762759815,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1762759815,
-    "wof:lastmodified": 1701883750,
+    "wof:lastmodified": 1710355739,
     "wof:name": "slide: Northwest Airlines, Boeing 747-400, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

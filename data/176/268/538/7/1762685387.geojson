@@ -13,6 +13,9 @@
     "geom:latitude": 25.9073,
     "geom:longitude": -97.42609,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159284989
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159286839
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762710325,
       1762710329
@@ -40,6 +41,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1818",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "Pan American World Airways",
     "sfomuseum:airline_id": [
       684
@@ -88,20 +92,11 @@
       1159284989,
       1159284991,
       102532841,
-      1159286839
+      1159286839,
+      1159290417
     ],
     "wof:geomhash": "5cf7ff4a699a83ea033e637132a5a6f4",
     "wof:hierarchy": [
-      {
-        "campus_id": 102532841,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086761,
-        "locality_id": 101724157,
-        "neighbourhood_id": 85868165,
-        "object_id": 1762685387,
-        "region_id": 85688753
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -115,10 +110,20 @@
         "object_id": 1762685387,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102532841,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086761,
+        "locality_id": 101724157,
+        "neighbourhood_id": 85868165,
+        "object_id": 1762685387,
+        "region_id": 85688753
       }
     ],
     "wof:id": 1762685387,
-    "wof:lastmodified": 1701883744,
+    "wof:lastmodified": 1710355703,
     "wof:name": "postcard: Pan American World Airways, Douglas DC-3, Brownsville International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

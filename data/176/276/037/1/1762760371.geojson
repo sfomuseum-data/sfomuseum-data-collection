@@ -13,6 +13,9 @@
     "geom:latitude": 40.774956,
     "geom:longitude": -73.875778,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159285379
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286807
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1763389139
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.108.218",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Trump Airlines",
     "sfomuseum:airline_id": [
       868
@@ -90,12 +97,26 @@
     "wof:country": "US",
     "wof:created": 1641941485,
     "wof:depicts": [
+      1159285379,
+      1159289789,
+      1159293593,
+      1159289759,
       102526001,
-      1159286807,
-      1159285379
+      1159286807
     ],
     "wof:geomhash": "2bd90d65b7f03a1b5c911d17c1bf9349",
     "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102526001,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131689,
+        "object_id": 1762760371,
+        "region_id": 85688543
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -109,21 +130,10 @@
         "object_id": 1762760371,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 421205767,
-        "campus_id": 102526001,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131689,
-        "object_id": 1762760371,
-        "region_id": 85688543
       }
     ],
     "wof:id": 1762760371,
-    "wof:lastmodified": 1701883751,
+    "wof:lastmodified": 1710355700,
     "wof:name": "slide: Trump Air, Boeing 727-200, LaGuardia Airport (LGA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

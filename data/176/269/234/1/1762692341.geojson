@@ -13,6 +13,9 @@
     "geom:latitude": 44.883321,
     "geom:longitude": -93.200317,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290427
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -38,6 +41,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2094",
     "sfomuseum:aircraft": "Douglas DC-6",
+    "sfomuseum:aircraft_id": [
+      491
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -80,10 +86,20 @@
     "wof:created": 1641343638,
     "wof:depicts": [
       1159284907,
-      102531131
+      102531131,
+      1159290427
     ],
     "wof:geomhash": "c4d0a5c814c5e8beacb9e0e7f6b7d584",
     "wof:hierarchy": [
+      {
+        "campus_id": 102531131,
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "object_id": 1762692341,
+        "region_id": -1
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -97,19 +113,10 @@
         "object_id": 1762692341,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102531131,
-        "continent_id": -1,
-        "country_id": -1,
-        "locality_id": -1,
-        "neighbourhood_id": -1,
-        "object_id": 1762692341,
-        "region_id": -1
       }
     ],
     "wof:id": 1762692341,
-    "wof:lastmodified": 1701883735,
+    "wof:lastmodified": 1710355696,
     "wof:name": "postcard: Northwest Airlines, Douglas DC-6, Minneapolis - St. Paul Metropolitan Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

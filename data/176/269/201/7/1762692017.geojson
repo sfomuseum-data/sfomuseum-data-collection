@@ -13,11 +13,15 @@
     "geom:latitude": 40.492624,
     "geom:longitude": -80.259551,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airport_id": [
       102528181
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762712113,
       1762712115
@@ -34,6 +38,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2211",
     "sfomuseum:aircraft": "Douglas DC-8",
+    "sfomuseum:aircraft_id": [
+      498
+    ],
     "sfomuseum:airport": "Pittsburgh International Airport",
     "sfomuseum:airport_id": [
       109
@@ -69,15 +76,28 @@
       102528181,
       102080887,
       404484901,
-      85688481
+      85688481,
+      1729444317
     ],
     "wof:country": "US",
     "wof:created": 1641343538,
     "wof:depicts": [
-      102528181
+      102528181,
+      1159290443
     ],
     "wof:geomhash": "49baab651e51ed61da88ddc0e8743876",
     "wof:hierarchy": [
+      {
+        "campus_id": 102528181,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080887,
+        "localadmin_id": 404484901,
+        "locality_id": 1729444317,
+        "neighbourhood_id": -1,
+        "object_id": 1762692017,
+        "region_id": 85688481
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -91,19 +111,10 @@
         "object_id": 1762692017,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102528181,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102080887,
-        "localadmin_id": 404484901,
-        "object_id": 1762692017,
-        "region_id": 85688481
       }
     ],
     "wof:id": 1762692017,
-    "wof:lastmodified": 1701883734,
+    "wof:lastmodified": 1710355700,
     "wof:name": "postcard: Douglas DC-8, Pittsburgh Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

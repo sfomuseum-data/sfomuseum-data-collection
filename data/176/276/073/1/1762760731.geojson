@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159284989
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286839
+      1159293593
     ],
     "millsfield:images": [
       1763444867
@@ -33,6 +36,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.140",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "Pan American World Airways",
     "sfomuseum:airline_id": [
       684
@@ -78,10 +84,26 @@
     "wof:depicts": [
       1159284989,
       102527513,
-      1159286839
+      1159286839,
+      1159289873,
+      1159293593
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1762760731,
+        "region_id": 85688637,
+        "wing_id": 1159160869
+      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -99,24 +121,10 @@
         "county_id": 102085387,
         "object_id": 1762760731,
         "region_id": 85688637
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762760731,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1762760731,
-    "wof:lastmodified": 1682973204,
+    "wof:lastmodified": 1710355735,
     "wof:name": "photograph: Pan American World Airways, Boeing 747, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

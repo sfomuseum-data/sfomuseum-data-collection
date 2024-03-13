@@ -2,24 +2,25 @@
   "id": 1779488921,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1937-01-01",
-    "date:cessation_upper": "1937-12-31",
-    "date:inception_lower": "1937-01-01",
-    "date:inception_upper": "1937-12-31",
-    "edtf:cessation": "1937~",
-    "edtf:inception": "1937~",
+    "date:cessation_lower": "1941-01-01",
+    "date:cessation_upper": "1941-12-31",
+    "date:inception_lower": "1941-01-01",
+    "date:inception_upper": "1941-12-31",
+    "edtf:cessation": "1941",
+    "edtf:inception": "1941",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1360700619
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1779489307
     ],
@@ -35,6 +36,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1994.09.04",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -46,17 +50,17 @@
     "sfomuseum:continent": "North America",
     "sfomuseum:country": "United States",
     "sfomuseum:creditline": "Collection of SFO Museum",
-    "sfomuseum:date": "c. 1937",
+    "sfomuseum:date": "1941",
     "sfomuseum:date_acquired": "1994-04-20",
-    "sfomuseum:daterange_end": "1942-12-31",
-    "sfomuseum:daterange_start": "1932-01-01",
+    "sfomuseum:daterange_end": "1941-12-31",
+    "sfomuseum:daterange_start": "1941-01-01",
     "sfomuseum:description": "Poster produced by American Airlines promoting service to Washington, DC; full color illustration depicting United States Capitol building dome with cherry blossoms in foreground; Douglas DC-3 visible in flight; text at bottom, “Visit Washington by Air / American Airlines, Inc.”",
     "sfomuseum:dimensions": "42 1/2 x 29 1/4 inches (108 x 74.3 cm)",
     "sfomuseum:maker": "American Airlines, Inc.",
     "sfomuseum:medium": "paper, linen, ink",
     "sfomuseum:object_id": 43296,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , c. 1937.",
+    "sfomuseum:publication": ": , 1941.",
     "sfomuseum:subcategory": "Poster, Airline",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -73,7 +77,8 @@
     "wof:created": 1652946733,
     "wof:depicts": [
       1159283849,
-      1360700619
+      1360700619,
+      1159290417
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -93,7 +98,7 @@
       }
     ],
     "wof:id": 1779488921,
-    "wof:lastmodified": 1707381131,
+    "wof:lastmodified": 1710355724,
     "wof:name": "poster: American Airlines, Washington, D.C.",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

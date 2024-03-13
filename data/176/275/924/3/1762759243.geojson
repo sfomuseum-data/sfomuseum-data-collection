@@ -13,6 +13,9 @@
     "geom:latitude": 42.21886,
     "geom:longitude": -83.351709,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159292085
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -21,7 +24,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293829,
+      1159289409
+    ],
     "millsfield:images": [
       1763444971
     ],
@@ -40,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.166",
     "sfomuseum:aircraft": "Airbus A320-200",
+    "sfomuseum:aircraft_id": [
+      1237
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -87,11 +96,25 @@
     "wof:country": "US",
     "wof:created": 1641941058,
     "wof:depicts": [
+      1159292085,
+      1159293829,
+      1159289409,
       1159284907,
       102525635
     ],
     "wof:geomhash": "8f3dac9c06aa631b6f25f2d82464e51b",
     "wof:hierarchy": [
+      {
+        "campus_id": 102525635,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083147,
+        "localadmin_id": 404508657,
+        "locality_id": 85951131,
+        "neighbourhood_id": -1,
+        "object_id": 1762759243,
+        "region_id": 85688599
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -105,20 +128,10 @@
         "object_id": 1762759243,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102525635,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102083147,
-        "localadmin_id": 404508657,
-        "locality_id": 85951131,
-        "object_id": 1762759243,
-        "region_id": 85688599
       }
     ],
     "wof:id": 1762759243,
-    "wof:lastmodified": 1694116939,
+    "wof:lastmodified": 1710355699,
     "wof:name": "slide: Northwest Airlines, Airbus A320-200, Detroit Metropolitan Airport (DTW)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

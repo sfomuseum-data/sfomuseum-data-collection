@@ -13,6 +13,9 @@
     "geom:latitude": 41.983038,
     "geom:longitude": -87.894364,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293593
     ],
     "millsfield:images": [
       1762710501,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1857",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -89,24 +95,14 @@
     "wof:country": "US",
     "wof:created": 1641339971,
     "wof:depicts": [
+      1159289759,
+      1159293593,
       1360700619,
       1159283849,
       102533631
     ],
     "wof:geomhash": "7b3bbc54c892c856b4b1b7eb583f40c7",
     "wof:hierarchy": [
-      {
-        "borough_id": 958020405,
-        "campus_id": 102533631,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102084317,
-        "localadmin_id": 404496273,
-        "locality_id": 85940195,
-        "neighbourhood_id": 1024608977,
-        "object_id": 1762681371,
-        "region_id": 85688697
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -120,10 +116,22 @@
         "object_id": 1762681371,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 958020405,
+        "campus_id": 102533631,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084317,
+        "localadmin_id": 404496273,
+        "locality_id": 85940195,
+        "neighbourhood_id": 1024608977,
+        "object_id": 1762681371,
+        "region_id": 85688697
       }
     ],
     "wof:id": 1762681371,
-    "wof:lastmodified": 1701883731,
+    "wof:lastmodified": 1710355696,
     "wof:name": "postcard: American Airlines, Boeing 727, Chicago O’Hare Airport, plane overpass",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

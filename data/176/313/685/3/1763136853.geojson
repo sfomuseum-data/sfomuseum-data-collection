@@ -8,16 +8,22 @@
     "date:inception_upper": "1985-12-31",
     "edtf:cessation": "1985~",
     "edtf:inception": "1985~",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:aircraft_id": [
+      1159289891
+    ],
     "millsfield:airline_id": [
       1159285439
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289873
+    ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images": [
       1763137177,
@@ -46,6 +52,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "1999.061.043 a b",
     "sfomuseum:aircraft": "Boeing 747-200",
+    "sfomuseum:aircraft_id": [
+      239
+    ],
     "sfomuseum:airline": "America West Airlines",
     "sfomuseum:airline_id": [
       894
@@ -82,7 +91,10 @@
     "wof:country": "XY",
     "wof:created": 1645561664,
     "wof:depicts": [
-      1159285439
+      1159285439,
+      1159289891,
+      1159293593,
+      1159289873
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -102,7 +114,7 @@
       }
     ],
     "wof:id": 1763136853,
-    "wof:lastmodified": 1702427130,
+    "wof:lastmodified": 1710355697,
     "wof:name": "model airplane: America West Airlines, Boeing 747-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

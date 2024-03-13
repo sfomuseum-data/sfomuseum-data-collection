@@ -13,6 +13,9 @@
     "geom:latitude": 21.332508,
     "geom:longitude": -157.918416,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159285363
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288089
+      1159293697
     ],
     "millsfield:images": [
       1762709183,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1443",
     "sfomuseum:aircraft": "Lockheed Constellation",
+    "sfomuseum:aircraft_id": [
+      1666
+    ],
     "sfomuseum:airline": "Transocean Airways",
     "sfomuseum:airline_id": [
       859
@@ -87,12 +93,24 @@
     "wof:country": "US",
     "wof:created": 1641342280,
     "wof:depicts": [
+      102533997,
+      1159292981,
+      1159293697,
       1159288089,
-      1159285363,
-      102533997
+      1159285363
     ],
     "wof:geomhash": "382edc22b29c8aed42538ed9679487ca",
     "wof:hierarchy": [
+      {
+        "campus_id": 102533997,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085417,
+        "locality_id": 85937601,
+        "neighbourhood_id": 85869065,
+        "object_id": 1762688345,
+        "region_id": 85688671
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -106,20 +124,10 @@
         "object_id": 1762688345,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102533997,
-        "continent_id": -1,
-        "country_id": 85633793,
-        "county_id": 102085417,
-        "locality_id": 85937601,
-        "neighbourhood_id": 85869065,
-        "object_id": 1762688345,
-        "region_id": 85688671
       }
     ],
     "wof:id": 1762688345,
-    "wof:lastmodified": 1701883753,
+    "wof:lastmodified": 1710355726,
     "wof:name": "postcard: Transocean Air Lines, Lockheed Constellation, Honolulu airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

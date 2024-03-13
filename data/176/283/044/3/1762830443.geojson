@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159291261
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293561,
+      1159291259
     ],
     "millsfield:images": [
       1762892243
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.068.013",
     "sfomuseum:aircraft": "McDonnell Douglas DC-10-10",
+    "sfomuseum:aircraft_id": [
+      865
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -85,9 +92,12 @@
     "wof:country": "US",
     "wof:created": 1642729968,
     "wof:depicts": [
-      1159283849,
       102527513,
-      1360700619
+      1360700619,
+      1159291261,
+      1159293561,
+      1159291259,
+      1159283849
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -125,7 +135,7 @@
       }
     ],
     "wof:id": 1762830443,
-    "wof:lastmodified": 1701883759,
+    "wof:lastmodified": 1710355696,
     "wof:name": "photograph: American Airlines, McDonnell Douglas DC-10-10",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

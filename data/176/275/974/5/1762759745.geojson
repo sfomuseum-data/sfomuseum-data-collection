@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159291261
+    ],
     "millsfield:airline_id": [
       1159284489
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287913
+      1159293561,
+      1159291259
     ],
     "millsfield:images": [
       1762898285
@@ -36,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2017.095.005",
     "sfomuseum:aircraft": "McDonnell Douglas DC-10-10",
+    "sfomuseum:aircraft_id": [
+      865
+    ],
     "sfomuseum:airline": "Hawaiian Airlines",
     "sfomuseum:airline_id": [
       457
@@ -80,22 +87,15 @@
     "wof:country": "US",
     "wof:created": 1641941252,
     "wof:depicts": [
+      1159291259,
       1159287913,
       1159284489,
-      102527513
+      102527513,
+      1159291261,
+      1159293561
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "object_id": 1762759745,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
-      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -117,10 +117,20 @@
         "object_id": 1762759745,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "object_id": 1762759745,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762759745,
-    "wof:lastmodified": 1646944848,
+    "wof:lastmodified": 1710355711,
     "wof:name": "slide: Hawaiian Air, McDonnell Douglas DC-10-10, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

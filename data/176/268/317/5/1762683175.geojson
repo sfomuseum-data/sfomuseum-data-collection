@@ -13,11 +13,15 @@
     "geom:latitude": 38.367011,
     "geom:longitude": -81.596471,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290421
+    ],
     "millsfield:airport_id": [
       102530929
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762710375,
       1762710377
@@ -36,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1829",
     "sfomuseum:aircraft": "Douglas DC-4",
+    "sfomuseum:aircraft_id": [
+      489
+    ],
     "sfomuseum:airport": "Kanawha Airport",
     "sfomuseum:airport_id": [
       210
@@ -74,10 +81,20 @@
     "wof:country": "US",
     "wof:created": 1641340583,
     "wof:depicts": [
-      102530929
+      102530929,
+      1159290421
     ],
     "wof:geomhash": "dd51ea6c1b4c9886d9829e0619faab4c",
     "wof:hierarchy": [
+      {
+        "campus_id": 102530929,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "locality_id": -1,
+        "neighbourhood_id": 420549807,
+        "object_id": 1762683175,
+        "region_id": -1
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -91,19 +108,10 @@
         "object_id": 1762683175,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102530929,
-        "continent_id": -1,
-        "country_id": 85633793,
-        "locality_id": -1,
-        "neighbourhood_id": 420549807,
-        "object_id": 1762683175,
-        "region_id": -1
       }
     ],
     "wof:id": 1762683175,
-    "wof:lastmodified": 1701883737,
+    "wof:lastmodified": 1710355685,
     "wof:name": "postcard: Kanawha Airport, Douglas DC-4, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

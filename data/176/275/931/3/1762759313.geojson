@@ -13,6 +13,9 @@
     "geom:latitude": 40.691243,
     "geom:longitude": -74.177526,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284607
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288711
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1763445029
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.192",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Kiwi International Airlines",
     "sfomuseum:airline_id": [
       513
@@ -84,12 +91,14 @@
       102085043,
       404478049,
       85975279,
-      85873011,
       85688607
     ],
     "wof:country": "US",
     "wof:created": 1641941083,
     "wof:depicts": [
+      1159289789,
+      1159293593,
+      1159289759,
       1159284607,
       102530049,
       1159288711
@@ -117,13 +126,13 @@
         "county_id": 102085043,
         "localadmin_id": 404478049,
         "locality_id": 85975279,
-        "neighbourhood_id": 85873011,
+        "neighbourhood_id": -1,
         "object_id": 1762759313,
         "region_id": 85688607
       }
     ],
     "wof:id": 1762759313,
-    "wof:lastmodified": 1701883748,
+    "wof:lastmodified": 1710355740,
     "wof:name": "slide: Kiwi International Air Lines, Boeing 727-200, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -14,13 +14,17 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:aircraft_id": [
+      1159289609
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289607
     ],
     "millsfield:images": [
       1527837967,
@@ -40,6 +44,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2005.132.036.001",
     "sfomuseum:aircraft": "Boeing 80A",
+    "sfomuseum:aircraft_id": [
+      114
+    ],
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
@@ -81,8 +88,11 @@
     "wof:country": "XX",
     "wof:created": 1579906674,
     "wof:depicts": [
+      1159289607,
       1159285415,
-      1159288779
+      1159288779,
+      1159289609,
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -103,7 +113,7 @@
       }
     ],
     "wof:id": 1511937489,
-    "wof:lastmodified": 1701883697,
+    "wof:lastmodified": 1710355693,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

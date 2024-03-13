@@ -9,6 +9,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -17,7 +20,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289759
+    ],
     "millsfield:images": [
       1763444427
     ],
@@ -27,6 +33,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0220",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -66,11 +75,22 @@
     "wof:country": "US",
     "wof:created": 1641941778,
     "wof:depicts": [
-      1159284907,
-      102527513
+      102527513,
+      1159289789,
+      1159293593,
+      1159289759,
+      1159284907
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1762761143,
+        "region_id": 85688637
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -94,18 +114,10 @@
         "object_id": 1762761143,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      },
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1762761143,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1762761143,
-    "wof:lastmodified": 1649405533,
+    "wof:lastmodified": 1710355705,
     "wof:name": "slide: Northwest Airlines, Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

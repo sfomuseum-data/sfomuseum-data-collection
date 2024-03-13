@@ -13,6 +13,9 @@
     "geom:latitude": 45.462004,
     "geom:longitude": -73.744749,
     "iso:country": "CA",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159283597
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288851
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762711617,
       1762711619
@@ -42,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2103",
     "sfomuseum:aircraft": "Douglas DC-8",
+    "sfomuseum:aircraft_id": [
+      498
+    ],
     "sfomuseum:airline": "Air Canada",
     "sfomuseum:airline_id": [
       57
@@ -87,22 +91,13 @@
     "wof:country": "CA",
     "wof:created": 1641340764,
     "wof:depicts": [
+      1159290443,
       1159283597,
       102554351,
       1159288851
     ],
     "wof:geomhash": "1fb9cddd6bf9528f5f18238889868548",
     "wof:hierarchy": [
-      {
-        "campus_id": 102554351,
-        "continent_id": 102191575,
-        "country_id": 85633041,
-        "county_id": 890458661,
-        "locality_id": 101736475,
-        "neighbourhood_id": -1,
-        "object_id": 1762683749,
-        "region_id": 136251273
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -116,10 +111,20 @@
         "object_id": 1762683749,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102554351,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890458661,
+        "locality_id": 101736475,
+        "neighbourhood_id": -1,
+        "object_id": 1762683749,
+        "region_id": 136251273
       }
     ],
     "wof:id": 1762683749,
-    "wof:lastmodified": 1701883739,
+    "wof:lastmodified": 1710355712,
     "wof:name": "postcard: Montreal International Airport, Douglas DC-8, Air Canada",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 45.586144,
     "geom:longitude": -122.597389,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593
     ],
     "millsfield:images": [
       1762712193,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2229",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
@@ -88,23 +94,14 @@
     "wof:country": "US",
     "wof:created": 1641343184,
     "wof:depicts": [
+      1159289759,
+      1159293593,
       1159285415,
       102532251,
       1159288779
     ],
     "wof:geomhash": "51706cd01daad0017cfda85e236a2bb5",
     "wof:hierarchy": [
-      {
-        "campus_id": 102532251,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102081631,
-        "locality_id": 101715829,
-        "macrohood_id": 1108720843,
-        "neighbourhood_id": 1108721307,
-        "object_id": 1762690925,
-        "region_id": 85688513
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -118,10 +115,21 @@
         "object_id": 1762690925,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102532251,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081631,
+        "locality_id": 101715829,
+        "macrohood_id": 1108720843,
+        "neighbourhood_id": 1108721307,
+        "object_id": 1762690925,
+        "region_id": 85688513
       }
     ],
     "wof:id": 1762690925,
-    "wof:lastmodified": 1701883730,
+    "wof:lastmodified": 1710355718,
     "wof:name": "postcard: Portland International Airport (Oregon), United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

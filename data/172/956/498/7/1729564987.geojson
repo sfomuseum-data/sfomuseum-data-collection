@@ -27,7 +27,7 @@
     "millsfield:category_id": 1763416397,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287479
+      1159293593
     ],
     "millsfield:images": [
       1763445797,
@@ -105,15 +105,37 @@
     "wof:country": "XZ",
     "wof:created": 1618962251,
     "wof:depicts": [
-      1159287479,
-      1159285043,
-      1159289653,
       102527513,
       102557783,
-      1159285825
+      1159285825,
+      1159293593,
+      1159287479,
+      1159285043,
+      1159289653
     ],
     "wof:geomhash": "148b50b9c1c42c575a8cdcaf5b598e8f",
     "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1729564987,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102557783,
+        "continent_id": 102191583,
+        "country_id": 85632793,
+        "county_id": 102049567,
+        "empire_id": 136253039,
+        "localadmin_id": 404224771,
+        "locality_id": 101931173,
+        "macrocounty_id": 1376953385,
+        "neighbourhood_id": -1,
+        "object_id": 1729564987,
+        "region_id": 85681545
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -137,31 +159,10 @@
         "object_id": 1729564987,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      },
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1729564987,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 102557783,
-        "continent_id": 102191583,
-        "country_id": 85632793,
-        "county_id": 102049567,
-        "empire_id": 136253039,
-        "localadmin_id": 404224771,
-        "locality_id": 101931173,
-        "macrocounty_id": 1376953385,
-        "neighbourhood_id": -1,
-        "object_id": 1729564987,
-        "region_id": 85681545
       }
     ],
     "wof:id": 1729564987,
-    "wof:lastmodified": 1701883723,
+    "wof:lastmodified": 1710355711,
     "wof:name": "event program: Qantas Empire Airways, Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

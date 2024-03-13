@@ -13,6 +13,9 @@
     "geom:latitude": 34.427974,
     "geom:longitude": -119.837133,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159291267
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293561,
+      1159291259
     ],
     "millsfield:images": [
       1763445773
@@ -36,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.108.039",
     "sfomuseum:aircraft": "McDonnell Douglas DC-10-30",
+    "sfomuseum:aircraft_id": [
+      868
+    ],
     "sfomuseum:airline": "American Airlines",
     "sfomuseum:airline_id": [
       169
@@ -82,9 +89,12 @@
     "wof:country": "US",
     "wof:created": 1641941619,
     "wof:depicts": [
-      102527337,
       1360700619,
-      1159283849
+      1159283849,
+      1159291267,
+      1159293561,
+      1159291259,
+      102527337
     ],
     "wof:geomhash": "f5d9b70c8f116164a998e78c64897ae0",
     "wof:hierarchy": [
@@ -114,7 +124,7 @@
       }
     ],
     "wof:id": 1762760687,
-    "wof:lastmodified": 1649405534,
+    "wof:lastmodified": 1710355725,
     "wof:name": "slide: American Airlines, Douglas DC-10-30, Santa Barbara Municipal Airport (SBA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

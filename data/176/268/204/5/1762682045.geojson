@@ -13,6 +13,9 @@
     "geom:latitude": 39.304107,
     "geom:longitude": -94.716176,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159283851
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1360700619
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762711189,
       1762711193
@@ -42,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2008",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "American Air Lines",
     "sfomuseum:airline_id": [
       170
@@ -79,17 +83,19 @@
       85688637,
       1159160869,
       102533051,
-      102085271,
       85970739,
       85851839,
-      85688661
+      85688661,
+      102081227,
+      404518075
     ],
     "wof:country": "US",
     "wof:created": 1641340201,
     "wof:depicts": [
       1159283851,
       102533051,
-      1360700619
+      1360700619,
+      1159290417
     ],
     "wof:geomhash": "18e2610a9a6a76fe61709378452ed71b",
     "wof:hierarchy": [
@@ -109,8 +115,10 @@
       },
       {
         "campus_id": 102533051,
+        "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102085271,
+        "county_id": 102081227,
+        "localadmin_id": 404518075,
         "locality_id": 85970739,
         "neighbourhood_id": 85851839,
         "object_id": 1762682045,
@@ -118,7 +126,7 @@
       }
     ],
     "wof:id": 1762682045,
-    "wof:lastmodified": 1701883733,
+    "wof:lastmodified": 1710355704,
     "wof:name": "postcard: American Air Lines, Douglas DC-3,Kansas City Municipal Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

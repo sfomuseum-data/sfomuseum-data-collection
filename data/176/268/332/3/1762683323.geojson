@@ -13,6 +13,9 @@
     "geom:latitude": 41.301438,
     "geom:longitude": -95.897601,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289777
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1762711905,
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2167",
     "sfomuseum:aircraft": "Boeing 727-100",
+    "sfomuseum:aircraft_id": [
+      188
+    ],
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
@@ -82,12 +89,14 @@
       102082789,
       404518711,
       85973483,
-      85867053,
       85688563
     ],
     "wof:country": "US",
     "wof:created": 1641340633,
     "wof:depicts": [
+      1159289777,
+      1159293593,
+      1159289759,
       1159288779,
       1159285415,
       102524739
@@ -115,13 +124,13 @@
         "county_id": 102082789,
         "localadmin_id": 404518711,
         "locality_id": 85973483,
-        "neighbourhood_id": 85867053,
+        "neighbourhood_id": -1,
         "object_id": 1762683323,
         "region_id": 85688563
       }
     ],
     "wof:id": 1762683323,
-    "wof:lastmodified": 1701883738,
+    "wof:lastmodified": 1710355708,
     "wof:name": "postcard: Eppley Field, Omaha, United Air Lines, Boeing 727",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

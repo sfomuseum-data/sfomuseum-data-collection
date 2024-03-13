@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159285483
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288557
+      1159293593,
+      1159289873
     ],
     "millsfield:images": [
       1762899181
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2018.101.045",
     "sfomuseum:aircraft": "Boeing 747-400",
+    "sfomuseum:aircraft_id": [
+      250
+    ],
     "sfomuseum:airline": "Virgin Atlantic",
     "sfomuseum:airline_id": [
       914
@@ -86,9 +93,12 @@
     "wof:country": "US",
     "wof:created": 1641941015,
     "wof:depicts": [
-      1159288557,
       1159285483,
-      102527513
+      102527513,
+      1159289915,
+      1159293593,
+      1159289873,
+      1159288557
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -126,7 +136,7 @@
       }
     ],
     "wof:id": 1762759165,
-    "wof:lastmodified": 1701883748,
+    "wof:lastmodified": 1710355740,
     "wof:name": "slide: Virgin Atlantic, Boeing 747-400, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

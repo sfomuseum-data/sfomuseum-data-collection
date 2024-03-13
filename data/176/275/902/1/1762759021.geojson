@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159285019
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287755
+      1159293593
     ],
     "millsfield:images": [
       1763389303
@@ -33,6 +36,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2016.097.043",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "Piedmont Airlines",
     "sfomuseum:airline_id": [
       700
@@ -76,26 +82,14 @@
     "wof:country": "US",
     "wof:created": 1641940969,
     "wof:depicts": [
+      1159293593,
       1159285019,
       102527513,
-      1159287755
+      1159287755,
+      1159289759
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762759021,
-        "region_id": 85688637,
-        "wing_id": 1159160869
-      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -113,10 +107,24 @@
         "county_id": 102085387,
         "object_id": 1762759021,
         "region_id": 85688637
+      },
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1762759021,
+        "region_id": 85688637,
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1762759021,
-    "wof:lastmodified": 1648799207,
+    "wof:lastmodified": 1710355739,
     "wof:name": "slide: Piedmont Airlines, Boeing 727, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

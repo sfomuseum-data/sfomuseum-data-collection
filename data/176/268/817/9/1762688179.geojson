@@ -13,6 +13,9 @@
     "geom:latitude": 41.301438,
     "geom:longitude": -95.897601,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159284787
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287807
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762711901,
       1762711903
@@ -42,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2166",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "Mid-Continent Airlines",
     "sfomuseum:airline_id": [
       594
@@ -82,15 +86,15 @@
       102082789,
       404518711,
       85973483,
-      85867053,
       85688563
     ],
     "wof:country": "US",
     "wof:created": 1641342226,
     "wof:depicts": [
+      102524739,
+      1159290417,
       1159287807,
-      1159284787,
-      102524739
+      1159284787
     ],
     "wof:geomhash": "a278b7ffa93e0c26a20877ba2d0087e3",
     "wof:hierarchy": [
@@ -115,13 +119,13 @@
         "county_id": 102082789,
         "localadmin_id": 404518711,
         "locality_id": 85973483,
-        "neighbourhood_id": 85867053,
+        "neighbourhood_id": -1,
         "object_id": 1762688179,
         "region_id": 85688563
       }
     ],
     "wof:id": 1762688179,
-    "wof:lastmodified": 1701883752,
+    "wof:lastmodified": 1710355687,
     "wof:name": "postcard: Omaha Municipal Airport, Mid-Continent Airlines, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

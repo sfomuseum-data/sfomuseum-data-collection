@@ -13,6 +13,9 @@
     "geom:latitude": 21.332508,
     "geom:longitude": -157.918416,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289653
+    ],
     "millsfield:airline_id": [
       1159284989
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286839
+      1159293593
     ],
     "millsfield:images": [
       1762711041,
@@ -40,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1975",
     "sfomuseum:aircraft": "Boeing 707",
+    "sfomuseum:aircraft_id": [
+      133
+    ],
     "sfomuseum:airline": "Pan American World Airways",
     "sfomuseum:airline_id": [
       684
@@ -87,20 +93,12 @@
     "wof:depicts": [
       1159286839,
       1159284989,
-      102533997
+      102533997,
+      1159289653,
+      1159293593
     ],
     "wof:geomhash": "382edc22b29c8aed42538ed9679487ca",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533997,
-        "continent_id": -1,
-        "country_id": 85633793,
-        "county_id": 102085417,
-        "locality_id": 85937601,
-        "neighbourhood_id": 85869065,
-        "object_id": 1762695455,
-        "region_id": 85688671
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,10 +112,20 @@
         "object_id": 1762695455,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533997,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085417,
+        "locality_id": 85937601,
+        "neighbourhood_id": 85869065,
+        "object_id": 1762695455,
+        "region_id": 85688671
       }
     ],
     "wof:id": 1762695455,
-    "wof:lastmodified": 1701883744,
+    "wof:lastmodified": 1710355707,
     "wof:name": "postcard: Pan American World Airways, Boeing 707, Honolulu International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

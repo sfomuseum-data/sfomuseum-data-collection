@@ -13,6 +13,10 @@
     "geom:latitude": 53.425842,
     "geom:longitude": -6.246362,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289819,
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159283495
     ],
@@ -22,7 +26,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288269
+      1159293593
     ],
     "millsfield:images": [
       1762710811,
@@ -42,6 +46,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1924",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      207,
+      231
+    ],
     "sfomuseum:airline": "Aer Lingus",
     "sfomuseum:airline_id": [
       11
@@ -90,10 +98,22 @@
     "wof:depicts": [
       1159288269,
       1159283495,
-      102547639
+      102547639,
+      1159289819,
+      1159289873,
+      1159293593
     ],
     "wof:geomhash": "494c53d21b5d091ec890ed75441782cc",
     "wof:hierarchy": [
+      {
+        "campus_id": 102547639,
+        "continent_id": 102191581,
+        "country_id": 85633241,
+        "locality_id": 101751737,
+        "neighbourhood_id": 85794225,
+        "object_id": 1762689527,
+        "region_id": 85685015
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -107,19 +127,10 @@
         "object_id": 1762689527,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102547639,
-        "continent_id": 102191581,
-        "country_id": 85633241,
-        "locality_id": 101751737,
-        "neighbourhood_id": 85794225,
-        "object_id": 1762689527,
-        "region_id": 85685015
       }
     ],
     "wof:id": 1762689527,
-    "wof:lastmodified": 1701883756,
+    "wof:lastmodified": 1710355734,
     "wof:name": "postcard: Dublin Airport, Boeing 747, Boeing 737, Aer Lingus",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

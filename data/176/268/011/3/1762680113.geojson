@@ -24,7 +24,9 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293777
+    ],
     "millsfield:images": [
       1762710465,
       1762710467
@@ -93,13 +95,25 @@
     "wof:country": "US",
     "wof:created": 1641339579,
     "wof:depicts": [
+      1159284907,
       102531205,
       1159291963,
-      1159293777,
-      1159284907
+      1159293777
     ],
     "wof:geomhash": "421168bde9ebe6bcb5a14dd3fba13979",
     "wof:hierarchy": [
+      {
+        "borough_id": 958036681,
+        "campus_id": 102531205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084317,
+        "localadmin_id": 404496273,
+        "locality_id": 85940195,
+        "neighbourhood_id": 1024497015,
+        "object_id": 1762680113,
+        "region_id": 85688697
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -113,22 +127,10 @@
         "object_id": 1762680113,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 958036681,
-        "campus_id": 102531205,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102084317,
-        "localadmin_id": 404496273,
-        "locality_id": 85940195,
-        "neighbourhood_id": 1024497015,
-        "object_id": 1762680113,
-        "region_id": 85688697
       }
     ],
     "wof:id": 1762680113,
-    "wof:lastmodified": 1707381102,
+    "wof:lastmodified": 1710355698,
     "wof:name": "postcard: Chicago Midway Airport, Northwest Airlines, Vickers Viscount",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -12,13 +12,17 @@
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284507
     ],
     "millsfield:category_id": 1762671311,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288859
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1762894543,
@@ -37,6 +41,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2002.127.331",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Hughes Airwest",
     "sfomuseum:airline_id": [
       466
@@ -49,7 +56,7 @@
     "sfomuseum:date_acquired": "2003-12-22",
     "sfomuseum:daterange_end": "1976-12-31",
     "sfomuseum:daterange_start": "1976-01-01",
-    "sfomuseum:description": "Safety information card issued by Hughes Airwest for its Boeing 727-200 fleet; white double-sided card with illustrations and text demonstrating safety instructions and emergency procedures; information code 0771, dated 8/76.",
+    "sfomuseum:description": "Safety information card issued by Hughes Airwest for its Boeing 727-200 fleet; white double-sided card with illustrations demonstrating inflight safety and emergency procedures; ID number: 0771, revision date: 8/76.",
     "sfomuseum:dimensions": "10 1/4 x 6 1/4 inches (26 x 15.9 cm)",
     "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 68958,
@@ -72,7 +79,10 @@
     "wof:created": 1642730635,
     "wof:depicts": [
       1159284507,
-      1159288859
+      1159288859,
+      1159289789,
+      1159293593,
+      1159289759
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -92,7 +102,7 @@
       }
     ],
     "wof:id": 1762832963,
-    "wof:lastmodified": 1701883766,
+    "wof:lastmodified": 1710355725,
     "wof:name": "safety information card: Hughes Airwest, Boeing 727-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

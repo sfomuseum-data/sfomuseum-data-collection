@@ -13,6 +13,9 @@
     "geom:latitude": 43.25787,
     "geom:longitude": -75.318606,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290201
+    ],
     "millsfield:airline_id": [
       1159284819
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287245
+      1159293605
     ],
     "millsfield:images": [
       1762708091,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1048",
     "sfomuseum:aircraft": "Convair 440",
+    "sfomuseum:aircraft_id": [
+      379
+    ],
     "sfomuseum:airline": "Mohawk Airlines",
     "sfomuseum:airline_id": [
       608
@@ -80,15 +86,18 @@
       1159160869,
       102533597,
       102083149,
-      85809313,
-      85688543
+      85688543,
+      404522777,
+      1729468823
     ],
     "wof:country": "US",
     "wof:created": 1641341063,
     "wof:depicts": [
+      1159293605,
       102533597,
       1159287245,
-      1159284819
+      1159284819,
+      1159290201
     ],
     "wof:geomhash": "93aede9f22773391acc25d20779e0f86",
     "wof:hierarchy": [
@@ -108,15 +117,18 @@
       },
       {
         "campus_id": 102533597,
+        "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083149,
-        "neighbourhood_id": 85809313,
+        "localadmin_id": 404522777,
+        "locality_id": 1729468823,
+        "neighbourhood_id": -1,
         "object_id": 1762684673,
         "region_id": 85688543
       }
     ],
     "wof:id": 1762684673,
-    "wof:lastmodified": 1701883742,
+    "wof:lastmodified": 1710355723,
     "wof:name": "postcard: Mohawk Airlines, Convair 440, Oneida County Airport, maintenance hangar",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

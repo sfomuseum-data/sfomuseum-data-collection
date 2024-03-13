@@ -13,6 +13,9 @@
     "geom:latitude": 52.694304,
     "geom:longitude": -8.917893,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293697
     ],
     "millsfield:images": [
       1762712571,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2313",
     "sfomuseum:aircraft": "Lockheed Constellation",
+    "sfomuseum:aircraft_id": [
+      1666
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
     "sfomuseum:airline_id": [
       874
@@ -87,21 +93,14 @@
     "wof:country": "",
     "wof:created": 1641344751,
     "wof:depicts": [
+      1159293697,
       1159287531,
       1159285393,
-      102547655
+      102547655,
+      1159292981
     ],
     "wof:geomhash": "522942f0d8f50d57d195ac317aad6acf",
     "wof:hierarchy": [
-      {
-        "campus_id": 102547655,
-        "continent_id": 102191581,
-        "country_id": 85633241,
-        "locality_id": 101804821,
-        "neighbourhood_id": -1,
-        "object_id": 1762695707,
-        "region_id": 85685037
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -115,10 +114,19 @@
         "object_id": 1762695707,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102547655,
+        "continent_id": 102191581,
+        "country_id": 85633241,
+        "locality_id": 101804821,
+        "neighbourhood_id": -1,
+        "object_id": 1762695707,
+        "region_id": 85685037
       }
     ],
     "wof:id": 1762695707,
-    "wof:lastmodified": 1701883745,
+    "wof:lastmodified": 1710355732,
     "wof:name": "postcard: Shannon Airport, Lockheed Constellation, TWA, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

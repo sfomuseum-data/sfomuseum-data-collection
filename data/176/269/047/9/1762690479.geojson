@@ -13,6 +13,9 @@
     "geom:latitude": 44.883321,
     "geom:longitude": -93.200317,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -21,7 +24,9 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593
+    ],
     "millsfield:images": [
       1762711591,
       1762711593
@@ -40,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2097",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -84,19 +92,12 @@
       1159287407,
       1159284913,
       1159284907,
-      102531131
+      102531131,
+      1159289873,
+      1159293593
     ],
     "wof:geomhash": "c4d0a5c814c5e8beacb9e0e7f6b7d584",
     "wof:hierarchy": [
-      {
-        "campus_id": 102531131,
-        "continent_id": -1,
-        "country_id": -1,
-        "locality_id": -1,
-        "neighbourhood_id": -1,
-        "object_id": 1762690479,
-        "region_id": -1
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -110,10 +111,19 @@
         "object_id": 1762690479,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102531131,
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "object_id": 1762690479,
+        "region_id": -1
       }
     ],
     "wof:id": 1762690479,
-    "wof:lastmodified": 1705566735,
+    "wof:lastmodified": 1710355696,
     "wof:name": "postcard: Northwest Orient, Boeing 747, Minneapolis-St. Paul Metropolitan International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

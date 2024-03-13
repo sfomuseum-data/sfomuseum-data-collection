@@ -13,6 +13,9 @@
     "geom:latitude": 50.898393,
     "geom:longitude": 4.485874,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159285807
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159286639
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762713105,
       1762713107
@@ -42,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2430",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "Sabena Belgian Airlines",
     "sfomuseum:airline_id": [
       1074
@@ -93,10 +97,23 @@
     "wof:depicts": [
       102546425,
       1159286639,
-      1159285807
+      1159285807,
+      1159290417
     ],
     "wof:geomhash": "07440f8d3cb82b88ba1fd647a4bc2c8e",
     "wof:hierarchy": [
+      {
+        "campus_id": 102546425,
+        "continent_id": 102191581,
+        "country_id": 85632997,
+        "county_id": 102049973,
+        "localadmin_id": 1108830477,
+        "locality_id": 101913231,
+        "macroregion_id": 404227357,
+        "neighbourhood_id": 85802033,
+        "object_id": 1762684703,
+        "region_id": 85681731
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -110,22 +127,10 @@
         "object_id": 1762684703,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102546425,
-        "continent_id": 102191581,
-        "country_id": 85632997,
-        "county_id": 102049973,
-        "localadmin_id": 1108830477,
-        "locality_id": 101913231,
-        "macroregion_id": 404227357,
-        "neighbourhood_id": 85802033,
-        "object_id": 1762684703,
-        "region_id": 85681731
       }
     ],
     "wof:id": 1762684703,
-    "wof:lastmodified": 1701883742,
+    "wof:lastmodified": 1710355710,
     "wof:name": "postcard: Brussels Airport, Sabena Belgian Air Lines, DC-3, DC-6, Convair 240",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

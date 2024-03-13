@@ -13,6 +13,9 @@
     "geom:latitude": -33.934928,
     "geom:longitude": 151.173388,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289913
+    ],
     "millsfield:airline_id": [
       1159284563
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288585
+      1159293593,
+      1159289873
     ],
     "millsfield:images": [
       1763444327
@@ -39,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0176",
     "sfomuseum:aircraft": "Boeing 747-300",
+    "sfomuseum:aircraft_id": [
+      249
+    ],
     "sfomuseum:airline": "Japan Airlines",
     "sfomuseum:airline_id": [
       492
@@ -89,12 +96,28 @@
     "wof:country": "",
     "wof:created": 1641941487,
     "wof:depicts": [
+      1159293593,
+      1159289873,
       1159284563,
       102557783,
-      1159288585
+      1159288585,
+      1159289913
     ],
     "wof:geomhash": "2cf0c9019341fb7980e15094e56b6642",
     "wof:hierarchy": [
+      {
+        "campus_id": 102557783,
+        "continent_id": 102191583,
+        "country_id": 85632793,
+        "county_id": 102049567,
+        "empire_id": 136253039,
+        "localadmin_id": 404224771,
+        "locality_id": 101931173,
+        "macrocounty_id": 1376953385,
+        "neighbourhood_id": -1,
+        "object_id": 1762760377,
+        "region_id": 85681545
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -108,23 +131,10 @@
         "object_id": 1762760377,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102557783,
-        "continent_id": 102191583,
-        "country_id": 85632793,
-        "county_id": 102049567,
-        "empire_id": 136253039,
-        "localadmin_id": 404224771,
-        "locality_id": 101931173,
-        "macrocounty_id": 1376953385,
-        "neighbourhood_id": -1,
-        "object_id": 1762760377,
-        "region_id": 85681545
       }
     ],
     "wof:id": 1762760377,
-    "wof:lastmodified": 1701883751,
+    "wof:lastmodified": 1710355708,
     "wof:name": "slide: Japan Airlines, Boeing 747-300, Sydney Airport (SYD)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

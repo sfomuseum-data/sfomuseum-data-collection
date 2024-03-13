@@ -13,6 +13,9 @@
     "geom:latitude": 52.171214,
     "geom:longitude": 20.974379,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159290959
+    ],
     "millsfield:airline_id": [
       1159284705
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288877
+      1159294129
     ],
     "millsfield:images": [
       1762706461,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.0969",
     "sfomuseum:aircraft": "Ilyushin Il-62",
+    "sfomuseum:aircraft_id": [
+      730
+    ],
     "sfomuseum:airline": "LOT Polish Airlines",
     "sfomuseum:airline_id": [
       557
@@ -89,12 +95,24 @@
     "wof:country": "",
     "wof:created": 1641344483,
     "wof:depicts": [
+      1159290959,
+      1159294129,
       102542051,
       1159288877,
       1159284705
     ],
     "wof:geomhash": "9330789eb4dbc5bbc7d13738b24dd6b7",
     "wof:hierarchy": [
+      {
+        "campus_id": 102542051,
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079951,
+        "locality_id": 101752777,
+        "neighbourhood_id": 85906709,
+        "object_id": 1762694953,
+        "region_id": 85687257
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -108,20 +126,10 @@
         "object_id": 1762694953,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102542051,
-        "continent_id": 102191581,
-        "country_id": 85633723,
-        "county_id": 102079951,
-        "locality_id": 101752777,
-        "neighbourhood_id": 85906709,
-        "object_id": 1762694953,
-        "region_id": 85687257
       }
     ],
     "wof:id": 1762694953,
-    "wof:lastmodified": 1701883743,
+    "wof:lastmodified": 1710355718,
     "wof:name": "postcard: LOT Polish Airlines, Ilyushin Il-62, Warsaw airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

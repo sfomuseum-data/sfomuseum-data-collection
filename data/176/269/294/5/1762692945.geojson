@@ -13,6 +13,9 @@
     "geom:latitude": 52.547069,
     "geom:longitude": 13.295688,
     "iso:country": "DE",
+    "millsfield:aircraft_id": [
+      1159289745
+    ],
     "millsfield:airline_id": [
       1159286441
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288599
+      1159293593
     ],
     "millsfield:images": [
       1762710253,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1802",
     "sfomuseum:aircraft": "Boeing 720",
+    "sfomuseum:aircraft_id": [
+      174
+    ],
     "sfomuseum:airline": "Aeroamerica",
     "sfomuseum:airline_id": [
       1372
@@ -92,10 +98,23 @@
     "wof:depicts": [
       1159288599,
       1159286441,
-      102548985
+      102548985,
+      1159289745,
+      1159293593
     ],
     "wof:geomhash": "335c30d7db6691a7df17a727c9473cfb",
     "wof:hierarchy": [
+      {
+        "borough_id": 1108815535,
+        "campus_id": 102548985,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063945,
+        "locality_id": 101748799,
+        "neighbourhood_id": 420784289,
+        "object_id": 1762692945,
+        "region_id": 85682499
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -109,21 +128,10 @@
         "object_id": 1762692945,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 1108815535,
-        "campus_id": 102548985,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063945,
-        "locality_id": 101748799,
-        "neighbourhood_id": 420784289,
-        "object_id": 1762692945,
-        "region_id": 85682499
       }
     ],
     "wof:id": 1762692945,
-    "wof:lastmodified": 1701883737,
+    "wof:lastmodified": 1710355712,
     "wof:name": "postcard: Aeroamerica, Boeing 720, Berlin Tegel Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

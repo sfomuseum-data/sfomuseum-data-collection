@@ -13,6 +13,9 @@
     "geom:latitude": 33.970501,
     "geom:longitude": -80.995201,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159284261
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287931
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762710627,
       1762710629
@@ -42,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1883",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "Delta Air Lines",
     "sfomuseum:airline_id": [
       355
@@ -89,19 +93,11 @@
     "wof:depicts": [
       1159284261,
       102526505,
-      1159287931
+      1159287931,
+      1159290417
     ],
     "wof:geomhash": "9b8cc6a96ed644d471cee56b44df551c",
     "wof:hierarchy": [
-      {
-        "campus_id": 102526505,
-        "country_id": 85633793,
-        "county_id": 102085405,
-        "locality_id": 101720793,
-        "neighbourhood_id": 85846089,
-        "object_id": 1762693963,
-        "region_id": 85688683
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -115,10 +111,19 @@
         "object_id": 1762693963,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102526505,
+        "country_id": 85633793,
+        "county_id": 102085405,
+        "locality_id": 101720793,
+        "neighbourhood_id": 85846089,
+        "object_id": 1762693963,
+        "region_id": 85688683
       }
     ],
     "wof:id": 1762693963,
-    "wof:lastmodified": 1701883740,
+    "wof:lastmodified": 1710355703,
     "wof:name": "postcard: Delta Air Lines, Douglas DC-3, Columbia Owens Field",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

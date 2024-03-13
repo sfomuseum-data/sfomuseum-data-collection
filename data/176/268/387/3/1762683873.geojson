@@ -13,6 +13,9 @@
     "geom:latitude": 34.196704,
     "geom:longitude": -118.353322,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159284973
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286629
+      1159293593
     ],
     "millsfield:images": [
       1762710349,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1823",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "Pacific Southwest Airlines (PSA)",
     "sfomuseum:airline_id": [
       677
@@ -67,7 +73,7 @@
     "sfomuseum:subcategory": "Postcard",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
-      102532771
+      1746879077
     ],
     "wof:belongsto": [
       102527513,
@@ -78,17 +84,19 @@
       85922583,
       85688637,
       1159160869,
-      102532771,
       102086957,
-      85923691
+      85923691,
+      1746879077
     ],
     "wof:country": "US",
     "wof:created": 1641340807,
     "wof:depicts": [
+      1746879077,
+      1159289759,
+      1159293593,
       1159284973,
       102532771,
-      1159286629,
-      1746879077
+      1159286629
     ],
     "wof:geomhash": "aa27fc90c742041ff2640ce4ac2cf3bc",
     "wof:hierarchy": [
@@ -107,7 +115,7 @@
         "wing_id": 1159160869
       },
       {
-        "campus_id": 102532771,
+        "campus_id": 1746879077,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
@@ -117,7 +125,7 @@
       }
     ],
     "wof:id": 1762683873,
-    "wof:lastmodified": 1701883739,
+    "wof:lastmodified": 1710355709,
     "wof:name": "postcard: Pacific Southwest Airlines (PSA), Boeing 727, Burbank Glendale Pasadena Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 40.691243,
     "geom:longitude": -74.177526,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289827
+    ],
     "millsfield:airline_id": [
       1159284201
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700741
+      1159293593,
+      1159289819
     ],
     "millsfield:images": [
       1763445299
@@ -39,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0645",
     "sfomuseum:aircraft": "Boeing 737-200",
+    "sfomuseum:aircraft_id": [
+      211
+    ],
     "sfomuseum:airline": "Continental Airlines",
     "sfomuseum:airline_id": [
       328
@@ -80,15 +87,17 @@
       102085043,
       404478049,
       85975279,
-      85873011,
       85688607
     ],
     "wof:country": "US",
     "wof:created": 1641941298,
     "wof:depicts": [
-      1360700741,
       1159284201,
-      102530049
+      102530049,
+      1159289827,
+      1159293593,
+      1159289819,
+      1360700741
     ],
     "wof:geomhash": "4b819771a65ce5f91cf16e2f94402c48",
     "wof:hierarchy": [
@@ -113,13 +122,13 @@
         "county_id": 102085043,
         "localadmin_id": 404478049,
         "locality_id": 85975279,
-        "neighbourhood_id": 85873011,
+        "neighbourhood_id": -1,
         "object_id": 1762759879,
         "region_id": 85688607
       }
     ],
     "wof:id": 1762759879,
-    "wof:lastmodified": 1701883750,
+    "wof:lastmodified": 1710355692,
     "wof:name": "slide: Continental Airlines, Boeing 737-200, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

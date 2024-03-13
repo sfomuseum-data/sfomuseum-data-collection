@@ -13,6 +13,9 @@
     "geom:latitude": 33.942593,
     "geom:longitude": -118.38951,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159291267
+    ],
     "millsfield:airline_id": [
       1159284415
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288251
+      1159293561,
+      1159291259
     ],
     "millsfield:images": [
       1763372759
@@ -39,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.010.408",
     "sfomuseum:aircraft": "McDonnell Douglas DC-10-30",
+    "sfomuseum:aircraft_id": [
+      868
+    ],
     "sfomuseum:airline": "Garuda Indonesia",
     "sfomuseum:airline_id": [
       423
@@ -84,23 +91,15 @@
     "wof:country": "US",
     "wof:created": 1639525140,
     "wof:depicts": [
+      1159291259,
       1159288251,
       1159284415,
-      102533795
+      102533795,
+      1159291267,
+      1159293561
     ],
     "wof:geomhash": "fecd3d7ab1fc2bc81dc4fce83bbb8c45",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533795,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086957,
-        "locality_id": 85923517,
-        "macrohood_id": 1108692797,
-        "neighbourhood_id": 85856747,
-        "object_id": 1746836249,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,10 +113,21 @@
         "object_id": 1746836249,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85856747,
+        "object_id": 1746836249,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1746836249,
-    "wof:lastmodified": 1701883726,
+    "wof:lastmodified": 1710355697,
     "wof:name": "poster: Garuda Indonesia, Los Angeles",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 40.643286,
     "geom:longitude": -73.787845,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289427
+    ],
     "millsfield:airline_id": [
       1159283531
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287703
+      1159293829,
+      1159289425
     ],
     "millsfield:images": [
       1763444951
@@ -36,6 +40,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.157",
     "sfomuseum:aircraft": "Airbus A340-200",
+    "sfomuseum:aircraft_id": [
+      33
+    ],
     "sfomuseum:airline": "Aerolineas Argentinas",
     "sfomuseum:airline_id": [
       27
@@ -86,21 +93,13 @@
     "wof:depicts": [
       1159283531,
       102534365,
-      1159287703
+      1159287703,
+      1159289427,
+      1159293829,
+      1159289425
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762761407,
-        "region_id": 85688543
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,10 +113,21 @@
         "object_id": 1762761407,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762761407,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1762761407,
-    "wof:lastmodified": 1649405534,
+    "wof:lastmodified": 1710355716,
     "wof:name": "slide: Aerolineas Argentinas, Airbus A340-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

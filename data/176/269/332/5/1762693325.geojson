@@ -13,6 +13,9 @@
     "geom:latitude": 48.11599,
     "geom:longitude": 16.566135,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159292791
+    ],
     "millsfield:airline_id": [
       1159283947
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287521
+      1159294251
     ],
     "millsfield:images": [
       1762712907,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2386",
     "sfomuseum:aircraft": "Sud Aviation Caravelle",
+    "sfomuseum:aircraft_id": [
+      1571
+    ],
     "sfomuseum:airline": "Austrian Airlines",
     "sfomuseum:airline_id": [
       213
@@ -90,10 +96,23 @@
     "wof:depicts": [
       1159283947,
       102556267,
-      1159287521
+      1159287521,
+      1159292791,
+      1159294251
     ],
     "wof:geomhash": "2afa1f3a38204aadcfee626c562a9b2d",
     "wof:hierarchy": [
+      {
+        "campus_id": 102556267,
+        "continent_id": 102191581,
+        "country_id": 85632785,
+        "county_id": 102049843,
+        "localadmin_id": 1108836277,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "object_id": 1762693325,
+        "region_id": 85681671
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -107,21 +126,10 @@
         "object_id": 1762693325,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102556267,
-        "continent_id": 102191581,
-        "country_id": 85632785,
-        "county_id": 102049843,
-        "localadmin_id": 1108836277,
-        "locality_id": -1,
-        "neighbourhood_id": -1,
-        "object_id": 1762693325,
-        "region_id": 85681671
       }
     ],
     "wof:id": 1762693325,
-    "wof:lastmodified": 1701883738,
+    "wof:lastmodified": 1710355721,
     "wof:name": "postcard: Vienna - Schwechat Airport, Sud Aviation Caravelle, Austrian Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

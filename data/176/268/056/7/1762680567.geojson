@@ -13,6 +13,9 @@
     "geom:latitude": 41.787532,
     "geom:longitude": -87.745903,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293697
     ],
     "millsfield:images": [
       1762710457,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1847",
     "sfomuseum:aircraft": "Lockheed Constellation",
+    "sfomuseum:aircraft_id": [
+      1666
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
     "sfomuseum:airline_id": [
       874
@@ -91,10 +97,24 @@
     "wof:depicts": [
       1159287531,
       1159285393,
-      102531205
+      102531205,
+      1159292981,
+      1159293697
     ],
     "wof:geomhash": "421168bde9ebe6bcb5a14dd3fba13979",
     "wof:hierarchy": [
+      {
+        "borough_id": 958036681,
+        "campus_id": 102531205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084317,
+        "localadmin_id": 404496273,
+        "locality_id": 85940195,
+        "neighbourhood_id": 1024497015,
+        "object_id": 1762680567,
+        "region_id": 85688697
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -108,22 +128,10 @@
         "object_id": 1762680567,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "borough_id": 958036681,
-        "campus_id": 102531205,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102084317,
-        "localadmin_id": 404496273,
-        "locality_id": 85940195,
-        "neighbourhood_id": 1024497015,
-        "object_id": 1762680567,
-        "region_id": 85688697
       }
     ],
     "wof:id": 1762680567,
-    "wof:lastmodified": 1701883729,
+    "wof:lastmodified": 1710355709,
     "wof:name": "postcard: TWA (Trans World Airlines), Lockheed Constellation, Chicago Midway Airport, observation deck",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

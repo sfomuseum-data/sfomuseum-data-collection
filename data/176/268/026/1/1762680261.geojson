@@ -13,6 +13,9 @@
     "geom:latitude": 40.477078,
     "geom:longitude": -3.562012,
     "iso:country": "ES",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159284511
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287719
+      1159293593
     ],
     "millsfield:images": [
       1762711495,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2076",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
     "sfomuseum:airline": "Iberia",
     "sfomuseum:airline_id": [
       468
@@ -90,23 +96,14 @@
     "wof:country": "ES",
     "wof:created": 1641339628,
     "wof:depicts": [
-      1159287719,
       1159284511,
-      102545773
+      102545773,
+      1159289759,
+      1159293593,
+      1159287719
     ],
     "wof:geomhash": "87168de644a1a06871778b1dca6f6f68",
     "wof:hierarchy": [
-      {
-        "campus_id": 102545773,
-        "continent_id": 102191581,
-        "country_id": 85633129,
-        "locality_id": 101748283,
-        "macrohood_id": 1158846031,
-        "macroregion_id": 404227387,
-        "neighbourhood_id": 1158846263,
-        "object_id": 1762680261,
-        "region_id": 85682783
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -120,10 +117,21 @@
         "object_id": 1762680261,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102545773,
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "locality_id": 101748283,
+        "macrohood_id": 1158846031,
+        "macroregion_id": 404227387,
+        "neighbourhood_id": 1158846263,
+        "object_id": 1762680261,
+        "region_id": 85682783
       }
     ],
     "wof:id": 1762680261,
-    "wof:lastmodified": 1701883728,
+    "wof:lastmodified": 1710355739,
     "wof:name": "postcard: Madrid-Barajas Airport (Aeropuerto Madrid Barajas), Boeing 727, Iberia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

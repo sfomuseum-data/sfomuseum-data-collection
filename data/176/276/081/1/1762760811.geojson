@@ -13,6 +13,9 @@
     "geom:latitude": -23.428612,
     "geom:longitude": -46.481993,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159285461
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288487
+      1159293593,
+      1159289819
     ],
     "millsfield:images": [
       1763389171
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.108.232",
     "sfomuseum:aircraft": "Boeing 737-300",
+    "sfomuseum:aircraft_id": [
+      221
+    ],
     "sfomuseum:airline": "VARIG",
     "sfomuseum:airline_id": [
       904
@@ -94,10 +101,25 @@
     "wof:depicts": [
       102535413,
       1159288487,
-      1159285461
+      1159285461,
+      1159289851,
+      1159293593,
+      1159289819
     ],
     "wof:geomhash": "98644eb5ebabe1bb5b67ba4a1488c17f",
     "wof:hierarchy": [
+      {
+        "campus_id": 102535413,
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102061469,
+        "localadmin_id": 404566473,
+        "locality_id": 101956159,
+        "macroregion_id": 1511777411,
+        "neighbourhood_id": -1,
+        "object_id": 1762760811,
+        "region_id": 85682041
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -111,22 +133,10 @@
         "object_id": 1762760811,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102535413,
-        "continent_id": 102191577,
-        "country_id": 85633009,
-        "county_id": 102061469,
-        "localadmin_id": 404566473,
-        "locality_id": 101956159,
-        "macroregion_id": 1511777411,
-        "neighbourhood_id": -1,
-        "object_id": 1762760811,
-        "region_id": 85682041
       }
     ],
     "wof:id": 1762760811,
-    "wof:lastmodified": 1701883753,
+    "wof:lastmodified": 1710355705,
     "wof:name": "slide: VARIG, Boeing 737-300, Sao Paulo-Congonhas Airport (CGH)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

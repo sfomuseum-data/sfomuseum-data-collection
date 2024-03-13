@@ -13,6 +13,9 @@
     "geom:latitude": 40.691243,
     "geom:longitude": -74.177526,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159285413
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289935
     ],
     "millsfield:images": [
       1762899353
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2018.101.070",
     "sfomuseum:aircraft": "Boeing 757-200",
+    "sfomuseum:aircraft_id": [
+      260
+    ],
     "sfomuseum:airline": "United Airlines",
     "sfomuseum:airline_id": [
       883
@@ -84,7 +91,6 @@
       102085043,
       404478049,
       85975279,
-      85873011,
       85688607
     ],
     "wof:country": "US",
@@ -92,7 +98,10 @@
     "wof:depicts": [
       102530049,
       1159288779,
-      1159285413
+      1159285413,
+      1159289939,
+      1159293593,
+      1159289935
     ],
     "wof:geomhash": "4b819771a65ce5f91cf16e2f94402c48",
     "wof:hierarchy": [
@@ -117,13 +126,13 @@
         "county_id": 102085043,
         "localadmin_id": 404478049,
         "locality_id": 85975279,
-        "neighbourhood_id": 85873011,
+        "neighbourhood_id": -1,
         "object_id": 1762759639,
         "region_id": 85688607
       }
     ],
     "wof:id": 1762759639,
-    "wof:lastmodified": 1701883749,
+    "wof:lastmodified": 1710355733,
     "wof:name": "slide: United Airlines, Boeing 757, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

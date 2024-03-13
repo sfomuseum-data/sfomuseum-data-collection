@@ -13,6 +13,9 @@
     "geom:latitude": 25.79047,
     "geom:longitude": -80.296006,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289405
+    ],
     "millsfield:airline_id": [
       1159283653
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288277
+      1159293829,
+      1159289401
     ],
     "millsfield:images": [
       1763445067
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.202",
     "sfomuseum:aircraft": "Airbus A310-300",
+    "sfomuseum:aircraft_id": [
+      23
+    ],
     "sfomuseum:airline": "Air Jamaica",
     "sfomuseum:airline_id": [
       82
@@ -88,9 +95,12 @@
     "wof:country": "US",
     "wof:created": 1641940960,
     "wof:depicts": [
+      1159283653,
+      1159289405,
+      1159293829,
+      1159289401,
       102531023,
-      1159288277,
-      1159283653
+      1159288277
     ],
     "wof:geomhash": "c66831237e200a408b9ec647c9b5d8f8",
     "wof:hierarchy": [
@@ -120,7 +130,7 @@
       }
     ],
     "wof:id": 1762758995,
-    "wof:lastmodified": 1701883747,
+    "wof:lastmodified": 1710355696,
     "wof:name": "slide: Air Jamaica, Airbus A310-300, Miami International Airport (MIA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

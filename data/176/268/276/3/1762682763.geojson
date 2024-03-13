@@ -13,6 +13,9 @@
     "geom:latitude": 47.441823,
     "geom:longitude": -122.304268,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289755
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -21,7 +24,10 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289745
+    ],
     "millsfield:images": [
       1762712563,
       1762712565
@@ -40,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2311",
     "sfomuseum:aircraft": "Boeing 720B",
+    "sfomuseum:aircraft_id": [
+      179
+    ],
     "sfomuseum:airline": "Northwest Airlines",
     "sfomuseum:airline_id": [
       647
@@ -85,8 +94,11 @@
     "wof:country": "US",
     "wof:created": 1641340436,
     "wof:depicts": [
-      102533269,
-      1159284907
+      1159284907,
+      1159289755,
+      1159293593,
+      1159289745,
+      102533269
     ],
     "wof:geomhash": "dab3b21e84c7273184687abaac52f6d8",
     "wof:hierarchy": [
@@ -116,7 +128,7 @@
       }
     ],
     "wof:id": 1762682763,
-    "wof:lastmodified": 1701883736,
+    "wof:lastmodified": 1710355713,
     "wof:name": "postcard: Seattle - Tacoma International Airport, Northwest Airlines, Boeing 720B",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

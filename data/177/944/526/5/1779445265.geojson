@@ -8,10 +8,14 @@
     "date:inception_upper": "1999-12-31",
     "edtf:cessation": "1999",
     "edtf:inception": "1999",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-95.279344,29.652674,-95.279344,29.652674",
+    "geom:latitude": 29.652674,
+    "geom:longitude": -95.279344,
+    "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159285335
     ],
@@ -20,9 +24,7 @@
     ],
     "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159287323
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1779445901
     ],
@@ -41,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2018.044.001",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "Trans-Texas Airways",
     "sfomuseum:airline_id": [
       845
@@ -65,7 +70,10 @@
     "sfomuseum:publication": ": , 1999.",
     "sfomuseum:registration_number": "N25668",
     "sfomuseum:subcategory": "Poster, Other",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102531775
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -74,17 +82,33 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      102531775,
+      102081111,
+      101725629,
+      85869295,
+      85688753
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1652428388,
     "wof:depicts": [
+      1159290417,
       1159285335,
       102531775,
       1159287323
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "3cf3d5b8f6cd9a77237710225b0339fa",
     "wof:hierarchy": [
+      {
+        "campus_id": 102531775,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081111,
+        "locality_id": 101725629,
+        "neighbourhood_id": 85869295,
+        "object_id": 1779445265,
+        "region_id": 85688753
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -101,7 +125,7 @@
       }
     ],
     "wof:id": 1779445265,
-    "wof:lastmodified": 1701883788,
+    "wof:lastmodified": 1710355734,
     "wof:name": "poster: 1940 Air Terminal Museum",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -111,10 +135,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -95.279344,
+    29.652674,
+    -95.279344,
+    29.652674
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-95.279344,29.652674]],"type":"MultiPoint"}
 }

@@ -13,6 +13,10 @@
     "geom:latitude": 63.983414,
     "geom:longitude": -22.585315,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289759,
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159284513
     ],
@@ -21,9 +25,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287015
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762711261,
       1762711265
@@ -42,6 +44,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2024",
     "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180,
+      498
+    ],
     "sfomuseum:airline": "Icelandair",
     "sfomuseum:airline_id": [
       469
@@ -87,20 +93,14 @@
     "wof:country": "",
     "wof:created": 1641341350,
     "wof:depicts": [
-      102553077,
       1159287015,
-      1159284513
+      1159284513,
+      1159289759,
+      1159290443,
+      102553077
     ],
     "wof:geomhash": "c3058a9d8456d697a9a13325e02219a7",
     "wof:hierarchy": [
-      {
-        "campus_id": 102553077,
-        "continent_id": 102191581,
-        "country_id": 85633249,
-        "locality_id": 101845653,
-        "object_id": 1762685555,
-        "region_id": 85672515
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,10 +114,18 @@
         "object_id": 1762685555,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102553077,
+        "continent_id": 102191581,
+        "country_id": 85633249,
+        "locality_id": 101845653,
+        "object_id": 1762685555,
+        "region_id": 85672515
       }
     ],
     "wof:id": 1762685555,
-    "wof:lastmodified": 1701883744,
+    "wof:lastmodified": 1710355706,
     "wof:name": "postcard: Keflavik Airport, IcelandAir, Boeing 727, DC-8",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 40.643286,
     "geom:longitude": -73.787845,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284999
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286503
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1763445293
@@ -39,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0642",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Paradise Island Airlines",
     "sfomuseum:airline_id": [
       691
@@ -86,23 +93,15 @@
     "wof:country": "US",
     "wof:created": 1641941675,
     "wof:depicts": [
+      1159289759,
       1159284999,
       102534365,
-      1159286503
+      1159286503,
+      1159289789,
+      1159293593
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762760859,
-        "region_id": 85688543
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -116,10 +115,21 @@
         "object_id": 1762760859,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762760859,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1762760859,
-    "wof:lastmodified": 1694116940,
+    "wof:lastmodified": 1710355710,
     "wof:name": "slide: Paradise Island Airlines, Boeing 727-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

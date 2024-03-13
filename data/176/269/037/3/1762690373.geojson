@@ -13,6 +13,9 @@
     "geom:latitude": 49.945918,
     "geom:longitude": 7.267284,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159284711
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288215
+      1159293593
     ],
     "millsfield:images": [
       1762710925,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1949",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "Lufthansa",
     "sfomuseum:airline_id": [
       560
@@ -88,12 +94,23 @@
     "wof:country": "",
     "wof:created": 1641342991,
     "wof:depicts": [
+      102549057,
+      1159289873,
+      1159293593,
       1159288215,
-      1159284711,
-      102549057
+      1159284711
     ],
     "wof:geomhash": "44be089feec7c5122a95ff58a62cb165",
     "wof:hierarchy": [
+      {
+        "campus_id": 102549057,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063601,
+        "locality_id": 101907073,
+        "object_id": 1762690373,
+        "region_id": 85682491
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -107,19 +124,10 @@
         "object_id": 1762690373,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102549057,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063601,
-        "locality_id": 101907073,
-        "object_id": 1762690373,
-        "region_id": 85682491
       }
     ],
     "wof:id": 1762690373,
-    "wof:lastmodified": 1701883729,
+    "wof:lastmodified": 1710355734,
     "wof:name": "postcard: Frankfurt am Main Airport, Boeing 747, Lufthansa",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

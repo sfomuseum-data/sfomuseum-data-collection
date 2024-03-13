@@ -13,6 +13,9 @@
     "geom:latitude": 36.081003,
     "geom:longitude": -115.15644,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159285435
     ],
@@ -21,7 +24,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289935
+    ],
     "millsfield:images": [
       1763442363
     ],
@@ -37,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2006.010.351.006",
     "sfomuseum:aircraft": "Boeing 757-200",
+    "sfomuseum:aircraft_id": [
+      260
+    ],
     "sfomuseum:airline": "US Airways",
     "sfomuseum:airline_id": [
       893
@@ -83,10 +92,23 @@
     "wof:created": 1642729891,
     "wof:depicts": [
       1159285435,
-      102527209
+      102527209,
+      1159289939,
+      1159293593,
+      1159289935
     ],
     "wof:geomhash": "f3c8ee9b6de8bf21de9a4b8429a7627c",
     "wof:hierarchy": [
+      {
+        "campus_id": 102527209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081553,
+        "locality_id": 85975035,
+        "neighbourhood_id": 85840429,
+        "object_id": 1762830197,
+        "region_id": 85688531
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -100,20 +122,10 @@
         "object_id": 1762830197,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102527209,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102081553,
-        "locality_id": 85975035,
-        "neighbourhood_id": 85840429,
-        "object_id": 1762830197,
-        "region_id": 85688531
       }
     ],
     "wof:id": 1762830197,
-    "wof:lastmodified": 1701883758,
+    "wof:lastmodified": 1710355690,
     "wof:name": "slide: US Airways, Boeing 757-200, McCarran International Airport (LAS)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

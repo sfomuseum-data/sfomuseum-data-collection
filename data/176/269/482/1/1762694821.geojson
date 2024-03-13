@@ -13,6 +13,10 @@
     "geom:latitude": 40.492624,
     "geom:longitude": -80.259551,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417,
+      1159290427
+    ],
     "millsfield:airline_id": [
       1159284093
     ],
@@ -21,9 +25,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288671
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762712117,
       1762712119
@@ -40,6 +42,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2212",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487,
+      491
+    ],
     "sfomuseum:airline": "Capital Airlines",
     "sfomuseum:airline_id": [
       280
@@ -79,14 +85,17 @@
       102528181,
       102080887,
       404484901,
-      85688481
+      85688481,
+      1729444317
     ],
     "wof:country": "US",
     "wof:created": 1641344436,
     "wof:depicts": [
       1159284093,
       102528181,
-      1159288671
+      1159288671,
+      1159290417,
+      1159290427
     ],
     "wof:geomhash": "49baab651e51ed61da88ddc0e8743876",
     "wof:hierarchy": [
@@ -110,12 +119,14 @@
         "country_id": 85633793,
         "county_id": 102080887,
         "localadmin_id": 404484901,
+        "locality_id": 1729444317,
+        "neighbourhood_id": -1,
         "object_id": 1762694821,
         "region_id": 85688481
       }
     ],
     "wof:id": 1762694821,
-    "wof:lastmodified": 1701883742,
+    "wof:lastmodified": 1710355695,
     "wof:name": "postcard: Greater Pittsburgh Airport, Capital Airlines DC-6 and DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

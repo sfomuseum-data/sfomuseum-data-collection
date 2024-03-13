@@ -13,6 +13,10 @@
     "geom:latitude": 33.942593,
     "geom:longitude": -118.38951,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290197,
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159284949,
       1159285393,
@@ -24,7 +28,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293697
     ],
     "millsfield:images": [
       1762713497,
@@ -42,6 +46,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2559",
     "sfomuseum:aircraft": "Convair 240",
+    "sfomuseum:aircraft_id": [
+      377,
+      1666
+    ],
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       666,
@@ -93,21 +101,13 @@
       1159284949,
       1159285393,
       1159285415,
-      102533795
+      102533795,
+      1159290197,
+      1159292981,
+      1159293697
     ],
     "wof:geomhash": "fecd3d7ab1fc2bc81dc4fce83bbb8c45",
     "wof:hierarchy": [
-      {
-        "campus_id": 102533795,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086957,
-        "locality_id": 85923517,
-        "macrohood_id": 1108692797,
-        "neighbourhood_id": 85856747,
-        "object_id": 1762681949,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -121,10 +121,21 @@
         "object_id": 1762681949,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85856747,
+        "object_id": 1762681949,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762681949,
-    "wof:lastmodified": 1701883733,
+    "wof:lastmodified": 1710355699,
     "wof:name": "postcard: Los Angeles International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

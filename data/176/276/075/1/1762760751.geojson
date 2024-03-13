@@ -16,6 +16,10 @@
     "loc:subject_headings": [
       "sh85002960"
     ],
+    "millsfield:aircraft_id": [
+      1159289653,
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159284711,
       1159284989,
@@ -26,9 +30,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287229
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762896059
     ],
@@ -44,6 +46,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2008.055.744",
     "sfomuseum:aircraft": "Boeing 707",
+    "sfomuseum:aircraft_id": [
+      133,
+      498
+    ],
     "sfomuseum:airline_id": [
       560,
       684,
@@ -96,19 +102,12 @@
       1159284989,
       1159285101,
       102549057,
-      1159287229
+      1159287229,
+      1159289653,
+      1159290443
     ],
     "wof:geomhash": "44be089feec7c5122a95ff58a62cb165",
     "wof:hierarchy": [
-      {
-        "campus_id": 102549057,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063601,
-        "locality_id": 101907073,
-        "object_id": 1762760751,
-        "region_id": 85682491
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -122,10 +121,19 @@
         "object_id": 1762760751,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102549057,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063601,
+        "locality_id": 101907073,
+        "object_id": 1762760751,
+        "region_id": 85682491
       }
     ],
     "wof:id": 1762760751,
-    "wof:lastmodified": 1701883752,
+    "wof:lastmodified": 1710355703,
     "wof:name": "postcard: Frankfurt Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

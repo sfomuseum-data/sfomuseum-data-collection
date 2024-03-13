@@ -13,6 +13,9 @@
     "geom:latitude": 34.196704,
     "geom:longitude": -118.353322,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159285395
     ],
@@ -21,9 +24,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287531
-    ],
+    "millsfield:company_id": [],
     "millsfield:images": [
       1762709555,
       1762709557
@@ -42,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.1524",
     "sfomuseum:aircraft": "Douglas DC-3",
+    "sfomuseum:aircraft_id": [
+      487
+    ],
     "sfomuseum:airline": "Transcontinental \u0026 Western Air",
     "sfomuseum:airline_id": [
       875
@@ -67,7 +71,7 @@
     "sfomuseum:subcategory": "Postcard",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
-      102532771
+      1746879077
     ],
     "wof:belongsto": [
       102527513,
@@ -78,9 +82,9 @@
       85922583,
       85688637,
       1159160869,
-      102532771,
       102086957,
-      85923691
+      85923691,
+      1746879077
     ],
     "wof:country": "US",
     "wof:created": 1641343268,
@@ -88,7 +92,8 @@
       1746879077,
       1159285395,
       102532771,
-      1159287531
+      1159287531,
+      1159290417
     ],
     "wof:geomhash": "aa27fc90c742041ff2640ce4ac2cf3bc",
     "wof:hierarchy": [
@@ -107,7 +112,7 @@
         "wing_id": 1159160869
       },
       {
-        "campus_id": 102532771,
+        "campus_id": 1746879077,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
@@ -117,7 +122,7 @@
       }
     ],
     "wof:id": 1762691177,
-    "wof:lastmodified": 1701883731,
+    "wof:lastmodified": 1710355718,
     "wof:name": "postcard: Transcontinental \u0026 Western Air (TWA), Douglas DC-3, Burbank Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

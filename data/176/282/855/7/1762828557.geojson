@@ -13,6 +13,13 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789,
+      1159289827,
+      1159291223,
+      1159291259,
+      1159291277
+    ],
     "millsfield:airline_id": [
       1159284507,
       1159284973,
@@ -24,7 +31,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293561,
+      1159291259
     ],
     "millsfield:images": [
       1763443759
@@ -41,6 +49,13 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.038.028",
     "sfomuseum:aircraft": "Douglas DC-9",
+    "sfomuseum:aircraft_id": [
+      194,
+      211,
+      848,
+      864,
+      872
+    ],
     "sfomuseum:airline": "Hughes Airwest",
     "sfomuseum:airline_id": [
       466,
@@ -87,9 +102,15 @@
     "wof:created": 1642729450,
     "wof:depicts": [
       102527513,
+      1159284913,
+      1159289827,
+      1159291259,
+      1159289789,
+      1159291223,
+      1159291277,
+      1159293561,
       1159288779,
       1159284507,
-      1159284913,
       1159284973,
       1159285413
     ],
@@ -129,7 +150,7 @@
       }
     ],
     "wof:id": 1762828557,
-    "wof:lastmodified": 1705566739,
+    "wof:lastmodified": 1710355690,
     "wof:name": "slide: San Francisco International Airport (SFO) [digital image]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

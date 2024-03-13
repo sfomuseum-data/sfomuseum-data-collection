@@ -13,6 +13,9 @@
     "geom:latitude": 40.643286,
     "geom:longitude": -73.787845,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290479
+    ],
     "millsfield:airline_id": [
       1159286087
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287989
+      1159290473,
+      1159290443
     ],
     "millsfield:images": [
       1763442571
@@ -39,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2014.158.042",
     "sfomuseum:aircraft": "Douglas DC-8-63F",
+    "sfomuseum:aircraft_id": [
+      515
+    ],
     "sfomuseum:airline": "Aer Turas",
     "sfomuseum:airline_id": [
       1201
@@ -85,23 +92,15 @@
     "wof:country": "US",
     "wof:created": 1642729260,
     "wof:depicts": [
+      1159290479,
+      1159290473,
+      1159290443,
       102534365,
       1159287989,
       1159286087
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
-      {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762827915,
-        "region_id": 85688543
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -115,10 +114,21 @@
         "object_id": 1762827915,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762827915,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1762827915,
-    "wof:lastmodified": 1701883755,
+    "wof:lastmodified": 1710355707,
     "wof:name": "slide: Aer Turas, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

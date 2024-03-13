@@ -13,11 +13,18 @@
     "geom:latitude": 40.691243,
     "geom:longitude": -74.177526,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airport_id": [
       102530049
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159293593,
+      1159289759
+    ],
     "millsfield:images": [
       1763445027
     ],
@@ -36,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.191",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airport": "Newark Liberty International Airport",
     "sfomuseum:airport_id": [
       96
@@ -74,16 +84,29 @@
       102085043,
       404478049,
       85975279,
-      85873011,
       85688607
     ],
     "wof:country": "US",
     "wof:created": 1641941405,
     "wof:depicts": [
-      102530049
+      102530049,
+      1159289789,
+      1159293593,
+      1159289759
     ],
     "wof:geomhash": "4b819771a65ce5f91cf16e2f94402c48",
     "wof:hierarchy": [
+      {
+        "campus_id": 102530049,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085043,
+        "localadmin_id": 404478049,
+        "locality_id": 85975279,
+        "neighbourhood_id": -1,
+        "object_id": 1762760161,
+        "region_id": 85688607
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -97,21 +120,10 @@
         "object_id": 1762760161,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102530049,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085043,
-        "localadmin_id": 404478049,
-        "locality_id": 85975279,
-        "neighbourhood_id": 85873011,
-        "object_id": 1762760161,
-        "region_id": 85688607
       }
     ],
     "wof:id": 1762760161,
-    "wof:lastmodified": 1701883751,
+    "wof:lastmodified": 1710355722,
     "wof:name": "slide: Aeroexo (Aero Ejecutivo), Boeing 727-200, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

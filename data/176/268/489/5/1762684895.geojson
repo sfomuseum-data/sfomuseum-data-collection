@@ -14,6 +14,7 @@
     "geom:longitude": 11.343889,
     "iso:country": "AT",
     "millsfield:aircraft_id": [
+      1159289827,
       1159290341
     ],
     "millsfield:airline_id": [
@@ -47,6 +48,7 @@
     "sfomuseum:accession_number": "2015.166.1997",
     "sfomuseum:aircraft": "Boeing 737-200",
     "sfomuseum:aircraft_id": [
+      211,
       450
     ],
     "sfomuseum:airline": "Sobelair",
@@ -94,14 +96,23 @@
     "wof:country": "AT",
     "wof:created": 1641341134,
     "wof:depicts": [
-      102556255,
       1159290341,
       1159293743,
       1159292629,
-      1159286429
+      1159286429,
+      1159289827,
+      102556255
     ],
     "wof:geomhash": "a161eefcbab3804dd274911a2959a6f0",
     "wof:hierarchy": [
+      {
+        "campus_id": 102556255,
+        "country_id": 85632785,
+        "county_id": 102049735,
+        "neighbourhood_id": 85904329,
+        "object_id": 1762684895,
+        "region_id": 85681661
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -115,18 +126,10 @@
         "object_id": 1762684895,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102556255,
-        "country_id": 85632785,
-        "county_id": 102049735,
-        "neighbourhood_id": 85904329,
-        "object_id": 1762684895,
-        "region_id": 85681661
       }
     ],
     "wof:id": 1762684895,
-    "wof:lastmodified": 1701883742,
+    "wof:lastmodified": 1710355726,
     "wof:name": "postcard: Sobel, Boeing 737-200, de Havilland DHC-7, Innsbruck Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

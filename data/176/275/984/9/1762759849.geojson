@@ -13,6 +13,9 @@
     "geom:latitude": 47.5896,
     "geom:longitude": 7.52991,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159290661
+    ],
     "millsfield:airline_id": [
       1159285589
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288009
+      1159293619,
+      1159293293
     ],
     "millsfield:images": [
       1763445419
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.320",
     "sfomuseum:aircraft": "Fokker F.100",
+    "sfomuseum:aircraft_id": [
+      597
+    ],
     "sfomuseum:airline": "Swissair",
     "sfomuseum:airline_id": [
       963
@@ -94,26 +101,15 @@
     "wof:country": "",
     "wof:created": 1641941284,
     "wof:depicts": [
+      1159293293,
       1746879103,
       1159288009,
-      1159285589
+      1159285589,
+      1159290661,
+      1159293619
     ],
     "wof:geomhash": "915090b8b99b0879cf263a2d806835c8",
     "wof:hierarchy": [
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762759849,
-        "region_id": 85688637,
-        "wing_id": 1159160869
-      },
       {
         "campus_id": 1746879103,
         "continent_id": 102191581,
@@ -127,10 +123,24 @@
         "neighbourhood_id": -1,
         "object_id": 1762759849,
         "region_id": 85683381
+      },
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1762759849,
+        "region_id": 85688637,
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1762759849,
-    "wof:lastmodified": 1701883750,
+    "wof:lastmodified": 1710355693,
     "wof:name": "slide: Swissair, Fokker F.100, EuroAirport Basel-Mulhouse-Freiburg (BSL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

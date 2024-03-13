@@ -13,6 +13,10 @@
     "geom:latitude": 40.492624,
     "geom:longitude": -80.259551,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159291185,
+      1159292981
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -22,7 +26,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293697
     ],
     "millsfield:images": [
       1762713519,
@@ -42,6 +46,10 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2564",
     "sfomuseum:aircraft": "Lockheed Constellation",
+    "sfomuseum:aircraft_id": [
+      831,
+      1666
+    ],
     "sfomuseum:airline": "TWA (Trans World Airlines)",
     "sfomuseum:airline_id": [
       874
@@ -81,14 +89,18 @@
       102528181,
       102080887,
       404484901,
-      85688481
+      85688481,
+      1729444317
     ],
     "wof:country": "US",
     "wof:created": 1641343469,
     "wof:depicts": [
-      1159287531,
       1159285393,
-      102528181
+      102528181,
+      1159291185,
+      1159292981,
+      1159293697,
+      1159287531
     ],
     "wof:geomhash": "49baab651e51ed61da88ddc0e8743876",
     "wof:hierarchy": [
@@ -112,12 +124,14 @@
         "country_id": 85633793,
         "county_id": 102080887,
         "localadmin_id": 404484901,
+        "locality_id": 1729444317,
+        "neighbourhood_id": -1,
         "object_id": 1762691797,
         "region_id": 85688481
       }
     ],
     "wof:id": 1762691797,
-    "wof:lastmodified": 1701883733,
+    "wof:lastmodified": 1710355693,
     "wof:name": "postcard: Greater Pittsburgh Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": 37.363728,
     "geom:longitude": -121.928755,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289407
+    ],
     "millsfield:airline_id": [
       1159284401
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288193
+      1159293829
     ],
     "millsfield:images": [
       1762898303
@@ -36,6 +39,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2017.095.013",
     "sfomuseum:aircraft": "Airbus A319",
+    "sfomuseum:aircraft_id": [
+      24
+    ],
     "sfomuseum:airline": "Frontier Airlines",
     "sfomuseum:airline_id": [
       417
@@ -87,21 +93,12 @@
     "wof:depicts": [
       102527529,
       1159288193,
-      1159284401
+      1159284401,
+      1159289407,
+      1159293829
     ],
     "wof:geomhash": "6755729d44afb52b594f86302497e36f",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527529,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102081673,
-        "locality_id": 85922347,
-        "macrohood_id": 1108782553,
-        "neighbourhood_id": 1108779019,
-        "object_id": 1762760875,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -125,10 +122,21 @@
         "neighbourhood_id": 85869525,
         "object_id": 1762760875,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782553,
+        "neighbourhood_id": 1108779019,
+        "object_id": 1762760875,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762760875,
-    "wof:lastmodified": 1686557868,
+    "wof:lastmodified": 1710355734,
     "wof:name": "slide: Frontier Airlines, Airbus A319, San Jose International Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

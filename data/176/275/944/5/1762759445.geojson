@@ -13,6 +13,9 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284261
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287931
+      1159293593,
+      1159289759
     ],
     "millsfield:images": [
       1763444809
@@ -39,6 +43,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.074.114",
     "sfomuseum:aircraft": "Boeing 727-200",
+    "sfomuseum:aircraft_id": [
+      194
+    ],
     "sfomuseum:airline": "Delta Air Lines",
     "sfomuseum:airline_id": [
       355
@@ -84,20 +91,13 @@
     "wof:depicts": [
       102527513,
       1159287931,
-      1159284261
+      1159284261,
+      1159289789,
+      1159293593,
+      1159289759
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "object_id": 1762759445,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
-      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -119,10 +119,20 @@
         "object_id": 1762759445,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "object_id": 1762759445,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762759445,
-    "wof:lastmodified": 1701883749,
+    "wof:lastmodified": 1710355697,
     "wof:name": "photograph: Delta Air Lines, Boeing 727, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

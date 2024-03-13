@@ -13,6 +13,9 @@
     "geom:latitude": 47.455793,
     "geom:longitude": 8.559692,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159285589
     ],
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288009
+      1159293593
     ],
     "millsfield:images": [
       1762713029,
@@ -42,6 +45,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2413",
     "sfomuseum:aircraft": "Boeing 747",
+    "sfomuseum:aircraft_id": [
+      231
+    ],
     "sfomuseum:airline": "Swissair",
     "sfomuseum:airline_id": [
       963
@@ -91,20 +97,12 @@
     "wof:depicts": [
       102553957,
       1159288009,
-      1159285589
+      1159285589,
+      1159289873,
+      1159293593
     ],
     "wof:geomhash": "adfec76c7fe49b133a91e3aa0d5bf87c",
     "wof:hierarchy": [
-      {
-        "campus_id": 102553957,
-        "continent_id": 102191581,
-        "country_id": 85633051,
-        "county_id": 102063071,
-        "locality_id": 101748463,
-        "neighbourhood_id": 85800527,
-        "object_id": 1762681615,
-        "region_id": 85682309
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -118,10 +116,20 @@
         "object_id": 1762681615,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102553957,
+        "continent_id": 102191581,
+        "country_id": 85633051,
+        "county_id": 102063071,
+        "locality_id": 101748463,
+        "neighbourhood_id": 85800527,
+        "object_id": 1762681615,
+        "region_id": 85682309
       }
     ],
     "wof:id": 1762681615,
-    "wof:lastmodified": 1701883732,
+    "wof:lastmodified": 1710355711,
     "wof:name": "postcard: Zurich Airport, Swissair, Boeing 747",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -13,6 +13,9 @@
     "geom:latitude": -22.912733,
     "geom:longitude": -43.163832,
     "iso:country": "",
+    "millsfield:aircraft_id": [
+      1159289869
+    ],
     "millsfield:airline_id": [
       1159284441
     ],
@@ -22,7 +25,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288491
+      1159293593,
+      1159289819
     ],
     "millsfield:images": [
       1763444441
@@ -42,6 +46,9 @@
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2004.115.0226",
     "sfomuseum:aircraft": "Boeing 737-700",
+    "sfomuseum:aircraft_id": [
+      229
+    ],
     "sfomuseum:airline": "GOL Airline",
     "sfomuseum:airline_id": [
       435
@@ -93,10 +100,23 @@
     "wof:depicts": [
       102534549,
       1159288491,
-      1159284441
+      1159284441,
+      1159289869,
+      1159293593,
+      1159289819
     ],
     "wof:geomhash": "9d1430ee63da39e919b6b9693d51a681",
     "wof:hierarchy": [
+      {
+        "campus_id": 102534549,
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102058455,
+        "locality_id": 101953261,
+        "neighbourhood_id": 85766075,
+        "object_id": 1762761281,
+        "region_id": 85681991
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -110,20 +130,10 @@
         "object_id": 1762761281,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102534549,
-        "continent_id": 102191577,
-        "country_id": 85633009,
-        "county_id": 102058455,
-        "locality_id": 101953261,
-        "neighbourhood_id": 85766075,
-        "object_id": 1762761281,
-        "region_id": 85681991
       }
     ],
     "wof:id": 1762761281,
-    "wof:lastmodified": 1701883754,
+    "wof:lastmodified": 1710355714,
     "wof:name": "slide: GOL, Boeing 737-700, Santos Dumont Airport (SDU)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

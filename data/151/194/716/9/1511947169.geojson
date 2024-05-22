@@ -14,11 +14,20 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
+    "millsfield:airline_id": [
+      1159284973
+    ],
     "millsfield:airport_id": [
       102527513
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159293593
+    ],
     "millsfield:images": [
       1527826141
     ],
@@ -34,6 +43,14 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.032.1699",
+    "sfomuseum:aircraft": "Boeing 727",
+    "sfomuseum:aircraft_id": [
+      180
+    ],
+    "sfomuseum:airline": "Pacific Southwest Airlines (PSA)",
+    "sfomuseum:airline_id": [
+      677
+    ],
     "sfomuseum:airport": "San Francisco International Airport",
     "sfomuseum:airport_id": [
       121
@@ -47,7 +64,7 @@
     "sfomuseum:date_acquired": "2011-03-02",
     "sfomuseum:daterange_end": "1968-12-31",
     "sfomuseum:daterange_start": "1968-01-01",
-    "sfomuseum:description": "Black and white photographic negative depicting airside view of Central Terminal (Terminal 2), San Francisco International Airport (SFO), February 26, 1968; rear view of airplane with T-tail at right.",
+    "sfomuseum:description": "Black and white photographic negative depicting airside view of Central Terminal (Terminal 2), San Francisco International Airport (SFO), February 26, 1968; rear view of Pacific Southwest Airlines (PSA) Boeing 727 at right; aircraft registration number N971PS.",
     "sfomuseum:dimensions": "2 1/2 x 2 1/2 inches (6.4 x 6.4 cm)",
     "sfomuseum:media_ids": [
       1527826141
@@ -78,18 +95,13 @@
     "wof:country": "US",
     "wof:created": 1579906664,
     "wof:depicts": [
-      102527513
+      102527513,
+      1159284973,
+      1159289759,
+      1159293593
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "object_id": 1511947169,
-        "region_id": 85688637
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -113,10 +125,18 @@
         "object_id": 1511947169,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "object_id": 1511947169,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1511947169,
-    "wof:lastmodified": 1694116939,
+    "wof:lastmodified": 1716363195,
     "wof:name": "negative: San Francisco International Airport (SFO), Central Terminal",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

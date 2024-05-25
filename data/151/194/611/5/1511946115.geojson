@@ -66,7 +66,7 @@
     "sfomuseum:date_acquired": "2011-03-02",
     "sfomuseum:daterange_end": "1964-12-31",
     "sfomuseum:daterange_start": "1964-01-01",
-    "sfomuseum:description": "Black and white photographic negative depicting cropped view of empennage section of tilted United Air Lines Douglas DC-8-50 jet freighter on tarmac, San Francisco International Airport (SFO), January 29, 1964.",
+    "sfomuseum:description": "Black and white photographic negative depicting cropped view of tail section of tilted United Air Lines Douglas DC-8-50 jet freighter on tarmac, San Francisco International Airport (SFO), January 29, 1964; aircraft registration number N8041U.",
     "sfomuseum:dimensions": "2 1/2 x 2 1/2 inches (6.4 x 6.4 cm)",
     "sfomuseum:media_ids": [
       1527825189
@@ -98,24 +98,16 @@
     "wof:country": "US",
     "wof:created": 1579906661,
     "wof:depicts": [
-      1159290443,
       1159290461,
       1159285415,
       1159288779,
-      102527513
+      102527513,
+      1159290443
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1511946115,
-        "object_id": 1511946115,
-        "region_id": 85688637
-      },
-      {
+        "[\n      \"object\"\n    ]_id": 1159162825,
         "building_id": -1,
         "campus_id": 102527513,
         "collection_id": 1159162825,
@@ -140,10 +132,19 @@
         "object_id": 1511946115,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1511946115,
+        "object_id": 1511946115,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1511946115,
-    "wof:lastmodified": 1716579576,
+    "wof:lastmodified": 1716622378,
     "wof:name": "negative: San Francisco International Airport (SFO), United Air Lines, Douglas DC-8-50",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

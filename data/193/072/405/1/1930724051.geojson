@@ -2,23 +2,50 @@
   "id": 1930724051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1972-01-01",
+    "date:cessation_upper": "1972-12-31",
+    "date:inception_lower": "1972-01-01",
+    "date:inception_upper": "1972-12-31",
+    "edtf:cessation": "1972",
+    "edtf:inception": "1972",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159288779
+    ],
+    "millsfield:images": [
+      1930734223
+    ],
+    "millsfield:primary_image": 1930734223,
     "millsfield:subcategory_id": 1511213371,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2024.079.044",
+    "sfomuseum:airline": "United Air Lines",
+    "sfomuseum:airline_id": [
+      884
+    ],
+    "sfomuseum:category": "Promotional, Museum",
     "sfomuseum:classification_id": 131,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
+    "sfomuseum:date": "1972",
+    "sfomuseum:daterange_end": "1972-12-31",
+    "sfomuseum:daterange_start": "1972-01-01",
+    "sfomuseum:description": "Silver medallion in plastic square covering. Text on one side: “United Air Lines to Hawaii, May 1, 1947”, with image of a plane, water, mountain, flowers, and palm trees. Text on the other side: “United Air Lines 25th Anniversary, May 1, 1972, Hawaiian Service”, with image of a plane and flowers",
+    "sfomuseum:dimensions": "2 x 2 inches (5.1 x 5.1 cm)",
+    "sfomuseum:medium": "plastic, metal",
     "sfomuseum:object_id": 246606,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 1972.",
+    "sfomuseum:subcategory": "Product",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -32,6 +59,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1723571049,
+    "wof:depicts": [
+      1159285415,
+      1159288779
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -51,8 +82,8 @@
       }
     ],
     "wof:id": 1930724051,
-    "wof:lastmodified": 1723571049,
-    "wof:name": ": United Air Lines",
+    "wof:lastmodified": 1723660130,
+    "wof:name": "medallion: United Air Lines, Hawaii",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

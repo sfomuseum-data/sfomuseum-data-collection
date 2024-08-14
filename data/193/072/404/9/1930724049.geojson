@@ -2,8 +2,12 @@
   "id": 1930724049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1960-01-01",
+    "date:cessation_upper": "1969-12-31",
+    "date:inception_lower": "1960-01-01",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "196X",
+    "edtf:inception": "196X",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -11,24 +15,37 @@
     "millsfield:airline_id": [
       1159285415
     ],
-    "millsfield:category_id": 1763416373,
+    "millsfield:category_id": 1746152533,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
       1159288779
     ],
-    "millsfield:subcategory_id": 1511213371,
+    "millsfield:images": [
+      1930734109
+    ],
+    "millsfield:primary_image": 1930734109,
+    "millsfield:subcategory_id": 1746152535,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2024.079.068",
+    "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
     ],
-    "sfomuseum:classification_id": 131,
+    "sfomuseum:category": "Beverage Service",
+    "sfomuseum:classification_id": 560,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
+    "sfomuseum:date": "1960s",
+    "sfomuseum:daterange_end": "1969-12-31",
+    "sfomuseum:daterange_start": "1960-01-01",
+    "sfomuseum:description": "Coffee cup issued by United Air Lines for inflight beverage service; cup with white logo on side.",
     "sfomuseum:dimensions": "3 x 4 x 2 1/2 inches (7.6 x 10.2 x 6.4 cm)",
+    "sfomuseum:medium": "glass",
     "sfomuseum:object_id": 246630,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 1960s.",
+    "sfomuseum:subcategory": "Coffee cup / Teacup / Saucer",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -65,7 +82,7 @@
       }
     ],
     "wof:id": 1930724049,
-    "wof:lastmodified": 1723571047,
+    "wof:lastmodified": 1723660130,
     "wof:name": "coffee cup: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

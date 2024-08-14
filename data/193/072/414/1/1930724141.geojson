@@ -2,24 +2,50 @@
   "id": 1930724141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-08-01",
+    "date:cessation_upper": "1970-08-31",
+    "date:inception_lower": "1970-05-01",
+    "date:inception_upper": "1970-05-31",
+    "edtf:cessation": "1970-08",
+    "edtf:inception": "1970-05",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1763416373,
+    "millsfield:airline_id": [
+      1159285413
+    ],
+    "millsfield:category_id": 1746152551,
     "millsfield:collection_id": 1511214203,
-    "millsfield:subcategory_id": 1511213371,
+    "millsfield:company_id": [
+      1159288779
+    ],
+    "millsfield:images": [
+      1930734121
+    ],
+    "millsfield:primary_image": 1930734121,
+    "millsfield:subcategory_id": 1511213273,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2024.079.082",
-    "sfomuseum:classification_id": 131,
+    "sfomuseum:airline": "United Airlines",
+    "sfomuseum:airline_id": [
+      883
+    ],
+    "sfomuseum:category": "Meal Service",
+    "sfomuseum:classification_id": 70,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
+    "sfomuseum:date": "mid 1970s",
+    "sfomuseum:daterange_end": "1976-12-31",
+    "sfomuseum:daterange_start": "1974-01-01",
+    "sfomuseum:description": "Ice mallet issued by United Airlines for inflight passnger beverage service; silver metal with oval-shaped head and raised \"United\" in center on one side of handle.",
     "sfomuseum:dimensions": "7 1/2 x 2 1/2 x 1 inches (19.1 x 6.4 x 2.5 cm)",
+    "sfomuseum:medium": "aluminum",
     "sfomuseum:object_id": 246644,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , mid 1970s.",
+    "sfomuseum:subcategory": "Galley / Serving",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -33,6 +59,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1723571080,
+    "wof:depicts": [
+      1159285413,
+      1159288779
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -52,8 +82,8 @@
       }
     ],
     "wof:id": 1930724141,
-    "wof:lastmodified": 1723571080,
-    "wof:name": "ice breaker: United Air Lines",
+    "wof:lastmodified": 1723660130,
+    "wof:name": "ice mallet: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

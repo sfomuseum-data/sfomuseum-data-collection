@@ -2,23 +2,50 @@
   "id": 1930724023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1989-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1989-12-31",
+    "edtf:cessation": "198X",
+    "edtf:inception": "198X",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1763416373,
+    "millsfield:airline_id": [
+      1159285413
+    ],
+    "millsfield:category_id": 1762679663,
     "millsfield:collection_id": 1511214203,
-    "millsfield:subcategory_id": 1511213371,
+    "millsfield:company_id": [
+      1159288779
+    ],
+    "millsfield:images": [
+      1930734217
+    ],
+    "millsfield:primary_image": 1930734217,
+    "millsfield:subcategory_id": 1511213429,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2024.079.035",
-    "sfomuseum:classification_id": 131,
+    "sfomuseum:airline": "United Airlines",
+    "sfomuseum:airline_id": [
+      883
+    ],
+    "sfomuseum:category": "Passenger Amenity, Museum",
+    "sfomuseum:classification_id": 159,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
+    "sfomuseum:date": "1980s",
+    "sfomuseum:daterange_end": "1989-12-31",
+    "sfomuseum:daterange_start": "1980-01-01",
+    "sfomuseum:description": "teel blue/green with silver, \"fly the friendly skies of United\" with stylized illustration of aircraft ",
+    "sfomuseum:dimensions": "1 x 4 x 1 1/4 inches (2.5 x 10.2 x 3.2 cm)",
+    "sfomuseum:medium": "plastic ",
     "sfomuseum:object_id": 246597,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 1980s.",
+    "sfomuseum:subcategory": "Toiletries",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -32,6 +59,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1723571038,
+    "wof:depicts": [
+      1159285413,
+      1159288779
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -51,8 +82,8 @@
       }
     ],
     "wof:id": 1930724023,
-    "wof:lastmodified": 1723571038,
-    "wof:name": ": United Air Lines",
+    "wof:lastmodified": 1723660131,
+    "wof:name": "shoehorn: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

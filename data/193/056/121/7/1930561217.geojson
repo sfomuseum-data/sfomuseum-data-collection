@@ -2,8 +2,12 @@
   "id": 1930561217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1972-01-01",
+    "date:cessation_upper": "1972-12-31",
+    "date:inception_lower": "1972-01-01",
+    "date:inception_upper": "1972-12-31",
+    "edtf:cessation": "1972",
+    "edtf:inception": "1972",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -17,6 +21,14 @@
       1159288779
     ],
     "millsfield:images": [
+      1930724263,
+      1930724265
+    ],
+    "millsfield:images_texts": [
+      "1972 is\nthe 25th\nanniversary of\nUnited Air Lines\nservice to\nHawaii.",
+      "D\nhawaiian\nopen\npro-am\nBEAM\n100\nQUART\n86 PROST"
+    ],
+    "millsfield:images_texts_ids": [
       1930724263,
       1930724265
     ],
@@ -35,12 +47,16 @@
     "sfomuseum:continent": "North America",
     "sfomuseum:country": "United States",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
+    "sfomuseum:date": "1972",
+    "sfomuseum:daterange_end": "1972-12-31",
+    "sfomuseum:daterange_start": "1972-01-01",
     "sfomuseum:description": "Decanter issued by United Air Lines for Hawaiian Open Golf Tournament to commemorate 25th Anniversary; in multiple parts:\ra. Ceramic decanter, in shape of pineapple with stopper in shape of green leaves, containing James Beam whiskey;\rb. Decanter stopper.",
     "sfomuseum:dimensions": "10 x 5 1/4 x 3 1/4 inches (25.4 x 13.3 x 8.3 cm)",
     "sfomuseum:maker": "Lee Union-Alls",
     "sfomuseum:medium": "glazed ceramic",
     "sfomuseum:object_id": 246551,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 1972.",
     "sfomuseum:subcategory": "Product",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -56,8 +72,8 @@
     "wof:country": "XY",
     "wof:created": 1722929566,
     "wof:depicts": [
-      1159285415,
-      1159288779
+      1159288779,
+      1159285415
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -78,7 +94,7 @@
       }
     ],
     "wof:id": 1930561217,
-    "wof:lastmodified": 1723571255,
+    "wof:lastmodified": 1723660072,
     "wof:name": "decanter: United Air Lines, Hawaiian Open Golf Tournament",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

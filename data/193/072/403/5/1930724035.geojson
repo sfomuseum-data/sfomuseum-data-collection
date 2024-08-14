@@ -2,23 +2,50 @@
   "id": 1930724035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1979-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1979-12-31",
+    "edtf:cessation": "197X",
+    "edtf:inception": "197X",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1763416373,
+    "millsfield:airline_id": [
+      1159285413
+    ],
+    "millsfield:category_id": 1746152533,
     "millsfield:collection_id": 1511214203,
-    "millsfield:subcategory_id": 1511213371,
+    "millsfield:company_id": [
+      1159288779
+    ],
+    "millsfield:images": [
+      1930734199
+    ],
+    "millsfield:primary_image": 1930734199,
+    "millsfield:subcategory_id": 1511213837,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2024.079.020",
-    "sfomuseum:classification_id": 131,
+    "sfomuseum:airline": "United Airlines",
+    "sfomuseum:airline_id": [
+      883
+    ],
+    "sfomuseum:category": "Beverage Service",
+    "sfomuseum:classification_id": 541,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
+    "sfomuseum:date": "1970s",
+    "sfomuseum:daterange_end": "1979-12-31",
+    "sfomuseum:daterange_start": "1970-01-01",
+    "sfomuseum:description": "Cocktail pick issued by United Airlines for inflight beverage service; brown with menehune figure as topper and raised “Trader Vic’s” and “Menehunes” on stem; tapered end.",
+    "sfomuseum:dimensions": "4 x 1 1/4 inches (10.2 x 3.2 cm)",
+    "sfomuseum:medium": "plastic",
     "sfomuseum:object_id": 246582,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 1970s.",
+    "sfomuseum:subcategory": "Cocktail / Food Pick",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -32,6 +59,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1723571042,
+    "wof:depicts": [
+      1159285413,
+      1159288779
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -51,8 +82,8 @@
       }
     ],
     "wof:id": 1930724035,
-    "wof:lastmodified": 1723571042,
-    "wof:name": ": United Air Lines",
+    "wof:lastmodified": 1723660129,
+    "wof:name": "cocktail pick: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

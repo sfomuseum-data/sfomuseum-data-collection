@@ -2,28 +2,50 @@
   "id": 1930724029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1993-01-01",
+    "date:cessation_upper": "1993-12-31",
+    "date:inception_lower": "1993-01-01",
+    "date:inception_upper": "1993-12-31",
+    "edtf:cessation": "1993",
+    "edtf:inception": "1993",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "millsfield:category_id": 1763416373,
+    "millsfield:airline_id": [
+      1159285413
+    ],
+    "millsfield:category_id": 1762679695,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159288779
+    ],
     "millsfield:images": [
       1930734127
     ],
     "millsfield:primary_image": 1930734127,
-    "millsfield:subcategory_id": 1511213371,
+    "millsfield:subcategory_id": 1511213475,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2024.079.085",
-    "sfomuseum:classification_id": 131,
+    "sfomuseum:airline": "United Airlines",
+    "sfomuseum:airline_id": [
+      883
+    ],
+    "sfomuseum:category": "Award",
+    "sfomuseum:classification_id": 184,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
+    "sfomuseum:date": "1993",
+    "sfomuseum:daterange_end": "1993-12-31",
+    "sfomuseum:daterange_start": "1993-01-01",
+    "sfomuseum:description": "Employee award produced by United Airlines; rectangular shape award with etched logotype with “Best / Maintenance / Pride in Workmanship / Quality in Results / Maintenance Operations Division, Annual Award Winner / 1993” on front; brown base with small plaque “Lyle Dringenberg / Best Maintenance Team Award” on front.",
     "sfomuseum:dimensions": "8 x 7 x 2 inches (20.3 x 17.8 x 5.1 cm)",
+    "sfomuseum:medium": "glass, wood, plastic ",
     "sfomuseum:object_id": 246647,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 1993.",
+    "sfomuseum:subcategory": "Other, Award",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -37,6 +59,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1723571040,
+    "wof:depicts": [
+      1159285413,
+      1159288779
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -56,8 +82,8 @@
       }
     ],
     "wof:id": 1930724029,
-    "wof:lastmodified": 1723660131,
-    "wof:name": "award plaque: United Air Lines, Maintenance Operations Division Annual Award Winner 1993",
+    "wof:lastmodified": 1723706857,
+    "wof:name": "employee award: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

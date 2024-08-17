@@ -2,8 +2,12 @@
   "id": 1930724043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1960-01-01",
+    "date:cessation_upper": "1969-12-31",
+    "date:inception_lower": "1960-01-01",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "196X",
+    "edtf:inception": "196X",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -23,7 +27,7 @@
     "millsfield:subcategory_id": 1511213187,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfomuseum:accession_number": "2024.079.031",
+    "sfomuseum:accession_number": "2024.079.031 a m",
     "sfomuseum:airline": "United Air Lines",
     "sfomuseum:airline_id": [
       884
@@ -32,11 +36,15 @@
     "sfomuseum:classification_id": 23,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "In memory of Lyle A. Dringenberg",
-    "sfomuseum:description": "Amenity kit issued by United Air Lines; in multiple parts:\ra. Travel-lite note\rb. packet of instant shoe polish\rc. mending kit\rd. black comb\re-j. razor, chapstick, shaving cream, hair gel, tooth paste",
+    "sfomuseum:date": "1960s",
+    "sfomuseum:daterange_end": "1969-12-31",
+    "sfomuseum:daterange_start": "1960-01-01",
+    "sfomuseum:description": "Amenity kit issued by United Air Lines; in multiple parts:\ra. black amenity kit case with turn clasp closure, gold logo inside flap;\rb. toothbrush with case;\rc. toothpaste;\rd. tube of deodorant;\re.-g. razor, razor dispenser, tube of shaving cream;\rh. bottle of after shave lotion;\ri. comb;\rj. tube of hair gel;\rk. sewing kit;\rl. packet of shoe polish;\rm. product / order form.",
     "sfomuseum:dimensions": "5 x 7 1/2 x 1 1/2 inches (12.7 x 19.1 x 3.8 cm)",
-    "sfomuseum:medium": "leather, plastic, metal, fabric, paper",
+    "sfomuseum:medium": "vinyl, plastic, metal, ink, paper",
     "sfomuseum:object_id": 246593,
     "sfomuseum:placetype": "object",
+    "sfomuseum:publication": ": , 1960s.",
     "sfomuseum:subcategory": "Amenity Kit",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
@@ -74,8 +82,8 @@
       }
     ],
     "wof:id": 1930724043,
-    "wof:lastmodified": 1723660130,
-    "wof:name": "amenity kit: United Air Lines, “travel-lite”",
+    "wof:lastmodified": 1723879656,
+    "wof:name": "amenity kit: United Air Lines, “Travel-Lite”",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

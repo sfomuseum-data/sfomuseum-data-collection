@@ -13,11 +13,17 @@
     "geom:latitude": 33.942593,
     "geom:longitude": -118.38951,
     "iso:country": "US",
+    "millsfield:airline_id": [
+      1159283849
+    ],
     "millsfield:airport_id": [
       102533795
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1360700619
+    ],
     "millsfield:images": [
       1762711379,
       1762711381
@@ -35,6 +41,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2050",
+    "sfomuseum:airline": "American Airlines",
+    "sfomuseum:airline_id": [
+      169
+    ],
     "sfomuseum:airport": "Los Angeles International Airport",
     "sfomuseum:airport_id": [
       71
@@ -76,7 +86,9 @@
     "wof:country": "US",
     "wof:created": 1641340930,
     "wof:depicts": [
-      102533795
+      1360700619,
+      102533795,
+      1159283849
     ],
     "wof:geomhash": "fecd3d7ab1fc2bc81dc4fce83bbb8c45",
     "wof:hierarchy": [
@@ -109,7 +121,7 @@
       }
     ],
     "wof:id": 1762684261,
-    "wof:lastmodified": 1716579580,
+    "wof:lastmodified": 1729927536,
     "wof:name": "postcard: Los Angeles International Airport, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

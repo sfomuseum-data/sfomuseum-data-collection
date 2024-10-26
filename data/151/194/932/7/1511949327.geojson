@@ -14,11 +14,17 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:airport_id": [
       102527513
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159288779
+    ],
     "millsfield:images": [
       1527828295
     ],
@@ -34,6 +40,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.032.2655",
+    "sfomuseum:airline": "United Air Lines",
+    "sfomuseum:airline_id": [
+      884
+    ],
     "sfomuseum:airport": "San Francisco International Airport",
     "sfomuseum:airport_id": [
       121
@@ -77,7 +87,9 @@
     "wof:country": "US",
     "wof:created": 1579906672,
     "wof:depicts": [
-      102527513
+      102527513,
+      1159285415,
+      1159288779
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -118,7 +130,7 @@
       }
     ],
     "wof:id": 1511949327,
-    "wof:lastmodified": 1716579579,
+    "wof:lastmodified": 1729927528,
     "wof:name": "negative: San Francisco International Airport (SFO), United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

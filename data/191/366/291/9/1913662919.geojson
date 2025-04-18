@@ -2,16 +2,17 @@
   "id": 1913662919,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1985-01-01",
-    "date:cessation_upper": "1985-12-31",
-    "date:inception_lower": "1985-01-01",
-    "date:inception_upper": "1985-12-31",
-    "edtf:cessation": "1985~",
-    "edtf:inception": "1985~",
-    "geom:area": 2.4750474575706356e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1980-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980~",
+    "edtf:inception": "1980~",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
+    "geom:latitude": 37.61799,
+    "geom:longitude": -122.370943,
+    "iso:country": "US",
     "millsfield:airline_id": [
       1159285413
     ],
@@ -43,18 +44,21 @@
     "sfomuseum:classification_id": 129,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Transfer from San Francisco International Airport",
-    "sfomuseum:date": "c. 1985",
+    "sfomuseum:date": "c. 1980",
     "sfomuseum:date_acquired": "2011-06-21",
-    "sfomuseum:daterange_end": "1990-12-31",
-    "sfomuseum:daterange_start": "1980-01-01",
+    "sfomuseum:daterange_end": "1985-12-31",
+    "sfomuseum:daterange_start": "1975-01-01",
     "sfomuseum:description": "Black and white photograph depicting United Airlines employee wiping airline information television monitor with cloth, San Francisco International Airport (SFO); employee wearing jumpsuit with worn vintage United shield symbol on back; photograph by Hal Randall; original identification number 75-106-A-13, 01986.",
     "sfomuseum:dimensions": "5 x 7 inches (12.7 x 17.8 cm)",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 114843,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , c. 1985.",
+    "sfomuseum:publication": ": , c. 1980.",
     "sfomuseum:subcategory": "Print, Photograph",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102527513
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -63,16 +67,18 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      554784711,
+      102085387
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1713252584,
     "wof:depicts": [
       1159285413,
       102527513,
       1159288779
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -88,10 +94,30 @@
         "object_id": 1913662919,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913662919,
+        "locality_id": 85922583,
+        "object_id": 1913662919,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1913662919,
+        "object_id": 1913662919,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1913662919,
-    "wof:lastmodified": 1716579572,
+    "wof:lastmodified": 1744961542,
     "wof:name": "photograph: San Francisco International Airport (SFO), United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -103,10 +129,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -122.370943,
+    37.61799,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

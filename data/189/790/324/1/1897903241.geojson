@@ -8,11 +8,15 @@
     "date:inception_upper": "1955-12-31",
     "edtf:cessation": "1955",
     "edtf:inception": "1955",
-    "geom:area": 0.0000035075038730271646,
-    "geom:bbox": "-122.375271,37.618277,-122.372396,37.620503",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
-    "georef:depictions": {},
+    "geom:area": 0,
+    "geom:bbox": "15.976218,45.806026,15.976218,45.806026",
+    "geom:latitude": 45.806026,
+    "geom:longitude": 15.976218,
+    "georef:depictions": {
+      "location": [
+        101751659
+      ]
+    },
     "millsfield:airline_id": [
       1159284989
     ],
@@ -57,16 +61,28 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      102191581,
+      85633229,
+      101751659,
+      85684811
     ],
     "wof:country": "XY",
     "wof:created": 1712906991,
     "wof:depicts": [
-      1159286839,
-      1159284989
+      1159284989,
+      1159286839
     ],
-    "wof:geomhash": "5fe5ecf00bc1ee9c6b86044c0102c278",
+    "wof:geomhash": "06f167989c5cb788c55d2386c7df2af9",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633229,
+        "custom_id": 1897903241,
+        "locality_id": 101751659,
+        "object_id": 1897903241,
+        "region_id": 85684811
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -84,23 +100,25 @@
       }
     ],
     "wof:id": 1897903241,
-    "wof:lastmodified": 1744933716,
+    "wof:lastmodified": 1744935008,
     "wof:name": "slide: Pan American World Airways, Zagreb",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "object"
     ],
-    "wof:references": [],
+    "wof:references": [
+      101751659
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37527132034302,
-    37.61827669585204,
-    -122.37239599227904,
-    37.620503205877995
+    15.976218,
+    45.806026,
+    15.976218,
+    45.806026
   ],
-  "geometry": {"coordinates":[[[-122.37527132034302,37.61904153505861],[-122.37344741821288,37.61827669585204],[-122.37239599227904,37.61973838170797],[-122.37432718276976,37.620503205877995],[-122.37527132034302,37.61904153505861]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[15.976218,45.806026],[15.976218,45.806026]],"type":"MultiPoint"}
 }

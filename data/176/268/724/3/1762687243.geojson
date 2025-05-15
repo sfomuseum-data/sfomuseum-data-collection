@@ -9,9 +9,14 @@
     "edtf:cessation": "194X",
     "edtf:inception": "194X",
     "geom:area": 0,
-    "geom:bbox": "13.518116,52.385085,13.518116,52.385085",
-    "geom:latitude": 52.385085,
-    "geom:longitude": 13.518116,
+    "geom:bbox": "13.407032,52.524932,13.407032,52.524932",
+    "geom:latitude": 52.524932,
+    "geom:longitude": 13.407032,
+    "georef:depictions": {
+      "location": [
+        101909779
+      ]
+    },
     "iso:country": "DE",
     "millsfield:aircraft_id": [
       1159290953
@@ -69,7 +74,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1940s.",
     "sfomuseum:subcategory": "Postcard",
-    "src:geom": "sfomuseum#derived",
+    "src:geom": "sfomuseum#georeference",
     "src:geom_derived_from": [
       102549025
     ],
@@ -82,24 +87,32 @@
       85922583,
       85688637,
       1159160869,
-      102549025,
       102191581,
       85633111,
-      102063913,
-      101756499,
-      85682553
+      1377694153,
+      101909779,
+      85682499
     ],
     "wof:country": "DE",
     "wof:created": 1641341901,
     "wof:depicts": [
+      1159294129,
+      1159288215,
       1159284711,
       102549025,
-      1159290953,
-      1159294129,
-      1159288215
+      1159290953
     ],
-    "wof:geomhash": "cef3feab75a86bf318e6ea764a35e1a3",
+    "wof:geomhash": "3a6b807c3f0fd174846f633d67240699",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "custom_id": 1762687243,
+        "localadmin_id": 1377694153,
+        "locality_id": 101909779,
+        "object_id": 1762687243,
+        "region_id": 85682499
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -114,35 +127,28 @@
         "object_id": 1762687243,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102549025,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063913,
-        "custom_id": 1762687243,
-        "locality_id": 101756499,
-        "object_id": 1762687243,
-        "region_id": 85682553
       }
     ],
     "wof:id": 1762687243,
-    "wof:lastmodified": 1716579582,
+    "wof:lastmodified": 1747347166,
     "wof:name": "postcard: Lufthansa, Ilyushin Il-14, Berlin airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "object"
     ],
+    "wof:references": [
+      101909779
+    ],
     "wof:repo": "sfomuseum-data-collection",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    13.518116,
-    52.385085,
-    13.518116,
-    52.385085
+    13.407032,
+    52.524932,
+    13.407032,
+    52.524932
   ],
-  "geometry": {"coordinates":[[13.518116,52.385085]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[13.407032,52.524932],[13.407032,52.524932]],"type":"MultiPoint"}
 }

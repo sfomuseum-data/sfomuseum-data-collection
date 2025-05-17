@@ -20,7 +20,7 @@
       1159283597
     ],
     "millsfield:airport_id": [
-      102555091
+      -1
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
@@ -96,26 +96,14 @@
     "wof:country": "CA",
     "wof:created": 1641341830,
     "wof:depicts": [
-      1159283597,
       102555091,
       1159288851,
       1159289653,
-      1159293593
+      1159293593,
+      1159283597
     ],
     "wof:geomhash": "6931d010096d09ff39f85883ce327551",
     "wof:hierarchy": [
-      {
-        "campus_id": 102555091,
-        "continent_id": 102191575,
-        "country_id": 85633041,
-        "county_id": 890456343,
-        "custom_id": 1762687045,
-        "locality_id": 101735893,
-        "microhood_id": 1108905413,
-        "neighbourhood_id": 85895633,
-        "object_id": 1762687045,
-        "region_id": 85682057
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -142,10 +130,22 @@
         "neighbourhood_id": 85895633,
         "object_id": 1762687045,
         "region_id": 85682057
+      },
+      {
+        "campus_id": 102555091,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890456343,
+        "custom_id": 1762687045,
+        "locality_id": 101735893,
+        "microhood_id": 1108905413,
+        "neighbourhood_id": 85895633,
+        "object_id": 1762687045,
+        "region_id": 85682057
       }
     ],
     "wof:id": 1762687045,
-    "wof:lastmodified": 1716579582,
+    "wof:lastmodified": 1747467033,
     "wof:name": "postcard: Air Canada, Boeing 707, Toronto International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

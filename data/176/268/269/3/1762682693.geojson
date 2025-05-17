@@ -14,7 +14,7 @@
     "geom:longitude": -79.628342,
     "iso:country": "CA",
     "millsfield:airport_id": [
-      102555091
+      -1
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
@@ -84,6 +84,18 @@
     "wof:geomhash": "6931d010096d09ff39f85883ce327551",
     "wof:hierarchy": [
       {
+        "campus_id": 102555091,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890456343,
+        "custom_id": 1762682693,
+        "locality_id": 101735893,
+        "microhood_id": 1108905413,
+        "neighbourhood_id": 85895633,
+        "object_id": 1762682693,
+        "region_id": 85682057
+      },
+      {
         "building_id": -1,
         "campus_id": 102527513,
         "collection_id": 1159162825,
@@ -109,22 +121,10 @@
         "neighbourhood_id": 85895633,
         "object_id": 1762682693,
         "region_id": 85682057
-      },
-      {
-        "campus_id": 102555091,
-        "continent_id": 102191575,
-        "country_id": 85633041,
-        "county_id": 890456343,
-        "custom_id": 1762682693,
-        "locality_id": 101735893,
-        "microhood_id": 1108905413,
-        "neighbourhood_id": 85895633,
-        "object_id": 1762682693,
-        "region_id": 85682057
       }
     ],
     "wof:id": 1762682693,
-    "wof:lastmodified": 1716579579,
+    "wof:lastmodified": 1747467045,
     "wof:name": "postcard: Toronto International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

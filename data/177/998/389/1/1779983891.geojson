@@ -28,9 +28,14 @@
     ],
     "millsfield:images_colors": [
       {
-        "hex": "#a9a8a7",
+        "hex": "#808080",
+        "name": "grey",
+        "reference": "css4"
+      },
+      {
+        "hex": "#b9b7b6",
         "name": "vibrant",
-        "reference": "#a9a8a7"
+        "reference": "#b9b7b6"
       },
       {
         "hex": "#7a7673",
@@ -38,29 +43,9 @@
         "reference": "#7a7673"
       },
       {
-        "hex": "#c0c0c0",
-        "name": "silver",
+        "hex": "#a9a9a9",
+        "name": "darkgrey",
         "reference": "css4"
-      },
-      {
-        "hex": "#b4b1b0",
-        "name": "marekm4",
-        "reference": "b4b1b0"
-      },
-      {
-        "hex": "#979aaa",
-        "name": "Manatee",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#b0b7c6",
-        "name": "Cadet Blue",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#414a4c",
-        "name": "Outer Space",
-        "reference": "crayola"
       },
       {
         "hex": "#a6a29a",
@@ -73,24 +58,14 @@
         "reference": "#b0adad"
       },
       {
-        "hex": "#b9b7b6",
-        "name": "vibrant",
-        "reference": "#b9b7b6"
-      },
-      {
-        "hex": "#808080",
-        "name": "grey",
-        "reference": "css4"
-      },
-      {
         "hex": "#4f4e4e",
         "name": "marekm4",
         "reference": "4f4e4e"
       },
       {
-        "hex": "#2f4f4f",
-        "name": "darkslategrey",
-        "reference": "css4"
+        "hex": "#414a4c",
+        "name": "Outer Space",
+        "reference": "crayola"
       },
       {
         "hex": "#757575",
@@ -98,8 +73,33 @@
         "reference": "crayola"
       },
       {
-        "hex": "#a9a9a9",
-        "name": "darkgrey",
+        "hex": "#c0c0c0",
+        "name": "silver",
+        "reference": "css4"
+      },
+      {
+        "hex": "#b0b7c6",
+        "name": "Cadet Blue",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#a9a8a7",
+        "name": "vibrant",
+        "reference": "#a9a8a7"
+      },
+      {
+        "hex": "#979aaa",
+        "name": "Manatee",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#b4b1b0",
+        "name": "marekm4",
+        "reference": "b4b1b0"
+      },
+      {
+        "hex": "#2f4f4f",
+        "name": "darkslategrey",
         "reference": "css4"
       }
     ],
@@ -170,7 +170,7 @@
       }
     ],
     "wof:id": 1779983891,
-    "wof:lastmodified": 1749541150,
+    "wof:lastmodified": 1749628159,
     "wof:name": "coffee cup: Western Airlines, “60th Anniversary Shield” pattern",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

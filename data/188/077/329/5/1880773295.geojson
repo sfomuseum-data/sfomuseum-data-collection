@@ -8,7 +8,7 @@
     "date:inception_upper": "1984-12-31",
     "edtf:cessation": "1984",
     "edtf:inception": "1984",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -32,6 +32,11 @@
           "reference": "crayola"
         },
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -42,27 +47,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#6e5160",
           "name": "Eggplant",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -72,14 +62,19 @@
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#141317",
-          "name": "#141317",
-          "reference": "marekm4"
-        },
         {
           "hex": "#84827d",
           "name": "#84827d",
@@ -91,13 +86,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a1a09b",
-          "name": "#a1a09b",
+          "hex": "#141317",
+          "name": "#141317",
           "reference": "marekm4"
         },
         {
           "hex": "#9c9b95",
           "name": "#9c9b95",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a1a09b",
+          "name": "#a1a09b",
           "reference": "marekm4"
         }
       ]
@@ -162,7 +162,7 @@
       }
     ],
     "wof:id": 1880773295,
-    "wof:lastmodified": 1749753675,
+    "wof:lastmodified": 1749800869,
     "wof:name": "flight attendant jacket (male): Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

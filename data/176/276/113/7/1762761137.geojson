@@ -8,7 +8,7 @@
     "date:inception_upper": "1977-12-31",
     "edtf:cessation": "1977",
     "edtf:inception": "1977",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -29,13 +29,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -49,13 +54,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -63,6 +63,11 @@
         {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -74,17 +79,12 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9a8875",
-          "name": "#9a8875",
+          "hex": "#8a7468",
+          "name": "#8a7468",
           "reference": "marekm4"
         },
         {
@@ -93,8 +93,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#aca396",
-          "name": "#aca396",
+          "hex": "#9a8875",
+          "name": "#9a8875",
           "reference": "marekm4"
         },
         {
@@ -103,8 +103,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#8a7468",
-          "name": "#8a7468",
+          "hex": "#aca396",
+          "name": "#aca396",
           "reference": "marekm4"
         }
       ]
@@ -181,7 +181,7 @@
       }
     ],
     "wof:id": 1762761137,
-    "wof:lastmodified": 1749753678,
+    "wof:lastmodified": 1749800817,
     "wof:name": "negative: American Airlines, Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

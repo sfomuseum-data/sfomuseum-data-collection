@@ -8,7 +8,7 @@
     "date:inception_upper": "1979-12-31",
     "edtf:cessation": "1979",
     "edtf:inception": "1979",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -32,13 +32,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#87a96b",
+          "name": "Asparagus",
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -47,13 +47,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#87a96b",
-          "name": "Asparagus",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -62,8 +57,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -73,6 +73,16 @@
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#778899",
           "name": "lightslategrey",
@@ -84,45 +94,60 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
           "reference": "css4"
         },
         {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#6c8d56",
+          "name": "#6c8d56",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#71955a",
+          "name": "#71955a",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b1b1b3",
+          "name": "#b1b1b3",
+          "reference": "marekm4"
+        },
         {
           "hex": "#6a8f54",
           "name": "#6a8f54",
           "reference": "marekm4"
         },
         {
-          "hex": "#424b38",
-          "name": "#424b38",
+          "hex": "#b2b2b4",
+          "name": "#b2b2b4",
           "reference": "marekm4"
         },
         {
-          "hex": "#b2b2b4",
-          "name": "#b2b2b4",
+          "hex": "#454d3b",
+          "name": "#454d3b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#879d6b",
+          "name": "#879d6b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#3e4d30",
+          "name": "#3e4d30",
           "reference": "marekm4"
         },
         {
@@ -136,23 +161,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#3e4d30",
-          "name": "#3e4d30",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b1b1b3",
-          "name": "#b1b1b3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#71955a",
-          "name": "#71955a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#879d6b",
-          "name": "#879d6b",
+          "hex": "#424b38",
+          "name": "#424b38",
           "reference": "marekm4"
         },
         {
@@ -163,16 +173,6 @@
         {
           "hex": "#b5b5b7",
           "name": "#b5b5b7",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#454d3b",
-          "name": "#454d3b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#6c8d56",
-          "name": "#6c8d56",
           "reference": "marekm4"
         }
       ]
@@ -252,7 +252,7 @@
       }
     ],
     "wof:id": 1880318913,
-    "wof:lastmodified": 1749753673,
+    "wof:lastmodified": 1749800866,
     "wof:name": "model airplane: Seversky SEV-S2 Racer",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

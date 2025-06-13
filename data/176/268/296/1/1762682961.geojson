@@ -8,7 +8,7 @@
     "date:inception_upper": "1985-12-31",
     "edtf:cessation": "1985",
     "edtf:inception": "1985",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -31,8 +31,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -46,22 +46,27 @@
           "reference": "crayola"
         },
         {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#fffaf0",
+          "name": "floralwhite",
+          "reference": "css4"
+        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -73,37 +78,27 @@
           "reference": "css4"
         },
         {
-          "hex": "#fdf5e6",
-          "name": "oldlace",
-          "reference": "css4"
-        },
-        {
-          "hex": "#fffaf0",
-          "name": "floralwhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
           "hex": "#d2b48c",
           "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#fdf5e6",
+          "name": "oldlace",
           "reference": "css4"
         },
         {
           "hex": "#800000",
           "name": "maroon",
           "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#181935",
-          "name": "#181935",
-          "reference": "marekm4"
-        },
         {
           "hex": "#ba2615",
           "name": "#ba2615",
@@ -112,6 +107,11 @@
         {
           "hex": "#fcfbee",
           "name": "#fcfbee",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#181935",
+          "name": "#181935",
           "reference": "marekm4"
         }
       ]
@@ -182,7 +182,7 @@
       }
     ],
     "wof:id": 1762682961,
-    "wof:lastmodified": 1749753679,
+    "wof:lastmodified": 1749800807,
     "wof:name": "timetable: Braniff Inc.",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

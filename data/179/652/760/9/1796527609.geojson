@@ -8,7 +8,7 @@
     "date:inception_upper": "1979-12-31",
     "edtf:cessation": "197X",
     "edtf:inception": "197X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -37,6 +37,11 @@
           "reference": "crayola"
         },
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -50,14 +55,29 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -67,47 +87,27 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b6b6b7",
-          "name": "#b6b6b7",
-          "reference": "marekm4"
-        },
         {
           "hex": "#515051",
           "name": "#515051",
           "reference": "marekm4"
         },
         {
-          "hex": "#ababac",
-          "name": "#ababac",
+          "hex": "#b6b6b7",
+          "name": "#b6b6b7",
           "reference": "marekm4"
         },
         {
           "hex": "#504e4e",
           "name": "#504e4e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ababac",
+          "name": "#ababac",
           "reference": "marekm4"
         }
       ]
@@ -172,7 +172,7 @@
       }
     ],
     "wof:id": 1796527609,
-    "wof:lastmodified": 1749753676,
+    "wof:lastmodified": 1749800855,
     "wof:name": "fork: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

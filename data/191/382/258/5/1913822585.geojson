@@ -8,7 +8,7 @@
     "date:inception_upper": "1928-12-31",
     "edtf:cessation": "1928",
     "edtf:inception": "1928",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -25,13 +25,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -43,14 +48,34 @@
           "hex": "#deaa88",
           "name": "Tumbleweed",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
+        },
         {
           "hex": "#d2b48c",
           "name": "tan",
@@ -60,44 +85,9 @@
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#9a4735",
-          "name": "#9a4735",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#55382c",
-          "name": "#55382c",
-          "reference": "marekm4"
-        },
         {
           "hex": "#cdba95",
           "name": "#cdba95",
@@ -106,6 +96,16 @@
         {
           "hex": "#bba377",
           "name": "#bba377",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9a4735",
+          "name": "#9a4735",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#55382c",
+          "name": "#55382c",
           "reference": "marekm4"
         }
       ]
@@ -168,7 +168,7 @@
       }
     ],
     "wof:id": 1913822585,
-    "wof:lastmodified": 1749753680,
+    "wof:lastmodified": 1749800877,
     "wof:name": "airmail flight cover: Lindbergh airmail flight, CAM-2, Chicago to St. Louis route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

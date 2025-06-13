@@ -8,7 +8,7 @@
     "date:inception_upper": "1975-12-31",
     "edtf:cessation": "1975~",
     "edtf:inception": "1975~",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -28,8 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
+        },
+        {
           "hex": "#a8e4a0",
           "name": "Granny Smith Apple",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
@@ -43,48 +88,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#eceabe",
-          "name": "Spring Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6dae81",
-          "name": "Forest Green",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -93,18 +98,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#eceabe",
+          "name": "Spring Green",
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         }
       ],
@@ -115,28 +115,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
         },
         {
-          "hex": "#ffe4c4",
-          "name": "bisque",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
-          "hex": "#808000",
-          "name": "olive",
-          "reference": "css4"
-        },
-        {
-          "hex": "#e6e6fa",
-          "name": "lavender",
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
           "reference": "css4"
         },
         {
@@ -145,8 +135,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -160,21 +150,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#f5deb3",
           "name": "wheat",
           "reference": "css4"
@@ -185,12 +160,42 @@
           "reference": "css4"
         },
         {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808000",
+          "name": "olive",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#ffe4c4",
+          "name": "bisque",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#8c7121",
+          "name": "#8c7121",
+          "reference": "marekm4"
+        },
         {
           "hex": "#534627",
           "name": "#534627",
@@ -199,21 +204,6 @@
         {
           "hex": "#eee7cf",
           "name": "#eee7cf",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#8c7121",
-          "name": "#8c7121",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#f0e8cc",
-          "name": "#f0e8cc",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3f453b",
-          "name": "#3f453b",
           "reference": "marekm4"
         },
         {
@@ -227,11 +217,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#8e7224",
-          "name": "#8e7224",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#77a09d",
           "name": "#77a09d",
           "reference": "marekm4"
@@ -239,6 +224,21 @@
         {
           "hex": "#a59457",
           "name": "#a59457",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#8e7224",
+          "name": "#8e7224",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#3f453b",
+          "name": "#3f453b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#f0e8cc",
+          "name": "#f0e8cc",
           "reference": "marekm4"
         }
       ]
@@ -312,7 +312,7 @@
       }
     ],
     "wof:id": 1779696867,
-    "wof:lastmodified": 1749753683,
+    "wof:lastmodified": 1749800844,
     "wof:name": "menu cover: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

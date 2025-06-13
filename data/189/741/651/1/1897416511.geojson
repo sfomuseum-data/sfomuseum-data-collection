@@ -8,7 +8,7 @@
     "date:inception_upper": "1979-12-31",
     "edtf:cessation": "197X",
     "edtf:inception": "197X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#9aceeb",
+          "name": "Cornflower",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
@@ -37,25 +42,20 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9aceeb",
-          "name": "Cornflower",
-          "reference": "crayola"
-        },
-        {
           "hex": "#9f8170",
           "name": "Beaver",
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#87ceeb",
-          "name": "skyblue",
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
           "reference": "css4"
         },
         {
@@ -64,13 +64,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
         },
         {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
+          "hex": "#87ceeb",
+          "name": "skyblue",
           "reference": "css4"
         },
         {
@@ -87,32 +92,27 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#b0c4de",
-          "name": "lightsteelblue",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#504d43",
-          "name": "#504d43",
-          "reference": "marekm4"
-        },
         {
           "hex": "#68add7",
           "name": "#68add7",
           "reference": "marekm4"
         },
         {
-          "hex": "#aacbde",
-          "name": "#aacbde",
+          "hex": "#504d43",
+          "name": "#504d43",
           "reference": "marekm4"
         },
         {
           "hex": "#c3ab64",
           "name": "#c3ab64",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aacbde",
+          "name": "#aacbde",
           "reference": "marekm4"
         }
       ]
@@ -178,7 +178,7 @@
       }
     ],
     "wof:id": 1897416511,
-    "wof:lastmodified": 1749753675,
+    "wof:lastmodified": 1749800872,
     "wof:name": "postcard: Boeing 727-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -8,7 +8,7 @@
     "date:inception_upper": "1982-12-31",
     "edtf:cessation": "1982",
     "edtf:inception": "1982",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -26,13 +26,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -46,18 +56,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
           "reference": "crayola"
         }
       ],
@@ -65,6 +65,16 @@
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
@@ -78,25 +88,15 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f4f0e8",
-          "name": "#f4f0e8",
+          "hex": "#26241f",
+          "name": "#26241f",
           "reference": "marekm4"
         },
         {
@@ -105,8 +105,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#26241f",
-          "name": "#26241f",
+          "hex": "#f4f0e8",
+          "name": "#f4f0e8",
           "reference": "marekm4"
         }
       ]
@@ -176,7 +176,7 @@
       }
     ],
     "wof:id": 1762681439,
-    "wof:lastmodified": 1749753678,
+    "wof:lastmodified": 1749800805,
     "wof:name": "timetable: WestAir Commuter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

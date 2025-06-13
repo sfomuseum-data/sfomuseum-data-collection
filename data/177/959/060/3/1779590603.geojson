@@ -8,7 +8,7 @@
     "date:inception_upper": "1969-12-31",
     "edtf:cessation": "196X",
     "edtf:inception": "196X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         },
         {
@@ -41,23 +46,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -68,28 +68,13 @@
       ],
       "css4": [
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -98,35 +83,50 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#34291c",
-          "name": "#34291c",
-          "reference": "marekm4"
-        },
         {
           "hex": "#a9a9a9",
           "name": "#a9a9a9",
           "reference": "marekm4"
         },
         {
-          "hex": "#b8975e",
-          "name": "#b8975e",
+          "hex": "#34291c",
+          "name": "#34291c",
           "reference": "marekm4"
         },
         {
           "hex": "#8f7040",
           "name": "#8f7040",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b8975e",
+          "name": "#b8975e",
           "reference": "marekm4"
         }
       ]
@@ -193,7 +193,7 @@
       }
     ],
     "wof:id": 1779590603,
-    "wof:lastmodified": 1749753683,
+    "wof:lastmodified": 1749800843,
     "wof:name": "flight officer cap badge: Air France",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

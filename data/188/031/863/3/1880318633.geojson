@@ -8,7 +8,7 @@
     "date:inception_upper": "2000-01-31",
     "edtf:cessation": "2000-04",
     "edtf:inception": "2000-01",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -43,18 +43,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#4a646c",
-          "name": "Deep Space Sparkle",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
@@ -63,17 +63,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -85,8 +80,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#008080",
+          "name": "teal",
           "reference": "css4"
         },
         {
@@ -105,35 +100,85 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#4682b4",
           "name": "steelblue",
           "reference": "css4"
         },
         {
-          "hex": "#008080",
-          "name": "teal",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
           "hex": "#6495ed",
           "name": "cornflowerblue",
           "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
+          "hex": "#4a97b7",
+          "name": "#4a97b7",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4e9ac3",
+          "name": "#4e9ac3",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#0e63a3",
           "name": "#0e63a3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4d9aba",
+          "name": "#4d9aba",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#365569",
+          "name": "#365569",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bac0b5",
+          "name": "#bac0b5",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bebfc3",
+          "name": "#bebfc3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#6b98af",
+          "name": "#6b98af",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#0e65a5",
+          "name": "#0e65a5",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#146099",
+          "name": "#146099",
           "reference": "marekm4"
         },
         {
@@ -147,53 +192,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#0e65a5",
-          "name": "#0e65a5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4a97b7",
-          "name": "#4a97b7",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#bebfc3",
-          "name": "#bebfc3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4e9ac3",
-          "name": "#4e9ac3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#146099",
-          "name": "#146099",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#bac0b5",
-          "name": "#bac0b5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#6b98af",
-          "name": "#6b98af",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#365569",
-          "name": "#365569",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#bfc1c4",
           "name": "#bfc1c4",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4d9aba",
-          "name": "#4d9aba",
           "reference": "marekm4"
         }
       ]
@@ -279,7 +279,7 @@
       }
     ],
     "wof:id": 1880318633,
-    "wof:lastmodified": 1749753673,
+    "wof:lastmodified": 1749800865,
     "wof:name": "model airplane: Air Tahiti Nui",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -8,7 +8,7 @@
     "date:inception_upper": "1933-10-20",
     "edtf:cessation": "1933-10-20",
     "edtf:inception": "1933-10-20",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -29,8 +29,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#87a96b",
+          "name": "Asparagus",
           "reference": "crayola"
         },
         {
@@ -39,13 +54,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#e7c697",
-          "name": "Gold",
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
-          "hex": "#87a96b",
-          "name": "Asparagus",
+          "hex": "#e7c697",
+          "name": "Gold",
           "reference": "crayola"
         },
         {
@@ -59,55 +74,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
           "hex": "#edd19c",
           "name": "Maize",
           "reference": "crayola"
         },
         {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
+          "hex": "#eee8aa",
+          "name": "palegoldenrod",
+          "reference": "css4"
+        },
+        {
           "hex": "#f5deb3",
           "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#deb887",
-          "name": "burlywood",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
           "reference": "css4"
         },
         {
@@ -121,8 +106,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
@@ -131,35 +116,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#eee8aa",
-          "name": "palegoldenrod",
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#deb887",
+          "name": "burlywood",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4a391c",
-          "name": "#4a391c",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#ece4ce",
           "name": "#ece4ce",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3f3118",
-          "name": "#3f3118",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a59d72",
-          "name": "#a59d72",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#473516",
-          "name": "#473516",
           "reference": "marekm4"
         },
         {
@@ -168,8 +148,28 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a19d6f",
-          "name": "#a19d6f",
+          "hex": "#3f3118",
+          "name": "#3f3118",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#679457",
+          "name": "#679457",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#473516",
+          "name": "#473516",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a59d72",
+          "name": "#a59d72",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4a391c",
+          "name": "#4a391c",
           "reference": "marekm4"
         },
         {
@@ -178,8 +178,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#679457",
-          "name": "#679457",
+          "hex": "#a19d6f",
+          "name": "#a19d6f",
           "reference": "marekm4"
         },
         {
@@ -261,7 +261,7 @@
       }
     ],
     "wof:id": 1913795461,
-    "wof:lastmodified": 1749753680,
+    "wof:lastmodified": 1749800877,
     "wof:name": "correspondence: Harold M. Bixby to Debby Bixby",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

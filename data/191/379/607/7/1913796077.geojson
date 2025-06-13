@@ -8,7 +8,7 @@
     "date:inception_upper": "1947-07-22",
     "edtf:cessation": "1947-07-22",
     "edtf:inception": "1947-07-22",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -28,13 +28,33 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
           "reference": "crayola"
         },
         {
           "hex": "#eceabe",
           "name": "Spring Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -46,32 +66,12 @@
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -80,23 +80,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#eee8aa",
-          "name": "palegoldenrod",
-          "reference": "css4"
-        },
-        {
           "hex": "#f5deb3",
           "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -105,20 +90,30 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#eee8aa",
+          "name": "palegoldenrod",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#374c60",
-          "name": "#374c60",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#ebe0c0",
-          "name": "#ebe0c0",
+          "hex": "#374b61",
+          "name": "#374b61",
           "reference": "marekm4"
         },
         {
@@ -127,18 +122,23 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#374b61",
-          "name": "#374b61",
+          "hex": "#394b5e",
+          "name": "#394b5e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ebe0c0",
+          "name": "#ebe0c0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#374c60",
+          "name": "#374c60",
           "reference": "marekm4"
         },
         {
           "hex": "#ebe0c3",
           "name": "#ebe0c3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#394b5e",
-          "name": "#394b5e",
           "reference": "marekm4"
         }
       ]
@@ -203,7 +203,7 @@
       }
     ],
     "wof:id": 1913796077,
-    "wof:lastmodified": 1749753681,
+    "wof:lastmodified": 1749800878,
     "wof:name": "correspondence: Harold M. Bixby to Debby Bixby",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

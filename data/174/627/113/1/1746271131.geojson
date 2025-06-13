@@ -8,7 +8,7 @@
     "date:inception_upper": "2012-12-31",
     "edtf:cessation": "2012",
     "edtf:inception": "2012",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -27,6 +27,21 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -37,40 +52,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -79,13 +69,23 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         },
         {
@@ -96,28 +96,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#565457",
-          "name": "#565457",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#686b6e",
-          "name": "#686b6e",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#7a7d83",
-          "name": "#7a7d83",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#7e7d82",
           "name": "#7e7d82",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#87847b",
-          "name": "#87847b",
           "reference": "marekm4"
         },
         {
@@ -126,8 +106,28 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#565457",
+          "name": "#565457",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#a09e9c",
           "name": "#a09e9c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#686b6e",
+          "name": "#686b6e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#87847b",
+          "name": "#87847b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#7a7d83",
+          "name": "#7a7d83",
           "reference": "marekm4"
         }
       ]
@@ -192,7 +192,7 @@
       }
     ],
     "wof:id": 1746271131,
-    "wof:lastmodified": 1749753674,
+    "wof:lastmodified": 1749800799,
     "wof:name": "side plate: EVA Air, Premium Laurel class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

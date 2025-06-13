@@ -8,7 +8,7 @@
     "date:inception_upper": "1956-12-31",
     "edtf:cessation": "1956",
     "edtf:inception": "1956",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -37,23 +42,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         }
       ],
@@ -64,6 +64,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
@@ -71,11 +76,6 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
           "reference": "css4"
         },
         {
@@ -169,7 +169,7 @@
       }
     ],
     "wof:id": 1780332791,
-    "wof:lastmodified": 1749753674,
+    "wof:lastmodified": 1749800851,
     "wof:name": "service pin: Southwest Airways, 10 year",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -34,8 +34,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
@@ -44,13 +49,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#7366bd",
           "name": "Blue Violet",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -62,19 +72,14 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -94,14 +99,14 @@
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#708090",
-          "name": "slategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#5f76a4",
+          "name": "#5f76a4",
+          "reference": "marekm4"
+        },
         {
           "hex": "#a4a9b8",
           "name": "#a4a9b8",
@@ -110,11 +115,6 @@
         {
           "hex": "#7389ae",
           "name": "#7389ae",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#5f76a4",
-          "name": "#5f76a4",
           "reference": "marekm4"
         },
         {
@@ -224,7 +224,7 @@
       }
     ],
     "wof:id": 1762761409,
-    "wof:lastmodified": 1749753679,
+    "wof:lastmodified": 1749800817,
     "wof:name": "slide: AECA Carga, Boeing 727-100, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

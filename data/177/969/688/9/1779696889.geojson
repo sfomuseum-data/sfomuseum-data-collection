@@ -8,7 +8,7 @@
     "date:inception_upper": "1965-12-31",
     "edtf:cessation": "1965~",
     "edtf:inception": "1965~",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -27,6 +27,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
           "hex": "#bab86c",
           "name": "Olive Green",
           "reference": "crayola"
@@ -37,18 +42,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
           "hex": "#ffffff",
           "name": "White",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         }
       ],
@@ -64,13 +64,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#fdf5e6",
-          "name": "oldlace",
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#fdf5e6",
+          "name": "oldlace",
           "reference": "css4"
         },
         {
@@ -82,19 +87,9 @@
           "hex": "#faf0e6",
           "name": "linen",
           "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#d2c465",
-          "name": "#d2c465",
-          "reference": "marekm4"
-        },
         {
           "hex": "#f7f2e2",
           "name": "#f7f2e2",
@@ -103,6 +98,11 @@
         {
           "hex": "#f6f2df",
           "name": "#f6f2df",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#d2c465",
+          "name": "#d2c465",
           "reference": "marekm4"
         }
       ]
@@ -177,7 +177,7 @@
       }
     ],
     "wof:id": 1779696889,
-    "wof:lastmodified": 1749753683,
+    "wof:lastmodified": 1749800844,
     "wof:name": "menu: Pan American World Airways, Rainbow (economy) class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

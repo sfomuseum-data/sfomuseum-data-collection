@@ -8,7 +8,7 @@
     "date:inception_upper": "1999-12-31",
     "edtf:cessation": "199X",
     "edtf:inception": "199X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -29,8 +29,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -39,8 +39,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -59,13 +64,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         }
       ],
@@ -73,6 +73,11 @@
         {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
           "reference": "css4"
         },
         {
@@ -86,6 +91,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
@@ -96,35 +106,20 @@
           "reference": "css4"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#778899",
           "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#493633",
-          "name": "#493633",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#caccd1",
-          "name": "#caccd1",
+          "hex": "#912e32",
+          "name": "#912e32",
           "reference": "marekm4"
         },
         {
@@ -133,18 +128,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#912e32",
-          "name": "#912e32",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#963033",
-          "name": "#963033",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#473532",
-          "name": "#473532",
+          "hex": "#493633",
+          "name": "#493633",
           "reference": "marekm4"
         },
         {
@@ -153,8 +138,23 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#473532",
+          "name": "#473532",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#4c302e",
           "name": "#4c302e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#963033",
+          "name": "#963033",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#caccd1",
+          "name": "#caccd1",
           "reference": "marekm4"
         }
       ]
@@ -229,7 +229,7 @@
       }
     ],
     "wof:id": 1931107217,
-    "wof:lastmodified": 1749753677,
+    "wof:lastmodified": 1749800883,
     "wof:name": "model airplane: Mohawk Airlines Gas Light Service, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

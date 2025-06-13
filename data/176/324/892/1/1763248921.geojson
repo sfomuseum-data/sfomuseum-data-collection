@@ -8,7 +8,7 @@
     "date:inception_upper": "1983-12-31",
     "edtf:cessation": "1983",
     "edtf:inception": "1983",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
           "reference": "crayola"
         },
         {
@@ -37,13 +42,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         },
         {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -55,14 +60,39 @@
           "hex": "#cd9575",
           "name": "Antique Brass",
           "reference": "crayola"
-        },
-        {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
@@ -74,75 +104,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
           "hex": "#a52a2a",
           "name": "brown",
           "reference": "css4"
         },
         {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#cd853f",
-          "name": "peru",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#474238",
-          "name": "#474238",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a29262",
-          "name": "#a29262",
-          "reference": "marekm4"
-        },
         {
           "hex": "#3a322a",
           "name": "#3a322a",
           "reference": "marekm4"
         },
         {
-          "hex": "#e8e0d0",
-          "name": "#e8e0d0",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#e9e0d0",
-          "name": "#e9e0d0",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a83b30",
-          "name": "#a83b30",
+          "hex": "#b0231c",
+          "name": "#b0231c",
           "reference": "marekm4"
         },
         {
@@ -151,8 +131,28 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#b0231c",
-          "name": "#b0231c",
+          "hex": "#e9e0d0",
+          "name": "#e9e0d0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a29262",
+          "name": "#a29262",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#474238",
+          "name": "#474238",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a83b30",
+          "name": "#a83b30",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#e8e0d0",
+          "name": "#e8e0d0",
           "reference": "marekm4"
         }
       ]
@@ -225,7 +225,7 @@
       }
     ],
     "wof:id": 1763248921,
-    "wof:lastmodified": 1749753682,
+    "wof:lastmodified": 1749800835,
     "wof:name": "timetable: World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -8,7 +8,7 @@
     "date:inception_upper": "1979-12-31",
     "edtf:cessation": "197X",
     "edtf:inception": "197X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -31,6 +31,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -41,11 +46,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
@@ -53,13 +53,8 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -73,22 +68,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#a19fa0",
-          "name": "#a19fa0",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#484546",
-          "name": "#484546",
-          "reference": "marekm4"
-        },
         {
           "hex": "#9f9d9e",
           "name": "#9f9d9e",
@@ -97,6 +87,16 @@
         {
           "hex": "#545151",
           "name": "#545151",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a19fa0",
+          "name": "#a19fa0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#484546",
+          "name": "#484546",
           "reference": "marekm4"
         }
       ]
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1796472065,
-    "wof:lastmodified": 1749753676,
+    "wof:lastmodified": 1749800854,
     "wof:name": "spoon: Qantas Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

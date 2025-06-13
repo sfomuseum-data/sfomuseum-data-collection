@@ -8,7 +8,7 @@
     "date:inception_upper": "2014-12-31",
     "edtf:cessation": "2014~",
     "edtf:inception": "2014~",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -24,6 +24,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -31,11 +36,6 @@
         {
           "hex": "#979aaa",
           "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -51,16 +51,6 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
@@ -69,9 +59,24 @@
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#2c292b",
+          "name": "#2c292b",
+          "reference": "marekm4"
+        },
         {
           "hex": "#a3a19c",
           "name": "#a3a19c",
@@ -85,11 +90,6 @@
         {
           "hex": "#aaa8a4",
           "name": "#aaa8a4",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#2c292b",
-          "name": "#2c292b",
           "reference": "marekm4"
         }
       ]
@@ -162,7 +162,7 @@
       }
     ],
     "wof:id": 1880857895,
-    "wof:lastmodified": 1749753676,
+    "wof:lastmodified": 1749800870,
     "wof:name": "vest: San Francisco International Airport, SFO Wag Brigade",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

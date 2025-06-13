@@ -8,7 +8,7 @@
     "date:inception_upper": "1980-12-31",
     "edtf:cessation": "1980",
     "edtf:inception": "1980",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -26,23 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
           "hex": "#1ca9c9",
           "name": "Pacific Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#324ab2",
-          "name": "Violet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -51,25 +41,40 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#324ab2",
+          "name": "Violet Blue",
           "reference": "crayola"
         },
         {
           "hex": "#1164b4",
           "name": "Green Blue",
           "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
+        },
         {
           "hex": "#4682b4",
           "name": "steelblue",
           "reference": "css4"
         },
         {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -83,30 +88,20 @@
           "reference": "css4"
         },
         {
-          "hex": "#b0c4de",
-          "name": "lightsteelblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#191970",
           "name": "midnightblue",
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#483d8b",
+          "name": "darkslateblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#19213f",
-          "name": "#19213f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#d6dbdc",
-          "name": "#d6dbdc",
+          "hex": "#3e98cc",
+          "name": "#3e98cc",
           "reference": "marekm4"
         },
         {
@@ -115,8 +110,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#3e98cc",
-          "name": "#3e98cc",
+          "hex": "#d6dbdc",
+          "name": "#d6dbdc",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#19213f",
+          "name": "#19213f",
           "reference": "marekm4"
         }
       ]
@@ -186,7 +186,7 @@
       }
     ],
     "wof:id": 1762689845,
-    "wof:lastmodified": 1749753684,
+    "wof:lastmodified": 1749800819,
     "wof:name": "timetable: Braniff International",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

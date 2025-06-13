@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -25,13 +25,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
+        },
+        {
           "hex": "#7366bd",
           "name": "Blue Violet",
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
           "reference": "crayola"
         },
         {
@@ -45,8 +50,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#4a646c",
-          "name": "Deep Space Sparkle",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -55,13 +60,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#5d76cb",
-          "name": "Indigo",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -72,23 +72,13 @@
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -105,22 +95,47 @@
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#395264",
+          "name": "#395264",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#455d6c",
+          "name": "#455d6c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#3c576a",
+          "name": "#3c576a",
+          "reference": "marekm4"
+        },
         {
           "hex": "#6589a0",
           "name": "#6589a0",
           "reference": "marekm4"
         },
         {
-          "hex": "#b2b0af",
-          "name": "#b2b0af",
+          "hex": "#b3b1b0",
+          "name": "#b3b1b0",
           "reference": "marekm4"
         },
         {
-          "hex": "#395264",
-          "name": "#395264",
+          "hex": "#b2b0af",
+          "name": "#b2b0af",
           "reference": "marekm4"
         },
         {
@@ -131,21 +146,6 @@
         {
           "hex": "#56778e",
           "name": "#56778e",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3c576a",
-          "name": "#3c576a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#455d6c",
-          "name": "#455d6c",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b3b1b0",
-          "name": "#b3b1b0",
           "reference": "marekm4"
         },
         {
@@ -212,7 +212,7 @@
       }
     ],
     "wof:id": 1913928197,
-    "wof:lastmodified": 1749753680,
+    "wof:lastmodified": 1749800879,
     "wof:name": "stewardess jacket: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

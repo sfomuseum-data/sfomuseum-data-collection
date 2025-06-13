@@ -8,7 +8,7 @@
     "date:inception_upper": "1952-06-15",
     "edtf:cessation": "1952-06-15",
     "edtf:inception": "1952-06-15",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -31,6 +31,21 @@
           "reference": "crayola"
         },
         {
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9d81ba",
           "name": "Purple Mountain's Majesty",
           "reference": "crayola"
@@ -38,11 +53,6 @@
         {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -54,19 +64,19 @@
           "hex": "#fefe22",
           "name": "Laser Lemon",
           "reference": "crayola"
-        },
-        {
-          "hex": "#7366bd",
-          "name": "Blue Violet",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
         {
           "hex": "#778899",
           "name": "lightslategrey",
@@ -78,45 +88,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#deb887",
-          "name": "burlywood",
-          "reference": "css4"
-        },
-        {
-          "hex": "#ffd700",
-          "name": "gold",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         },
         {
           "hex": "#483d8b",
           "name": "darkslateblue",
           "reference": "css4"
+        },
+        {
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c0c1d1",
-          "name": "#c0c1d1",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#efd20d",
-          "name": "#efd20d",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#7c83ba",
           "name": "#7c83ba",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#222138",
+          "name": "#222138",
           "reference": "marekm4"
         },
         {
@@ -125,8 +120,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#222138",
-          "name": "#222138",
+          "hex": "#c0c1d1",
+          "name": "#c0c1d1",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#efd20d",
+          "name": "#efd20d",
           "reference": "marekm4"
         }
       ]
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1762696337,
-    "wof:lastmodified": 1749753682,
+    "wof:lastmodified": 1749800812,
     "wof:name": "timetable: Southern Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

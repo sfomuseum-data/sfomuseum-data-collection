@@ -8,7 +8,7 @@
     "date:inception_upper": "1968-12-31",
     "edtf:cessation": "1968",
     "edtf:inception": "1968",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -20,11 +20,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
           "hex": "#bab86c",
           "name": "Olive Green",
           "reference": "crayola"
@@ -35,8 +30,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#f8d568",
+          "name": "Orange Yellow",
           "reference": "crayola"
         },
         {
@@ -45,22 +45,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#f8d568",
-          "name": "Orange Yellow",
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
         {
           "hex": "#deb887",
           "name": "burlywood",
@@ -75,9 +65,24 @@
           "hex": "#bdb76b",
           "name": "darkkhaki",
           "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#dcc96b",
+          "name": "#dcc96b",
+          "reference": "marekm4"
+        },
         {
           "hex": "#342d11",
           "name": "#342d11",
@@ -86,11 +91,6 @@
         {
           "hex": "#e6e4d0",
           "name": "#e6e4d0",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#dcc96b",
-          "name": "#dcc96b",
           "reference": "marekm4"
         }
       ]
@@ -153,7 +153,7 @@
       }
     ],
     "wof:id": 1797194823,
-    "wof:lastmodified": 1749753676,
+    "wof:lastmodified": 1749800857,
     "wof:name": "vaccination certificate: World Health Organization, Sandra L. Herrmann",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -8,7 +8,7 @@
     "date:inception_upper": "1972-03-01",
     "edtf:cessation": "1972-03-01",
     "edtf:inception": "1972-03-01",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -31,6 +31,21 @@
           "reference": "crayola"
         },
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#efdecd",
           "name": "Almond",
           "reference": "crayola"
@@ -44,27 +59,12 @@
           "hex": "#efcdb8",
           "name": "Desert Sand",
           "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff0000",
-          "name": "red",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -73,8 +73,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#ff0000",
+          "name": "red",
           "reference": "css4"
         },
         {
@@ -83,18 +88,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#f5deb3",
+          "name": "wheat",
           "reference": "css4"
         },
         {
           "hex": "#b22222",
           "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
           "reference": "css4"
         },
         {
@@ -105,11 +105,6 @@
       ],
       "marekm4": [
         {
-          "hex": "#d50802",
-          "name": "#d50802",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#d4c9b3",
           "name": "#d4c9b3",
           "reference": "marekm4"
@@ -117,6 +112,11 @@
         {
           "hex": "#272212",
           "name": "#272212",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#d50802",
+          "name": "#d50802",
           "reference": "marekm4"
         }
       ]
@@ -186,7 +186,7 @@
       }
     ],
     "wof:id": 1762684159,
-    "wof:lastmodified": 1749753680,
+    "wof:lastmodified": 1749800809,
     "wof:name": "timetable: Western Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

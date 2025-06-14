@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -36,23 +41,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9f8170",
           "name": "Beaver",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#8a795d",
           "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -62,16 +62,6 @@
         }
       ],
       "css4": [
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
@@ -83,27 +73,32 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
-          "hex": "#800000",
-          "name": "maroon",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#481f13",
-          "name": "#481f13",
-          "reference": "marekm4"
-        },
         {
           "hex": "#9e3e52",
           "name": "#9e3e52",
@@ -112,6 +107,11 @@
         {
           "hex": "#c1bbaf",
           "name": "#c1bbaf",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#481f13",
+          "name": "#481f13",
           "reference": "marekm4"
         },
         {
@@ -186,7 +186,7 @@
       }
     ],
     "wof:id": 1762887297,
-    "wof:lastmodified": 1749800824,
+    "wof:lastmodified": 1749887226,
     "wof:name": "luggage label: Pan American World Airways, Haiti",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

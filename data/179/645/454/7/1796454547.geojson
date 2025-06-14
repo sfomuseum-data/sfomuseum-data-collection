@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1164b4",
-          "name": "Green Blue",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
@@ -37,18 +42,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#1164b4",
+          "name": "Green Blue",
           "reference": "crayola"
         }
       ],
@@ -56,11 +56,6 @@
         {
           "hex": "#778899",
           "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
           "reference": "css4"
         },
         {
@@ -74,13 +69,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
           "reference": "css4"
         },
         {
           "hex": "#6495ed",
           "name": "cornflowerblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
@@ -88,16 +88,6 @@
         {
           "hex": "#1371a9",
           "name": "#1371a9",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#777877",
-          "name": "#777877",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a2a3a2",
-          "name": "#a2a3a2",
           "reference": "marekm4"
         },
         {
@@ -116,6 +106,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#a2a3a2",
+          "name": "#a2a3a2",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#81817f",
           "name": "#81817f",
           "reference": "marekm4"
@@ -123,6 +118,11 @@
         {
           "hex": "#a1a3a1",
           "name": "#a1a3a1",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#777877",
+          "name": "#777877",
           "reference": "marekm4"
         }
       ]
@@ -193,7 +193,7 @@
       }
     ],
     "wof:id": 1796454547,
-    "wof:lastmodified": 1749800854,
+    "wof:lastmodified": 1749887256,
     "wof:name": "pepper packet: ANA (All Nippon Airways)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

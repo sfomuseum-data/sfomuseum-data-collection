@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
@@ -41,18 +46,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#a57164",
           "name": "Blast Off Bronze",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -63,31 +63,6 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
@@ -96,17 +71,37 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
           "hex": "#c6c1c3",
           "name": "#c6c1c3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3e3e3d",
-          "name": "#3e3e3d",
           "reference": "marekm4"
         },
         {
@@ -122,6 +117,11 @@
         {
           "hex": "#6c90b8",
           "name": "#6c90b8",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#3e3e3d",
+          "name": "#3e3e3d",
           "reference": "marekm4"
         }
       ]
@@ -192,7 +192,7 @@
       }
     ],
     "wof:id": 1779437505,
-    "wof:lastmodified": 1749887242,
+    "wof:lastmodified": 1750060083,
     "wof:name": "poster: Japan Air Lines, Kyoto",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

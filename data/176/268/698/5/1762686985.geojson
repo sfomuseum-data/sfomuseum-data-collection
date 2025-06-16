@@ -26,11 +26,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
@@ -56,6 +51,11 @@
           "reference": "crayola"
         },
         {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -63,13 +63,18 @@
       ],
       "css4": [
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#008080",
+          "name": "teal",
           "reference": "css4"
         },
         {
@@ -83,13 +88,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#008080",
-          "name": "teal",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         }
       ],
@@ -176,7 +176,7 @@
       }
     ],
     "wof:id": 1762686985,
-    "wof:lastmodified": 1749887215,
+    "wof:lastmodified": 1750060056,
     "wof:name": "timetable: Mid Pacific Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

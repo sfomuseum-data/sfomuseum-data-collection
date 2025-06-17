@@ -26,8 +26,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#e7c697",
+          "name": "Gold",
           "reference": "crayola"
         },
         {
@@ -41,28 +51,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         }
       ],
@@ -70,16 +70,6 @@
         {
           "hex": "#c0c0c0",
           "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -91,17 +81,22 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9a8e73",
-          "name": "#9a8e73",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#473f30",
-          "name": "#473f30",
+          "hex": "#857a61",
+          "name": "#857a61",
           "reference": "marekm4"
         },
         {
@@ -110,13 +105,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#473f30",
+          "name": "#473f30",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#192f9d",
           "name": "#192f9d",
           "reference": "marekm4"
         },
         {
-          "hex": "#857a61",
-          "name": "#857a61",
+          "hex": "#9a8e73",
+          "name": "#9a8e73",
           "reference": "marekm4"
         }
       ]
@@ -186,7 +186,7 @@
       }
     ],
     "wof:id": 1762694777,
-    "wof:lastmodified": 1750060053,
+    "wof:lastmodified": 1750146527,
     "wof:name": "timetable: California Central Airlines, pocket schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

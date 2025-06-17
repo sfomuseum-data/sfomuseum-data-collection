@@ -25,8 +25,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ffffff",
+          "name": "White",
           "reference": "crayola"
         },
         {
@@ -40,23 +50,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ffffff",
-          "name": "White",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -72,32 +72,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#f3f4f2",
-          "name": "#f3f4f2",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#7b8378",
-          "name": "#7b8378",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#867968",
-          "name": "#867968",
-          "reference": "marekm4"
-        },
         {
           "hex": "#898879",
           "name": "#898879",
@@ -106,6 +91,21 @@
         {
           "hex": "#60635e",
           "name": "#60635e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#867968",
+          "name": "#867968",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#7b8378",
+          "name": "#7b8378",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#f3f4f2",
+          "name": "#f3f4f2",
           "reference": "marekm4"
         }
       ]
@@ -175,7 +175,7 @@
       }
     ],
     "wof:id": 1511918323,
-    "wof:lastmodified": 1750060013,
+    "wof:lastmodified": 1750146484,
     "wof:name": "Crotchets in the air, or, An (un) scientific account of a balloon-trip, in a familiar letter to a friend",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#85754e",
+          "name": "Gold Fusion",
           "reference": "crayola"
         },
         {
@@ -36,13 +41,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -53,11 +58,6 @@
         {
           "hex": "#5d76cb",
           "name": "Indigo",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
           "reference": "crayola"
         },
         {
@@ -73,13 +73,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -88,23 +83,28 @@
           "reference": "css4"
         },
         {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
           "hex": "#5f9ea0",
           "name": "cadetblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         }
       ],
@@ -112,6 +112,11 @@
         {
           "hex": "#afadaa",
           "name": "#afadaa",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#675834",
+          "name": "#675834",
           "reference": "marekm4"
         },
         {
@@ -127,11 +132,6 @@
         {
           "hex": "#6794aa",
           "name": "#6794aa",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#675834",
-          "name": "#675834",
           "reference": "marekm4"
         }
       ]
@@ -202,7 +202,7 @@
       }
     ],
     "wof:id": 1796443667,
-    "wof:lastmodified": 1750060094,
+    "wof:lastmodified": 1750146568,
     "wof:name": "flight officer wings: Aeroflot Soviet Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

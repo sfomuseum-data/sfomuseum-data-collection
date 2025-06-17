@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cc6666",
-          "name": "Fuzzy Wuzzy",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -42,13 +47,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#cc6666",
+          "name": "Fuzzy Wuzzy",
           "reference": "crayola"
         },
         {
@@ -59,18 +59,13 @@
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#cd5c5c",
+          "name": "indianred",
           "reference": "css4"
         },
         {
           "hex": "#c0c0c0",
           "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#cd5c5c",
-          "name": "indianred",
           "reference": "css4"
         },
         {
@@ -82,12 +77,22 @@
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
           "hex": "#b0b0ae",
           "name": "#b0b0ae",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aeaead",
+          "name": "#aeaead",
           "reference": "marekm4"
         },
         {
@@ -98,11 +103,6 @@
         {
           "hex": "#b15c4b",
           "name": "#b15c4b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#aeaead",
-          "name": "#aeaead",
           "reference": "marekm4"
         }
       ]
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1897892229,
-    "wof:lastmodified": 1750060115,
+    "wof:lastmodified": 1750146588,
     "wof:name": "snack packaging: Western Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

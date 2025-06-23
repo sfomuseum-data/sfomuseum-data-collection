@@ -31,8 +31,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -41,8 +46,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#58427c",
-          "name": "Cyber Grape",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -51,22 +56,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
         {
           "hex": "#708090",
           "name": "slategrey",
@@ -91,14 +86,14 @@
           "hex": "#dcdcdc",
           "name": "gainsboro",
           "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#2d2c56",
-          "name": "#2d2c56",
-          "reference": "marekm4"
-        },
         {
           "hex": "#dfdce3",
           "name": "#dfdce3",
@@ -107,6 +102,11 @@
         {
           "hex": "#4c4f92",
           "name": "#4c4f92",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#2d2c56",
+          "name": "#2d2c56",
           "reference": "marekm4"
         }
       ]
@@ -220,7 +220,7 @@
       }
     ],
     "wof:id": 1762759063,
-    "wof:lastmodified": 1750492286,
+    "wof:lastmodified": 1750665087,
     "wof:name": "photograph: Swissair Douglas DC-4, EuroAirport Basel-Mulhouse-Freiburg (BSL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

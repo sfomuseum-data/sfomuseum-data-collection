@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         },
         {
@@ -41,13 +46,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -58,18 +58,23 @@
       ],
       "css4": [
         {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#8b0000",
-          "name": "darkred",
+          "hex": "#800000",
+          "name": "maroon",
           "reference": "css4"
         },
         {
           "hex": "#dcdcdc",
           "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#8b0000",
+          "name": "darkred",
           "reference": "css4"
         },
         {
@@ -83,13 +88,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         }
       ],
@@ -187,7 +187,7 @@
       }
     ],
     "wof:id": 1511933933,
-    "wof:lastmodified": 1750492249,
+    "wof:lastmodified": 1750665047,
     "wof:name": "timetable: Northwest Orient",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

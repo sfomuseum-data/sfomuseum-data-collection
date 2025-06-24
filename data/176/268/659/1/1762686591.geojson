@@ -18,6 +18,9 @@
     "millsfield:airline_id": [
       1159285745
     ],
+    "millsfield:airport_id": [
+      1360691531
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
@@ -176,6 +179,10 @@
     "sfomuseum:airline_id": [
       1044
     ],
+    "sfomuseum:airport": "Hong Kong Kai Tak Airport",
+    "sfomuseum:airport_id": [
+      52
+    ],
     "sfomuseum:category": "Philately",
     "sfomuseum:classification_id": 127,
     "sfomuseum:collection": "Aviation Archive",
@@ -184,7 +191,7 @@
     "sfomuseum:date_acquired": "2017-01-13",
     "sfomuseum:daterange_end": "2000-04-30",
     "sfomuseum:daterange_start": "2000-01-01",
-    "sfomuseum:description": "Color postcard depicting photographic image of Ansett Airlines of Australia Boeing 747-312 in livery design promoting 2000 Summer Olympic Games in Sydney; aircraft in flight at low altitude with mountains and buildings visible in background.",
+    "sfomuseum:description": "Color postcard depicting photographic image of Ansett Airlines of Australia Boeing 747-312 in livery design promoting 2000 Summer Olympic Games in Sydney; aircraft is on approach to Hong Kong Kai Tak Airport, Hong Kong.",
     "sfomuseum:dimensions": "3 1/2 x 5 1/2 inches (8.9 x 14 cm)",
     "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 179676,
@@ -205,13 +212,14 @@
     "wof:country": "XY",
     "wof:created": 1641341695,
     "wof:depicts": [
-      1159289873,
-      1159285745,
       1159288271,
-      1159283881,
       1159287295,
       1159289913,
-      1159293593
+      1159293593,
+      1159289873,
+      1159285745,
+      1159283881,
+      1360691531
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -232,7 +240,7 @@
       }
     ],
     "wof:id": 1762686591,
-    "wof:lastmodified": 1750665087,
+    "wof:lastmodified": 1750750377,
     "wof:name": "postcard: Ansett Airlines of Australia, Boeing 747-312",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

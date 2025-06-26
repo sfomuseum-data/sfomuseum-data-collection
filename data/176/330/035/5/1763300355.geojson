@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -36,18 +41,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
@@ -58,23 +58,23 @@
           "reference": "css4"
         },
         {
-          "hex": "#008080",
-          "name": "teal",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
         },
         {
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
           "reference": "css4"
         }
       ],
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1763300355,
-    "wof:lastmodified": 1750837720,
+    "wof:lastmodified": 1750924603,
     "wof:name": "soap: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

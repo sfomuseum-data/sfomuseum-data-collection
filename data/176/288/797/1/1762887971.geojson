@@ -26,18 +26,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd",
-          "name": "Blue Violet",
-          "reference": "crayola"
-        },
-        {
           "hex": "#efdecd",
           "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
           "reference": "crayola"
         },
         {
@@ -56,6 +46,16 @@
           "reference": "crayola"
         },
         {
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9f8170",
           "name": "Beaver",
           "reference": "crayola"
@@ -63,8 +63,13 @@
       ],
       "css4": [
         {
-          "hex": "#b22222",
-          "name": "firebrick",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#ff4500",
+          "name": "orangered",
           "reference": "css4"
         },
         {
@@ -73,13 +78,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         },
         {
@@ -88,17 +88,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#ff4500",
-          "name": "orangered",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#6f8ea7",
+          "name": "#6f8ea7",
+          "reference": "marekm4"
+        },
         {
           "hex": "#dc3014",
           "name": "#dc3014",
@@ -107,11 +112,6 @@
         {
           "hex": "#ede4d5",
           "name": "#ede4d5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#6f8ea7",
-          "name": "#6f8ea7",
           "reference": "marekm4"
         }
       ]
@@ -181,7 +181,7 @@
       }
     ],
     "wof:id": 1762887971,
-    "wof:lastmodified": 1750837710,
+    "wof:lastmodified": 1750924587,
     "wof:name": "luggage label: Swissair",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

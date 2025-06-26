@@ -25,13 +25,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -45,11 +50,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -57,18 +57,8 @@
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -77,18 +67,28 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#000000",
           "name": "black",
           "reference": "css4"
         },
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         }
       ],
@@ -202,7 +202,7 @@
       }
     ],
     "wof:id": 1511947203,
-    "wof:lastmodified": 1750837681,
+    "wof:lastmodified": 1750924539,
     "wof:name": "negative: San Francisco International Airport (SFO), custodial staff",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

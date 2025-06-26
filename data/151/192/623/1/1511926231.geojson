@@ -34,8 +34,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb",
-          "name": "Indigo",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
           "reference": "crayola"
         },
         {
@@ -44,13 +49,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#a2a2d0",
-          "name": "Blue Bell",
+          "hex": "#5d76cb",
+          "name": "Indigo",
           "reference": "crayola"
         },
         {
@@ -88,6 +88,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#8990e0",
+          "name": "#8990e0",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#6570c1",
           "name": "#6570c1",
           "reference": "marekm4"
@@ -95,11 +100,6 @@
         {
           "hex": "#7b84d6",
           "name": "#7b84d6",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#8990e0",
-          "name": "#8990e0",
           "reference": "marekm4"
         }
       ]
@@ -202,7 +202,7 @@
       }
     ],
     "wof:id": 1511926231,
-    "wof:lastmodified": 1750837667,
+    "wof:lastmodified": 1750924517,
     "wof:name": "slide: Pacific Southwest Airlines (PSA), Douglas DC-9 Super 80, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

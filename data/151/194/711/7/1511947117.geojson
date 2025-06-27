@@ -25,6 +25,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -32,11 +37,6 @@
         {
           "hex": "#979aaa",
           "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -52,8 +52,13 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -67,25 +72,20 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#aaaaaa",
-          "name": "#aaaaaa",
+          "hex": "#525252",
+          "name": "#525252",
           "reference": "marekm4"
         },
         {
-          "hex": "#525252",
-          "name": "#525252",
+          "hex": "#aaaaaa",
+          "name": "#aaaaaa",
           "reference": "marekm4"
         }
       ]
@@ -181,7 +181,7 @@
       }
     ],
     "wof:id": 1511947117,
-    "wof:lastmodified": 1750924539,
+    "wof:lastmodified": 1751010967,
     "wof:name": "negative: San Francisco International Airport (SFO), aerial",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

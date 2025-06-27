@@ -25,8 +25,8 @@
     ],
     "millsfield:exhibition_ids": [
       1159159621,
-      1729859069,
       1159159805,
+      1729859069,
       1159160217,
       1947939589
     ],
@@ -36,18 +36,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -56,20 +56,35 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
         },
         {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
           "hex": "#708090",
           "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
@@ -81,32 +96,17 @@
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a8b9c2",
-          "name": "#a8b9c2",
+          "hex": "#07090b",
+          "name": "#07090b",
           "reference": "marekm4"
         },
         {
-          "hex": "#07090b",
-          "name": "#07090b",
+          "hex": "#a8b9c2",
+          "name": "#a8b9c2",
           "reference": "marekm4"
         }
       ]
@@ -167,9 +167,9 @@
     "wof:country": "XY",
     "wof:created": 1647330238,
     "wof:depicts": [
-      1159293593,
       1159284989,
-      1159289625
+      1159289625,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -190,7 +190,7 @@
       }
     ],
     "wof:id": 1763279351,
-    "wof:lastmodified": 1750924600,
+    "wof:lastmodified": 1751011019,
     "wof:name": "model airplane: Pan American Airways, Boeing 314 California Clipper",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

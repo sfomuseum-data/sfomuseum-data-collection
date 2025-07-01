@@ -36,13 +36,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -54,27 +59,12 @@
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -85,6 +75,16 @@
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -100,8 +100,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#9e9e9e",
-          "name": "#9e9e9e",
+          "hex": "#a09f9f",
+          "name": "#a09f9f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a0a0a0",
+          "name": "#a0a0a0",
           "reference": "marekm4"
         },
         {
@@ -115,16 +120,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a0a0a0",
-          "name": "#a0a0a0",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a09f9f",
-          "name": "#a09f9f",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#606061",
           "name": "#606061",
           "reference": "marekm4"
@@ -132,6 +127,11 @@
         {
           "hex": "#626263",
           "name": "#626263",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9e9e9e",
+          "name": "#9e9e9e",
           "reference": "marekm4"
         }
       ]
@@ -220,7 +220,7 @@
       }
     ],
     "wof:id": 1880318703,
-    "wof:lastmodified": 1751270357,
+    "wof:lastmodified": 1751356778,
     "wof:name": "model airplane: Aeroflot Soviet Airlines, Tupolev Tu-114",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

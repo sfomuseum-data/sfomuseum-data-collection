@@ -22,14 +22,24 @@
     ],
     "millsfield:exhibition_ids": [
       1914632803,
-      1896874709,
-      1947305541
+      1947305541,
+      1896874709
     ],
     "millsfield:images": [
       1880113667
     ],
     "millsfield:images_colors_refs": {
       "crayola": [
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
         {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
@@ -43,16 +53,6 @@
         {
           "hex": "#979aaa",
           "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
@@ -75,13 +75,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#a9a6a9",
-          "name": "#a9a6a9",
+          "hex": "#2b282b",
+          "name": "#2b282b",
           "reference": "marekm4"
         },
         {
-          "hex": "#2b282b",
-          "name": "#2b282b",
+          "hex": "#a9a6a9",
+          "name": "#a9a6a9",
           "reference": "marekm4"
         }
       ]
@@ -152,7 +152,7 @@
       }
     ],
     "wof:id": 1880113559,
-    "wof:lastmodified": 1751270354,
+    "wof:lastmodified": 1751356774,
     "wof:name": "flight attendant belt: Virgin America",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

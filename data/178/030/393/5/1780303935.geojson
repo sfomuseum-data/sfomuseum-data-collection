@@ -26,11 +26,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#85754e",
           "name": "Gold Fusion",
           "reference": "crayola"
@@ -41,8 +36,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -61,8 +56,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         }
       ],
@@ -70,21 +70,6 @@
         {
           "hex": "#cd853f",
           "name": "peru",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         },
         {
@@ -103,27 +88,32 @@
           "reference": "css4"
         },
         {
-          "hex": "#d2691e",
-          "name": "chocolate",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
           "hex": "#bc8f8f",
           "name": "rosybrown",
           "reference": "css4"
+        },
+        {
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#e3e0d6",
-          "name": "#e3e0d6",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c9926b",
-          "name": "#c9926b",
-          "reference": "marekm4"
-        },
         {
           "hex": "#4d4a3b",
           "name": "#4d4a3b",
@@ -132,6 +122,16 @@
         {
           "hex": "#cd692e",
           "name": "#cd692e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#e3e0d6",
+          "name": "#e3e0d6",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c9926b",
+          "name": "#c9926b",
           "reference": "marekm4"
         }
       ]
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1780303935,
-    "wof:lastmodified": 1751270340,
+    "wof:lastmodified": 1751356759,
     "wof:name": "uniform patch: Hughes Airwest",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

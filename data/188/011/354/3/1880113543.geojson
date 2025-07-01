@@ -22,8 +22,8 @@
     ],
     "millsfield:exhibition_ids": [
       1914632803,
-      1896874709,
-      1947305541
+      1947305541,
+      1896874709
     ],
     "millsfield:images": [
       1880113651,
@@ -32,13 +32,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9f8170",
           "name": "Beaver",
           "reference": "crayola"
         },
         {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
           "reference": "crayola"
         },
         {
@@ -57,13 +62,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#a57164",
-          "name": "Blast Off Bronze",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         }
       ],
@@ -71,6 +71,11 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -87,14 +92,14 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#a7a49f",
+          "name": "#a7a49f",
+          "reference": "marekm4"
+        },
         {
           "hex": "#ad0a12",
           "name": "#ad0a12",
@@ -103,11 +108,6 @@
         {
           "hex": "#cc2c22",
           "name": "#cc2c22",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a7a49f",
-          "name": "#a7a49f",
           "reference": "marekm4"
         },
         {
@@ -188,7 +188,7 @@
       }
     ],
     "wof:id": 1880113543,
-    "wof:lastmodified": 1751270354,
+    "wof:lastmodified": 1751356774,
     "wof:name": "wall display: Virgin America",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

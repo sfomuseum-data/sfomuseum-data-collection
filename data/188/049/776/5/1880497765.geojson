@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -37,13 +42,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -52,18 +57,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -79,23 +79,23 @@
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
         },
         {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
           "hex": "#556b2f",
           "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -105,16 +105,6 @@
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b2b2b4",
-          "name": "#b2b2b4",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#292427",
-          "name": "#292427",
-          "reference": "marekm4"
-        },
         {
           "hex": "#b1b1b3",
           "name": "#b1b1b3",
@@ -126,8 +116,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#292427",
+          "name": "#292427",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#8f6e4b",
           "name": "#8f6e4b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b2b2b4",
+          "name": "#b2b2b4",
           "reference": "marekm4"
         },
         {
@@ -200,7 +200,7 @@
       }
     ],
     "wof:id": 1880497765,
-    "wof:lastmodified": 1751270361,
+    "wof:lastmodified": 1751356782,
     "wof:name": "flight officer cap: American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

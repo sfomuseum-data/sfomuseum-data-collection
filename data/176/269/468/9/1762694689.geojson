@@ -28,8 +28,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -48,13 +53,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -65,8 +65,8 @@
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -75,8 +75,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -85,18 +85,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
           "reference": "css4"
         }
       ],
@@ -112,6 +112,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#dbcaa3",
+          "name": "#dbcaa3",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#847b5f",
           "name": "#847b5f",
           "reference": "marekm4"
@@ -119,11 +124,6 @@
         {
           "hex": "#312d1b",
           "name": "#312d1b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#dbcaa3",
-          "name": "#dbcaa3",
           "reference": "marekm4"
         }
       ]
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1762694689,
-    "wof:lastmodified": 1751356708,
+    "wof:lastmodified": 1751443123,
     "wof:name": "postcard: Charles Lindbergh, Spirit of St. Louis",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

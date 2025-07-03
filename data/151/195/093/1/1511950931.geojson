@@ -29,13 +29,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7851a9",
-          "name": "Royal Purple",
+          "hex": "#2b6cc4",
+          "name": "Denim",
           "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4",
-          "name": "Denim",
+          "hex": "#324ab2",
+          "name": "Violet Blue",
           "reference": "crayola"
         },
         {
@@ -49,8 +49,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -64,6 +69,21 @@
           "reference": "crayola"
         },
         {
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
           "hex": "#efdecd",
           "name": "Almond",
           "reference": "crayola"
@@ -74,40 +94,45 @@
           "reference": "crayola"
         },
         {
-          "hex": "#324ab2",
-          "name": "Violet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
           "hex": "#6699cc",
           "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
+        },
+        {
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
+        },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#4169e1",
-          "name": "royalblue",
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#00008b",
+          "name": "darkblue",
           "reference": "css4"
         },
         {
@@ -121,23 +146,13 @@
           "reference": "css4"
         },
         {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#dcdcdc",
           "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#e6e6fa",
-          "name": "lavender",
-          "reference": "css4"
-        },
-        {
-          "hex": "#708090",
-          "name": "slategrey",
           "reference": "css4"
         },
         {
@@ -146,32 +161,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#00008b",
-          "name": "darkblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5f5dc",
-          "name": "beige",
+          "hex": "#4169e1",
+          "name": "royalblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#e5e7df",
-          "name": "#e5e7df",
-          "reference": "marekm4"
-        },
         {
           "hex": "#f9fdfe",
           "name": "#f9fdfe",
@@ -183,13 +178,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a90f26",
-          "name": "#a90f26",
+          "hex": "#425f9b",
+          "name": "#425f9b",
           "reference": "marekm4"
         },
         {
-          "hex": "#cc0913",
-          "name": "#cc0913",
+          "hex": "#e5e7df",
+          "name": "#e5e7df",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a90f26",
+          "name": "#a90f26",
           "reference": "marekm4"
         },
         {
@@ -198,13 +198,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#738cbd",
-          "name": "#738cbd",
+          "hex": "#cc0913",
+          "name": "#cc0913",
           "reference": "marekm4"
         },
         {
-          "hex": "#425f9b",
-          "name": "#425f9b",
+          "hex": "#738cbd",
+          "name": "#738cbd",
           "reference": "marekm4"
         }
       ]
@@ -286,7 +286,7 @@
       }
     ],
     "wof:id": 1511950931,
-    "wof:lastmodified": 1751443096,
+    "wof:lastmodified": 1751529493,
     "wof:name": "timetable: Hawaiian Airlines, interisland service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

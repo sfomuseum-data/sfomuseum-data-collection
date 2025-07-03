@@ -27,6 +27,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#714b23",
           "name": "Raw Umber",
           "reference": "crayola"
@@ -40,27 +45,22 @@
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
+        },
         {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#8b0000",
-          "name": "darkred",
-          "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -69,12 +69,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#8b0000",
+          "name": "darkred",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#731623",
+          "name": "#731623",
+          "reference": "marekm4"
+        },
         {
           "hex": "#a5a4a1",
           "name": "#a5a4a1",
@@ -86,6 +91,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#701621",
+          "name": "#701621",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#8e020d",
           "name": "#8e020d",
           "reference": "marekm4"
@@ -93,16 +103,6 @@
         {
           "hex": "#91020b",
           "name": "#91020b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#701621",
-          "name": "#701621",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#731623",
-          "name": "#731623",
           "reference": "marekm4"
         }
       ]
@@ -168,7 +168,7 @@
       }
     ],
     "wof:id": 1880712755,
-    "wof:lastmodified": 1751443190,
+    "wof:lastmodified": 1751529602,
     "wof:name": "stewardess vest: Western Airlines, winter",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

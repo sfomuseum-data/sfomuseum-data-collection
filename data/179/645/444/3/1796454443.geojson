@@ -29,8 +29,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -44,16 +49,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cd9575",
           "name": "Antique Brass",
           "reference": "crayola"
@@ -62,14 +57,14 @@
           "hex": "#714b23",
           "name": "Raw Umber",
           "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
@@ -81,40 +76,45 @@
           "reference": "css4"
         },
         {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#ba9571",
-          "name": "#ba9571",
-          "reference": "marekm4"
-        },
         {
           "hex": "#bab5b0",
           "name": "#bab5b0",
           "reference": "marekm4"
         },
         {
-          "hex": "#9c7356",
-          "name": "#9c7356",
+          "hex": "#5b2a36",
+          "name": "#5b2a36",
           "reference": "marekm4"
         },
         {
-          "hex": "#5b2a36",
-          "name": "#5b2a36",
+          "hex": "#ba9571",
+          "name": "#ba9571",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9c7356",
+          "name": "#9c7356",
           "reference": "marekm4"
         }
       ]
@@ -190,7 +190,7 @@
       }
     ],
     "wof:id": 1796454443,
-    "wof:lastmodified": 1751529581,
+    "wof:lastmodified": 1751615910,
     "wof:name": "chief foreman/chief mechanic wing: Pan American Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -28,8 +28,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -38,8 +43,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -48,40 +53,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cd9575",
           "name": "Antique Brass",
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#cd5c5c",
-          "name": "indianred",
-          "reference": "css4"
-        },
         {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#d2b48c",
+          "name": "tan",
           "reference": "css4"
         },
         {
@@ -93,14 +83,19 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
+        },
+        {
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b8b6b4",
-          "name": "#b8b6b4",
-          "reference": "marekm4"
-        },
         {
           "hex": "#5d4e44",
           "name": "#5d4e44",
@@ -114,6 +109,11 @@
         {
           "hex": "#a76f52",
           "name": "#a76f52",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b8b6b4",
+          "name": "#b8b6b4",
           "reference": "marekm4"
         }
       ]
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1511915611,
-    "wof:lastmodified": 1751529468,
+    "wof:lastmodified": 1751615811,
     "wof:name": "How men fly",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

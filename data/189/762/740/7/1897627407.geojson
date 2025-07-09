@@ -24,9 +24,9 @@
       1159291191
     ],
     "millsfield:exhibition_ids": [
-      1914632769,
       1947305539,
       1880431449,
+      1914632769,
       1914632783,
       1947305535,
       1880380113
@@ -37,8 +37,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#85754e",
           "name": "Gold Fusion",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
@@ -50,32 +60,12 @@
           "hex": "#714b23",
           "name": "Raw Umber",
           "reference": "crayola"
-        },
-        {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -84,17 +74,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#a9976b",
-          "name": "#a9976b",
-          "reference": "marekm4"
-        },
         {
           "hex": "#584c2e",
           "name": "#584c2e",
@@ -103,6 +98,11 @@
         {
           "hex": "#d7cbb6",
           "name": "#d7cbb6",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a9976b",
+          "name": "#a9976b",
           "reference": "marekm4"
         },
         {
@@ -183,7 +183,7 @@
       }
     ],
     "wof:id": 1897627407,
-    "wof:lastmodified": 1751875233,
+    "wof:lastmodified": 1752048060,
     "wof:name": "photograph: Pan American Airways System, Martin M-130 Philippine Clipper",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

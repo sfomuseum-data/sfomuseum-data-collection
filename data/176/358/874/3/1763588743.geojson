@@ -27,16 +27,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#efcdb8",
           "name": "Desert Sand",
           "reference": "crayola"
@@ -57,6 +47,16 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -64,13 +64,13 @@
       ],
       "css4": [
         {
-          "hex": "#a52a2a",
-          "name": "brown",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#a52a2a",
+          "name": "brown",
           "reference": "css4"
         },
         {
@@ -79,13 +79,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -94,30 +94,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#f5deb3",
-          "name": "wheat",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#f5deb3",
+          "name": "wheat",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b64123",
-          "name": "#b64123",
+          "hex": "#2e251b",
+          "name": "#2e251b",
           "reference": "marekm4"
         },
         {
           "hex": "#c6361c",
           "name": "#c6361c",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b8b4b2",
-          "name": "#b8b4b2",
           "reference": "marekm4"
         },
         {
@@ -131,8 +126,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#2e251b",
-          "name": "#2e251b",
+          "hex": "#b8b4b2",
+          "name": "#b8b4b2",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b64123",
+          "name": "#b64123",
           "reference": "marekm4"
         }
       ]
@@ -205,7 +205,7 @@
       }
     ],
     "wof:id": 1763588743,
-    "wof:lastmodified": 1752048023,
+    "wof:lastmodified": 1752134407,
     "wof:name": "playing cards: Western Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

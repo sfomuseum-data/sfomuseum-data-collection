@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
@@ -36,23 +41,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         }
       ],
@@ -60,6 +60,11 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#800000",
+          "name": "maroon",
           "reference": "css4"
         },
         {
@@ -71,14 +76,14 @@
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#a8a8a4",
+          "name": "#a8a8a4",
+          "reference": "marekm4"
+        },
         {
           "hex": "#6e0d21",
           "name": "#6e0d21",
@@ -87,11 +92,6 @@
         {
           "hex": "#994c51",
           "name": "#994c51",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a8a8a4",
-          "name": "#a8a8a4",
           "reference": "marekm4"
         }
       ]
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1779914389,
-    "wof:lastmodified": 1752048031,
+    "wof:lastmodified": 1752134417,
     "wof:name": "cocktail pick: Western Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

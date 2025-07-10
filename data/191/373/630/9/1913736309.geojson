@@ -20,8 +20,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -35,27 +50,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -67,23 +72,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
           "reference": "css4"
         }
       ],
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1913736309,
-    "wof:lastmodified": 1752048064,
+    "wof:lastmodified": 1752134459,
     "wof:name": "photograph: mail service in China",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

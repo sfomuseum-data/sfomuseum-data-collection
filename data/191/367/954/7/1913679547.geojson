@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
           "reference": "crayola"
         },
         {
@@ -37,18 +42,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#000000",
           "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c5d0e6",
-          "name": "Periwinkle",
           "reference": "crayola"
         },
         {
@@ -59,18 +59,8 @@
       ],
       "css4": [
         {
-          "hex": "#708090",
-          "name": "slategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -79,17 +69,32 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#737389",
+          "name": "#737389",
+          "reference": "marekm4"
+        },
         {
           "hex": "#c9d0d8",
           "name": "#c9d0d8",
@@ -98,11 +103,6 @@
         {
           "hex": "#262629",
           "name": "#262629",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#737389",
-          "name": "#737389",
           "reference": "marekm4"
         }
       ]
@@ -171,7 +171,7 @@
       }
     ],
     "wof:id": 1913679547,
-    "wof:lastmodified": 1752134481,
+    "wof:lastmodified": 1752222546,
     "wof:name": "slide: San Francisco Airport, U.S. Navy",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

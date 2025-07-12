@@ -24,8 +24,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
@@ -34,30 +39,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
           "reference": "css4"
         },
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -66,22 +66,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b2afab",
-          "name": "#b2afab",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#9f8b75",
-          "name": "#9f8b75",
-          "reference": "marekm4"
-        },
         {
           "hex": "#905c54",
           "name": "#905c54",
@@ -90,6 +80,16 @@
         {
           "hex": "#5b4a3d",
           "name": "#5b4a3d",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9f8b75",
+          "name": "#9f8b75",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b2afab",
+          "name": "#b2afab",
           "reference": "marekm4"
         }
       ]
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1763278873,
-    "wof:lastmodified": 1752222411,
+    "wof:lastmodified": 1752307290,
     "wof:name": "children's souvenir wings: Northwest Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

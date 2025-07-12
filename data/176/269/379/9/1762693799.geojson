@@ -20,8 +20,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -35,32 +40,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
         {
           "hex": "#696969",
           "name": "dimgrey",
@@ -69,6 +59,16 @@
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -84,13 +84,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#4e4e4e",
-          "name": "#4e4e4e",
+          "hex": "#d9d9d9",
+          "name": "#d9d9d9",
           "reference": "marekm4"
         },
         {
-          "hex": "#d9d9d9",
-          "name": "#d9d9d9",
+          "hex": "#4e4e4e",
+          "name": "#4e4e4e",
           "reference": "marekm4"
         }
       ]
@@ -146,7 +146,7 @@
       }
     ],
     "wof:id": 1762693799,
-    "wof:lastmodified": 1752222348,
+    "wof:lastmodified": 1752307256,
     "wof:name": "negative: Stanley Henry Page, San Francisco Bay Area",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

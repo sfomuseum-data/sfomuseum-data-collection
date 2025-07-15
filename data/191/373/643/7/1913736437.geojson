@@ -20,8 +20,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -30,18 +35,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
           "hex": "#9f8170",
           "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -57,13 +57,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -72,8 +67,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         }
       ],
@@ -84,6 +84,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#827d66",
+          "name": "#827d66",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#948e76",
           "name": "#948e76",
           "reference": "marekm4"
@@ -91,11 +96,6 @@
         {
           "hex": "#2e2f24",
           "name": "#2e2f24",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#827d66",
-          "name": "#827d66",
           "reference": "marekm4"
         }
       ]
@@ -152,7 +152,7 @@
       }
     ],
     "wof:id": 1913736437,
-    "wof:lastmodified": 1752480314,
+    "wof:lastmodified": 1752566697,
     "wof:name": "photograph: mail service in China",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

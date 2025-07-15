@@ -26,8 +26,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1164b4",
+          "name": "Green Blue",
           "reference": "crayola"
         },
         {
@@ -41,23 +51,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#1164b4",
-          "name": "Green Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#1dacd6",
           "name": "Cerulean",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
@@ -65,11 +65,6 @@
         {
           "hex": "#dcdcdc",
           "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#4682b4",
-          "name": "steelblue",
           "reference": "css4"
         },
         {
@@ -88,17 +83,17 @@
           "reference": "css4"
         },
         {
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#0d75c0",
-          "name": "#0d75c0",
-          "reference": "marekm4"
-        },
         {
           "hex": "#c5c9cd",
           "name": "#c5c9cd",
@@ -107,6 +102,11 @@
         {
           "hex": "#2b95e0",
           "name": "#2b95e0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#0d75c0",
+          "name": "#0d75c0",
           "reference": "marekm4"
         }
       ]
@@ -176,7 +176,7 @@
       }
     ],
     "wof:id": 1762946211,
-    "wof:lastmodified": 1752480248,
+    "wof:lastmodified": 1752566633,
     "wof:name": "uniform patch: Pan American World Airways, Express",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

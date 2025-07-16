@@ -28,8 +28,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -43,18 +48,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -63,8 +58,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
@@ -72,26 +72,6 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -105,8 +85,28 @@
           "reference": "css4"
         },
         {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#000000",
           "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         }
       ],
@@ -122,6 +122,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#dad7da",
+          "name": "#dad7da",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#a4a3a0",
           "name": "#a4a3a0",
           "reference": "marekm4"
@@ -129,11 +134,6 @@
         {
           "hex": "#26262c",
           "name": "#26262c",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#dad7da",
-          "name": "#dad7da",
           "reference": "marekm4"
         },
         {
@@ -206,7 +206,7 @@
       }
     ],
     "wof:id": 1880497675,
-    "wof:lastmodified": 1752566688,
+    "wof:lastmodified": 1752653167,
     "wof:name": "ramp agent pants: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

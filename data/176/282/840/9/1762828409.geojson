@@ -35,8 +35,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -45,18 +50,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -66,6 +66,21 @@
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
         {
           "hex": "#696969",
           "name": "dimgrey",
@@ -77,23 +92,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#deb887",
-          "name": "burlywood",
           "reference": "css4"
         }
       ],
@@ -104,13 +104,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#ca9275",
-          "name": "#ca9275",
+          "hex": "#e6b693",
+          "name": "#e6b693",
           "reference": "marekm4"
         },
         {
-          "hex": "#e6b693",
-          "name": "#e6b693",
+          "hex": "#ca9275",
+          "name": "#ca9275",
           "reference": "marekm4"
         },
         {
@@ -220,7 +220,7 @@
       }
     ],
     "wof:id": 1762828409,
-    "wof:lastmodified": 1752566619,
+    "wof:lastmodified": 1752653112,
     "wof:name": "slide: San Francisco International Airport (SFO), sunrise [digital image]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

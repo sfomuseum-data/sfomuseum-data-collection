@@ -26,11 +26,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
-          "reference": "crayola"
-        },
-        {
           "hex": "#ff2b2b",
           "name": "Orange Red",
           "reference": "crayola"
@@ -41,6 +36,11 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
+        },
+        {
           "hex": "#efdecd",
           "name": "Almond",
           "reference": "crayola"
@@ -48,8 +48,13 @@
       ],
       "css4": [
         {
-          "hex": "#b22222",
-          "name": "firebrick",
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -58,32 +63,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#191970",
-          "name": "midnightblue",
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         },
         {
           "hex": "#ff4500",
           "name": "orangered",
           "reference": "css4"
-        },
-        {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#dd3117",
-          "name": "#dd3117",
-          "reference": "marekm4"
-        },
         {
           "hex": "#0f193c",
           "name": "#0f193c",
@@ -92,6 +87,11 @@
         {
           "hex": "#eee4db",
           "name": "#eee4db",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#dd3117",
+          "name": "#dd3117",
           "reference": "marekm4"
         }
       ]
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1762831109,
-    "wof:lastmodified": 1752566623,
+    "wof:lastmodified": 1752653115,
     "wof:name": "luggage label: Pan American Airways System, Transatlantic",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

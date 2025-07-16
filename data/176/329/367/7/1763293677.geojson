@@ -27,11 +27,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#ffffff",
           "name": "White",
           "reference": "crayola"
@@ -55,6 +50,11 @@
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
@@ -64,8 +64,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#dcdcdc",
           "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f8f8ff",
+          "name": "ghostwhite",
           "reference": "css4"
         },
         {
@@ -74,32 +84,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#000000",
           "name": "black",
           "reference": "css4"
         },
         {
-          "hex": "#f8f8ff",
-          "name": "ghostwhite",
+          "hex": "#191970",
+          "name": "midnightblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#191b30",
-          "name": "#191b30",
-          "reference": "marekm4"
-        },
         {
           "hex": "#f8f8fa",
           "name": "#f8f8fa",
@@ -108,6 +103,11 @@
         {
           "hex": "#131a2f",
           "name": "#131a2f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#191b30",
+          "name": "#191b30",
           "reference": "marekm4"
         },
         {
@@ -183,7 +183,7 @@
       }
     ],
     "wof:id": 1763293677,
-    "wof:lastmodified": 1752566643,
+    "wof:lastmodified": 1752653131,
     "wof:name": "slippers: Delta Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

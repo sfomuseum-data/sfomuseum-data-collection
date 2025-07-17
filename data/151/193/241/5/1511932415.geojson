@@ -28,8 +28,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -43,13 +48,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         }
       ],
@@ -77,11 +77,6 @@
       ],
       "marekm4": [
         {
-          "hex": "#8a7527",
-          "name": "#8a7527",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#dcdee2",
           "name": "#dcdee2",
           "reference": "marekm4"
@@ -89,6 +84,11 @@
         {
           "hex": "#0f0f52",
           "name": "#0f0f52",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#8a7527",
+          "name": "#8a7527",
           "reference": "marekm4"
         }
       ]
@@ -168,7 +168,7 @@
       }
     ],
     "wof:id": 1511932415,
-    "wof:lastmodified": 1752653058,
+    "wof:lastmodified": 1752741535,
     "wof:name": "timetable: Golden Gate Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

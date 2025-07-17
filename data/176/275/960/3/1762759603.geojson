@@ -35,8 +35,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -45,18 +50,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -66,6 +66,11 @@
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -77,11 +82,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
@@ -89,13 +89,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#968874",
-          "name": "#968874",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#50403b",
-          "name": "#50403b",
+          "hex": "#897463",
+          "name": "#897463",
           "reference": "marekm4"
         },
         {
@@ -104,8 +99,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#897463",
-          "name": "#897463",
+          "hex": "#50403b",
+          "name": "#50403b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#968874",
+          "name": "#968874",
           "reference": "marekm4"
         }
       ]
@@ -221,7 +221,7 @@
       }
     ],
     "wof:id": 1762759603,
-    "wof:lastmodified": 1752653106,
+    "wof:lastmodified": 1752741628,
     "wof:name": "photograph: Apollo Airways, Handley Page Jetstream, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -41,13 +46,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
           "reference": "crayola"
         },
         {
@@ -56,8 +56,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
@@ -65,16 +65,6 @@
         {
           "hex": "#f5deb3",
           "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#8b0000",
-          "name": "darkred",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
           "reference": "css4"
         },
         {
@@ -88,12 +78,27 @@
           "reference": "css4"
         },
         {
+          "hex": "#8b0000",
+          "name": "darkred",
+          "reference": "css4"
+        },
+        {
           "hex": "#bc8f8f",
           "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#e3d7c0",
+          "name": "#e3d7c0",
+          "reference": "marekm4"
+        },
         {
           "hex": "#8b0605",
           "name": "#8b0605",
@@ -102,11 +107,6 @@
         {
           "hex": "#040204",
           "name": "#040204",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#e3d7c0",
-          "name": "#e3d7c0",
           "reference": "marekm4"
         }
       ]
@@ -187,7 +187,7 @@
       }
     ],
     "wof:id": 1511933953,
-    "wof:lastmodified": 1752741542,
+    "wof:lastmodified": 1752825901,
     "wof:name": "timetable: Northwest Orient",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

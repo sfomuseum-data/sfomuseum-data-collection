@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
           "reference": "crayola"
         },
         {
@@ -36,18 +41,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
           "reference": "crayola"
         }
       ],
@@ -58,23 +58,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#20b2aa",
-          "name": "lightseagreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faf0e6",
-          "name": "linen",
-          "reference": "css4"
-        },
-        {
           "hex": "#778899",
           "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -85,6 +70,21 @@
         {
           "hex": "#e6e6fa",
           "name": "lavender",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#20b2aa",
+          "name": "lightseagreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1779488457,
-    "wof:lastmodified": 1752741694,
+    "wof:lastmodified": 1752825973,
     "wof:name": "poster: Pan American World Airways, Excel",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -23,11 +23,11 @@
     ],
     "millsfield:exhibition_ids": [
       1914632769,
-      1947305539,
       1880431449,
+      1947305539,
       1914632783,
-      1947305535,
-      1880380113
+      1880380113,
+      1947305535
     ],
     "millsfield:images": [
       1880201503
@@ -35,18 +35,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -55,18 +45,28 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
           "hex": "#9f8170",
           "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         }
       ],
@@ -74,16 +74,6 @@
         {
           "hex": "#000000",
           "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
           "reference": "css4"
         },
         {
@@ -97,8 +87,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -108,6 +108,11 @@
         }
       ],
       "marekm4": [
+        {
+          "hex": "#827d6d",
+          "name": "#827d6d",
+          "reference": "marekm4"
+        },
         {
           "hex": "#8c8978",
           "name": "#8c8978",
@@ -121,11 +126,6 @@
         {
           "hex": "#3e3e34",
           "name": "#3e3e34",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#827d6d",
-          "name": "#827d6d",
           "reference": "marekm4"
         }
       ]
@@ -198,7 +198,7 @@
       }
     ],
     "wof:id": 1880201407,
-    "wof:lastmodified": 1752825997,
+    "wof:lastmodified": 1752912376,
     "wof:name": "photograph: CNAC (China National Aviation Corporation)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

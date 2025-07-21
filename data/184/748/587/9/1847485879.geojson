@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -42,22 +47,37 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
           "hex": "#9f8170",
           "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -67,34 +87,9 @@
           "hex": "#000000",
           "name": "black",
           "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#9a8f71",
-          "name": "#9a8f71",
-          "reference": "marekm4"
-        },
         {
           "hex": "#3e3825",
           "name": "#3e3825",
@@ -103,6 +98,11 @@
         {
           "hex": "#cfc6b2",
           "name": "#cfc6b2",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9a8f71",
+          "name": "#9a8f71",
           "reference": "marekm4"
         },
         {
@@ -177,7 +177,7 @@
       }
     ],
     "wof:id": 1847485879,
-    "wof:lastmodified": 1752912373,
+    "wof:lastmodified": 1753085138,
     "wof:name": "photograph: Pan American Airways, Martin M-130",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

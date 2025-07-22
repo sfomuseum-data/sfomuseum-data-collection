@@ -28,8 +28,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#7366bd",
+          "name": "Blue Violet",
           "reference": "crayola"
         },
         {
@@ -43,18 +53,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#7366bd",
-          "name": "Blue Violet",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -65,18 +65,28 @@
       ],
       "css4": [
         {
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
+        },
+        {
           "hex": "#ff4500",
           "name": "orangered",
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#708090",
+          "name": "slategrey",
           "reference": "css4"
         },
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -93,27 +103,12 @@
           "hex": "#dcdcdc",
           "name": "gainsboro",
           "reference": "css4"
-        },
-        {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#708090",
-          "name": "slategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#19294d",
-          "name": "#19294d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#566f9a",
-          "name": "#566f9a",
+          "hex": "#738baf",
+          "name": "#738baf",
           "reference": "marekm4"
         },
         {
@@ -127,8 +122,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#738baf",
-          "name": "#738baf",
+          "hex": "#566f9a",
+          "name": "#566f9a",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#19294d",
+          "name": "#19294d",
           "reference": "marekm4"
         }
       ]
@@ -208,7 +208,7 @@
       }
     ],
     "wof:id": 1511930945,
-    "wof:lastmodified": 1753085037,
+    "wof:lastmodified": 1753171626,
     "wof:name": "luggage label: Pan American World Airways, Philippines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

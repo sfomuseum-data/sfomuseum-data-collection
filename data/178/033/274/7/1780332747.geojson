@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -36,23 +41,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -68,13 +68,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -88,30 +83,35 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b09170",
-          "name": "#b09170",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#94745a",
-          "name": "#94745a",
-          "reference": "marekm4"
-        },
         {
           "hex": "#b5b1ad",
           "name": "#b5b1ad",
           "reference": "marekm4"
         },
         {
+          "hex": "#b09170",
+          "name": "#b09170",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#413841",
           "name": "#413841",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#94745a",
+          "name": "#94745a",
           "reference": "marekm4"
         }
       ]
@@ -177,7 +177,7 @@
       }
     ],
     "wof:id": 1780332747,
-    "wof:lastmodified": 1753085128,
+    "wof:lastmodified": 1753171733,
     "wof:name": "service pin: Pan American World Airways, 15 years",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

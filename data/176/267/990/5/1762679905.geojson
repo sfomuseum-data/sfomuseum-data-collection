@@ -34,8 +34,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -44,18 +49,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
           "hex": "#414a4c",
           "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
           "reference": "crayola"
         },
         {
@@ -69,13 +74,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c5d0e6",
-          "name": "Periwinkle",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -86,18 +86,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#708090",
-          "name": "slategrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -116,27 +106,27 @@
           "reference": "css4"
         },
         {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#9b8769",
-          "name": "#9b8769",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3b2a26",
-          "name": "#3b2a26",
-          "reference": "marekm4"
-        },
         {
           "hex": "#c6d3da",
           "name": "#c6d3da",
@@ -153,8 +143,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#3b2a26",
+          "name": "#3b2a26",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#8f7259",
           "name": "#8f7259",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9b8769",
+          "name": "#9b8769",
           "reference": "marekm4"
         }
       ]
@@ -258,7 +258,7 @@
       }
     ],
     "wof:id": 1762679905,
-    "wof:lastmodified": 1753171666,
+    "wof:lastmodified": 1753257782,
     "wof:name": "postcard: American Airlines, Boeing 707,  Detroit Metropolitan Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

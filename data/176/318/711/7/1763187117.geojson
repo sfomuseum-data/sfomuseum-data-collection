@@ -29,13 +29,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#6699cc",
           "name": "Blue Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -44,13 +49,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
           "reference": "crayola"
         }
       ],
@@ -61,11 +61,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#dc143c",
           "name": "crimson",
           "reference": "css4"
@@ -73,6 +68,11 @@
         {
           "hex": "#9370db",
           "name": "mediumpurple",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
@@ -156,7 +156,7 @@
       }
     ],
     "wof:id": 1763187117,
-    "wof:lastmodified": 1753171709,
+    "wof:lastmodified": 1753257827,
     "wof:name": "miniature model airplane: Austrian Airlines, Fokker 70",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

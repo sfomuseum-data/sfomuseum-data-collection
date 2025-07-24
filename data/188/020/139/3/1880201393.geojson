@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -36,23 +41,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         }
       ],
@@ -60,6 +60,21 @@
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -71,32 +86,12 @@
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#53472f",
-          "name": "#53472f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#9b8e72",
-          "name": "#9b8e72",
+          "hex": "#87785c",
+          "name": "#87785c",
           "reference": "marekm4"
         },
         {
@@ -105,8 +100,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#87785c",
-          "name": "#87785c",
+          "hex": "#9b8e72",
+          "name": "#9b8e72",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#53472f",
+          "name": "#53472f",
           "reference": "marekm4"
         }
       ]
@@ -178,7 +178,7 @@
       }
     ],
     "wof:id": 1880201393,
-    "wof:lastmodified": 1753257861,
+    "wof:lastmodified": 1753344194,
     "wof:name": "photograph: CNAC (China National Aviation Corporation)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

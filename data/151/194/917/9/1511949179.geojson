@@ -25,8 +25,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -40,13 +45,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -55,13 +60,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -72,13 +72,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -87,13 +82,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -103,16 +103,6 @@
         }
       ],
       "marekm4": [
-        {
-          "hex": "#7b868f",
-          "name": "#7b868f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b0b4b9",
-          "name": "#b0b4b9",
-          "reference": "marekm4"
-        },
         {
           "hex": "#6b738a",
           "name": "#6b738a",
@@ -124,8 +114,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#b0b4b9",
+          "name": "#b0b4b9",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#9f8d76",
           "name": "#9f8d76",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#7b868f",
+          "name": "#7b868f",
           "reference": "marekm4"
         }
       ]
@@ -220,7 +220,7 @@
       }
     ],
     "wof:id": 1511949179,
-    "wof:lastmodified": 1753257769,
+    "wof:lastmodified": 1753344115,
     "wof:name": "negative: San Francisco International Airport (SFO), personnel",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

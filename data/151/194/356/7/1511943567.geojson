@@ -14,12 +14,22 @@
     "geom:latitude": 37.621360499999994,
     "geom:longitude": -122.381448,
     "iso:country": "US",
+    "millsfield:aircraft_id": [
+      1159290635
+    ],
+    "millsfield:airline_id": [
+      1159286385
+    ],
     "millsfield:airport_id": [
       102527513,
       1360695655
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159293619,
+      1159290633
+    ],
     "millsfield:images": [
       1527821421
     ],
@@ -107,6 +117,14 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.032.0134",
+    "sfomuseum:aircraft": "Fokker F-10A",
+    "sfomuseum:aircraft_id": [
+      586
+    ],
+    "sfomuseum:airline": "TWA (Transcontinental \u0026 Western Air)",
+    "sfomuseum:airline_id": [
+      1344
+    ],
     "sfomuseum:airport": "San Francisco Airport",
     "sfomuseum:airport_id": [
       121,
@@ -154,10 +172,23 @@
     "wof:created": 1579906683,
     "wof:depicts": [
       1360695655,
-      102527513
+      102527513,
+      1159286385,
+      1159290635,
+      1159293619,
+      1159290633
     ],
     "wof:geomhash": "fda2c2562cae0b6b99a07b8f9ebb436d",
     "wof:hierarchy": [
+      {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1511943567,
+        "object_id": 1511943567,
+        "region_id": 85688637
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -203,20 +234,11 @@
         "object_id": 1511943567,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      },
-      {
-        "campus_id": 1360695655,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1511943567,
-        "object_id": 1511943567,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1511943567,
-    "wof:lastmodified": 1753257756,
-    "wof:name": "negative: San Francisco Airport, Cahill group",
+    "wof:lastmodified": 1753342876,
+    "wof:name": "negative: San Francisco Airport, Cahill group; TWA Fokker F-10A",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

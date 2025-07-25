@@ -25,11 +25,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -45,12 +40,32 @@
           "reference": "crayola"
         },
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
@@ -60,29 +75,9 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b4b4b5",
-          "name": "#b4b4b5",
-          "reference": "marekm4"
-        },
         {
           "hex": "#32181b",
           "name": "#32181b",
@@ -91,6 +86,11 @@
         {
           "hex": "#b0b0b1",
           "name": "#b0b0b1",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b4b4b5",
+          "name": "#b4b4b5",
           "reference": "marekm4"
         },
         {
@@ -160,7 +160,7 @@
       }
     ],
     "wof:id": 1880456197,
-    "wof:lastmodified": 1753344200,
+    "wof:lastmodified": 1753430598,
     "wof:name": "flight attendant jacket: Northwest Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

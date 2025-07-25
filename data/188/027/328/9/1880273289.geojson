@@ -33,8 +33,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bc5d58",
-          "name": "Chestnut",
+          "hex": "#c8385a",
+          "name": "Maroon",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -43,8 +48,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bc5d58",
+          "name": "Chestnut",
           "reference": "crayola"
         },
         {
@@ -56,27 +66,17 @@
           "hex": "#2e5894",
           "name": "B'dazzled Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#c8385a",
-          "name": "Maroon",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
+          "hex": "#cd5c5c",
+          "name": "indianred",
           "reference": "css4"
         },
         {
@@ -90,8 +90,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
           "reference": "css4"
         },
         {
@@ -100,22 +100,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#cd5c5c",
-          "name": "indianred",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#bb244d",
-          "name": "#bb244d",
-          "reference": "marekm4"
-        },
         {
           "hex": "#a29fa1",
           "name": "#a29fa1",
@@ -134,6 +129,11 @@
         {
           "hex": "#5e91a9",
           "name": "#5e91a9",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bb244d",
+          "name": "#bb244d",
           "reference": "marekm4"
         }
       ]
@@ -217,7 +217,7 @@
       }
     ],
     "wof:id": 1880273289,
-    "wof:lastmodified": 1753344226,
+    "wof:lastmodified": 1753430624,
     "wof:name": "model airplane: Lufthansa German Airlines, Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -36,18 +41,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -58,18 +58,8 @@
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -81,17 +71,27 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#555555",
-          "name": "#555555",
+          "hex": "#c3c3c3",
+          "name": "#c3c3c3",
           "reference": "marekm4"
         },
         {
-          "hex": "#c3c3c3",
-          "name": "#c3c3c3",
+          "hex": "#555555",
+          "name": "#555555",
           "reference": "marekm4"
         }
       ]
@@ -210,7 +210,7 @@
       }
     ],
     "wof:id": 1511943967,
-    "wof:lastmodified": 1753344105,
+    "wof:lastmodified": 1753430500,
     "wof:name": "negative: San Francisco Airport, Terminal Building construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

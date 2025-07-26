@@ -31,8 +31,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -46,16 +51,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ffae42",
-          "name": "Yellow Orange",
-          "reference": "crayola"
-        },
-        {
           "hex": "#1a4876",
           "name": "Midnight Blue",
           "reference": "crayola"
@@ -64,9 +59,39 @@
           "hex": "#ffcf48",
           "name": "Sunglow",
           "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -80,31 +105,6 @@
         {
           "hex": "#191970",
           "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f4a460",
-          "name": "sandybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#daa520",
-          "name": "goldenrod",
           "reference": "css4"
         }
       ],
@@ -120,13 +120,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#252926",
-          "name": "#252926",
+          "hex": "#f0b228",
+          "name": "#f0b228",
           "reference": "marekm4"
         },
         {
-          "hex": "#f0b228",
-          "name": "#f0b228",
+          "hex": "#252926",
+          "name": "#252926",
           "reference": "marekm4"
         }
       ]
@@ -222,7 +222,7 @@
       }
     ],
     "wof:id": 1511908221,
-    "wof:lastmodified": 1753430624,
+    "wof:lastmodified": 1753517136,
     "wof:name": "flight information guide: Pan American World Airways, Boeing 377 Stratocruiser",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",

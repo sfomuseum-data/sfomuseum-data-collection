@@ -26,8 +26,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
           "reference": "crayola"
         },
         {
@@ -36,18 +46,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#a57164",
-          "name": "Blast Off Bronze",
           "reference": "crayola"
         },
         {
@@ -63,21 +63,6 @@
       ],
       "css4": [
         {
-          "hex": "#cd853f",
-          "name": "peru",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
@@ -88,8 +73,23 @@
           "reference": "css4"
         },
         {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#cd853f",
+          "name": "peru",
           "reference": "css4"
         }
       ],
@@ -100,11 +100,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#aeacad",
-          "name": "#aeacad",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#29241f",
           "name": "#29241f",
           "reference": "marekm4"
@@ -112,6 +107,11 @@
         {
           "hex": "#8f6f3a",
           "name": "#8f6f3a",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aeacad",
+          "name": "#aeacad",
           "reference": "marekm4"
         }
       ]
@@ -177,7 +177,7 @@
       }
     ],
     "wof:id": 1762923301,
-    "wof:lastmodified": 1753430553,
+    "wof:lastmodified": 1753517062,
     "wof:name": "flight officer epaulettes: Japan Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

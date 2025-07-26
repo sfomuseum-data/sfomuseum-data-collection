@@ -34,8 +34,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -44,8 +44,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
@@ -61,16 +61,6 @@
       ],
       "css4": [
         {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#9370db",
-          "name": "mediumpurple",
-          "reference": "css4"
-        },
-        {
           "hex": "#6a5acd",
           "name": "slateblue",
           "reference": "css4"
@@ -79,14 +69,19 @@
           "hex": "#483d8b",
           "name": "darkslateblue",
           "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#9370db",
+          "name": "mediumpurple",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#8990e0",
-          "name": "#8990e0",
-          "reference": "marekm4"
-        },
         {
           "hex": "#6570c1",
           "name": "#6570c1",
@@ -100,6 +95,11 @@
         {
           "hex": "#14141e",
           "name": "#14141e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#8990e0",
+          "name": "#8990e0",
           "reference": "marekm4"
         }
       ]
@@ -202,7 +202,7 @@
       }
     ],
     "wof:id": 1511926231,
-    "wof:lastmodified": 1753430488,
+    "wof:lastmodified": 1753516998,
     "wof:name": "slide: Pacific Southwest Airlines (PSA), Douglas DC-9 Super 80, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

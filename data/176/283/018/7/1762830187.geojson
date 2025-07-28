@@ -29,8 +29,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
@@ -44,13 +49,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         }
       ],
@@ -58,6 +58,11 @@
         {
           "hex": "#8b4513",
           "name": "saddlebrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -71,11 +76,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
@@ -83,23 +83,23 @@
       ],
       "marekm4": [
         {
-          "hex": "#dab9a7",
-          "name": "#dab9a7",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#b38b73",
           "name": "#b38b73",
           "reference": "marekm4"
         },
         {
-          "hex": "#4f2c10",
-          "name": "#4f2c10",
+          "hex": "#dab9a7",
+          "name": "#dab9a7",
           "reference": "marekm4"
         },
         {
           "hex": "#956a4c",
           "name": "#956a4c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4f2c10",
+          "name": "#4f2c10",
           "reference": "marekm4"
         }
       ]
@@ -180,7 +180,7 @@
       }
     ],
     "wof:id": 1762830187,
-    "wof:lastmodified": 1753517054,
+    "wof:lastmodified": 1753689898,
     "wof:name": "photograph: Aeroflot Soviet Airlines, Ilyushin Il-62",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

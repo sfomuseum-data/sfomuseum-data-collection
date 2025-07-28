@@ -28,8 +28,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -38,18 +43,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -60,33 +60,8 @@
       ],
       "css4": [
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#daa520",
-          "name": "goldenrod",
           "reference": "css4"
         },
         {
@@ -95,12 +70,42 @@
           "reference": "css4"
         },
         {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#d2691e",
           "name": "chocolate",
+          "reference": "css4"
+        },
+        {
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#241e1d",
+          "name": "#241e1d",
+          "reference": "marekm4"
+        },
         {
           "hex": "#c73210",
           "name": "#c73210",
@@ -114,11 +119,6 @@
         {
           "hex": "#c5c2b8",
           "name": "#c5c2b8",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#241e1d",
-          "name": "#241e1d",
           "reference": "marekm4"
         }
       ]
@@ -197,7 +197,7 @@
       }
     ],
     "wof:id": 1511939599,
-    "wof:lastmodified": 1753517010,
+    "wof:lastmodified": 1753689860,
     "wof:name": "timetable: Sky West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

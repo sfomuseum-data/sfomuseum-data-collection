@@ -34,16 +34,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c5d0e6",
-          "name": "Periwinkle",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -54,8 +44,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -64,8 +59,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
           "reference": "crayola"
         }
       ],
@@ -73,6 +73,26 @@
         {
           "hex": "#708090",
           "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -86,42 +106,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#e6e6fa",
-          "name": "lavender",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#b0c4de",
           "name": "lightsteelblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#7687bc",
-          "name": "#7687bc",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#867890",
-          "name": "#867890",
-          "reference": "marekm4"
-        },
         {
           "hex": "#4a445b",
           "name": "#4a445b",
@@ -133,8 +123,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#7687bc",
+          "name": "#7687bc",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#bec4de",
           "name": "#bec4de",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#867890",
+          "name": "#867890",
           "reference": "marekm4"
         }
       ]
@@ -243,7 +243,7 @@
       }
     ],
     "wof:id": 1762830211,
-    "wof:lastmodified": 1753689898,
+    "wof:lastmodified": 1753776490,
     "wof:name": "slide: San Francisco International Airport (SFO), Japan Air Lines, Boeing 747-100 [digital image]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

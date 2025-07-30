@@ -23,8 +23,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#85754e",
+          "name": "Gold Fusion",
           "reference": "crayola"
         },
         {
@@ -33,13 +38,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -48,12 +48,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#bdb76b",
           "name": "darkkhaki",
@@ -70,11 +75,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
@@ -87,16 +87,6 @@
       ],
       "marekm4": [
         {
-          "hex": "#877852",
-          "name": "#877852",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#ac9b6e",
-          "name": "#ac9b6e",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#d6cbad",
           "name": "#d6cbad",
           "reference": "marekm4"
@@ -104,6 +94,16 @@
         {
           "hex": "#3f3925",
           "name": "#3f3925",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#877852",
+          "name": "#877852",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ac9b6e",
+          "name": "#ac9b6e",
           "reference": "marekm4"
         }
       ]
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1897082061,
-    "wof:lastmodified": 1753776545,
+    "wof:lastmodified": 1753863868,
     "wof:name": "photograph: HMB’s WACO with Warner engine",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

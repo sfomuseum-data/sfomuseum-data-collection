@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
@@ -42,13 +47,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c",
-          "name": "Mahogany",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -57,8 +57,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -69,13 +69,18 @@
       ],
       "css4": [
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
           "hex": "#cd5c5c",
           "name": "indianred",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -89,27 +94,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#35505d",
-          "name": "#35505d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c24537",
-          "name": "#c24537",
-          "reference": "marekm4"
-        },
         {
           "hex": "#ac9478",
           "name": "#ac9478",
@@ -118,6 +108,16 @@
         {
           "hex": "#d7ccbb",
           "name": "#d7ccbb",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c24537",
+          "name": "#c24537",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#35505d",
+          "name": "#35505d",
           "reference": "marekm4"
         }
       ]
@@ -194,7 +194,7 @@
       }
     ],
     "wof:id": 1779437595,
-    "wof:lastmodified": 1753776513,
+    "wof:lastmodified": 1753863835,
     "wof:name": "poster: Eastern Air Lines, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

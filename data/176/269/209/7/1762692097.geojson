@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#e3256b",
+          "name": "Razzmatazz",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
           "reference": "crayola"
         },
         {
@@ -41,13 +46,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#e3256b",
-          "name": "Razzmatazz",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -90,11 +90,6 @@
       ],
       "marekm4": [
         {
-          "hex": "#cd1825",
-          "name": "#cd1825",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#dfcfb9",
           "name": "#dfcfb9",
           "reference": "marekm4"
@@ -102,6 +97,11 @@
         {
           "hex": "#c20d87",
           "name": "#c20d87",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#cd1825",
+          "name": "#cd1825",
           "reference": "marekm4"
         }
       ]
@@ -171,7 +171,7 @@
       }
     ],
     "wof:id": 1762692097,
-    "wof:lastmodified": 1753949284,
+    "wof:lastmodified": 1754036045,
     "wof:name": "timetable: Air West",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

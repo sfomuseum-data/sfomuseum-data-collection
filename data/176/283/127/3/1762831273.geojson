@@ -26,8 +26,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -41,30 +51,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ffffff",
-          "name": "White",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#fffafa",
+          "name": "snow",
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -73,30 +78,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#fffafa",
-          "name": "snow",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         },
         {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3a343e",
-          "name": "#3a343e",
+          "hex": "#fcfcfb",
+          "name": "#fcfcfb",
           "reference": "marekm4"
         },
         {
-          "hex": "#fcfcfb",
-          "name": "#fcfcfb",
+          "hex": "#3a343e",
+          "name": "#3a343e",
           "reference": "marekm4"
         }
       ]
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1762831273,
-    "wof:lastmodified": 1753949305,
+    "wof:lastmodified": 1754036068,
     "wof:name": "airline diagram: Delta Air Lines, Family tree",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

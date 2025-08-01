@@ -22,14 +22,24 @@
     ],
     "millsfield:exhibition_ids": [
       1914632803,
-      1947305541,
-      1896874709
+      1896874709,
+      1947305541
     ],
     "millsfield:images": [
       1863873687
     ],
     "millsfield:images_colors_refs": {
       "crayola": [
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
+        },
         {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
@@ -39,19 +49,24 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#714b23",
-          "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
+        },
         {
           "hex": "#8b0000",
           "name": "darkred",
@@ -61,29 +76,9 @@
           "hex": "#8b4513",
           "name": "saddlebrown",
           "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b5b6ba",
-          "name": "#b5b6ba",
-          "reference": "marekm4"
-        },
         {
           "hex": "#6c1519",
           "name": "#6c1519",
@@ -92,6 +87,11 @@
         {
           "hex": "#89171c",
           "name": "#89171c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b5b6ba",
+          "name": "#b5b6ba",
           "reference": "marekm4"
         }
       ]
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1863873647,
-    "wof:lastmodified": 1753949398,
+    "wof:lastmodified": 1754036148,
     "wof:name": "boarding gate red carpet: Virgin America",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

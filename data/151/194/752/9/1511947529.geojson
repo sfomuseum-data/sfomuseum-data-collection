@@ -34,8 +34,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
           "reference": "crayola"
         },
         {
@@ -49,35 +54,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#e6e6fa",
-          "name": "lavender",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         },
         {
@@ -86,8 +81,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
@@ -212,7 +212,7 @@
       }
     ],
     "wof:id": 1511947529,
-    "wof:lastmodified": 1754036027,
+    "wof:lastmodified": 1754122160,
     "wof:name": "photograph: San Francisco International Airport (SFO), Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

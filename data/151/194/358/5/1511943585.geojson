@@ -26,6 +26,21 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -39,21 +54,6 @@
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
@@ -63,13 +63,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -78,8 +73,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         }
       ],
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1511943585,
-    "wof:lastmodified": 1754294989,
+    "wof:lastmodified": 1754343724,
     "wof:name": "negative: San Francisco Airport, spillway survey",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

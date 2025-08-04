@@ -23,8 +23,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697",
-          "name": "Gold",
+          "hex": "#fcd975",
+          "name": "Goldenrod",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -33,8 +38,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#edd19c",
+          "name": "Maize",
           "reference": "crayola"
         },
         {
@@ -48,13 +53,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#edd19c",
-          "name": "Maize",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -63,20 +63,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#fcd975",
-          "name": "Goldenrod",
+          "hex": "#e7c697",
+          "name": "Gold",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f0e68c",
-          "name": "khaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -85,8 +80,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
+        },
+        {
           "hex": "#d2b48c",
           "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f0e68c",
+          "name": "khaki",
           "reference": "css4"
         },
         {
@@ -97,11 +102,6 @@
         {
           "hex": "#556b2f",
           "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -122,11 +122,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#e0cb8d",
-          "name": "#e0cb8d",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#e3c978",
           "name": "#e3c978",
           "reference": "marekm4"
@@ -134,6 +129,11 @@
         {
           "hex": "#d0b779",
           "name": "#d0b779",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#e0cb8d",
+          "name": "#e0cb8d",
           "reference": "marekm4"
         }
       ]
@@ -218,7 +218,7 @@
       }
     ],
     "wof:id": 1511908901,
-    "wof:lastmodified": 1754295142,
+    "wof:lastmodified": 1754343883,
     "wof:name": "airmail flight cover: H.R. Ekins",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

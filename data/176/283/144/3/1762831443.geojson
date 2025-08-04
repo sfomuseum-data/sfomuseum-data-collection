@@ -2,12 +2,12 @@
   "id": 1762831443,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1993-01-01",
-    "date:cessation_upper": "1993-12-31",
-    "date:inception_lower": "1993-01-01",
-    "date:inception_upper": "1993-12-31",
-    "edtf:cessation": "1993",
-    "edtf:inception": "1993",
+    "date:cessation_lower": "1991-01-01",
+    "date:cessation_upper": "1991-12-31",
+    "date:inception_lower": "1991-01-01",
+    "date:inception_upper": "1991-12-31",
+    "edtf:cessation": "1991",
+    "edtf:inception": "1991",
     "geom:area": 0,
     "geom:bbox": "-73.787845,40.643286,-73.787845,40.643286",
     "geom:latitude": 40.643286,
@@ -33,23 +33,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -63,17 +48,27 @@
           "reference": "crayola"
         },
         {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#8a795d",
           "name": "Shadow",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#c0c0c0",
           "name": "silver",
@@ -88,27 +83,32 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#cec0a8",
-          "name": "#cec0a8",
-          "reference": "marekm4"
-        },
         {
           "hex": "#8e6e5b",
           "name": "#8e6e5b",
           "reference": "marekm4"
         },
         {
-          "hex": "#ae8f6b",
-          "name": "#ae8f6b",
+          "hex": "#494347",
+          "name": "#494347",
           "reference": "marekm4"
         },
         {
-          "hex": "#494347",
-          "name": "#494347",
+          "hex": "#cec0a8",
+          "name": "#cec0a8",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ae8f6b",
+          "name": "#ae8f6b",
           "reference": "marekm4"
         }
       ]
@@ -143,16 +143,16 @@
     "sfomuseum:classification_id": 129,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
-    "sfomuseum:date": "1993",
+    "sfomuseum:date": "1991",
     "sfomuseum:date_acquired": "2013-07-16",
-    "sfomuseum:daterange_end": "1993-12-31",
-    "sfomuseum:daterange_start": "1993-01-01",
+    "sfomuseum:daterange_end": "1991-12-31",
+    "sfomuseum:daterange_start": "1991-01-01",
     "sfomuseum:description": "Color photograph depicting TWA (Trans World Airlines) Convair 580 at gate, John F. Kennedy International Airport (JFK).",
     "sfomuseum:dimensions": "8 x 10 inches (20.3 x 25.4 cm)",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 141265,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1993.",
+    "sfomuseum:publication": ": , 1991.",
     "sfomuseum:registration_number": "N5810",
     "sfomuseum:subcategory": "Print, Photograph",
     "src:geom": "sfomuseum#derived",
@@ -187,18 +187,6 @@
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
       {
-        "borough_id": 421205767,
-        "campus_id": 102534365,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082377,
-        "custom_id": 1762831443,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
-        "object_id": 1762831443,
-        "region_id": 85688543
-      },
-      {
         "building_id": -1,
         "campus_id": 102527513,
         "collection_id": 1159162825,
@@ -212,10 +200,22 @@
         "object_id": 1762831443,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "custom_id": 1762831443,
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "object_id": 1762831443,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1762831443,
-    "wof:lastmodified": 1754295039,
+    "wof:lastmodified": 1754343785,
     "wof:name": "photograph: TWA (Trans World Airlines), Convair 580",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

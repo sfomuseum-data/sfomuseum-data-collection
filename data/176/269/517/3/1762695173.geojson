@@ -27,6 +27,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -34,11 +39,6 @@
         {
           "hex": "#efdecd",
           "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -52,27 +52,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -89,25 +79,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4e4940",
-          "name": "#4e4940",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#d9d2bf",
-          "name": "#d9d2bf",
+          "hex": "#8c8779",
+          "name": "#8c8779",
           "reference": "marekm4"
         },
         {
@@ -116,8 +111,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#8c8778",
-          "name": "#8c8778",
+          "hex": "#d9d2bf",
+          "name": "#d9d2bf",
           "reference": "marekm4"
         },
         {
@@ -126,8 +121,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#8c8779",
-          "name": "#8c8779",
+          "hex": "#8c8778",
+          "name": "#8c8778",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4e4940",
+          "name": "#4e4940",
           "reference": "marekm4"
         }
       ]
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1762695173,
-    "wof:lastmodified": 1754295023,
+    "wof:lastmodified": 1754343769,
     "wof:name": "timetable: Western Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

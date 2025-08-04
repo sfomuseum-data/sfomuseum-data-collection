@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#5d76cb",
+          "name": "Indigo",
           "reference": "crayola"
         },
         {
@@ -42,8 +47,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#5d76cb",
-          "name": "Indigo",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -55,14 +60,29 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
         {
           "hex": "#5f9ea0",
           "name": "cadetblue",
@@ -72,34 +92,9 @@
           "hex": "#4682b4",
           "name": "steelblue",
           "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#6992ad",
-          "name": "#6992ad",
-          "reference": "marekm4"
-        },
         {
           "hex": "#497296",
           "name": "#497296",
@@ -116,13 +111,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#b4b5b5",
+          "name": "#b4b5b5",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#294b6e",
           "name": "#294b6e",
           "reference": "marekm4"
         },
         {
-          "hex": "#6a92ae",
-          "name": "#6a92ae",
+          "hex": "#6992ad",
+          "name": "#6992ad",
           "reference": "marekm4"
         },
         {
@@ -131,8 +131,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#b4b5b5",
-          "name": "#b4b5b5",
+          "hex": "#6a92ae",
+          "name": "#6a92ae",
           "reference": "marekm4"
         }
       ]
@@ -198,7 +198,7 @@
       }
     ],
     "wof:id": 1880497599,
-    "wof:lastmodified": 1754295108,
+    "wof:lastmodified": 1754343850,
     "wof:name": "flight attendant jacket: United Airlines, Hawai’i service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

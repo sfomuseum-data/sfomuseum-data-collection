@@ -10,9 +10,9 @@
     "edtf:date": "",
     "edtf:inception": "1948-07-01",
     "geom:area": 0,
-    "geom:bbox": "-73.787845,40.643286,-73.787845,40.643286",
-    "geom:latitude": 40.643286,
-    "geom:longitude": -73.787845,
+    "geom:bbox": "-90.678889,33.485833,-90.678889,33.485833",
+    "geom:latitude": 33.485833,
+    "geom:longitude": -90.678889,
     "iso:country": "US",
     "millsfield:airport_id": [
       102534069
@@ -137,7 +137,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2014.156.217",
-    "sfomuseum:airport": "Idlewild Airport",
+    "sfomuseum:airport": "Idlewild Airport (John F. Kennedy International Airport)",
     "sfomuseum:airport_id": [
       164
     ],
@@ -162,7 +162,7 @@
     "sfomuseum:subcategory": "Airmail Flight Cover",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
-      1746879091
+      102534069
     ],
     "wof:belongsto": [
       102527513,
@@ -173,33 +173,24 @@
       85688637,
       1159162825,
       1159160869,
-      1746879091,
-      421205767,
-      102082377,
-      85977539,
-      907131691,
-      85688543
+      102534069,
+      85688579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1579906669,
     "wof:depicts": [
-      1746879091,
-      102534069
+      102534069,
+      1746879091
     ],
-    "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
+    "wof:geomhash": "2b1cb18b20d479af7d60ca7806ff84aa",
     "wof:hierarchy": [
       {
-        "borough_id": 421205767,
-        "campus_id": 1746879091,
-        "continent_id": 102191575,
+        "campus_id": 102534069,
         "country_id": 85633793,
-        "county_id": 102082377,
         "custom_id": 1511957593,
-        "locality_id": 85977539,
-        "neighbourhood_id": 907131691,
         "object_id": 1511957593,
-        "region_id": 85688543
+        "region_id": 85688579
       },
       {
         "building_id": -1,
@@ -218,7 +209,7 @@
       }
     ],
     "wof:id": 1511957593,
-    "wof:lastmodified": 1754295005,
+    "wof:lastmodified": 1754342375,
     "wof:name": "airmail flight cover: New York International Airport - Idlewild",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -231,10 +222,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -73.787845,
-    40.643286,
-    -73.787845,
-    40.643286
+    -90.678889,
+    33.485833,
+    -90.678889,
+    33.485833
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-90.678889,33.485833]],"type":"MultiPoint"}
 }

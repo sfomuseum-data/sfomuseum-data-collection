@@ -209,7 +209,7 @@
     "sfomuseum:airline_id": [
       169
     ],
-    "sfomuseum:airport": "Idlewild Airport",
+    "sfomuseum:airport": "Idlewild Airport (John F. Kennedy International Airport)",
     "sfomuseum:airport_id": [
       164
     ],
@@ -256,20 +256,13 @@
     "wof:country": "US",
     "wof:created": 1579906671,
     "wof:depicts": [
-      1360700619,
       1159283849,
       102534069,
-      1746879091
+      1746879091,
+      1360700619
     ],
     "wof:geomhash": "2b1cb18b20d479af7d60ca7806ff84aa",
     "wof:hierarchy": [
-      {
-        "campus_id": 102534069,
-        "country_id": 85633793,
-        "custom_id": 1511929421,
-        "object_id": 1511929421,
-        "region_id": 85688579
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -284,10 +277,17 @@
         "object_id": 1511929421,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102534069,
+        "country_id": 85633793,
+        "custom_id": 1511929421,
+        "object_id": 1511929421,
+        "region_id": 85688579
       }
     ],
     "wof:id": 1511929421,
-    "wof:lastmodified": 1754294981,
+    "wof:lastmodified": 1754342383,
     "wof:name": "baggage destination tag: American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -2,19 +2,22 @@
   "id": 1762693795,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1950-01-01",
-    "date:cessation_upper": "1959-12-31",
-    "date:inception_lower": "1950-01-01",
-    "date:inception_upper": "1959-12-31",
-    "edtf:cessation": "195X",
-    "edtf:inception": "195X",
+    "date:cessation_lower": "1940-01-01",
+    "date:cessation_upper": "1949-12-31",
+    "date:inception_lower": "1940-01-01",
+    "date:inception_upper": "1949-12-31",
+    "edtf:cessation": "194X",
+    "edtf:inception": "194X",
     "geom:area": 0,
     "geom:bbox": "-73.875778,40.774956,-73.875778,40.774956",
     "geom:latitude": 40.774956,
     "geom:longitude": -73.875778,
     "iso:country": "US",
     "millsfield:aircraft_id": [
-      1159292981
+      1159289623
+    ],
+    "millsfield:airline_id": [
+      1159284991
     ],
     "millsfield:airport_id": [
       102526001
@@ -22,7 +25,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159293697
+      1159293593
     ],
     "millsfield:images": [
       1762711707,
@@ -164,9 +167,13 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2015.166.2123",
-    "sfomuseum:aircraft": "Lockheed Constellation",
+    "sfomuseum:aircraft": "Boeing 314 Atlantic Clipper",
     "sfomuseum:aircraft_id": [
-      1666
+      120
+    ],
+    "sfomuseum:airline": "Pan American Airways",
+    "sfomuseum:airline_id": [
+      685
     ],
     "sfomuseum:airport": "LaGuardia Airport",
     "sfomuseum:airport_id": [
@@ -176,16 +183,16 @@
     "sfomuseum:classification_id": 127,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
-    "sfomuseum:date": "1950s",
+    "sfomuseum:date": "1940s",
     "sfomuseum:date_acquired": "2017-01-13",
-    "sfomuseum:daterange_end": "1959-12-31",
-    "sfomuseum:daterange_start": "1950-01-01",
-    "sfomuseum:description": "Black and white postcard with photographic image depicting La Guardia Airport and Lockheed Constellation in air; aerial view.",
+    "sfomuseum:daterange_end": "1949-12-31",
+    "sfomuseum:daterange_start": "1940-01-01",
+    "sfomuseum:description": "Black and white postcard with photographic image depicting La Guardia Airport and Marine Base with Pan American Boeing 314 Atlantic Clipper; aerial view.",
     "sfomuseum:dimensions": "3 1/2 x 5 1/2 inches (8.9 x 14 cm)",
     "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 181884,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1950s.",
+    "sfomuseum:publication": ": , 1940s.",
     "sfomuseum:subcategory": "Postcard",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
@@ -210,9 +217,12 @@
     "wof:country": "US",
     "wof:created": 1641344096,
     "wof:depicts": [
+      1159293697,
+      1159284991,
+      1159289623,
+      1159293593,
       102526001,
-      1159292981,
-      1159293697
+      1159292981
     ],
     "wof:geomhash": "2bd90d65b7f03a1b5c911d17c1bf9349",
     "wof:hierarchy": [
@@ -245,8 +255,8 @@
       }
     ],
     "wof:id": 1762693795,
-    "wof:lastmodified": 1754295019,
-    "wof:name": "postcard: Lockheed Constellation, LaGuardia Airport",
+    "wof:lastmodified": 1754342361,
+    "wof:name": "postcard: Boeing 314 Atlantic Clipper, LaGuardia Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

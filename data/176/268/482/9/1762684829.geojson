@@ -24,16 +24,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#c46210",
           "name": "Alloy Orange",
           "reference": "crayola"
@@ -44,13 +34,23 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         },
         {
           "hex": "#000000",
           "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -61,13 +61,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#b22222",
-          "name": "firebrick",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         },
         {
@@ -78,11 +83,6 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#ff4500",
-          "name": "orangered",
           "reference": "css4"
         }
       ],
@@ -180,7 +180,7 @@
       }
     ],
     "wof:id": 1762684829,
-    "wof:lastmodified": 1754122188,
+    "wof:lastmodified": 1754295022,
     "wof:name": "timetable: Sacramento International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

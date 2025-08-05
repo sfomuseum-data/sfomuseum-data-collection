@@ -27,8 +27,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -42,18 +52,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -61,6 +61,11 @@
         {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -74,11 +79,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
@@ -86,23 +86,23 @@
       ],
       "marekm4": [
         {
-          "hex": "#1d1d2b",
-          "name": "#1d1d2b",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#afafb0",
           "name": "#afafb0",
           "reference": "marekm4"
         },
         {
-          "hex": "#1c1c2b",
-          "name": "#1c1c2b",
+          "hex": "#1d1d2b",
+          "name": "#1d1d2b",
           "reference": "marekm4"
         },
         {
           "hex": "#b0b0b1",
           "name": "#b0b0b1",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#1c1c2b",
+          "name": "#1c1c2b",
           "reference": "marekm4"
         }
       ]
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1880439727,
-    "wof:lastmodified": 1754343848,
+    "wof:lastmodified": 1754381406,
     "wof:name": "stewardess jacket: Cathay Pacific Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

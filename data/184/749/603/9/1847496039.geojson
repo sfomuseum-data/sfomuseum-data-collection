@@ -29,8 +29,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -39,18 +44,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#fddde6",
           "name": "Piggy Pink",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
           "reference": "crayola"
         }
       ],
@@ -66,11 +66,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
@@ -79,17 +74,22 @@
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#494949",
-          "name": "#494949",
+          "hex": "#bdbdbd",
+          "name": "#bdbdbd",
           "reference": "marekm4"
         },
         {
-          "hex": "#bdbdbd",
-          "name": "#bdbdbd",
+          "hex": "#494949",
+          "name": "#494949",
           "reference": "marekm4"
         }
       ]
@@ -159,7 +159,7 @@
       }
     ],
     "wof:id": 1847496039,
-    "wof:lastmodified": 1754381397,
+    "wof:lastmodified": 1754467939,
     "wof:name": "photograph: aircraft inspection",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

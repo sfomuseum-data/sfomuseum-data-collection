@@ -20,13 +20,28 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#9f8170",
           "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -38,29 +53,9 @@
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -72,8 +67,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
@@ -82,17 +77,27 @@
           "reference": "css4"
         },
         {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#423e2b",
+          "name": "#423e2b",
+          "reference": "marekm4"
+        },
         {
           "hex": "#968c75",
           "name": "#968c75",
@@ -106,11 +111,6 @@
         {
           "hex": "#d8d3c8",
           "name": "#d8d3c8",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#423e2b",
-          "name": "#423e2b",
           "reference": "marekm4"
         }
       ]
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1913727765,
-    "wof:lastmodified": 1754467957,
+    "wof:lastmodified": 1754554226,
     "wof:name": "photograph: early aviation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

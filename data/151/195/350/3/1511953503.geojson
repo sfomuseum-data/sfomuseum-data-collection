@@ -32,6 +32,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#a5694f",
           "name": "Sepia",
           "reference": "crayola"
@@ -42,13 +47,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
           "hex": "#757575",
           "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
@@ -60,16 +70,6 @@
           "hex": "#9c7c38",
           "name": "Metallic Sunburst",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
         }
       ],
       "css4": [
@@ -79,8 +79,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
           "reference": "css4"
         },
         {
@@ -89,8 +89,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -99,40 +104,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#cd853f",
-          "name": "peru",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         },
         {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c4a774",
-          "name": "#c4a774",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#493927",
-          "name": "#493927",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#ba9768",
           "name": "#ba9768",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9f5549",
+          "name": "#9f5549",
           "reference": "marekm4"
         },
         {
@@ -141,13 +136,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#e7dfd2",
-          "name": "#e7dfd2",
+          "hex": "#493927",
+          "name": "#493927",
           "reference": "marekm4"
         },
         {
-          "hex": "#9f5549",
-          "name": "#9f5549",
+          "hex": "#c4a774",
+          "name": "#c4a774",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#e7dfd2",
+          "name": "#e7dfd2",
           "reference": "marekm4"
         },
         {
@@ -245,7 +245,7 @@
       }
     ],
     "wof:id": 1511953503,
-    "wof:lastmodified": 1754467851,
+    "wof:lastmodified": 1754554109,
     "wof:name": "airmail flight cover: Pan American Airways, first Pacific survey flight, California - Hawaii route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

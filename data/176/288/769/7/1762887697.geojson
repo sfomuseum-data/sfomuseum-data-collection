@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -41,18 +46,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -61,22 +56,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
-        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -93,11 +83,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
@@ -108,25 +93,30 @@
           "reference": "css4"
         },
         {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7d8286",
-          "name": "#7d8286",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#cccbcb",
-          "name": "#cccbcb",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#5e628a",
-          "name": "#5e628a",
+          "hex": "#313464",
+          "name": "#313464",
           "reference": "marekm4"
         },
         {
@@ -135,8 +125,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#313464",
-          "name": "#313464",
+          "hex": "#cccbcb",
+          "name": "#cccbcb",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#7d8286",
+          "name": "#7d8286",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#5e628a",
+          "name": "#5e628a",
           "reference": "marekm4"
         }
       ]
@@ -206,7 +206,7 @@
       }
     ],
     "wof:id": 1762887697,
-    "wof:lastmodified": 1754467895,
+    "wof:lastmodified": 1754554157,
     "wof:name": "luggage label: Allegheny Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

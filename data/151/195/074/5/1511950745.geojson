@@ -29,11 +29,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#c46210",
           "name": "Alloy Orange",
           "reference": "crayola"
@@ -44,13 +39,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -62,9 +57,24 @@
           "hex": "#cd9575",
           "name": "Antique Brass",
           "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#bdb76b",
           "name": "darkkhaki",
@@ -76,8 +86,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         },
         {
@@ -89,27 +99,12 @@
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfcb97",
-          "name": "#dfcb97",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c3a167",
-          "name": "#c3a167",
+          "hex": "#ad4723",
+          "name": "#ad4723",
           "reference": "marekm4"
         },
         {
@@ -118,8 +113,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#ad4723",
-          "name": "#ad4723",
+          "hex": "#c3a167",
+          "name": "#c3a167",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#dfcb97",
+          "name": "#dfcb97",
           "reference": "marekm4"
         }
       ]
@@ -200,7 +200,7 @@
       }
     ],
     "wof:id": 1511950745,
-    "wof:lastmodified": 1754467845,
+    "wof:lastmodified": 1754554103,
     "wof:name": "timetable: Alaska Airlines, includes Horizon Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -22,8 +22,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -32,32 +37,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
         {
           "hex": "#bc8f8f",
           "name": "rosybrown",
@@ -66,6 +56,16 @@
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         }
       ],
@@ -143,7 +143,7 @@
       }
     ],
     "wof:id": 1511942439,
-    "wof:lastmodified": 1754554102,
+    "wof:lastmodified": 1754640848,
     "wof:name": "photograph: San Francisco Bay Area, night view from Telegraph Hill",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

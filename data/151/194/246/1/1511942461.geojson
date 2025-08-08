@@ -22,8 +22,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#85754e",
+          "name": "Gold Fusion",
           "reference": "crayola"
         },
         {
@@ -37,18 +42,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -69,13 +69,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#d2b48c",
-          "name": "tan",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
           "reference": "css4"
         },
         {
@@ -87,22 +92,12 @@
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
           "hex": "#a39871",
           "name": "#a39871",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#cfc6a7",
-          "name": "#cfc6a7",
           "reference": "marekm4"
         },
         {
@@ -113,6 +108,11 @@
         {
           "hex": "#857b59",
           "name": "#857b59",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#cfc6a7",
+          "name": "#cfc6a7",
           "reference": "marekm4"
         }
       ]
@@ -178,7 +178,7 @@
       }
     ],
     "wof:id": 1511942461,
-    "wof:lastmodified": 1754554102,
+    "wof:lastmodified": 1754640848,
     "wof:name": "photograph: San Francisco Bay Area aerial, downtown and piers",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

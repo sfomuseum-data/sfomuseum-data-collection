@@ -27,6 +27,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
@@ -34,6 +39,11 @@
         {
           "hex": "#2e5894",
           "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -47,37 +57,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#708090",
-          "name": "slategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#c0c0c0",
           "name": "silver",
@@ -86,6 +71,21 @@
         {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#708090",
+          "name": "slategrey",
           "reference": "css4"
         },
         {
@@ -106,11 +106,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#526893",
-          "name": "#526893",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#c8cac7",
           "name": "#c8cac7",
           "reference": "marekm4"
@@ -118,6 +113,11 @@
         {
           "hex": "#748a96",
           "name": "#748a96",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#526893",
+          "name": "#526893",
           "reference": "marekm4"
         }
       ]
@@ -193,7 +193,7 @@
       }
     ],
     "wof:id": 1780470007,
-    "wof:lastmodified": 1754554246,
+    "wof:lastmodified": 1754640971,
     "wof:name": "amenity kit: American Airlines, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

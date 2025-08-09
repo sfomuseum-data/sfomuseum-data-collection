@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -37,32 +42,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
-          "reference": "css4"
-        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -82,9 +72,24 @@
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#acacae",
+          "name": "#acacae",
+          "reference": "marekm4"
+        },
         {
           "hex": "#431a21",
           "name": "#431a21",
@@ -93,11 +98,6 @@
         {
           "hex": "#41191f",
           "name": "#41191f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#acacae",
-          "name": "#acacae",
           "reference": "marekm4"
         },
         {
@@ -168,7 +168,7 @@
       }
     ],
     "wof:id": 1746766133,
-    "wof:lastmodified": 1754640869,
+    "wof:lastmodified": 1754727024,
     "wof:name": "flight attendant skirt: Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

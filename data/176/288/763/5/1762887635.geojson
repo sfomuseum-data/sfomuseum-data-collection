@@ -26,13 +26,33 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
@@ -43,26 +63,6 @@
         {
           "hex": "#ffae42",
           "name": "Yellow Orange",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#714b23",
-          "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#edd19c",
-          "name": "Maize",
           "reference": "crayola"
         }
       ],
@@ -78,18 +78,13 @@
           "reference": "css4"
         },
         {
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#eee8aa",
-          "name": "palegoldenrod",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
           "reference": "css4"
         },
         {
@@ -98,8 +93,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#daa520",
-          "name": "goldenrod",
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#eee8aa",
+          "name": "palegoldenrod",
           "reference": "css4"
         }
       ],
@@ -191,7 +191,7 @@
       }
     ],
     "wof:id": 1762887635,
-    "wof:lastmodified": 1754640898,
+    "wof:lastmodified": 1754727061,
     "wof:name": "shipping label: Aer Lingus, cargo",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

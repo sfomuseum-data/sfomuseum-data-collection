@@ -22,8 +22,8 @@
     ],
     "millsfield:exhibition_ids": [
       1914632807,
-      1897823425,
-      1947305579
+      1947305579,
+      1897823425
     ],
     "millsfield:images": [
       1913687769
@@ -31,18 +31,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#319177",
-          "name": "Illuminating Emerald",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd4a4c",
-          "name": "Mahogany",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
           "reference": "crayola"
         },
         {
@@ -56,30 +61,20 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
+        },
+        {
           "hex": "#cd9575",
           "name": "Antique Brass",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
+          "hex": "#708090",
+          "name": "slategrey",
           "reference": "css4"
         },
         {
@@ -88,8 +83,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#3cb371",
-          "name": "mediumseagreen",
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
           "reference": "css4"
         },
         {
@@ -103,25 +103,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#708090",
-          "name": "slategrey",
+          "hex": "#d2691e",
+          "name": "chocolate",
           "reference": "css4"
         },
         {
-          "hex": "#d2691e",
-          "name": "chocolate",
+          "hex": "#3cb371",
+          "name": "mediumseagreen",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#535856",
+          "name": "#535856",
+          "reference": "marekm4"
+        },
         {
           "hex": "#60a09d",
           "name": "#60a09d",
           "reference": "marekm4"
         },
         {
-          "hex": "#535856",
-          "name": "#535856",
+          "hex": "#4d9669",
+          "name": "#4d9669",
           "reference": "marekm4"
         },
         {
@@ -132,11 +137,6 @@
         {
           "hex": "#b1c7c2",
           "name": "#b1c7c2",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4d9669",
-          "name": "#4d9669",
           "reference": "marekm4"
         }
       ]
@@ -207,7 +207,7 @@
       }
     ],
     "wof:id": 1913687639,
-    "wof:lastmodified": 1754640953,
+    "wof:lastmodified": 1754727125,
     "wof:name": "poster: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

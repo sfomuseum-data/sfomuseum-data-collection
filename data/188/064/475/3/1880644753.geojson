@@ -26,11 +26,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
@@ -38,6 +33,11 @@
         {
           "hex": "#757575",
           "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         }
       ],
@@ -53,17 +53,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#999895",
+          "name": "#999895",
+          "reference": "marekm4"
+        },
         {
           "hex": "#83827e",
           "name": "#83827e",
@@ -72,11 +77,6 @@
         {
           "hex": "#201f23",
           "name": "#201f23",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#999895",
-          "name": "#999895",
           "reference": "marekm4"
         }
       ]
@@ -143,7 +143,7 @@
       }
     ],
     "wof:id": 1880644753,
-    "wof:lastmodified": 1754640946,
+    "wof:lastmodified": 1754727117,
     "wof:name": "flight attendant skirt: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

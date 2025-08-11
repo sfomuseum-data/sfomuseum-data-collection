@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -41,18 +46,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -68,8 +68,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
           "reference": "css4"
         },
         {
@@ -83,27 +88,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b0c4de",
-          "name": "lightsteelblue",
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#474c2d",
-          "name": "#474c2d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#578cac",
-          "name": "#578cac",
-          "reference": "marekm4"
-        },
         {
           "hex": "#928e6b",
           "name": "#928e6b",
@@ -117,6 +107,16 @@
         {
           "hex": "#3174b5",
           "name": "#3174b5",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#474c2d",
+          "name": "#474c2d",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#578cac",
+          "name": "#578cac",
           "reference": "marekm4"
         }
       ]
@@ -186,7 +186,7 @@
       }
     ],
     "wof:id": 1762696437,
-    "wof:lastmodified": 1754727044,
+    "wof:lastmodified": 1754900525,
     "wof:name": "timetable: Philippine Airlines, international summer schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

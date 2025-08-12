@@ -13,18 +13,23 @@
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
     "millsfield:airline_id": [
-      1159283957
+      1159286263
     ],
     "millsfield:category_id": 1763416397,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287217
+      1159287601
     ],
     "millsfield:images": [
       1762893465
     ],
     "millsfield:images_colors_refs": {
       "crayola": [
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
+        },
         {
           "hex": "#ffffff",
           "name": "White",
@@ -39,29 +44,9 @@
           "hex": "#efcdb8",
           "name": "Desert Sand",
           "reference": "crayola"
-        },
-        {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#faf0e6",
           "name": "linen",
@@ -70,6 +55,21 @@
         {
           "hex": "#f5deb3",
           "name": "wheat",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
@@ -96,9 +96,9 @@
     "millsfield:subcategory_id": 1511213315,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2012.149.1124",
-    "sfomuseum:airline": "Avianca Airlines",
+    "sfomuseum:airline": "Avensa",
     "sfomuseum:airline_id": [
-      218
+      1287
     ],
     "sfomuseum:category": "Promotional, Archive",
     "sfomuseum:classification_id": 92,
@@ -108,7 +108,7 @@
     "sfomuseum:date_acquired": "2013-05-31",
     "sfomuseum:daterange_end": "1950-12-31",
     "sfomuseum:daterange_start": "1940-01-01",
-    "sfomuseum:description": "Luggage label promoting Avianca Airlines; triangular shape, blue and white with initials “SBR.”",
+    "sfomuseum:description": "Luggage label promoting Aerovias Venesolanas; triangular shape, blue and white with initials “SBR.”",
     "sfomuseum:dimensions": "3 1/2 x 5 inches (8.9 x 12.7 cm)",
     "sfomuseum:medium": "paper, ink, adhesive",
     "sfomuseum:object_id": 138268,
@@ -130,7 +130,9 @@
     "wof:created": 1643411818,
     "wof:depicts": [
       1159287217,
-      1159283957
+      1159283957,
+      1159286263,
+      1159287601
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -151,8 +153,8 @@
       }
     ],
     "wof:id": 1762888053,
-    "wof:lastmodified": 1754900539,
-    "wof:name": "luggage label: Avianca Airlines",
+    "wof:lastmodified": 1754988689,
+    "wof:name": "luggage label: Aerovias Venesolanas",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

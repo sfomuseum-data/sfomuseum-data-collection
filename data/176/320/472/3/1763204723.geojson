@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c",
-          "name": "Mahogany",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -42,20 +47,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
           "reference": "css4"
         },
         {
@@ -66,6 +66,11 @@
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
@@ -82,14 +87,14 @@
           "hex": "#dcdcdc",
           "name": "gainsboro",
           "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#eee8d7",
+          "name": "#eee8d7",
+          "reference": "marekm4"
+        },
         {
           "hex": "#eae5d5",
           "name": "#eae5d5",
@@ -103,11 +108,6 @@
         {
           "hex": "#e0564d",
           "name": "#e0564d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#eee8d7",
-          "name": "#eee8d7",
           "reference": "marekm4"
         }
       ]
@@ -177,7 +177,7 @@
       }
     ],
     "wof:id": 1763204723,
-    "wof:lastmodified": 1754988697,
+    "wof:lastmodified": 1755072746,
     "wof:name": "airsickness bag: JAT Yugoslav Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

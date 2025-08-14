@@ -27,6 +27,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
@@ -34,11 +39,6 @@
         {
           "hex": "#979aaa",
           "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -54,37 +54,27 @@
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#8fbc8f",
-          "name": "darkseagreen",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
           "hex": "#000000",
           "name": "black",
           "reference": "css4"
+        },
+        {
+          "hex": "#8fbc8f",
+          "name": "darkseagreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#acabab",
-          "name": "#acabab",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a4a3a3",
-          "name": "#a4a3a3",
-          "reference": "marekm4"
-        },
         {
           "hex": "#1d1d22",
           "name": "#1d1d22",
@@ -93,6 +83,16 @@
         {
           "hex": "#1e1e24",
           "name": "#1e1e24",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a4a3a3",
+          "name": "#a4a3a3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#acabab",
+          "name": "#acabab",
           "reference": "marekm4"
         }
       ]
@@ -156,7 +156,7 @@
       }
     ],
     "wof:id": 1746766281,
-    "wof:lastmodified": 1755072698,
+    "wof:lastmodified": 1755159171,
     "wof:name": "flight officer jacket: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

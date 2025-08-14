@@ -28,8 +28,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
           "hex": "#efcdb8",
           "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
@@ -41,16 +51,6 @@
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#a5694f",
-          "name": "Sepia",
-          "reference": "crayola"
         }
       ],
       "css4": [
@@ -60,28 +60,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#ffe4c4",
-          "name": "bisque",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
-        },
-        {
           "hex": "#ffefd5",
           "name": "papayawhip",
-          "reference": "css4"
-        },
-        {
-          "hex": "#ffebcd",
-          "name": "blanchedalmond",
           "reference": "css4"
         },
         {
@@ -92,6 +72,26 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
+        },
+        {
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         }
       ],
@@ -183,7 +183,7 @@
       }
     ],
     "wof:id": 1511936969,
-    "wof:lastmodified": 1755072671,
+    "wof:lastmodified": 1755159148,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA), supplement",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

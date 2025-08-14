@@ -26,8 +26,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b4674d",
+          "name": "Brown",
           "reference": "crayola"
         },
         {
@@ -41,23 +51,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
           "hex": "#757575",
           "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b4674d",
-          "name": "Brown",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#edd19c",
-          "name": "Maize",
           "reference": "crayola"
         },
         {
@@ -68,28 +68,8 @@
       ],
       "css4": [
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f4a460",
-          "name": "sandybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#cd5c5c",
-          "name": "indianred",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -103,20 +83,40 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f4a460",
+          "name": "sandybrown",
           "reference": "css4"
         },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#473732",
-          "name": "#473732",
+          "hex": "#e8b86c",
+          "name": "#e8b86c",
           "reference": "marekm4"
         },
         {
@@ -125,18 +125,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#7c9aad",
-          "name": "#7c9aad",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#e8b86c",
-          "name": "#e8b86c",
+          "hex": "#473732",
+          "name": "#473732",
           "reference": "marekm4"
         },
         {
           "hex": "#c2c6bc",
           "name": "#c2c6bc",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#7c9aad",
+          "name": "#7c9aad",
           "reference": "marekm4"
         }
       ]
@@ -206,7 +206,7 @@
       }
     ],
     "wof:id": 1762889853,
-    "wof:lastmodified": 1755072741,
+    "wof:lastmodified": 1755159204,
     "wof:name": "luggage label: Sabena Belgian Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

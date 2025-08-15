@@ -33,6 +33,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
@@ -48,11 +53,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -60,8 +60,8 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -70,8 +70,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -80,22 +80,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#79847a",
-          "name": "#79847a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b8bfb8",
-          "name": "#b8bfb8",
-          "reference": "marekm4"
-        },
         {
           "hex": "#40423c",
           "name": "#40423c",
@@ -107,8 +97,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#b8bfb8",
+          "name": "#b8bfb8",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#729ab0",
           "name": "#729ab0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#79847a",
+          "name": "#79847a",
           "reference": "marekm4"
         }
       ]
@@ -205,7 +205,7 @@
       }
     ],
     "wof:id": 1897416593,
-    "wof:lastmodified": 1755159252,
+    "wof:lastmodified": 1755245627,
     "wof:name": "postcard: Zurich Airport (ZRH)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

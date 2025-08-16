@@ -30,8 +30,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -45,27 +55,22 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
           "hex": "#9d81ba",
           "name": "Purple Mountain's Majesty",
           "reference": "crayola"
-        },
-        {
-          "hex": "#926eae",
-          "name": "Violet (Purple)",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ffa343",
-          "name": "Neon Carrot",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
+        },
         {
           "hex": "#778899",
           "name": "lightslategrey",
@@ -77,6 +82,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
@@ -85,19 +95,19 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#daa520",
-          "name": "goldenrod",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#c0b8c7",
+          "name": "#c0b8c7",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ec9d3c",
+          "name": "#ec9d3c",
+          "reference": "marekm4"
+        },
         {
           "hex": "#6775ac",
           "name": "#6775ac",
@@ -111,16 +121,6 @@
         {
           "hex": "#23212b",
           "name": "#23212b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c0b8c7",
-          "name": "#c0b8c7",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#ec9d3c",
-          "name": "#ec9d3c",
           "reference": "marekm4"
         }
       ]
@@ -201,7 +201,7 @@
       }
     ],
     "wof:id": 1762760485,
-    "wof:lastmodified": 1755245550,
+    "wof:lastmodified": 1755331923,
     "wof:name": "slide: Condor Airlines McDonnell Douglas DC-10-30",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

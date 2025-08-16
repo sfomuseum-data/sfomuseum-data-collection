@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -36,13 +41,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         }
       ],
@@ -53,11 +53,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
@@ -65,6 +60,11 @@
         {
           "hex": "#4682b4",
           "name": "steelblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
@@ -147,7 +147,7 @@
       }
     ],
     "wof:id": 1780269511,
-    "wof:lastmodified": 1755245596,
+    "wof:lastmodified": 1755331963,
     "wof:name": "paper cup: Flying Tiger Line",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

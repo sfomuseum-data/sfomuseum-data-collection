@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff",
-          "name": "White",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
           "reference": "crayola"
         },
         {
@@ -41,13 +46,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#4a646c",
-          "name": "Deep Space Sparkle",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#ffffff",
+          "name": "White",
           "reference": "crayola"
         }
       ],
@@ -55,11 +55,6 @@
         {
           "hex": "#bdb76b",
           "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -73,12 +68,22 @@
           "reference": "css4"
         },
         {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#fffafa",
           "name": "snow",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#3d434b",
+          "name": "#3d434b",
+          "reference": "marekm4"
+        },
         {
           "hex": "#fdfdfb",
           "name": "#fdfdfb",
@@ -87,11 +92,6 @@
         {
           "hex": "#b8a865",
           "name": "#b8a865",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3d434b",
-          "name": "#3d434b",
           "reference": "marekm4"
         }
       ]
@@ -156,7 +156,7 @@
       }
     ],
     "wof:id": 1762932091,
-    "wof:lastmodified": 1755245566,
+    "wof:lastmodified": 1755331939,
     "wof:name": "flight officer epaulettes: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

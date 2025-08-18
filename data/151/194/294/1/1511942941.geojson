@@ -22,8 +22,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -37,18 +42,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#6e5160",
           "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -57,12 +57,32 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -74,28 +94,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#556b2f",
           "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -183,7 +183,7 @@
       }
     ],
     "wof:id": 1511942941,
-    "wof:lastmodified": 1755331879,
+    "wof:lastmodified": 1755504563,
     "wof:name": "photograph: San Francisco Bay Area aerial, Central Reservoir, Oakland",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

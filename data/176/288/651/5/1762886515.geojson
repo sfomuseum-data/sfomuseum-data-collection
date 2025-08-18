@@ -29,8 +29,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -39,23 +49,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -63,6 +63,31 @@
         {
           "hex": "#b22222",
           "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -74,52 +99,27 @@
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#454599",
-          "name": "#454599",
-          "reference": "marekm4"
-        },
         {
           "hex": "#252540",
           "name": "#252540",
           "reference": "marekm4"
         },
         {
-          "hex": "#c9c7be",
-          "name": "#c9c7be",
+          "hex": "#a21b09",
+          "name": "#a21b09",
           "reference": "marekm4"
         },
         {
-          "hex": "#a21b09",
-          "name": "#a21b09",
+          "hex": "#454599",
+          "name": "#454599",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c9c7be",
+          "name": "#c9c7be",
           "reference": "marekm4"
         }
       ]
@@ -195,7 +195,7 @@
       }
     ],
     "wof:id": 1762886515,
-    "wof:lastmodified": 1755331933,
+    "wof:lastmodified": 1755504616,
     "wof:name": "luggage label: Capital Airlines, Viscount",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

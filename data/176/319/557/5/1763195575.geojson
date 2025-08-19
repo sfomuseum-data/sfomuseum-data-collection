@@ -29,8 +29,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -44,18 +49,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
           "reference": "crayola"
         }
       ],
@@ -88,6 +88,11 @@
       ],
       "marekm4": [
         {
+          "hex": "#f3eedd",
+          "name": "#f3eedd",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#181310",
           "name": "#181310",
           "reference": "marekm4"
@@ -95,11 +100,6 @@
         {
           "hex": "#ce040f",
           "name": "#ce040f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#f3eedd",
-          "name": "#f3eedd",
           "reference": "marekm4"
         }
       ]
@@ -175,7 +175,7 @@
       }
     ],
     "wof:id": 1763195575,
-    "wof:lastmodified": 1755504630,
+    "wof:lastmodified": 1755591041,
     "wof:name": "timetable: Interflug",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

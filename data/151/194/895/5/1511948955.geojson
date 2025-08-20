@@ -25,11 +25,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
@@ -37,11 +32,6 @@
         {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -53,6 +43,16 @@
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
@@ -62,8 +62,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -72,30 +77,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c1c1c1",
-          "name": "#c1c1c1",
+          "hex": "#3c3c3c",
+          "name": "#3c3c3c",
           "reference": "marekm4"
         },
         {
-          "hex": "#3c3c3c",
-          "name": "#3c3c3c",
+          "hex": "#c1c1c1",
+          "name": "#c1c1c1",
           "reference": "marekm4"
         }
       ]
@@ -191,7 +191,7 @@
       }
     ],
     "wof:id": 1511948955,
-    "wof:lastmodified": 1755590986,
+    "wof:lastmodified": 1755677609,
     "wof:name": "negative: San Francisco International Airport (SFO), road construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

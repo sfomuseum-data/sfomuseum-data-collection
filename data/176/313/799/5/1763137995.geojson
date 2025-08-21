@@ -28,8 +28,8 @@
     "millsfield:exhibition_ids": [
       1495157259,
       1947305543,
-      1914632791,
-      1897466923
+      1897466923,
+      1914632791
     ],
     "millsfield:images": [
       1763389387,
@@ -37,6 +37,16 @@
     ],
     "millsfield:images_colors_refs": {
       "crayola": [
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
         {
           "hex": "#757575",
           "name": "Sonic Silver",
@@ -48,16 +58,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -65,8 +65,8 @@
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -75,18 +75,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
@@ -157,11 +157,11 @@
     "wof:country": "XY",
     "wof:created": 1645605453,
     "wof:depicts": [
+      1159293593,
       1159289915,
       1159289873,
       1159285163,
-      1159289917,
-      1159293593
+      1159289917
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -182,7 +182,7 @@
       }
     ],
     "wof:id": 1763137995,
-    "wof:lastmodified": 1755677663,
+    "wof:lastmodified": 1755764101,
     "wof:name": "model airplane: Singapore Airlines, Boeing 747 Megatop",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

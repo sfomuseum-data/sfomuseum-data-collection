@@ -27,26 +27,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#7366bd",
-          "name": "Blue Violet",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -57,12 +37,37 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#2e5894",
           "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
@@ -79,18 +84,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
         },
         {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -101,8 +101,33 @@
       ],
       "marekm4": [
         {
+          "hex": "#a9abaa",
+          "name": "#a9abaa",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#08256b",
           "name": "#08256b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#23569e",
+          "name": "#23569e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#6b8eb9",
+          "name": "#6b8eb9",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#405f8f",
+          "name": "#405f8f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#6d88a6",
+          "name": "#6d88a6",
           "reference": "marekm4"
         },
         {
@@ -113,31 +138,6 @@
         {
           "hex": "#c7c5be",
           "name": "#c7c5be",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a9abaa",
-          "name": "#a9abaa",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#405f8f",
-          "name": "#405f8f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#23569e",
-          "name": "#23569e",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#6d88a6",
-          "name": "#6d88a6",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#6b8eb9",
-          "name": "#6b8eb9",
           "reference": "marekm4"
         }
       ]
@@ -204,7 +204,7 @@
       }
     ],
     "wof:id": 1896966035,
-    "wof:lastmodified": 1755764148,
+    "wof:lastmodified": 1755850497,
     "wof:name": "flight attendant pants: Western Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

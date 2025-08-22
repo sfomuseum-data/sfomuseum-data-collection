@@ -27,6 +27,16 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
@@ -34,6 +44,11 @@
         {
           "hex": "#cdc5c2",
           "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -45,44 +60,9 @@
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
         {
           "hex": "#bdb76b",
           "name": "darkkhaki",
@@ -92,19 +72,29 @@
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#2c2d3a",
-          "name": "#2c2d3a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b9b8ba",
-          "name": "#b9b8ba",
-          "reference": "marekm4"
-        },
         {
           "hex": "#242431",
           "name": "#242431",
@@ -113,6 +103,16 @@
         {
           "hex": "#bbbabc",
           "name": "#bbbabc",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b9b8ba",
+          "name": "#b9b8ba",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#2c2d3a",
+          "name": "#2c2d3a",
           "reference": "marekm4"
         }
       ]
@@ -183,7 +183,7 @@
       }
     ],
     "wof:id": 1880439731,
-    "wof:lastmodified": 1755764142,
+    "wof:lastmodified": 1755850491,
     "wof:name": "stewardess hat: Cathay Pacific Airways [reproduction]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

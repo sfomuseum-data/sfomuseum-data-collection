@@ -32,16 +32,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -52,13 +42,23 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#e7c697",
+          "name": "Gold",
           "reference": "crayola"
         },
         {
           "hex": "#a5694f",
           "name": "Sepia",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -74,8 +74,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#d2b48c",
-          "name": "tan",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -84,30 +84,35 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#bdb76b",
           "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
           "reference": "css4"
         },
         {
           "hex": "#bc8f8f",
           "name": "rosybrown",
           "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9d585f",
-          "name": "#9d585f",
+          "hex": "#d5c19e",
+          "name": "#d5c19e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#423f3e",
+          "name": "#423f3e",
           "reference": "marekm4"
         },
         {
@@ -116,13 +121,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#b6996b",
-          "name": "#b6996b",
+          "hex": "#4f4143",
+          "name": "#4f4143",
           "reference": "marekm4"
         },
         {
-          "hex": "#d5c19e",
-          "name": "#d5c19e",
+          "hex": "#b6996b",
+          "name": "#b6996b",
           "reference": "marekm4"
         },
         {
@@ -131,13 +136,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#4f4143",
-          "name": "#4f4143",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#423f3e",
-          "name": "#423f3e",
+          "hex": "#9d585f",
+          "name": "#9d585f",
           "reference": "marekm4"
         }
       ]
@@ -225,7 +225,7 @@
       }
     ],
     "wof:id": 1511953505,
-    "wof:lastmodified": 1755764053,
+    "wof:lastmodified": 1755850388,
     "wof:name": "airmail flight cover: Pan American Airways, first Pacific survey flight, California - Hawaii route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

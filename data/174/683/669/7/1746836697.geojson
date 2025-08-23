@@ -31,11 +31,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -46,8 +41,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
@@ -56,15 +56,20 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -73,18 +78,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -93,22 +88,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#2a2321",
-          "name": "#2a2321",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a5573d",
-          "name": "#a5573d",
-          "reference": "marekm4"
-        },
         {
           "hex": "#c19461",
           "name": "#c19461",
@@ -117,6 +107,16 @@
         {
           "hex": "#d2d6d0",
           "name": "#d2d6d0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a5573d",
+          "name": "#a5573d",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#2a2321",
+          "name": "#2a2321",
           "reference": "marekm4"
         }
       ]
@@ -197,7 +197,7 @@
       }
     ],
     "wof:id": 1746836697,
-    "wof:lastmodified": 1755850403,
+    "wof:lastmodified": 1755936885,
     "wof:name": "poster: JAL Cargo",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

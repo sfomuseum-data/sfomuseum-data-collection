@@ -13,26 +13,13 @@
     "geom:bbox": "-122.391601,37.624038,-122.391601,37.624038",
     "geom:latitude": 37.624038290918,
     "geom:longitude": -122.39160060883,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        102085387,
-        85688637
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102085387,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 102085387
-    },
-    "geotag:depictions": [
-      1527821201
+    "geotag:whosonfirst_belongsto": [
+      102085387,
+      85688637,
+      102191575,
+      85633793
     ],
+    "geotag:whosonfirst_camera": 102085387,
     "iso:country": "US",
     "millsfield:airport_id": [
       102527513,
@@ -236,7 +223,7 @@
       }
     ],
     "wof:id": 1511949689,
-    "wof:lastmodified": 1756109753,
+    "wof:lastmodified": 1756157336,
     "wof:name": "negative: Mills Field Municipal Airport of San Francisco, Administration Building",
     "wof:parent_id": 102085387,
     "wof:placetype": "custom",
@@ -254,5 +241,5 @@
     -122.39160060883,
     37.624038290918
   ],
-  "geometry": {"coordinates":[[-122.39160060883,37.624038290918]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.39160060883,37.624038290918]]}
 }

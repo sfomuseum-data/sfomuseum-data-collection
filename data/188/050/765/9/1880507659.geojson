@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -42,22 +47,22 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#000000",
           "name": "black",
@@ -72,19 +77,9 @@
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#aeabab",
-          "name": "#aeabab",
-          "reference": "marekm4"
-        },
         {
           "hex": "#22222f",
           "name": "#22222f",
@@ -98,6 +93,11 @@
         {
           "hex": "#aeadae",
           "name": "#aeadae",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aeabab",
+          "name": "#aeabab",
           "reference": "marekm4"
         }
       ]
@@ -171,7 +171,7 @@
       }
     ],
     "wof:id": 1880507659,
-    "wof:lastmodified": 1755936978,
+    "wof:lastmodified": 1756109852,
     "wof:name": "flight attendant jacket: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

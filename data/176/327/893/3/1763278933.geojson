@@ -30,8 +30,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
@@ -45,13 +50,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -60,20 +65,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -82,8 +82,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -92,8 +92,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         },
         {
@@ -103,6 +103,11 @@
         }
       ],
       "marekm4": [
+        {
+          "hex": "#47608d",
+          "name": "#47608d",
+          "reference": "marekm4"
+        },
         {
           "hex": "#d1c6bf",
           "name": "#d1c6bf",
@@ -114,18 +119,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#93857a",
-          "name": "#93857a",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#46444b",
           "name": "#46444b",
           "reference": "marekm4"
         },
         {
-          "hex": "#47608d",
-          "name": "#47608d",
+          "hex": "#93857a",
+          "name": "#93857a",
           "reference": "marekm4"
         }
       ]
@@ -211,7 +211,7 @@
       }
     ],
     "wof:id": 1763278933,
-    "wof:lastmodified": 1756109807,
+    "wof:lastmodified": 1756196299,
     "wof:name": "model airplane: United Air Lines, Douglas DC-8",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -12,54 +12,14 @@
     "geom:bbox": "-122.389069,37.797034,-122.389069,37.797034",
     "geom:latitude": 37.797034466405485,
     "geom:longitude": -122.38906860351564,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        404529563
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "marinearea_id": 404529563
-        }
-      ],
-      "wof:id": 404529563
-    },
-    "geotag:depictions": [
-      1762896263
+    "geotag:whosonfirst_belongsto": [
+      404529563,
+      102191575,
+      85633793,
+      404529563
     ],
-    "geotag:target_whosonfirst": {
-      "wof:belongsto": [
-        85633793,
-        404529563,
-        102191575
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "marinearea_id": 404529563
-        }
-      ],
-      "wof:id": 404529563
-    },
-    "geotag:whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        404529563
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "marinearea_id": 404529563
-        }
-      ],
-      "wof:id": 404529563
-    },
+    "geotag:whosonfirst_camera": 404529563,
+    "geotag:whosonfirst_target": 404529563,
     "iso:country": "",
     "millsfield:airline_id": [
       1159284991
@@ -229,7 +189,7 @@
       }
     ],
     "wof:id": 1762830283,
-    "wof:lastmodified": 1756282660,
+    "wof:lastmodified": 1756338856,
     "wof:name": "negative: Pan American Airways, Pacific-Alaska Division",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -246,5 +206,5 @@
     -122.38906860351564,
     37.797034466405485
   ],
-  "geometry": {"coordinates":[[-122.38906860351564,37.797034466405485]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38906860351564,37.797034466405485]]}
 }

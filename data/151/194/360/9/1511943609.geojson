@@ -13,26 +13,13 @@
     "geom:bbox": "-122.383575,37.613280,-122.383575,37.613280",
     "geom:latitude": 37.613279552752,
     "geom:longitude": -122.38357543945,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        102085387,
-        85688637
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102085387,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 102085387
-    },
-    "geotag:depictions": [
-      1527821525
+    "geotag:whosonfirst_belongsto": [
+      102085387,
+      102191575,
+      85633793,
+      85688637
     ],
+    "geotag:whosonfirst_camera": 102085387,
     "iso:country": "US",
     "millsfield:airport_id": [
       102527513,
@@ -210,7 +197,7 @@
       }
     ],
     "wof:id": 1511943609,
-    "wof:lastmodified": 1756282605,
+    "wof:lastmodified": 1756338853,
     "wof:name": "negative: San Francisco Airport, aerial",
     "wof:parent_id": 102085387,
     "wof:placetype": "custom",
@@ -228,5 +215,5 @@
     -122.38357543945,
     37.613279552752
   ],
-  "geometry": {"coordinates":[[-122.38357543945,37.613279552752]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38357543945,37.613279552752]]}
 }

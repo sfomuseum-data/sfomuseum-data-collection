@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -47,13 +52,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -70,11 +75,6 @@
           "hex": "#fddde6",
           "name": "Piggy Pink",
           "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
@@ -84,28 +84,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#fdf5e6",
-          "name": "oldlace",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
@@ -119,8 +104,23 @@
           "reference": "css4"
         },
         {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#faf0e6",
           "name": "linen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#fdf5e6",
+          "name": "oldlace",
           "reference": "css4"
         }
       ],
@@ -131,13 +131,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#b8b4b1",
-          "name": "#b8b4b1",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4d372c",
-          "name": "#4d372c",
+          "hex": "#4f3d2e",
+          "name": "#4f3d2e",
           "reference": "marekm4"
         },
         {
@@ -146,13 +141,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#4f3d2e",
-          "name": "#4f3d2e",
+          "hex": "#4d372c",
+          "name": "#4d372c",
           "reference": "marekm4"
         },
         {
           "hex": "#886b57",
           "name": "#886b57",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b8b4b1",
+          "name": "#b8b4b1",
           "reference": "marekm4"
         }
       ]
@@ -219,7 +219,7 @@
       }
     ],
     "wof:id": 1763699889,
-    "wof:lastmodified": 1756196305,
+    "wof:lastmodified": 1756282685,
     "wof:name": "hostess hat: TWA (Trans World Airlines), winter",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

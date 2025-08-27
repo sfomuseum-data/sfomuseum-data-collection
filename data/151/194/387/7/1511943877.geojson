@@ -21,16 +21,36 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:exhibition_ids": [
-      1729842115,
       1863490075,
       1914632779,
-      1947305559
+      1947305559,
+      1729842115
     ],
     "millsfield:images": [
       1527821957
     ],
     "millsfield:images_colors_refs": {
       "crayola": [
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
         {
           "hex": "#fddde6",
           "name": "Piggy Pink",
@@ -40,32 +60,12 @@
           "hex": "#6e5160",
           "name": "Eggplant",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -79,8 +79,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -91,13 +91,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#4e4e4e",
-          "name": "#4e4e4e",
+          "hex": "#cfcfcf",
+          "name": "#cfcfcf",
           "reference": "marekm4"
         },
         {
-          "hex": "#cfcfcf",
-          "name": "#cfcfcf",
+          "hex": "#4e4e4e",
+          "name": "#4e4e4e",
           "reference": "marekm4"
         }
       ]
@@ -158,8 +158,8 @@
     "wof:country": "US",
     "wof:created": 1579906683,
     "wof:depicts": [
-      102527513,
-      1360695655
+      1360695655,
+      102527513
     ],
     "wof:geomhash": "fda2c2562cae0b6b99a07b8f9ebb436d",
     "wof:hierarchy": [
@@ -220,7 +220,7 @@
       }
     ],
     "wof:id": 1511943877,
-    "wof:lastmodified": 1756196229,
+    "wof:lastmodified": 1756282605,
     "wof:name": "negative: San Francisco Airport, Terminal Building construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

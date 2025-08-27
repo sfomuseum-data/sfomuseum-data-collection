@@ -27,8 +27,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
@@ -42,23 +52,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
           "hex": "#87a96b",
           "name": "Asparagus",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -67,8 +67,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
@@ -79,13 +79,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -94,13 +89,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#8fbc8f",
-          "name": "darkseagreen",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -112,9 +107,19 @@
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#8fbc8f",
+          "name": "darkseagreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#d2cfc1",
+          "name": "#d2cfc1",
+          "reference": "marekm4"
+        },
         {
           "hex": "#525151",
           "name": "#525151",
@@ -128,11 +133,6 @@
         {
           "hex": "#98a072",
           "name": "#98a072",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#d2cfc1",
-          "name": "#d2cfc1",
           "reference": "marekm4"
         },
         {
@@ -210,7 +210,7 @@
       }
     ],
     "wof:id": 1846754087,
-    "wof:lastmodified": 1756196332,
+    "wof:lastmodified": 1756282713,
     "wof:name": "postcard: San Francisco-Oakland Bay Bridge",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

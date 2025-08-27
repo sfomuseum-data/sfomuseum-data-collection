@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -47,40 +52,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6",
-          "name": "Periwinkle",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#4682b4",
-          "name": "steelblue",
-          "reference": "css4"
-        },
         {
           "hex": "#b0c4de",
           "name": "lightsteelblue",
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -91,6 +81,16 @@
         {
           "hex": "#6495ed",
           "name": "cornflowerblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#4682b4",
+          "name": "steelblue",
           "reference": "css4"
         }
       ],
@@ -106,6 +106,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#3660b0",
+          "name": "#3660b0",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#2f3339",
           "name": "#2f3339",
           "reference": "marekm4"
@@ -113,11 +118,6 @@
         {
           "hex": "#8e8677",
           "name": "#8e8677",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3660b0",
-          "name": "#3660b0",
           "reference": "marekm4"
         }
       ]
@@ -197,7 +197,7 @@
       }
     ],
     "wof:id": 1762760175,
-    "wof:lastmodified": 1756196272,
+    "wof:lastmodified": 1756282655,
     "wof:name": "slide: Swiss Air Lines, Douglas DC-4",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

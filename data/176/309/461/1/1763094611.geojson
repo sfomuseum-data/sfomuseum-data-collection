@@ -27,8 +27,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -47,13 +52,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
@@ -86,18 +86,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#5d5753",
-          "name": "#5d5753",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#adadad",
-          "name": "#adadad",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#aeadad",
           "name": "#aeadad",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#5d5753",
+          "name": "#5d5753",
           "reference": "marekm4"
         },
         {
@@ -108,6 +103,11 @@
         {
           "hex": "#383430",
           "name": "#383430",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#adadad",
+          "name": "#adadad",
           "reference": "marekm4"
         }
       ]
@@ -177,7 +177,7 @@
       }
     ],
     "wof:id": 1763094611,
-    "wof:lastmodified": 1756282673,
+    "wof:lastmodified": 1756455465,
     "wof:name": "flight officer wings: Sky West",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

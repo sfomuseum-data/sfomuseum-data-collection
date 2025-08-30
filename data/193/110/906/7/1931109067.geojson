@@ -26,8 +26,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
@@ -36,18 +41,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#6699cc",
           "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -56,8 +51,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -68,13 +68,18 @@
       ],
       "css4": [
         {
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
           "reference": "css4"
         },
         {
@@ -83,13 +88,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#8b4513",
-          "name": "saddlebrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -100,18 +100,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#c5aa54",
-          "name": "#c5aa54",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#9b3e18",
           "name": "#9b3e18",
           "reference": "marekm4"
         },
         {
-          "hex": "#b3b1b0",
-          "name": "#b3b1b0",
+          "hex": "#c5aa54",
+          "name": "#c5aa54",
           "reference": "marekm4"
         },
         {
@@ -122,6 +117,11 @@
         {
           "hex": "#7694b6",
           "name": "#7694b6",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b3b1b0",
+          "name": "#b3b1b0",
           "reference": "marekm4"
         }
       ]
@@ -186,7 +186,7 @@
       }
     ],
     "wof:id": 1931109067,
-    "wof:lastmodified": 1756455540,
+    "wof:lastmodified": 1756541999,
     "wof:name": "matchbook: Pan American World Airways, International Flag Service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

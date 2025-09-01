@@ -25,19 +25,14 @@
     "millsfield:company_id": [],
     "millsfield:exhibition_ids": [
       1159160089,
-      1729859035,
-      1377462865
+      1377462865,
+      1729859035
     ],
     "millsfield:images": [
       1763372589
     ],
     "millsfield:images_colors_refs": {
       "crayola": [
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
         {
           "hex": "#6699cc",
           "name": "Blue Gray",
@@ -49,8 +44,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -59,8 +54,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
@@ -69,8 +64,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -78,31 +78,6 @@
         {
           "hex": "#5f9ea0",
           "name": "cadetblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#4682b4",
-          "name": "steelblue",
           "reference": "css4"
         },
         {
@@ -114,14 +89,34 @@
           "hex": "#bdb76b",
           "name": "darkkhaki",
           "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#4670a3",
-          "name": "#4670a3",
-          "reference": "marekm4"
-        },
         {
           "hex": "#985f43",
           "name": "#985f43",
@@ -140,6 +135,11 @@
         {
           "hex": "#caa773",
           "name": "#caa773",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4670a3",
+          "name": "#4670a3",
           "reference": "marekm4"
         }
       ]
@@ -204,12 +204,12 @@
     "wof:country": "US",
     "wof:created": 1618961159,
     "wof:depicts": [
-      1159288779,
-      85688637,
       85633793,
       1159290417,
       1159285415,
-      85921881
+      85921881,
+      1159288779,
+      85688637
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -239,7 +239,7 @@
       }
     ],
     "wof:id": 1511910001,
-    "wof:lastmodified": 1756542005,
+    "wof:lastmodified": 1756714788,
     "wof:name": "poster: United Air Lines, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

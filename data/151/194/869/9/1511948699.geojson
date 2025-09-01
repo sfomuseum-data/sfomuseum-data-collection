@@ -25,8 +25,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -40,18 +50,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -62,28 +62,13 @@
       ],
       "css4": [
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#708090",
-          "name": "slategrey",
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
           "reference": "css4"
         },
         {
@@ -92,20 +77,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9c6047",
-          "name": "#9c6047",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#aea065",
-          "name": "#aea065",
+          "hex": "#5f6d8f",
+          "name": "#5f6d8f",
           "reference": "marekm4"
         },
         {
@@ -114,13 +109,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#abc8bd",
-          "name": "#abc8bd",
+          "hex": "#aea065",
+          "name": "#aea065",
           "reference": "marekm4"
         },
         {
-          "hex": "#5f6d8f",
-          "name": "#5f6d8f",
+          "hex": "#9c6047",
+          "name": "#9c6047",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#abc8bd",
+          "name": "#abc8bd",
           "reference": "marekm4"
         }
       ]
@@ -215,7 +215,7 @@
       }
     ],
     "wof:id": 1511948699,
-    "wof:lastmodified": 1756541880,
+    "wof:lastmodified": 1756714659,
     "wof:name": "negative: San Francisco International Airport (SFO), restaurant",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -29,8 +29,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -39,8 +44,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -52,14 +57,19 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#c0c0c0",
           "name": "silver",
@@ -74,19 +84,14 @@
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#2d2c2f",
+          "name": "#2d2c2f",
+          "reference": "marekm4"
+        },
         {
           "hex": "#3b3f41",
           "name": "#3b3f41",
@@ -98,8 +103,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#2d2c2f",
-          "name": "#2d2c2f",
+          "hex": "#2b2c30",
+          "name": "#2b2c30",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b7b6b5",
+          "name": "#b7b6b5",
           "reference": "marekm4"
         },
         {
@@ -110,16 +120,6 @@
         {
           "hex": "#b6b5b4",
           "name": "#b6b5b4",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b7b6b5",
-          "name": "#b7b6b5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#2b2c30",
-          "name": "#2b2c30",
           "reference": "marekm4"
         }
       ]
@@ -191,7 +191,7 @@
       }
     ],
     "wof:id": 1780279291,
-    "wof:lastmodified": 1756801226,
+    "wof:lastmodified": 1756887558,
     "wof:name": "liquor container: KLM (Royal Dutch Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

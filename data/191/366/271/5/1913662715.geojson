@@ -8,10 +8,11 @@
     "date:inception_upper": "1988-12-31",
     "edtf:cessation": "1988",
     "edtf:inception": "1988",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
+    "geom:latitude": 37.61799,
+    "geom:longitude": -122.370943,
+    "iso:country": "US",
     "millsfield:airport_id": [
       102527513
     ],
@@ -21,121 +22,38 @@
       1913663345
     ],
     "millsfield:images_colors_refs": {
-      "#2f2932": [
-        {
-          "hex": "#2f2932",
-          "name": "vibrant",
-          "reference": "#2f2932"
-        }
-      ],
-      "#5f5e62": [
-        {
-          "hex": "#5f5e62",
-          "name": "vibrant",
-          "reference": "#5f5e62"
-        }
-      ],
-      "#7a7171": [
-        {
-          "hex": "#7a7171",
-          "name": "vibrant",
-          "reference": "#7a7171"
-        }
-      ],
-      "#878585": [
-        {
-          "hex": "#878585",
-          "name": "vibrant",
-          "reference": "#878585"
-        }
-      ],
-      "#a09b97": [
-        {
-          "hex": "#a09b97",
-          "name": "vibrant",
-          "reference": "#a09b97"
-        }
-      ],
-      "28262a": [
-        {
-          "hex": "#28262a",
-          "name": "marekm4",
-          "reference": "28262a"
-        }
-      ],
-      "8e746b": [
-        {
-          "hex": "#8e746b",
-          "name": "marekm4",
-          "reference": "8e746b"
-        }
-      ],
-      "93837b": [
-        {
-          "hex": "#93837b",
-          "name": "marekm4",
-          "reference": "93837b"
-        }
-      ],
-      "959291": [
-        {
-          "hex": "#959291",
-          "name": "marekm4",
-          "reference": "959291"
-        }
-      ],
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
+          "hex": "#8a795d"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
+          "hex": "#414a4c"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
+          "hex": "#9f8170"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
+          "hex": "#95918c"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
+          "hex": "#6e5160"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
+          "hex": "#757575"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
+          "hex": "#696969"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
+          "hex": "#a9a9a9"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
+          "hex": "#808080"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
+          "hex": "#2f4f4f"
         }
       ]
     },
@@ -151,7 +69,7 @@
     "sfomuseum:category": "Photograph",
     "sfomuseum:classification_id": 129,
     "sfomuseum:collection": "Aviation Archive",
-    "sfomuseum:creditline": "Transfer from San Francisco International Airport",
+    "sfomuseum:creditline": "Collection of SFO Museum",
     "sfomuseum:date": "1988",
     "sfomuseum:date_acquired": "2011-06-21",
     "sfomuseum:daterange_end": "1988-12-31",
@@ -163,7 +81,10 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1988.",
     "sfomuseum:subcategory": "Print, Photograph",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102527513
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -172,14 +93,16 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      554784711,
+      102085387
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1713252540,
     "wof:depicts": [
       102527513
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -195,10 +118,30 @@
         "object_id": 1913662715,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913662715,
+        "locality_id": 85922583,
+        "object_id": 1913662715,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1913662715,
+        "object_id": 1913662715,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1913662715,
-    "wof:lastmodified": 1757319728,
+    "wof:lastmodified": 1757538409,
     "wof:name": "photograph: San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -210,10 +153,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -122.370943,
+    37.61799,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

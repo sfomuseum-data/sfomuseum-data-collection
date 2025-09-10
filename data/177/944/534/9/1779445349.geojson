@@ -8,10 +8,11 @@
     "date:inception_upper": "1995-12-31",
     "edtf:cessation": "1995",
     "edtf:inception": "1995",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
+    "geom:latitude": 37.61799,
+    "geom:longitude": -122.370943,
+    "iso:country": "US",
     "millsfield:airport_id": [
       102527513
     ],
@@ -21,141 +22,50 @@
       1779445857
     ],
     "millsfield:images_colors_refs": {
-      "#342722": [
-        {
-          "hex": "#342722",
-          "name": "vibrant",
-          "reference": "#342722"
-        }
-      ],
-      "#705946": [
-        {
-          "hex": "#705946",
-          "name": "vibrant",
-          "reference": "#705946"
-        }
-      ],
-      "#a69780": [
-        {
-          "hex": "#a69780",
-          "name": "vibrant",
-          "reference": "#a69780"
-        }
-      ],
-      "#d3c3a8": [
-        {
-          "hex": "#d3c3a8",
-          "name": "vibrant",
-          "reference": "#d3c3a8"
-        }
-      ],
-      "#d89c3c": [
-        {
-          "hex": "#d89c3c",
-          "name": "vibrant",
-          "reference": "#d89c3c"
-        }
-      ],
-      "47372e": [
-        {
-          "hex": "#47372e",
-          "name": "marekm4",
-          "reference": "47372e"
-        }
-      ],
-      "916f4d": [
-        {
-          "hex": "#916f4d",
-          "name": "marekm4",
-          "reference": "916f4d"
-        }
-      ],
-      "c1b7a5": [
-        {
-          "hex": "#c1b7a5",
-          "name": "marekm4",
-          "reference": "c1b7a5"
-        }
-      ],
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
+          "hex": "#d68a59"
         },
         {
-          "hex": "#d68a59",
-          "name": "Raw Sienna",
-          "reference": "crayola"
+          "hex": "#85754e"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
+          "hex": "#cdc5c2"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
+          "hex": "#6e5160"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
+          "hex": "#e7c697"
         },
         {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
+          "hex": "#95918c"
         },
         {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
-          "reference": "crayola"
+          "hex": "#414a4c"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
+          "hex": "#c0c0c0"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
+          "hex": "#a9a9a9"
         },
         {
-          "hex": "#cd853f",
-          "name": "peru",
-          "reference": "css4"
+          "hex": "#cd853f"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
+          "hex": "#696969"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
+          "hex": "#bc8f8f"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
+          "hex": "#2f4f4f"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        }
-      ],
-      "d09c4a": [
-        {
-          "hex": "#d09c4a",
-          "name": "marekm4",
-          "reference": "d09c4a"
+          "hex": "#a0522d"
         }
       ]
     },
@@ -177,7 +87,7 @@
     "sfomuseum:category": "Promotional, Museum",
     "sfomuseum:classification_id": 512,
     "sfomuseum:collection": "Aviation Museum",
-    "sfomuseum:creditline": "Transfer from San Francisco International Airport",
+    "sfomuseum:creditline": "Collection of SFO Museum",
     "sfomuseum:date": "1995",
     "sfomuseum:date_acquired": "2017-09-11",
     "sfomuseum:daterange_end": "1995-12-31",
@@ -189,7 +99,10 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1995.",
     "sfomuseum:subcategory": "Poster, Other",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102527513
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -198,15 +111,37 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      554784711,
+      102085387
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1652428413,
     "wof:depicts": [
       102527513
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1779445349,
+        "locality_id": 85922583,
+        "object_id": 1779445349,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1779445349,
+        "object_id": 1779445349,
+        "region_id": 85688637
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -224,7 +159,7 @@
       }
     ],
     "wof:id": 1779445349,
-    "wof:lastmodified": 1757319676,
+    "wof:lastmodified": 1757538358,
     "wof:name": "exhibition poster: San Francisco Airports Commission, World Beat",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -236,10 +171,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -122.370943,
+    37.61799,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

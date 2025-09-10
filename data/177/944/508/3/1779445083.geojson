@@ -8,10 +8,11 @@
     "date:inception_upper": "1982-12-31",
     "edtf:cessation": "1982",
     "edtf:inception": "1982",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
+    "geom:latitude": 37.61799,
+    "geom:longitude": -122.370943,
+    "iso:country": "US",
     "millsfield:airport_id": [
       102527513
     ],
@@ -21,124 +22,44 @@
       1779445837
     ],
     "millsfield:images_colors_refs": {
-      "#564161": [
-        {
-          "hex": "#564161",
-          "name": "vibrant",
-          "reference": "#564161"
-        }
-      ],
-      "#672e46": [
-        {
-          "hex": "#672e46",
-          "name": "vibrant",
-          "reference": "#672e46"
-        }
-      ],
-      "#91373b": [
-        {
-          "hex": "#91373b",
-          "name": "vibrant",
-          "reference": "#91373b"
-        }
-      ],
-      "#986f7e": [
-        {
-          "hex": "#986f7e",
-          "name": "vibrant",
-          "reference": "#986f7e"
-        }
-      ],
-      "#bdb6bc": [
-        {
-          "hex": "#bdb6bc",
-          "name": "vibrant",
-          "reference": "#bdb6bc"
-        }
-      ],
-      "5c3754": [
-        {
-          "hex": "#5c3754",
-          "name": "marekm4",
-          "reference": "5c3754"
-        }
-      ],
-      "993941": [
-        {
-          "hex": "#993941",
-          "name": "marekm4",
-          "reference": "993941"
-        }
-      ],
-      "a9a2b1": [
-        {
-          "hex": "#a9a2b1",
-          "name": "marekm4",
-          "reference": "a9a2b1"
-        }
-      ],
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
+          "hex": "#6e5160"
         },
         {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
+          "hex": "#9f8170"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
+          "hex": "#9c2542"
         },
         {
-          "hex": "#58427c",
-          "name": "Cyber Grape",
-          "reference": "crayola"
+          "hex": "#58427c"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
+          "hex": "#b0b7c6"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
+          "hex": "#979aaa"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
+          "hex": "#2f4f4f"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
+          "hex": "#483d8b"
         },
         {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
+          "hex": "#a52a2a"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
+          "hex": "#a9a9a9"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
+          "hex": "#c0c0c0"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
+          "hex": "#808080"
         }
       ]
     },
@@ -160,7 +81,7 @@
     "sfomuseum:category": "Promotional, Museum",
     "sfomuseum:classification_id": 512,
     "sfomuseum:collection": "Aviation Museum",
-    "sfomuseum:creditline": "Transfer from San Francisco International Airport",
+    "sfomuseum:creditline": "Collection of SFO Museum",
     "sfomuseum:date": "1982",
     "sfomuseum:date_acquired": "2017-09-11",
     "sfomuseum:daterange_end": "1982-12-31",
@@ -172,7 +93,10 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1982.",
     "sfomuseum:subcategory": "Poster, Other",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#derived",
+    "src:geom_derived_from": [
+      102527513
+    ],
     "wof:belongsto": [
       102527513,
       1159162825,
@@ -181,14 +105,16 @@
       102087579,
       85922583,
       85688637,
-      1159160869
+      1159160869,
+      554784711,
+      102085387
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1652428338,
     "wof:depicts": [
       102527513
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -204,10 +130,30 @@
         "object_id": 1779445083,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1779445083,
+        "locality_id": 85922583,
+        "object_id": 1779445083,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1779445083,
+        "object_id": 1779445083,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1779445083,
-    "wof:lastmodified": 1757319675,
+    "wof:lastmodified": 1757538357,
     "wof:name": "exhibition poster: San Francisco Airport Commission, Artists’ Furniture",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -219,10 +165,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -122.370943,
+    37.61799,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

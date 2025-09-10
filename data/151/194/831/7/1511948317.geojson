@@ -33,112 +33,41 @@
       1527827277
     ],
     "millsfield:images_colors_refs": {
-      "#3c3c3c": [
-        {
-          "hex": "#3c3c3c",
-          "name": "vibrant",
-          "reference": "#3c3c3c"
-        }
-      ],
-      "#696969": [
-        {
-          "hex": "#696969",
-          "name": "vibrant",
-          "reference": "#696969"
-        }
-      ],
-      "#808080": [
-        {
-          "hex": "#808080",
-          "name": "vibrant",
-          "reference": "#808080"
-        }
-      ],
-      "#a8a8a8": [
-        {
-          "hex": "#a8a8a8",
-          "name": "vibrant",
-          "reference": "#a8a8a8"
-        }
-      ],
-      "#d0d0d0": [
-        {
-          "hex": "#d0d0d0",
-          "name": "vibrant",
-          "reference": "#d0d0d0"
-        }
-      ],
-      "5b5b5b": [
-        {
-          "hex": "#5b5b5b",
-          "name": "marekm4",
-          "reference": "5b5b5b"
-        }
-      ],
-      "b3b3b3": [
-        {
-          "hex": "#b3b3b3",
-          "name": "marekm4",
-          "reference": "b3b3b3"
-        }
-      ],
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
+          "hex": "#979aaa"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
+          "hex": "#6e5160"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
+          "hex": "#b0b7c6"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
+          "hex": "#414a4c"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
+          "hex": "#dbd7d2"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
+          "hex": "#757575"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
+          "hex": "#696969"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
+          "hex": "#808080"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
+          "hex": "#a9a9a9"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
+          "hex": "#2f4f4f"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
+          "hex": "#d3d3d3"
         }
       ]
     },
@@ -163,7 +92,7 @@
     "sfomuseum:category": "Photograph",
     "sfomuseum:classification_id": 518,
     "sfomuseum:collection": "Aviation Archive",
-    "sfomuseum:creditline": "Transfer from San Francisco International Airport",
+    "sfomuseum:creditline": "Collection of SFO Museum",
     "sfomuseum:date": "1970",
     "sfomuseum:date_acquired": "2011-03-02",
     "sfomuseum:daterange_end": "1970-12-31",
@@ -199,30 +128,15 @@
     "wof:country": "US",
     "wof:created": 1579906668,
     "wof:depicts": [
-      1159293593,
-      1360700619,
       1159289885,
       1159283849,
       102527513,
-      1159289873
+      1159289873,
+      1159293593,
+      1360700619
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1511948317,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1511948317,
-        "region_id": 85688637,
-        "wing_id": 1159160869
-      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -242,10 +156,25 @@
         "custom_id": 1511948317,
         "object_id": 1511948317,
         "region_id": 85688637
+      },
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1511948317,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1511948317,
+        "region_id": 85688637,
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1511948317,
-    "wof:lastmodified": 1757319595,
+    "wof:lastmodified": 1757538289,
     "wof:name": "negative: San Francisco International Airport (SFO), Central Terminal, American Airlines, Boeing 747-100",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

@@ -272,7 +272,7 @@
     "sfomuseum:category": "Scheduling / Ticketing",
     "sfomuseum:classification_id": 158,
     "sfomuseum:collection": "Aviation Archive",
-    "sfomuseum:creditline": "Transfer from City and County of San Francisco",
+    "sfomuseum:creditline": "Collection of SFO Museum",
     "sfomuseum:date": "2010",
     "sfomuseum:date_acquired": "2010-06-09",
     "sfomuseum:daterange_end": "2010-12-31",
@@ -314,24 +314,13 @@
     "wof:country": "",
     "wof:created": 1579906657,
     "wof:depicts": [
-      1159283591,
-      102549121,
       102527513,
-      1159287429
+      1159287429,
+      1159283591,
+      102549121
     ],
     "wof:geomhash": "82e89b605184ed729cbe49c888d771eb",
     "wof:hierarchy": [
-      {
-        "campus_id": 102549121,
-        "continent_id": 102191581,
-        "country_id": 85633111,
-        "county_id": 102063759,
-        "custom_id": 1511942063,
-        "locality_id": 101748671,
-        "macrocounty_id": 404227561,
-        "object_id": 1511942063,
-        "region_id": 85682513
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -346,10 +335,21 @@
         "object_id": 1511942063,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102549121,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063759,
+        "custom_id": 1511942063,
+        "locality_id": 101748671,
+        "macrocounty_id": 404227561,
+        "object_id": 1511942063,
+        "region_id": 85682513
       }
     ],
     "wof:id": 1511942063,
-    "wof:lastmodified": 1757319580,
+    "wof:lastmodified": 1757537490,
     "wof:name": "timetable: AirBerlin",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",

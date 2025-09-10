@@ -11,8 +11,8 @@
     "edtf:inception": "1927~",
     "geom:area": 0,
     "geom:bbox": "-122.391953,37.624731,-122.212464,37.783417",
-    "geom:latitude": 37.709819333333336,
-    "geom:longitude": -122.30095299999999,
+    "geom:latitude": 37.721366,
+    "geom:longitude": -122.29429925000001,
     "iso:country": "XZ",
     "millsfield:airport_id": [
       102531041,
@@ -191,7 +191,7 @@
     "sfomuseum:category": "Map / Chart",
     "sfomuseum:classification_id": 106,
     "sfomuseum:collection": "Aviation Archive",
-    "sfomuseum:creditline": "Transfer from City and County of San Francisco",
+    "sfomuseum:creditline": "Collection of SFO Museum",
     "sfomuseum:date": "c. 1927",
     "sfomuseum:date_acquired": "1999-06-30",
     "sfomuseum:daterange_end": "1932-12-31",
@@ -210,6 +210,7 @@
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
       102531041,
+      1746899345,
       102529283,
       1360695653
     ],
@@ -231,22 +232,47 @@
       1108794155,
       102529283,
       85921923,
-      85859035
+      85859035,
+      1746899345
     ],
     "wof:breaches": [],
     "wof:country": "XZ",
     "wof:created": 1579906679,
     "wof:depicts": [
+      1746899345,
+      102531041,
       102529283,
       1360695653,
       85921881,
       85688637,
-      85633793,
-      1746899345,
-      102531041
+      85633793
     ],
-    "wof:geomhash": "7f8678da2ae31e50b0d83f99ea5807a3",
+    "wof:geomhash": "a0bfc5be034361582fd0064ee9522971",
     "wof:hierarchy": [
+      {
+        "campus_id": 1360695653,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1511910163,
+        "object_id": 1511910163,
+        "region_id": 85688637
+      },
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1511910163,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1511910163,
+        "region_id": 85688637,
+        "wing_id": 1159160869
+      },
       {
         "campus_id": 102531041,
         "continent_id": 102191575,
@@ -255,6 +281,16 @@
         "custom_id": 1511910163,
         "locality_id": 85921881,
         "neighbourhood_id": 1108794155,
+        "object_id": 1511910163,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 1746899345,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "custom_id": 1511910163,
+        "locality_id": 85921923,
         "object_id": 1511910163,
         "region_id": 85688637
       },
@@ -279,34 +315,10 @@
         "object_id": 1511910163,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      },
-      {
-        "campus_id": 1360695653,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1511910163,
-        "object_id": 1511910163,
-        "region_id": 85688637
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1511910163,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1511910163,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1511910163,
-    "wof:lastmodified": 1757319755,
+    "wof:lastmodified": 1757537476,
     "wof:name": "map: San Francisco Bay Area, airfields",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -324,5 +336,5 @@
     -122.212464,
     37.783417
   ],
-  "geometry": {"coordinates":[[-122.212464,37.72131],[-122.298442,37.783417],[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.212464,37.72131],[-122.274338,37.756006],[-122.298442,37.783417],[-122.391953,37.624731]],"type":"MultiPoint"}
 }

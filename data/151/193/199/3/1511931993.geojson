@@ -28,26 +28,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ebe9d9"
+          "hex": "#2a2b29",
+          "name": "#2a2b29",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a2b29"
+          "hex": "#ebe9d9",
+          "name": "#ebe9d9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -126,7 +138,7 @@
       }
     ],
     "wof:id": 1511931993,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "timetable: TWA (Trans World Airlines), employee schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -144,5 +156,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

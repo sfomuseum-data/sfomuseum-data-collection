@@ -22,35 +22,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ddd4b5"
+          "hex": "#ddd4b5",
+          "name": "#ddd4b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#353421"
+          "hex": "#353421",
+          "name": "#353421",
+          "reference": "marekm4"
         },
         {
-          "hex": "#979173"
+          "hex": "#979173",
+          "name": "#979173",
+          "reference": "marekm4"
         }
       ]
     },
@@ -115,7 +133,7 @@
       }
     ],
     "wof:id": 1511942875,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233636,
     "wof:name": "photograph: San Francisco Bay Area, engine",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -133,5 +151,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

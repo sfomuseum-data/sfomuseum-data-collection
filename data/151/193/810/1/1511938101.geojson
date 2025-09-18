@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#319177"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#0000cd"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2e8b57"
+          "hex": "#006400",
+          "name": "darkgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#006400"
+          "hex": "#2e8b57",
+          "name": "seagreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#17631c"
+          "hex": "#478f49",
+          "name": "#478f49",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0228cf"
+          "hex": "#17631c",
+          "name": "#17631c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#478f49"
+          "hex": "#0228cf",
+          "name": "#0228cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4efea"
+          "hex": "#e4efea",
+          "name": "#e4efea",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511938101,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: UTA (Union de Transports Aériens)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#686f89"
+          "hex": "#2b335d",
+          "name": "#2b335d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9d5d0"
+          "hex": "#686f89",
+          "name": "#686f89",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b335d"
+          "hex": "#d9d5d0",
+          "name": "#d9d5d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c94222"
+          "hex": "#c94222",
+          "name": "#c94222",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +178,7 @@
       }
     ],
     "wof:id": 1511907583,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "luggage label: American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

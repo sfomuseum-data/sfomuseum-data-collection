@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ceff1d"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
+          "reference": "crayola"
         },
         {
-          "hex": "#a57164"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#deaa88"
+          "hex": "#ceff1d",
+          "name": "Electric Lime",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd853f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a15b5b"
+          "hex": "#a66665",
+          "name": "#a66665",
+          "reference": "marekm4"
         },
         {
-          "hex": "#da9e9b"
+          "hex": "#da9e9b",
+          "name": "#da9e9b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4c611"
+          "hex": "#2f2b22",
+          "name": "#2f2b22",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a66665"
+          "hex": "#322820",
+          "name": "#322820",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dca29e"
+          "hex": "#dca29e",
+          "name": "#dca29e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#322820"
+          "hex": "#a15b5b",
+          "name": "#a15b5b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bca447"
+          "hex": "#d4c611",
+          "name": "#d4c611",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f2b22"
+          "hex": "#bca447",
+          "name": "#bca447",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +209,7 @@
       }
     ],
     "wof:id": 1729564103,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233655,
     "wof:name": "safety information card: TWA (Trans World Airlines), Lockheed L-1011-100 TriStar",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +227,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9c996d"
+          "hex": "#d1cec3",
+          "name": "#d1cec3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#34394c"
+          "hex": "#1e2947",
+          "name": "#1e2947",
+          "reference": "marekm4"
         },
         {
-          "hex": "#534a91"
+          "hex": "#34394c",
+          "name": "#34394c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e2947"
+          "hex": "#ac2f1d",
+          "name": "#ac2f1d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5d3c6"
+          "hex": "#af2513",
+          "name": "#af2513",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ac2f1d"
+          "hex": "#534a91",
+          "name": "#534a91",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1cec3"
+          "hex": "#9c996d",
+          "name": "#9c996d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#af2513"
+          "hex": "#d5d3c6",
+          "name": "#d5d3c6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +218,7 @@
       }
     ],
     "wof:id": 1511925855,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "airmail flight cover: Pan American World Airways, Bangkok - Guam route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +236,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

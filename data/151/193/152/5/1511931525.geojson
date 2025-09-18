@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bc8f8f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a49076"
+          "hex": "#a49076",
+          "name": "#a49076",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a3b3e"
+          "hex": "#d5c6a8",
+          "name": "#d5c6a8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5c6a8"
+          "hex": "#4a3b3e",
+          "name": "#4a3b3e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +158,7 @@
       }
     ],
     "wof:id": 1511931525,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "airmail flight cover: San Diego - San Francisco Staging Flight Preceding First U.S. Navy Squadron Flight, San Francisco - Hawaii, January 10, 1934",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +176,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

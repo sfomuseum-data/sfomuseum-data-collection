@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2b2b56"
+          "hex": "#c4150d",
+          "name": "#c4150d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5bbac"
+          "hex": "#707286",
+          "name": "#707286",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4150d"
+          "hex": "#c5bbac",
+          "name": "#c5bbac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#707286"
+          "hex": "#2b2b56",
+          "name": "#2b2b56",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511951951,
-    "wof:lastmodified": 1758181304,
+    "wof:lastmodified": 1758233648,
     "wof:name": "brochure: Pacific Northern Airlines, Avis Rent-a-Car",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

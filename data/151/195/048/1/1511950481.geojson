@@ -28,38 +28,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d71a1b"
+          "hex": "#112b8c",
+          "name": "#112b8c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5d8c3"
+          "hex": "#e5d8c3",
+          "name": "#e5d8c3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#111762"
+          "hex": "#d71a1b",
+          "name": "#d71a1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#112b8c"
+          "hex": "#111762",
+          "name": "#111762",
+          "reference": "marekm4"
         }
       ]
     },
@@ -137,7 +157,7 @@
       }
     ],
     "wof:id": 1511950481,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +175,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

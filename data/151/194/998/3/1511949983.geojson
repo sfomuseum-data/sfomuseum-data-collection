@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5f5"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f1f0ee"
+          "hex": "#f1f0ee",
+          "name": "#f1f0ee",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ef2e06"
+          "hex": "#ef2e06",
+          "name": "#ef2e06",
+          "reference": "marekm4"
         },
         {
-          "hex": "#205bd5"
+          "hex": "#205bd5",
+          "name": "#205bd5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511949983,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233645,
     "wof:name": "advertisement: Mohawk Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

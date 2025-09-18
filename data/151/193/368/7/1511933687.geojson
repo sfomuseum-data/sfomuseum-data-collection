@@ -31,53 +31,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#847cb5"
+          "hex": "#c5c3d2",
+          "name": "#c5c3d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5754a3"
+          "hex": "#d81b14",
+          "name": "#d81b14",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5c3d2"
+          "hex": "#5754a3",
+          "name": "#5754a3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0d0d75"
+          "hex": "#847cb5",
+          "name": "#847cb5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d81b14"
+          "hex": "#0d0d75",
+          "name": "#0d0d75",
+          "reference": "marekm4"
         }
       ]
     },
@@ -185,7 +215,7 @@
       }
     ],
     "wof:id": 1511933687,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Jet America Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -203,5 +233,5 @@
     -87.894364,
     41.983038
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-87.894364,41.983038]]}
 }

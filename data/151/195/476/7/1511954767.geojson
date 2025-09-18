@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#15429b"
+          "hex": "#15429b",
+          "name": "#15429b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0d1847"
+          "hex": "#0d1847",
+          "name": "#0d1847",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6deb6"
+          "hex": "#e6deb6",
+          "name": "#e6deb6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511954767,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "timetable: KLM (Royal Dutch Airlines), worldwide edition",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

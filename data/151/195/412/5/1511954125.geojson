@@ -44,83 +44,133 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#deaa88"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#deb887"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bdaf97"
+          "hex": "#a98f75",
+          "name": "#a98f75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2c498"
+          "hex": "#696055",
+          "name": "#696055",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a98f75"
+          "hex": "#e2c399",
+          "name": "#e2c399",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a69b72"
+          "hex": "#a69b72",
+          "name": "#a69b72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#614f46"
+          "hex": "#506344",
+          "name": "#506344",
+          "reference": "marekm4"
         },
         {
-          "hex": "#696055"
+          "hex": "#c4b59e",
+          "name": "#c4b59e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#506344"
+          "hex": "#a26054",
+          "name": "#a26054",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4b59e"
+          "hex": "#bdaf97",
+          "name": "#bdaf97",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2c399"
+          "hex": "#e2c498",
+          "name": "#e2c498",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a26054"
+          "hex": "#614f46",
+          "name": "#614f46",
+          "reference": "marekm4"
         },
         {
-          "hex": "#413630"
+          "hex": "#413630",
+          "name": "#413630",
+          "reference": "marekm4"
         }
       ]
     },
@@ -207,7 +257,7 @@
       }
     ],
     "wof:id": 1511954125,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Transcontinental \u0026 Western Air (TWA), Santa Fe, New Mexico",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -235,5 +285,5 @@
     -101.840963,
     35.681375
   ],
-  "geometry": {"coordinates":[[-101.840963,35.221849],[-105.945888,35.681375],[-101.840963,35.221849]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-101.840963,35.221849],[-105.945888,35.681375],[-101.840963,35.221849]]}
 }

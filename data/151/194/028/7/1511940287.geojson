@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#bf4f51"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#28272a"
+          "hex": "#28272a",
+          "name": "#28272a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc4e47"
+          "hex": "#e4d9cc",
+          "name": "#e4d9cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4d9cc"
+          "hex": "#546c9c",
+          "name": "#546c9c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#546c9c"
+          "hex": "#6a8cab",
+          "name": "#6a8cab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a8cab"
+          "hex": "#bc4e47",
+          "name": "#bc4e47",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511940287,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: Air Canada",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

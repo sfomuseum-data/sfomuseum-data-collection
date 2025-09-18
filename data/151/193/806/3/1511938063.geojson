@@ -32,50 +32,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d49b17"
+          "hex": "#e6e4dc",
+          "name": "#e6e4dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3440d"
+          "hex": "#e3440d",
+          "name": "#e3440d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2c5893"
+          "hex": "#2c5893",
+          "name": "#2c5893",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0a0a10"
+          "hex": "#d49b17",
+          "name": "#d49b17",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e4dc"
+          "hex": "#0a0a10",
+          "name": "#0a0a10",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +189,7 @@
       }
     ],
     "wof:id": 1511938063,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: South African Airways (SAA / SAL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +207,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

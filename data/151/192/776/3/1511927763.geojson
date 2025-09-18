@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#926eae"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ba55d3",
+          "name": "mediumorchid",
+          "reference": "css4"
         },
         {
-          "hex": "#ba55d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#fff5ee"
+          "hex": "#fff5ee",
+          "name": "seashell",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8d8d8"
+          "hex": "#a05fb5",
+          "name": "#a05fb5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a05fb5"
+          "hex": "#413d2f",
+          "name": "#413d2f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#413d2f"
+          "hex": "#faf7ef",
+          "name": "#faf7ef",
+          "reference": "marekm4"
         },
         {
-          "hex": "#faf7ef"
+          "hex": "#d8d8d8",
+          "name": "#d8d8d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#040213"
+          "hex": "#040213",
+          "name": "#040213",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +183,7 @@
       }
     ],
     "wof:id": 1511927763,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "menu: Singapore Airlines, Economy Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

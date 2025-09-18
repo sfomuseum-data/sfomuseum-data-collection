@@ -31,53 +31,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cb2717"
+          "hex": "#0b1058",
+          "name": "#0b1058",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0b1058"
+          "hex": "#cb2717",
+          "name": "#cb2717",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ce867a"
+          "hex": "#676f95",
+          "name": "#676f95",
+          "reference": "marekm4"
         },
         {
-          "hex": "#676f95"
+          "hex": "#ce867a",
+          "name": "#ce867a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c6bcb6"
+          "hex": "#c6bcb6",
+          "name": "#c6bcb6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -164,7 +194,7 @@
       }
     ],
     "wof:id": 1511927215,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "timetable: Northwest Orient Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -182,5 +212,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -31,110 +31,178 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c6151c"
+          "hex": "#d7d1d5",
+          "name": "#d7d1d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfc4c2"
+          "hex": "#c6151c",
+          "name": "#c6151c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a78350"
+          "hex": "#bcbbba",
+          "name": "#bcbbba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6e5862"
+          "hex": "#045bbe",
+          "name": "#045bbe",
+          "reference": "marekm4"
         },
         {
-          "hex": "#045bbe"
+          "hex": "#505b59",
+          "name": "#505b59",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3851f"
+          "hex": "#7b8585",
+          "name": "#7b8585",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7d1d5"
+          "hex": "#a78350",
+          "name": "#a78350",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7b8585"
+          "hex": "#d3851f",
+          "name": "#d3851f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bb282f"
+          "hex": "#bb282f",
+          "name": "#bb282f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#505b59"
+          "hex": "#064cbd",
+          "name": "#064cbd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#064cbd"
+          "hex": "#6e5862",
+          "name": "#6e5862",
+          "reference": "marekm4"
         },
         {
-          "hex": "#656261"
+          "hex": "#a14b4e",
+          "name": "#a14b4e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bcbbba"
+          "hex": "#bfc4c2",
+          "name": "#bfc4c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a14b4e"
+          "hex": "#656261",
+          "name": "#656261",
+          "reference": "marekm4"
         }
       ]
     },
@@ -215,7 +283,7 @@
       }
     ],
     "wof:id": 1762830871,
-    "wof:lastmodified": 1758181336,
+    "wof:lastmodified": 1758233689,
     "wof:name": "safety information card: Japan Air Lines, Douglas DC-8-62",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -232,5 +300,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

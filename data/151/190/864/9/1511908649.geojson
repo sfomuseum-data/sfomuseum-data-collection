@@ -29,29 +29,43 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff5349"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff5349",
+          "name": "Red Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ff6347"
+          "hex": "#ff6347",
+          "name": "tomato",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#efe9d6"
+          "hex": "#e84848",
+          "name": "#e84848",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0e9d4"
+          "hex": "#f0e9d4",
+          "name": "#f0e9d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e84848"
+          "hex": "#efe9d6",
+          "name": "#efe9d6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -129,7 +143,7 @@
       }
     ],
     "wof:id": 1511908649,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233604,
     "wof:name": "airsickness bag: Kenya Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -147,5 +161,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

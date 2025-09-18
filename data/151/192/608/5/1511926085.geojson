@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#101528"
+          "hex": "#344e97",
+          "name": "#344e97",
+          "reference": "marekm4"
         },
         {
-          "hex": "#344e97"
+          "hex": "#101528",
+          "name": "#101528",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8d9e2"
+          "hex": "#d8d9e2",
+          "name": "#d8d9e2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +179,7 @@
       }
     ],
     "wof:id": 1511926085,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233614,
     "wof:name": "slide: United Airlines Express, Bombardier CRJ200, Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +197,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

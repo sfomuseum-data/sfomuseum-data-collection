@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#225db3"
+          "hex": "#d63a1d",
+          "name": "#d63a1d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#23371e"
+          "hex": "#23371e",
+          "name": "#23371e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d63a1d"
+          "hex": "#d6381d",
+          "name": "#d6381d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee2c9"
+          "hex": "#225db3",
+          "name": "#225db3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1773cc"
+          "hex": "#ede6d9",
+          "name": "#ede6d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ede6d9"
+          "hex": "#3086d3",
+          "name": "#3086d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3086d3"
+          "hex": "#eee2c9",
+          "name": "#eee2c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#202c27"
+          "hex": "#202c27",
+          "name": "#202c27",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6381d"
+          "hex": "#1773cc",
+          "name": "#1773cc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +225,7 @@
       }
     ],
     "wof:id": 1511926907,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "safety information card: Bahamasair, Boeing 737",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +243,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

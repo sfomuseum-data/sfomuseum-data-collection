@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#926eae"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2add0"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#886d9d"
+          "hex": "#788ecf",
+          "name": "#788ecf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#788ecf"
+          "hex": "#a9a9d4",
+          "name": "#a9a9d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a3254"
+          "hex": "#886d9d",
+          "name": "#886d9d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#716aa6"
+          "hex": "#3a3254",
+          "name": "#3a3254",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a9a9d4"
+          "hex": "#716aa6",
+          "name": "#716aa6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -190,7 +220,7 @@
       }
     ],
     "wof:id": 1511925931,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "slide: Delta Air Lines Connection, Bombardier CRJ200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -208,5 +238,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

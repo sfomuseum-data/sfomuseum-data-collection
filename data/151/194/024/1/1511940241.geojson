@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a51a1b"
+          "hex": "#a51a1b",
+          "name": "#a51a1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#edd5ad"
+          "hex": "#edd5ad",
+          "name": "#edd5ad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a1e0f"
+          "hex": "#2a1e0f",
+          "name": "#2a1e0f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511940241,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: Air Canada, international service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

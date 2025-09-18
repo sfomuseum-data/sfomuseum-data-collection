@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c1cfdd"
+          "hex": "#c1cfdd",
+          "name": "#c1cfdd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#333e61"
+          "hex": "#5a6789",
+          "name": "#5a6789",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a6789"
+          "hex": "#789ac7",
+          "name": "#789ac7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#789ac7"
+          "hex": "#333e61",
+          "name": "#333e61",
+          "reference": "marekm4"
         }
       ]
     },
@@ -191,7 +215,7 @@
       }
     ],
     "wof:id": 1762760225,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233682,
     "wof:name": "negative: Delta Air Lines, Boeing 727-200, San Jose Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -208,5 +232,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

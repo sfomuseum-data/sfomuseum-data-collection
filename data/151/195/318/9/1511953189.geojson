@@ -23,53 +23,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2a2e44"
+          "hex": "#d6c6a5",
+          "name": "#d6c6a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b62f21"
+          "hex": "#b62f21",
+          "name": "#b62f21",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a08e76"
+          "hex": "#2a2e44",
+          "name": "#2a2e44",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf1f13"
+          "hex": "#a08e76",
+          "name": "#a08e76",
+          "reference": "marekm4"
         },
         {
-          "hex": "#33374a"
+          "hex": "#bf1f13",
+          "name": "#bf1f13",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6c6a5"
+          "hex": "#d9c7a6",
+          "name": "#d9c7a6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9c7a6"
+          "hex": "#33374a",
+          "name": "#33374a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +172,7 @@
       }
     ],
     "wof:id": 1511953189,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233649,
     "wof:name": "airmail flight cover: FAM-1, first airmail flight, New York - Montreal route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +190,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

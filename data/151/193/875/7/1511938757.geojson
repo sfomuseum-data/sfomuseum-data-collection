@@ -28,50 +28,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e205a"
+          "hex": "#bebec5",
+          "name": "#bebec5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f4b9f"
+          "hex": "#906eb0",
+          "name": "#906eb0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#906eb0"
+          "hex": "#3f4b9f",
+          "name": "#3f4b9f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bebec5"
+          "hex": "#1e205a",
+          "name": "#1e205a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#718ac3"
+          "hex": "#718ac3",
+          "name": "#718ac3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +177,7 @@
       }
     ],
     "wof:id": 1511938757,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: Aeroflot Russian International Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +195,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

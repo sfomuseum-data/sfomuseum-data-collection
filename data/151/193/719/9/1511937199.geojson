@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#102368"
+          "hex": "#102368",
+          "name": "#102368",
+          "reference": "marekm4"
         },
         {
-          "hex": "#344d91"
+          "hex": "#ebe2d5",
+          "name": "#ebe2d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe2d5"
+          "hex": "#344d91",
+          "name": "#344d91",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511937199,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: Republic Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

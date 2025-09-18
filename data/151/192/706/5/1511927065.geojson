@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4c4b48"
+          "hex": "#4c4b48",
+          "name": "#4c4b48",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbb9a5"
+          "hex": "#c2c2ae",
+          "name": "#c2c2ae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#76876b"
+          "hex": "#bbb9a5",
+          "name": "#bbb9a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c2c2ae"
+          "hex": "#4a5848",
+          "name": "#4a5848",
+          "reference": "marekm4"
         },
         {
-          "hex": "#969077"
+          "hex": "#8c9478",
+          "name": "#8c9478",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8c9478"
+          "hex": "#867a65",
+          "name": "#867a65",
+          "reference": "marekm4"
         },
         {
-          "hex": "#867a65"
+          "hex": "#969077",
+          "name": "#969077",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a5848"
+          "hex": "#76876b",
+          "name": "#76876b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511927065,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "dollar bill: Pan American Airways, \"Short snorter\"",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

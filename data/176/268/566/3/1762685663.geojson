@@ -25,65 +25,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808000"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808000",
+          "name": "olive",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#314520"
+          "hex": "#71865b",
+          "name": "#71865b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#58513b"
+          "hex": "#58513b",
+          "name": "#58513b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#71865b"
+          "hex": "#314520",
+          "name": "#314520",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a781a"
+          "hex": "#9d913d",
+          "name": "#9d913d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6cdb6"
+          "hex": "#8a781a",
+          "name": "#8a781a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9d913d"
+          "hex": "#d6cdb6",
+          "name": "#d6cdb6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efe2c4"
+          "hex": "#efe2c4",
+          "name": "#efe2c4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -172,7 +210,7 @@
       }
     ],
     "wof:id": 1762685663,
-    "wof:lastmodified": 1758181327,
+    "wof:lastmodified": 1758233668,
     "wof:name": "postcard: Kansas City International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +227,5 @@
     -94.716176,
     39.304107
   ],
-  "geometry": {"coordinates":[[-94.716176,39.304107]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-94.716176,39.304107]]}
 }

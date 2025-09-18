@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b23a2d"
+          "hex": "#e6e0d0",
+          "name": "#e6e0d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b291e"
+          "hex": "#c5281a",
+          "name": "#c5281a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#512119"
+          "hex": "#e9e5d7",
+          "name": "#e9e5d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5281a"
+          "hex": "#b23a2d",
+          "name": "#b23a2d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e0d0"
+          "hex": "#4b291e",
+          "name": "#4b291e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e5d7"
+          "hex": "#512119",
+          "name": "#512119",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +182,7 @@
       }
     ],
     "wof:id": 1511934697,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: USAir",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

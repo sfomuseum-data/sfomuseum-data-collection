@@ -32,32 +32,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#424a38"
+          "hex": "#adafb0",
+          "name": "#adafb0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#adafb0"
+          "hex": "#454d3d",
+          "name": "#454d3d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aeadae"
+          "hex": "#424a38",
+          "name": "#424a38",
+          "reference": "marekm4"
         },
         {
-          "hex": "#454d3d"
+          "hex": "#aeadae",
+          "name": "#aeadae",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +159,7 @@
       }
     ],
     "wof:id": 1511932075,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "blanket: China National Aviation Corporation (CNAC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +177,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

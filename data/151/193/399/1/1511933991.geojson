@@ -26,44 +26,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#ef98aa",
+          "name": "Mauvelous",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#ef98aa"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bc8f8f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c3332e"
+          "hex": "#d1abaa",
+          "name": "#d1abaa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c67d82"
+          "hex": "#c3332e",
+          "name": "#c3332e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#636060"
+          "hex": "#c67d82",
+          "name": "#c67d82",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1abaa"
+          "hex": "#636060",
+          "name": "#636060",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +165,7 @@
       }
     ],
     "wof:id": 1511933991,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Northwest Airlines, frequent flyer",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +183,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2add0"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b7422a"
+          "hex": "#313a33",
+          "name": "#313a33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#313a33"
+          "hex": "#749fd7",
+          "name": "#749fd7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#95acce"
+          "hex": "#95acce",
+          "name": "#95acce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#749fd7"
+          "hex": "#b7422a",
+          "name": "#b7422a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -170,7 +194,7 @@
       }
     ],
     "wof:id": 1511926111,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233614,
     "wof:name": "slide: AeroMexico, McDonnell Douglas MD-80, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +212,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

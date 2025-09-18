@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#a57164"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#999da1"
+          "hex": "#151413",
+          "name": "#151413",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e847c"
+          "hex": "#ddd4c7",
+          "name": "#ddd4c7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#777c86"
+          "hex": "#8e847c",
+          "name": "#8e847c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#966865"
+          "hex": "#141315",
+          "name": "#141315",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ddd4c7"
+          "hex": "#7d848c",
+          "name": "#7d848c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#151413"
+          "hex": "#999da1",
+          "name": "#999da1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7d848c"
+          "hex": "#966865",
+          "name": "#966865",
+          "reference": "marekm4"
         },
         {
-          "hex": "#141315"
+          "hex": "#777c86",
+          "name": "#777c86",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511939645,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Spirit Heliporter",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

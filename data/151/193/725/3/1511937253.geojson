@@ -31,26 +31,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faf0e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#030650"
+          "hex": "#030650",
+          "name": "#030650",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eceae3"
+          "hex": "#eceae3",
+          "name": "#eceae3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +168,7 @@
       }
     ],
     "wof:id": 1511937253,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +186,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

@@ -29,68 +29,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#9fe2bf",
+          "name": "Sea Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9fe2bf"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#66cdaa",
+          "name": "mediumaquamarine",
+          "reference": "css4"
         },
         {
-          "hex": "#87ceeb"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#66cdaa"
+          "hex": "#87ceeb",
+          "name": "skyblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#444b93"
+          "hex": "#78bdbb",
+          "name": "#78bdbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ca1602"
+          "hex": "#8ec7c3",
+          "name": "#8ec7c3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0b1175"
+          "hex": "#ebe2c9",
+          "name": "#ebe2c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0e0947"
+          "hex": "#0e0947",
+          "name": "#0e0947",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8ec7c3"
+          "hex": "#ca1602",
+          "name": "#ca1602",
+          "reference": "marekm4"
         },
         {
-          "hex": "#78bdbb"
+          "hex": "#0b1175",
+          "name": "#0b1175",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe2c9"
+          "hex": "#444b93",
+          "name": "#444b93",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +211,7 @@
       }
     ],
     "wof:id": 1511950609,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: TACA International Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +229,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

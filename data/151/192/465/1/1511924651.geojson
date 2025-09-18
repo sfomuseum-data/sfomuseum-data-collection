@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#85754e"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b0b0b0"
+          "hex": "#856e53",
+          "name": "#856e53",
+          "reference": "marekm4"
         },
         {
-          "hex": "#594d44"
+          "hex": "#b0b0b0",
+          "name": "#b0b0b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#856e53"
+          "hex": "#594d44",
+          "name": "#594d44",
+          "reference": "marekm4"
         }
       ]
     },
@@ -130,7 +148,7 @@
       }
     ],
     "wof:id": 1511924651,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "keychain: Civil Air Transport (CAT)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

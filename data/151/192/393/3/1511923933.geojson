@@ -32,47 +32,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dc3310"
+          "hex": "#281712",
+          "name": "#281712",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dadbc4"
+          "hex": "#dadbc4",
+          "name": "#dadbc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#db3918"
+          "hex": "#db3918",
+          "name": "#db3918",
+          "reference": "marekm4"
         },
         {
-          "hex": "#291f18"
+          "hex": "#dc3310",
+          "name": "#dc3310",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfe0cb"
+          "hex": "#291f18",
+          "name": "#291f18",
+          "reference": "marekm4"
         },
         {
-          "hex": "#281712"
+          "hex": "#dfe0cb",
+          "name": "#dfe0cb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +184,7 @@
       }
     ],
     "wof:id": 1511923933,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "safety information card: Air West, Fokker F.27 Friendship",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +202,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

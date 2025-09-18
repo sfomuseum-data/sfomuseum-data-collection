@@ -38,83 +38,133 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#515860"
+          "hex": "#56a4d4",
+          "name": "#56a4d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7096af"
+          "hex": "#535759",
+          "name": "#535759",
+          "reference": "marekm4"
         },
         {
-          "hex": "#56a4d4"
+          "hex": "#b7bbbe",
+          "name": "#b7bbbe",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6aabd8"
+          "hex": "#b7bcbf",
+          "name": "#b7bcbf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7bbbe"
+          "hex": "#515860",
+          "name": "#515860",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7bcbf"
+          "hex": "#b5babd",
+          "name": "#b5babd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6794ae"
+          "hex": "#64a6d2",
+          "name": "#64a6d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8bdc0"
+          "hex": "#b8bdc0",
+          "name": "#b8bdc0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#404c59"
+          "hex": "#b3b8bb",
+          "name": "#b3b8bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b3b8bb"
+          "hex": "#4a5561",
+          "name": "#4a5561",
+          "reference": "marekm4"
         },
         {
-          "hex": "#64a6d2"
+          "hex": "#6794ae",
+          "name": "#6794ae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#575f66"
+          "hex": "#7096af",
+          "name": "#7096af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a5561"
+          "hex": "#6aabd8",
+          "name": "#6aabd8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#535759"
+          "hex": "#404c59",
+          "name": "#404c59",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7bdc0"
+          "hex": "#575f66",
+          "name": "#575f66",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b5babd"
+          "hex": "#b7bdc0",
+          "name": "#b7bdc0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -226,7 +276,7 @@
       }
     ],
     "wof:id": 1511907215,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "model airplane: KLM (Royal Dutch Airlines), Boeing 747-400",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -244,5 +294,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

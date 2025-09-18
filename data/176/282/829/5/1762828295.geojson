@@ -45,35 +45,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#84857b"
+          "hex": "#3d4035",
+          "name": "#3d4035",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2dedd"
+          "hex": "#84857b",
+          "name": "#84857b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d4035"
+          "hex": "#e2dedd",
+          "name": "#e2dedd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +181,7 @@
       }
     ],
     "wof:id": 1762828295,
-    "wof:lastmodified": 1758181334,
+    "wof:lastmodified": 1758233685,
     "wof:name": "photograph: John F. Kennedy International Airport (JFK), American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +198,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286],[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286],[-73.787845,40.643286]]}
 }

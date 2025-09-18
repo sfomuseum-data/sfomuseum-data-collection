@@ -35,65 +35,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5c74a0"
+          "hex": "#2d2b28",
+          "name": "#2d2b28",
+          "reference": "marekm4"
         },
         {
-          "hex": "#434048"
+          "hex": "#5c74a0",
+          "name": "#5c74a0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#708aae"
+          "hex": "#a69964",
+          "name": "#a69964",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d2b28"
+          "hex": "#e8e1d7",
+          "name": "#e8e1d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8e1d7"
+          "hex": "#708aae",
+          "name": "#708aae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cccdc6"
+          "hex": "#cccdc6",
+          "name": "#cccdc6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a69964"
+          "hex": "#434048",
+          "name": "#434048",
+          "reference": "marekm4"
         }
       ]
     },
@@ -195,7 +233,7 @@
       }
     ],
     "wof:id": 1762679899,
-    "wof:lastmodified": 1758181317,
+    "wof:lastmodified": 1758233661,
     "wof:name": "postcard: John Wayne Airport, AirCal, Western Airlines, Frontier, Hughes Airwest, Douglas DC-9, Boeing 737-100, Beechcraft, Cessna Citation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +250,5 @@
     -117.86628,
     33.677724
   ],
-  "geometry": {"coordinates":[[-117.86628,33.677724]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-117.86628,33.677724]]}
 }

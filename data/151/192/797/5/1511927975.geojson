@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#926eae"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3e3949"
+          "hex": "#738cb3",
+          "name": "#738cb3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#646c98"
+          "hex": "#8f7297",
+          "name": "#8f7297",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f7297"
+          "hex": "#d0cfd4",
+          "name": "#d0cfd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0cfd4"
+          "hex": "#3e3949",
+          "name": "#3e3949",
+          "reference": "marekm4"
         },
         {
-          "hex": "#738cb3"
+          "hex": "#646c98",
+          "name": "#646c98",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +185,7 @@
       }
     ],
     "wof:id": 1511927975,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: AnsettAustralia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +203,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

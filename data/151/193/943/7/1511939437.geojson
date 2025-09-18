@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d6a32e"
+          "hex": "#d6a32e",
+          "name": "#d6a32e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7d9c5"
+          "hex": "#b2231a",
+          "name": "#b2231a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#361312"
+          "hex": "#361312",
+          "name": "#361312",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2231a"
+          "hex": "#e7d9c5",
+          "name": "#e7d9c5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511939437,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

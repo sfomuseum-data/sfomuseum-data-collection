@@ -24,35 +24,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#82766b"
+          "hex": "#55504a",
+          "name": "#55504a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6d5ce"
+          "hex": "#d6d5ce",
+          "name": "#d6d5ce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#55504a"
+          "hex": "#82766b",
+          "name": "#82766b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +167,7 @@
       }
     ],
     "wof:id": 1762888925,
-    "wof:lastmodified": 1758181342,
+    "wof:lastmodified": 1758233695,
     "wof:name": "photographs: San Francisco International Airport (SFO), Michael F. Bagan",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -166,5 +184,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

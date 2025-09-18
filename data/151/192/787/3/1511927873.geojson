@@ -31,44 +31,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#455f8f"
+          "hex": "#d9d8d5",
+          "name": "#d9d8d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9d8d5"
+          "hex": "#1a2c60",
+          "name": "#1a2c60",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1a2c60"
+          "hex": "#7488a7",
+          "name": "#7488a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7488a7"
+          "hex": "#455f8f",
+          "name": "#455f8f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +176,7 @@
       }
     ],
     "wof:id": 1511927873,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: UTA (Union de Transports Aériens)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +194,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

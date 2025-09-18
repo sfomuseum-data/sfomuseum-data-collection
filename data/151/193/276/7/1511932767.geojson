@@ -28,32 +28,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#110d71"
+          "hex": "#e6e4e1",
+          "name": "#e6e4e1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0f118e"
+          "hex": "#110d71",
+          "name": "#110d71",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e4e1"
+          "hex": "#0f118e",
+          "name": "#0f118e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -132,7 +148,7 @@
       }
     ],
     "wof:id": 1511932767,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: Pacific Coast Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -150,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6b8e23"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9e9861"
+          "hex": "#9e9861",
+          "name": "#9e9861",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cecdad"
+          "hex": "#584926",
+          "name": "#584926",
+          "reference": "marekm4"
         },
         {
-          "hex": "#584926"
+          "hex": "#877743",
+          "name": "#877743",
+          "reference": "marekm4"
         },
         {
-          "hex": "#877743"
+          "hex": "#cecdad",
+          "name": "#cecdad",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +182,7 @@
       }
     ],
     "wof:id": 1511957199,
-    "wof:lastmodified": 1758181311,
+    "wof:lastmodified": 1758233653,
     "wof:name": "photograph: San Francisco International Airport (SFO), Central Terminal construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +200,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

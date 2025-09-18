@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b52516"
+          "hex": "#090a16",
+          "name": "#090a16",
+          "reference": "marekm4"
         },
         {
-          "hex": "#090a16"
+          "hex": "#0b0b17",
+          "name": "#0b0b17",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ab2414"
+          "hex": "#e1dcd2",
+          "name": "#e1dcd2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0b0b17"
+          "hex": "#b52516",
+          "name": "#b52516",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0cdc5"
+          "hex": "#ab2414",
+          "name": "#ab2414",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1dcd2"
+          "hex": "#d0cdc5",
+          "name": "#d0cdc5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +181,7 @@
       }
     ],
     "wof:id": 1511939281,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Japan Air Lines, international service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +199,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

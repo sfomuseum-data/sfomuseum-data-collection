@@ -32,26 +32,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#32353d"
+          "hex": "#a7a9ab",
+          "name": "#a7a9ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a7a9ab"
+          "hex": "#32353d",
+          "name": "#32353d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +147,7 @@
       }
     ],
     "wof:id": 1511922431,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233611,
     "wof:name": "airline bag: United Air Lines",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",
@@ -153,5 +165,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
 }

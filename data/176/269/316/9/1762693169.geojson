@@ -35,65 +35,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5689b6"
+          "hex": "#8e4428",
+          "name": "#8e4428",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e4428"
+          "hex": "#4d4738",
+          "name": "#4d4738",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e74b0"
+          "hex": "#e0e2e1",
+          "name": "#e0e2e1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d4738"
+          "hex": "#f1e8d6",
+          "name": "#f1e8d6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1e8d6"
+          "hex": "#2e74b0",
+          "name": "#2e74b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0e2e1"
+          "hex": "#32221d",
+          "name": "#32221d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#32221d"
+          "hex": "#5689b6",
+          "name": "#5689b6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -197,7 +235,7 @@
       }
     ],
     "wof:id": 1762693169,
-    "wof:lastmodified": 1758181323,
+    "wof:lastmodified": 1758233677,
     "wof:name": "postcard: Northwest Orient Airlines, Boeing 720B, Seattle-Tacoma International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -214,5 +252,5 @@
     -122.304268,
     47.441823
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.304268,47.441823]]}
 }

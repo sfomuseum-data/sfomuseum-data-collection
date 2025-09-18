@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#de5d83"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#de5d83",
+          "name": "Blush",
+          "reference": "crayola"
         },
         {
-          "hex": "#ca3767"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ca3767",
+          "name": "Jazzberry Jam",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c71585"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#c71585",
+          "name": "mediumvioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f2dfcc"
+          "hex": "#ca1f66",
+          "name": "#ca1f66",
+          "reference": "marekm4"
         },
         {
-          "hex": "#191713"
+          "hex": "#de6891",
+          "name": "#de6891",
+          "reference": "marekm4"
         },
         {
-          "hex": "#de6891"
+          "hex": "#191713",
+          "name": "#191713",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ca1f66"
+          "hex": "#f2dfcc",
+          "name": "#f2dfcc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511941027,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Mexicana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

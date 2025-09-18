@@ -29,62 +29,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffcf48"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#ffffff",
+          "name": "white",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f2cd39"
+          "hex": "#cb3905",
+          "name": "#cb3905",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8e3e7"
+          "hex": "#fefdfd",
+          "name": "#fefdfd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b494d"
+          "hex": "#4b494d",
+          "name": "#4b494d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#261825"
+          "hex": "#e8e3e7",
+          "name": "#e8e3e7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb3905"
+          "hex": "#261825",
+          "name": "#261825",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fefdfd"
+          "hex": "#f2cd39",
+          "name": "#f2cd39",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +198,7 @@
       }
     ],
     "wof:id": 1511930667,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "menu: Lufthansa, Business Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +216,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

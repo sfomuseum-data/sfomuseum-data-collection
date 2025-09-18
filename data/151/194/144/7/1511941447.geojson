@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bab86c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2a221f"
+          "hex": "#2a221f",
+          "name": "#2a221f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1c667"
+          "hex": "#d1c667",
+          "name": "#d1c667",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eaf4f0"
+          "hex": "#eaf4f0",
+          "name": "#eaf4f0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +179,7 @@
       }
     ],
     "wof:id": 1511941447,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: American Airlines, pocket schedule, Boston / New York",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +197,5 @@
     -73.875778,
     40.774956
   ],
-  "geometry": {"coordinates":[[-73.875778,40.774956]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.875778,40.774956]]}
 }

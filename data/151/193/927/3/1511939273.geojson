@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dc0e06"
+          "hex": "#dc0e06",
+          "name": "#dc0e06",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e1e1"
+          "hex": "#e2dddd",
+          "name": "#e2dddd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0f124c"
+          "hex": "#14154b",
+          "name": "#14154b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2dddd"
+          "hex": "#df0d06",
+          "name": "#df0d06",
+          "reference": "marekm4"
         },
         {
-          "hex": "#df0d06"
+          "hex": "#0f124c",
+          "name": "#0f124c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#14154b"
+          "hex": "#e5e1e1",
+          "name": "#e5e1e1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -147,7 +171,7 @@
       }
     ],
     "wof:id": 1511939273,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Japan Air Lines, international service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +189,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

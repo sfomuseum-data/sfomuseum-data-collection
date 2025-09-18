@@ -33,26 +33,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dbdcdc"
+          "hex": "#dbdcdc",
+          "name": "#dbdcdc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#595c58"
+          "hex": "#595c58",
+          "name": "#595c58",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +163,7 @@
       }
     ],
     "wof:id": 1913687549,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233764,
     "wof:name": "photograph: Eastern Air Lines, Airbus A300, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +180,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

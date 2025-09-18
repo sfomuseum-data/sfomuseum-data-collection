@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#080a2e"
+          "hex": "#d9dddd",
+          "name": "#d9dddd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9dddd"
+          "hex": "#5e94ca",
+          "name": "#5e94ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e94ca"
+          "hex": "#080a2e",
+          "name": "#080a2e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4974b2"
+          "hex": "#4974b2",
+          "name": "#4974b2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511950033,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233645,
     "wof:name": "brochure: LOT (Polish Airlines), general service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

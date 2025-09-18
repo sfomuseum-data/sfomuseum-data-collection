@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#5f9ea0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#19211d"
+          "hex": "#abb0b6",
+          "name": "#abb0b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b91bb"
+          "hex": "#19211d",
+          "name": "#19211d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#abb0b6"
+          "hex": "#4b74a5",
+          "name": "#4b74a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b74a5"
+          "hex": "#6b91bb",
+          "name": "#6b91bb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +193,7 @@
       }
     ],
     "wof:id": 1511926365,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: U.S. Air Force, C-5A Galaxy, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +211,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

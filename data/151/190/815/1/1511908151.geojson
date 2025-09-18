@@ -25,17 +25,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8d3ce"
+          "hex": "#d8d3ce",
+          "name": "#d8d3ce",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +146,7 @@
       }
     ],
     "wof:id": 1511908151,
-    "wof:lastmodified": 1757662921,
+    "wof:lastmodified": 1758233603,
     "wof:name": "architectural drawing: Mills Field Municipal Airport of San Francisco, Contract No. 1, progress chart for grading",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +164,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

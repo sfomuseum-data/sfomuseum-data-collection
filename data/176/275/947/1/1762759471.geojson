@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#415590"
+          "hex": "#c9c5df",
+          "name": "#c9c5df",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9c5df"
+          "hex": "#121520",
+          "name": "#121520",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121520"
+          "hex": "#415590",
+          "name": "#415590",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +192,7 @@
       }
     ],
     "wof:id": 1762759471,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233681,
     "wof:name": "slide: EVA Air, Boeing 747-400, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +209,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

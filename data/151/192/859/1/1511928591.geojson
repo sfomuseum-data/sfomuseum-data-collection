@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fdf5e6"
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#faf7e8"
+          "hex": "#dbb8b2",
+          "name": "#dbb8b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbb8b2"
+          "hex": "#af0f24",
+          "name": "#af0f24",
+          "reference": "marekm4"
         },
         {
-          "hex": "#354432"
+          "hex": "#faf7e8",
+          "name": "#faf7e8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#af0f24"
+          "hex": "#354432",
+          "name": "#354432",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f0301"
+          "hex": "#1f0301",
+          "name": "#1f0301",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +183,7 @@
       }
     ],
     "wof:id": 1511928591,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "menu: United Airlines, Connoisseur (Business) Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

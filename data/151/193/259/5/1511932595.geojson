@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffa343"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff4500"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ffa500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#ffa500",
+          "name": "orange",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fd4111"
+          "hex": "#efe1dd",
+          "name": "#efe1dd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efe1dd"
+          "hex": "#fd4111",
+          "name": "#fd4111",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ff9f20"
+          "hex": "#ff9f20",
+          "name": "#ff9f20",
+          "reference": "marekm4"
         },
         {
-          "hex": "#230f23"
+          "hex": "#230f23",
+          "name": "#230f23",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +169,7 @@
       }
     ],
     "wof:id": 1511932595,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Braniff International",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +187,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,80 +29,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddb6d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#fddb6d",
+          "name": "Dandelion",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#f0e68c"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#f0e68c",
+          "name": "khaki",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f0efe0"
+          "hex": "#e6cba0",
+          "name": "#e6cba0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#301c26"
+          "hex": "#301c26",
+          "name": "#301c26",
+          "reference": "marekm4"
         },
         {
-          "hex": "#993e3c"
+          "hex": "#946f5f",
+          "name": "#946f5f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#946f5f"
+          "hex": "#f1e861",
+          "name": "#f1e861",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aa8f70"
+          "hex": "#5d1c23",
+          "name": "#5d1c23",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5d1c23"
+          "hex": "#aa8f70",
+          "name": "#aa8f70",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1e861"
+          "hex": "#f0efe0",
+          "name": "#f0efe0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6cba0"
+          "hex": "#993e3c",
+          "name": "#993e3c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +231,7 @@
       }
     ],
     "wof:id": 1511940055,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Aero California, summer schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +249,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

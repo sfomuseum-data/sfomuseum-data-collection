@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e1b36"
+          "hex": "#a80f0d",
+          "name": "#a80f0d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b6ad8e"
+          "hex": "#b5ae90",
+          "name": "#b5ae90",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a19974"
+          "hex": "#aa281a",
+          "name": "#aa281a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a49a75"
+          "hex": "#a49a75",
+          "name": "#a49a75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b5ae90"
+          "hex": "#b6ad8e",
+          "name": "#b6ad8e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a80f0d"
+          "hex": "#273138",
+          "name": "#273138",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aa281a"
+          "hex": "#a19974",
+          "name": "#a19974",
+          "reference": "marekm4"
         },
         {
-          "hex": "#678a5d"
+          "hex": "#1e1b36",
+          "name": "#1e1b36",
+          "reference": "marekm4"
         },
         {
-          "hex": "#273138"
+          "hex": "#678a5d",
+          "name": "#678a5d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +225,7 @@
       }
     ],
     "wof:id": 1511954481,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "airmail flight cover: Pan American Airways, first airmail flight, Noumea (New Caledonia) - San Francisco route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +243,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

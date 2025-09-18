@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e9e7d0"
+          "hex": "#be1914",
+          "name": "#be1914",
+          "reference": "marekm4"
         },
         {
-          "hex": "#be1914"
+          "hex": "#23423f",
+          "name": "#23423f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#23423f"
+          "hex": "#e9e7d0",
+          "name": "#e9e7d0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511936007,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#112b91"
+          "hex": "#cb270a",
+          "name": "#cb270a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121312"
+          "hex": "#121312",
+          "name": "#121312",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb270a"
+          "hex": "#cfd1d3",
+          "name": "#cfd1d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfd1d3"
+          "hex": "#112b91",
+          "name": "#112b91",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +170,7 @@
       }
     ],
     "wof:id": 1511928337,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +188,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

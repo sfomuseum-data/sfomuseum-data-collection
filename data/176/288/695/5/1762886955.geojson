@@ -25,35 +25,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c1c1c1"
+          "hex": "#c1c1c1",
+          "name": "#c1c1c1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbcbcb"
+          "hex": "#272727",
+          "name": "#272727",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a2a2a"
+          "hex": "#cbcbcb",
+          "name": "#cbcbcb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272727"
+          "hex": "#2a2a2a",
+          "name": "#2a2a2a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +170,7 @@
       }
     ],
     "wof:id": 1762886955,
-    "wof:lastmodified": 1758181338,
+    "wof:lastmodified": 1758233693,
     "wof:name": "negatives: San Francisco International Airport (SFO), Terminal Building construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +187,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

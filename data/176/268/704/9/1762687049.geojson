@@ -24,35 +24,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#5f9ea0"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#71a3c4"
+          "hex": "#d7e1e6",
+          "name": "#d7e1e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#132a25"
+          "hex": "#71a3c4",
+          "name": "#71a3c4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7e1e6"
+          "hex": "#132a25",
+          "name": "#132a25",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +160,7 @@
       }
     ],
     "wof:id": 1762687049,
-    "wof:lastmodified": 1758181329,
+    "wof:lastmodified": 1758233669,
     "wof:name": "timetable: Stuttgart",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +177,5 @@
     9.204539,
     48.691025
   ],
-  "geometry": {"coordinates":[[9.204539,48.691025]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[9.204539,48.691025]]}
 }

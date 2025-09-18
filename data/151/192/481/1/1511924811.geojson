@@ -23,44 +23,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#918971"
+          "hex": "#918971",
+          "name": "#918971",
+          "reference": "marekm4"
         },
         {
-          "hex": "#876f59"
+          "hex": "#e6e2cc",
+          "name": "#e6e2cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e2cc"
+          "hex": "#876f59",
+          "name": "#876f59",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47443c"
+          "hex": "#47443c",
+          "name": "#47443c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +158,7 @@
       }
     ],
     "wof:id": 1511924811,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "Canton Island: aerial crossroads of the South Pacific",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +176,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

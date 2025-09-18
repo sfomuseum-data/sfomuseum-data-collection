@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3a3946"
+          "hex": "#bbb6a3",
+          "name": "#bbb6a3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbb6a3"
+          "hex": "#3a3946",
+          "name": "#3a3946",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d22405"
+          "hex": "#d22405",
+          "name": "#d22405",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a28e77"
+          "hex": "#a28e77",
+          "name": "#a28e77",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511937343,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

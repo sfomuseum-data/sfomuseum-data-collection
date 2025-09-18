@@ -31,80 +31,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5dc"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         },
         {
-          "hex": "#deb887"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#45443e"
+          "hex": "#45443e",
+          "name": "#45443e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f4219"
+          "hex": "#d9be6c",
+          "name": "#d9be6c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aa6643"
+          "hex": "#7b8689",
+          "name": "#7b8689",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7b8689"
+          "hex": "#b7aea5",
+          "name": "#b7aea5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7aea5"
+          "hex": "#f2eee1",
+          "name": "#f2eee1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9be6c"
+          "hex": "#4f4219",
+          "name": "#4f4219",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c28a69"
+          "hex": "#aa6643",
+          "name": "#aa6643",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2eee1"
+          "hex": "#c28a69",
+          "name": "#c28a69",
+          "reference": "marekm4"
         }
       ]
     },
@@ -199,7 +247,7 @@
       }
     ],
     "wof:id": 1762683033,
-    "wof:lastmodified": 1758181322,
+    "wof:lastmodified": 1758233664,
     "wof:name": "postcard: Pan American Airport, Miami",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -216,5 +264,5 @@
     -80.296006,
     25.79047
   ],
-  "geometry": {"coordinates":[[-80.296006,25.79047]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-80.296006,25.79047]]}
 }

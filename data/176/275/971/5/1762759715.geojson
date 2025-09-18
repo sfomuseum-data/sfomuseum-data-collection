@@ -33,35 +33,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#656989"
+          "hex": "#656989",
+          "name": "#656989",
+          "reference": "marekm4"
         },
         {
-          "hex": "#383748"
+          "hex": "#bbb8ce",
+          "name": "#bbb8ce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbb8ce"
+          "hex": "#383748",
+          "name": "#383748",
+          "reference": "marekm4"
         }
       ]
     },
@@ -166,7 +184,7 @@
       }
     ],
     "wof:id": 1762759715,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233682,
     "wof:name": "slide: China Eastern Airlines, McDonnell Douglas MD-11, Kai Tak Airport (HKG)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +201,5 @@
     114.197994,
     22.321406
   ],
-  "geometry": {"coordinates":[[114.197994,22.321406]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[114.197994,22.321406]]}
 }

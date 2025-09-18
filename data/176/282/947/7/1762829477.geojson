@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2b6cc4"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5d97db"
+          "hex": "#ae3826",
+          "name": "#ae3826",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4171bc"
+          "hex": "#4171bc",
+          "name": "#4171bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ae3826"
+          "hex": "#ebaf45",
+          "name": "#ebaf45",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebaf45"
+          "hex": "#0f1114",
+          "name": "#0f1114",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0f1114"
+          "hex": "#5d97db",
+          "name": "#5d97db",
+          "reference": "marekm4"
         }
       ]
     },
@@ -199,7 +229,7 @@
       }
     ],
     "wof:id": 1762829477,
-    "wof:lastmodified": 1758181336,
+    "wof:lastmodified": 1758233687,
     "wof:name": "slide: Southwest Airlines, Boeing 737-700, Norman Y. Mineta San Jose International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -216,5 +246,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

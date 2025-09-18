@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#201c4e"
+          "hex": "#6c6b8c",
+          "name": "#6c6b8c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bcb4af"
+          "hex": "#bcb4af",
+          "name": "#bcb4af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c6b8c"
+          "hex": "#d20604",
+          "name": "#d20604",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d20604"
+          "hex": "#837c94",
+          "name": "#837c94",
+          "reference": "marekm4"
         },
         {
-          "hex": "#837c94"
+          "hex": "#201c4e",
+          "name": "#201c4e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511937365,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

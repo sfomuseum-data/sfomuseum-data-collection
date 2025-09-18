@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faf0e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#663399",
+          "name": "rebeccapurple",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#663399"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f1ede2"
+          "hex": "#8a71a4",
+          "name": "#8a71a4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a71a4"
+          "hex": "#472378",
+          "name": "#472378",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5d3a8c"
+          "hex": "#402371",
+          "name": "#402371",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae7de"
+          "hex": "#5d3a8c",
+          "name": "#5d3a8c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#402371"
+          "hex": "#f1ede2",
+          "name": "#f1ede2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#65498f"
+          "hex": "#65498f",
+          "name": "#65498f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#472378"
+          "hex": "#eae7de",
+          "name": "#eae7de",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +191,7 @@
       }
     ],
     "wof:id": 1511938833,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: AirCal, quick reference, Reno",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +209,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

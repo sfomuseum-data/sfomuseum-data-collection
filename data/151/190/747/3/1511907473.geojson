@@ -32,50 +32,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff5349"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff5349",
+          "name": "Red Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffebcd"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#ff6347"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#ff6347",
+          "name": "tomato",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ed4331"
+          "hex": "#343164",
+          "name": "#343164",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8e6ca"
+          "hex": "#363369",
+          "name": "#363369",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9eacb"
+          "hex": "#f9eacb",
+          "name": "#f9eacb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e94c4a"
+          "hex": "#f8e6ca",
+          "name": "#f8e6ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#343164"
+          "hex": "#e94c4a",
+          "name": "#e94c4a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#363369"
+          "hex": "#ed4331",
+          "name": "#ed4331",
+          "reference": "marekm4"
         }
       ]
     },
@@ -173,7 +201,7 @@
       }
     ],
     "wof:id": 1511907473,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233603,
     "wof:name": "airmail flight cover: Pan American World Airways, Manila - Saigon route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +219,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

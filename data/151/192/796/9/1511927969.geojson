@@ -28,26 +28,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e6dfca"
+          "hex": "#222823",
+          "name": "#222823",
+          "reference": "marekm4"
         },
         {
-          "hex": "#222823"
+          "hex": "#e6dfca",
+          "name": "#e6dfca",
+          "reference": "marekm4"
         }
       ]
     },
@@ -126,7 +138,7 @@
       }
     ],
     "wof:id": 1511927969,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "pocket timetable: American Airlines, quick reference, San Francisco / San Diego / Los Angeles / Washington, D.C.",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -144,5 +156,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

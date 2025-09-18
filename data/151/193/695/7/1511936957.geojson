@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff4500"
+          "hex": "#ffffe0",
+          "name": "lightyellow",
+          "reference": "css4"
         },
         {
-          "hex": "#ffffe0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#242121"
+          "hex": "#242121",
+          "name": "#242121",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fefde3"
+          "hex": "#fefde3",
+          "name": "#fefde3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f82413"
+          "hex": "#f82413",
+          "name": "#f82413",
+          "reference": "marekm4"
         }
       ]
     },
@@ -130,7 +148,7 @@
       }
     ],
     "wof:id": 1511936957,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA), flight schedule amendment",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

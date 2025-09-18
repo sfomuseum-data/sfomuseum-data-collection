@@ -32,92 +32,148 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cbc9cb"
+          "hex": "#342f29",
+          "name": "#342f29",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97968e"
+          "hex": "#965536",
+          "name": "#965536",
+          "reference": "marekm4"
         },
         {
-          "hex": "#965536"
+          "hex": "#211e1c",
+          "name": "#211e1c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c99734"
+          "hex": "#97968e",
+          "name": "#97968e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#926e43"
+          "hex": "#cf9233",
+          "name": "#cf9233",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9d9b94"
+          "hex": "#926e43",
+          "name": "#926e43",
+          "reference": "marekm4"
         },
         {
-          "hex": "#212021"
+          "hex": "#b56828",
+          "name": "#b56828",
+          "reference": "marekm4"
         },
         {
-          "hex": "#342f29"
+          "hex": "#cbc9cb",
+          "name": "#cbc9cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b56828"
+          "hex": "#9d9b94",
+          "name": "#9d9b94",
+          "reference": "marekm4"
         },
         {
-          "hex": "#211e1c"
+          "hex": "#212021",
+          "name": "#212021",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cf9233"
+          "hex": "#c2963c",
+          "name": "#c2963c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c2963c"
+          "hex": "#c99734",
+          "name": "#c99734",
+          "reference": "marekm4"
         }
       ]
     },
@@ -216,7 +272,7 @@
       }
     ],
     "wof:id": 1779488579,
-    "wof:lastmodified": 1758181354,
+    "wof:lastmodified": 1758233716,
     "wof:name": "amenity kit: Virgin America, first class, Boston",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -233,5 +289,5 @@
     -71.01475,
     42.362322
   ],
-  "geometry": {"coordinates":[[-71.01475,42.362322]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-71.01475,42.362322]]}
 }

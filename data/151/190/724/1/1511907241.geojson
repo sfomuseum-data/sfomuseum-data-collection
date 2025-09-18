@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#313644"
+          "hex": "#f2e2c9",
+          "name": "#f2e2c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2e2c9"
+          "hex": "#313644",
+          "name": "#313644",
+          "reference": "marekm4"
         },
         {
-          "hex": "#df372a"
+          "hex": "#df372a",
+          "name": "#df372a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +154,7 @@
       }
     ],
     "wof:id": 1511907241,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American Airways, Canton Island - Auckland route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

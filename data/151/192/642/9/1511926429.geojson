@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#a57164"
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#413c4f"
+          "hex": "#757497",
+          "name": "#757497",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a09fb9"
+          "hex": "#95626c",
+          "name": "#95626c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a7a96"
+          "hex": "#a09fb9",
+          "name": "#a09fb9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#757497"
+          "hex": "#8a7a96",
+          "name": "#8a7a96",
+          "reference": "marekm4"
         },
         {
-          "hex": "#95626c"
+          "hex": "#413c4f",
+          "name": "#413c4f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -185,7 +215,7 @@
       }
     ],
     "wof:id": 1511926429,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Mexicana Airlines, Airbus A319, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -203,5 +233,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

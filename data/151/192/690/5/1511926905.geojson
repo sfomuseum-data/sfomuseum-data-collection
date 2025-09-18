@@ -33,50 +33,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#eceabe"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#05095d"
+          "hex": "#e9e1be",
+          "name": "#e9e1be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#040854"
+          "hex": "#565e88",
+          "name": "#565e88",
+          "reference": "marekm4"
         },
         {
-          "hex": "#565e88"
+          "hex": "#e5dfbc",
+          "name": "#e5dfbc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3ddb8"
+          "hex": "#040854",
+          "name": "#040854",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5dfbc"
+          "hex": "#050754",
+          "name": "#050754",
+          "reference": "marekm4"
         },
         {
-          "hex": "#050754"
+          "hex": "#05095d",
+          "name": "#05095d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e1be"
+          "hex": "#46508a",
+          "name": "#46508a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#46508a"
+          "hex": "#e3ddb8",
+          "name": "#e3ddb8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +196,7 @@
       }
     ],
     "wof:id": 1511926905,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "safety information card: Arrow Airways, Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

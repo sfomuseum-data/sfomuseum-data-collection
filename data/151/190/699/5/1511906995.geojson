@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bc5d58"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#d98695"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#bc5d58",
+          "name": "Chestnut",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#d98695",
+          "name": "Shimmering Blush",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ce7486"
+          "hex": "#ba5858",
+          "name": "#ba5858",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebd6b9"
+          "hex": "#ebd6b9",
+          "name": "#ebd6b9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f4487"
+          "hex": "#efdbbd",
+          "name": "#efdbbd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ba5858"
+          "hex": "#1f4487",
+          "name": "#1f4487",
+          "reference": "marekm4"
         },
         {
-          "hex": "#383b4c"
+          "hex": "#ce7486",
+          "name": "#ce7486",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efdbbd"
+          "hex": "#383b4c",
+          "name": "#383b4c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +203,7 @@
       }
     ],
     "wof:id": 1511906995,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American World Airways, Calcutta - San Francisco route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +221,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

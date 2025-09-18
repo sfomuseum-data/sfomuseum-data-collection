@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dbc2a1"
+          "hex": "#391c1a",
+          "name": "#391c1a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bb3625"
+          "hex": "#bb3625",
+          "name": "#bb3625",
+          "reference": "marekm4"
         },
         {
-          "hex": "#391c1a"
+          "hex": "#b79072",
+          "name": "#b79072",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b79072"
+          "hex": "#dbc2a1",
+          "name": "#dbc2a1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511955409,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "timetable: Western Airlines International",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

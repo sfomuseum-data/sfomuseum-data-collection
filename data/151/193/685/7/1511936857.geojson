@@ -28,41 +28,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#1f75fe"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#1f75fe",
+          "name": "Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#388de4"
+          "hex": "#222422",
+          "name": "#222422",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5f4f0"
+          "hex": "#388de4",
+          "name": "#388de4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#222422"
+          "hex": "#257bdb",
+          "name": "#257bdb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#257bdb"
+          "hex": "#f5f4f0",
+          "name": "#f5f4f0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +162,7 @@
       }
     ],
     "wof:id": 1511936857,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +180,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ece6cc"
+          "hex": "#221e20",
+          "name": "#221e20",
+          "reference": "marekm4"
         },
         {
-          "hex": "#221e20"
+          "hex": "#ea1001",
+          "name": "#ea1001",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebd7bd"
+          "hex": "#ebd7bd",
+          "name": "#ebd7bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e40602"
+          "hex": "#ece6cc",
+          "name": "#ece6cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ea1001"
+          "hex": "#e40602",
+          "name": "#e40602",
+          "reference": "marekm4"
         },
         {
-          "hex": "#291308"
+          "hex": "#291308",
+          "name": "#291308",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +181,7 @@
       }
     ],
     "wof:id": 1511941123,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Qantas Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +199,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

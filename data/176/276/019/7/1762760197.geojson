@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cdbedd"
+          "hex": "#666d9d",
+          "name": "#666d9d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#666d9d"
+          "hex": "#16171b",
+          "name": "#16171b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#16171b"
+          "hex": "#cdbedd",
+          "name": "#cdbedd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +187,7 @@
       }
     ],
     "wof:id": 1762760197,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233682,
     "wof:name": "slide: Continental Airlines, Boeing 777-200, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +204,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

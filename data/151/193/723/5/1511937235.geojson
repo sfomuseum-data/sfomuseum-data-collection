@@ -31,38 +31,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff4500"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#101b6d"
+          "hex": "#101b6d",
+          "name": "#101b6d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0d7d2"
+          "hex": "#13258f",
+          "name": "#13258f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e83012"
+          "hex": "#e83012",
+          "name": "#e83012",
+          "reference": "marekm4"
         },
         {
-          "hex": "#13258f"
+          "hex": "#e0d7d2",
+          "name": "#e0d7d2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +191,7 @@
       }
     ],
     "wof:id": 1511937235,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +209,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

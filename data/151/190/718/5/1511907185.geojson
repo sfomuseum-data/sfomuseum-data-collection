@@ -33,77 +33,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#fffafa"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#827d75"
+          "hex": "#f7f7f6",
+          "name": "#f7f7f6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#605c56"
+          "hex": "#fbfbfa",
+          "name": "#fbfbfa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#65625c"
+          "hex": "#b5b4b1",
+          "name": "#b5b4b1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2b1ae"
+          "hex": "#827d75",
+          "name": "#827d75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#87827c"
+          "hex": "#605c56",
+          "name": "#605c56",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b5b4b1"
+          "hex": "#86837c",
+          "name": "#86837c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e2822"
+          "hex": "#f8f8f7",
+          "name": "#f8f8f7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8f8f7"
+          "hex": "#87827c",
+          "name": "#87827c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbfbfa"
+          "hex": "#b2b1ae",
+          "name": "#b2b1ae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#86837c"
+          "hex": "#423931",
+          "name": "#423931",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f7f7f6"
+          "hex": "#65625c",
+          "name": "#65625c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#423931"
+          "hex": "#2e2822",
+          "name": "#2e2822",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +229,7 @@
       }
     ],
     "wof:id": 1511907185,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "model airplane: Ryan NYP Spirit of St. Louis",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +247,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

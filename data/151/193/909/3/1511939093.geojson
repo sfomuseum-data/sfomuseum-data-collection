@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#324ab2"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b8860b"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#b8860b",
+          "name": "darkgoldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dad5d2"
+          "hex": "#c18d1a",
+          "name": "#c18d1a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#393c3f"
+          "hex": "#dad5d2",
+          "name": "#dad5d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1230a7"
+          "hex": "#1230a7",
+          "name": "#1230a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c18d1a"
+          "hex": "#393c3f",
+          "name": "#393c3f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511939093,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Continental Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

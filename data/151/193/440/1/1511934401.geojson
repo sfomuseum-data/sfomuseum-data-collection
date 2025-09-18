@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fefe22"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fefe22",
+          "name": "Laser Lemon",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#ffff00",
+          "name": "yellow",
+          "reference": "css4"
         },
         {
-          "hex": "#ffff00"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#332b30"
+          "hex": "#f6f6f3",
+          "name": "#f6f6f3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f6f6f3"
+          "hex": "#fcec21",
+          "name": "#fcec21",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fcec21"
+          "hex": "#332b30",
+          "name": "#332b30",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e74f21"
+          "hex": "#f3ece6",
+          "name": "#f3ece6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f3ece6"
+          "hex": "#302e2c",
+          "name": "#302e2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302e2c"
+          "hex": "#e74f21",
+          "name": "#e74f21",
+          "reference": "marekm4"
         }
       ]
     },
@@ -160,7 +192,7 @@
       }
     ],
     "wof:id": 1511934401,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: Sunworld International Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -178,5 +210,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

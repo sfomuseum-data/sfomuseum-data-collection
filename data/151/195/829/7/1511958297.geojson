@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#24274d"
+          "hex": "#a79376",
+          "name": "#a79376",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7d5ae"
+          "hex": "#cf341c",
+          "name": "#cf341c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a79376"
+          "hex": "#e7d5ae",
+          "name": "#e7d5ae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cf341c"
+          "hex": "#24274d",
+          "name": "#24274d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -129,7 +153,7 @@
       }
     ],
     "wof:id": 1511958297,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "airmail flight cover: National Air Mail Week, Covina, California",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -147,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

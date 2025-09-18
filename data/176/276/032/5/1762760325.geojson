@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#926eae"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2add0"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7195f2"
+          "hex": "#8779b0",
+          "name": "#8779b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#414597"
+          "hex": "#7195f2",
+          "name": "#7195f2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#181956"
+          "hex": "#414597",
+          "name": "#414597",
+          "reference": "marekm4"
         },
         {
-          "hex": "#acb9e5"
+          "hex": "#181956",
+          "name": "#181956",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8779b0"
+          "hex": "#acb9e5",
+          "name": "#acb9e5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -200,7 +230,7 @@
       }
     ],
     "wof:id": 1762760325,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233683,
     "wof:name": "negative: Delta Air Lines, Boeing 727-200, San Jose Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -217,5 +247,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

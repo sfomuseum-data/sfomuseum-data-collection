@@ -28,41 +28,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#879479"
+          "hex": "#879479",
+          "name": "#879479",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d6140"
+          "hex": "#3d6140",
+          "name": "#3d6140",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bac1b1"
+          "hex": "#6a8a6c",
+          "name": "#6a8a6c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a8a6c"
+          "hex": "#bac1b1",
+          "name": "#bac1b1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +163,7 @@
       }
     ],
     "wof:id": 1511933369,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: Eastern Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

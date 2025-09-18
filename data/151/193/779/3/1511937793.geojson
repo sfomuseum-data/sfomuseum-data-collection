@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#91987a"
+          "hex": "#272733",
+          "name": "#272733",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aeb193"
+          "hex": "#91987a",
+          "name": "#91987a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272733"
+          "hex": "#aeb193",
+          "name": "#aeb193",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a61117"
+          "hex": "#a61117",
+          "name": "#a61117",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511937793,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: BEA (British European Airways)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

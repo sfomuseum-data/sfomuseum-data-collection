@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#00008b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#082ca8"
+          "hex": "#082ca8",
+          "name": "#082ca8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbddde"
+          "hex": "#dbddde",
+          "name": "#dbddde",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97342b"
+          "hex": "#26291b",
+          "name": "#26291b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26291b"
+          "hex": "#97342b",
+          "name": "#97342b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511932683,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Alaska Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

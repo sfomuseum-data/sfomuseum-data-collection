@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#676240"
+          "hex": "#676240",
+          "name": "#676240",
+          "reference": "marekm4"
         },
         {
-          "hex": "#837c5c"
+          "hex": "#837c5c",
+          "name": "#837c5c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#918b6a"
+          "hex": "#918b6a",
+          "name": "#918b6a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4cbb1"
+          "hex": "#d4cbb1",
+          "name": "#d4cbb1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -131,7 +155,7 @@
       }
     ],
     "wof:id": 1511942475,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233635,
     "wof:name": "photograph: San Francisco Bay Area aerial, Richmond District and Presidio",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -149,5 +173,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f5ebd9"
+          "hex": "#f5ebd9",
+          "name": "#f5ebd9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ede3d4"
+          "hex": "#ede3d4",
+          "name": "#ede3d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc3e41"
+          "hex": "#906e9c",
+          "name": "#906e9c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4c4e9b"
+          "hex": "#cc3e41",
+          "name": "#cc3e41",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3c3551"
+          "hex": "#4c4e9b",
+          "name": "#4c4e9b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#906e9c"
+          "hex": "#3c3551",
+          "name": "#3c3551",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +191,7 @@
       }
     ],
     "wof:id": 1511943135,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233636,
     "wof:name": "airmail flight cover: United States Air Mail, FAM-19, first airmail flight, Honolulu - Los Angeles route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +209,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -24,35 +24,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3b3c35"
+          "hex": "#e1e0da",
+          "name": "#e1e0da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c60c29"
+          "hex": "#3b3c35",
+          "name": "#3b3c35",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1e0da"
+          "hex": "#c60c29",
+          "name": "#c60c29",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +157,7 @@
       }
     ],
     "wof:id": 1762689965,
-    "wof:lastmodified": 1758181334,
+    "wof:lastmodified": 1758233673,
     "wof:name": "timetable: San Diego International Airport, Flight Times and News of the Port",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +174,5 @@
     -117.185927,
     32.733534
   ],
-  "geometry": {"coordinates":[[-117.185927,32.733534]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-117.185927,32.733534]]}
 }

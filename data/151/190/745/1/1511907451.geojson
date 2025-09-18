@@ -32,80 +32,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#4a646c"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5f5"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c72d26"
+          "hex": "#e3403c",
+          "name": "#e3403c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#505363"
+          "hex": "#c72d26",
+          "name": "#c72d26",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae5db"
+          "hex": "#42404f",
+          "name": "#42404f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7092b5"
+          "hex": "#f5f7f8",
+          "name": "#f5f7f8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3403c"
+          "hex": "#505363",
+          "name": "#505363",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f3b8c"
+          "hex": "#2f3b8c",
+          "name": "#2f3b8c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#42404f"
+          "hex": "#eae5db",
+          "name": "#eae5db",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5f7f8"
+          "hex": "#7092b5",
+          "name": "#7092b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d5b9e"
+          "hex": "#4d5b9e",
+          "name": "#4d5b9e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -193,7 +241,7 @@
       }
     ],
     "wof:id": 1511907451,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233603,
     "wof:name": "airmail flight cover: Pan American World Airways, Wake Island - Rangoon route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -211,5 +259,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

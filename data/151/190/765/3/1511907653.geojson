@@ -32,80 +32,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1367c4"
+          "hex": "#d5a70f",
+          "name": "#d5a70f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0e8ea"
+          "hex": "#97292b",
+          "name": "#97292b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7ddd8"
+          "hex": "#f0e8ea",
+          "name": "#f0e8ea",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97292b"
+          "hex": "#5d1020",
+          "name": "#5d1020",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5a70f"
+          "hex": "#d7ddd8",
+          "name": "#d7ddd8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0760a3"
+          "hex": "#1367c4",
+          "name": "#1367c4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#73a9c8"
+          "hex": "#421817",
+          "name": "#421817",
+          "reference": "marekm4"
         },
         {
-          "hex": "#421817"
+          "hex": "#0760a3",
+          "name": "#0760a3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5d1020"
+          "hex": "#73a9c8",
+          "name": "#73a9c8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -203,7 +251,7 @@
       }
     ],
     "wof:id": 1511907653,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233603,
     "wof:name": "timetable: West Coast Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -221,5 +269,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

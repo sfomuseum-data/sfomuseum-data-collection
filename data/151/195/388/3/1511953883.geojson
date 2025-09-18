@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bf4f51"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#c8385a"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#c8385a",
+          "name": "Maroon",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1d2d67"
+          "hex": "#283155",
+          "name": "#283155",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c7c3be"
+          "hex": "#a08e6a",
+          "name": "#a08e6a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a08e6a"
+          "hex": "#1d2d67",
+          "name": "#1d2d67",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cac5c6"
+          "hex": "#cac5c6",
+          "name": "#cac5c6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2374c"
+          "hex": "#af3e42",
+          "name": "#af3e42",
+          "reference": "marekm4"
         },
         {
-          "hex": "#af3e42"
+          "hex": "#c7c3be",
+          "name": "#c7c3be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#283155"
+          "hex": "#b2374c",
+          "name": "#b2374c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511953883,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, 50th Anniversary",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

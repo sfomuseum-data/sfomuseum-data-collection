@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9e9d9c"
+          "hex": "#9e9d9c",
+          "name": "#9e9d9c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d4b4a"
+          "hex": "#7f807f",
+          "name": "#7f807f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#898a89"
+          "hex": "#898a89",
+          "name": "#898a89",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7f8080"
+          "hex": "#737474",
+          "name": "#737474",
+          "reference": "marekm4"
         },
         {
-          "hex": "#737474"
+          "hex": "#7f8080",
+          "name": "#7f8080",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7f807f"
+          "hex": "#4d4b4a",
+          "name": "#4d4b4a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -148,7 +176,7 @@
       }
     ],
     "wof:id": 1511926891,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "spoon: British Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -166,5 +194,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

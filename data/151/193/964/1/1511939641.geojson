@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#afb1b6"
+          "hex": "#9a624d",
+          "name": "#9a624d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d2427"
+          "hex": "#afb1b6",
+          "name": "#afb1b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9a624d"
+          "hex": "#2d2427",
+          "name": "#2d2427",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0a818"
+          "hex": "#e0a818",
+          "name": "#e0a818",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511939641,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Southwest Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

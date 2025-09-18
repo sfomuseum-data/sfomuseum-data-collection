@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eadbad"
+          "hex": "#918c6f",
+          "name": "#918c6f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#918c6f"
+          "hex": "#44412c",
+          "name": "#44412c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#44412c"
+          "hex": "#eadbad",
+          "name": "#eadbad",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +177,7 @@
       }
     ],
     "wof:id": 1511925521,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "timetable: Golden West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +195,5 @@
     -117.86628,
     33.677724
   ],
-  "geometry": {"coordinates":[[-117.86628,33.677724]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-117.86628,33.677724]]}
 }

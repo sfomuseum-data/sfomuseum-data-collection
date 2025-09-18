@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd9575"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e3cca4"
+          "hex": "#8e6f59",
+          "name": "#8e6f59",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e6f59"
+          "hex": "#b79873",
+          "name": "#b79873",
+          "reference": "marekm4"
         },
         {
-          "hex": "#53342e"
+          "hex": "#114b92",
+          "name": "#114b92",
+          "reference": "marekm4"
         },
         {
-          "hex": "#114b92"
+          "hex": "#e3cca4",
+          "name": "#e3cca4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b79873"
+          "hex": "#53342e",
+          "name": "#53342e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +184,7 @@
       }
     ],
     "wof:id": 1511938077,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: TAME (Transportes Aereos Militares Ecuatorianos)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +202,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

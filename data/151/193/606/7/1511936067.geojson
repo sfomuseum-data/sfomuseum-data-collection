@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#3bb08f",
+          "name": "Jungle Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#0a7e8c"
+          "hex": "#0a7e8c",
+          "name": "Metallic Seaweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#3bb08f"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#438ea5"
+          "hex": "#d1cbbb",
+          "name": "#d1cbbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#153235"
+          "hex": "#096f87",
+          "name": "#096f87",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1cbbb"
+          "hex": "#438ea5",
+          "name": "#438ea5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#096f87"
+          "hex": "#153235",
+          "name": "#153235",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511936067,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: Bonanza Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

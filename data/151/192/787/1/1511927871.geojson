@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff7538"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#ff7538",
+          "name": "Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ffa500"
+          "hex": "#ffa500",
+          "name": "orange",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fabc09"
+          "hex": "#fabc09",
+          "name": "#fabc09",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dedace"
+          "hex": "#dedace",
+          "name": "#dedace",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8660f"
+          "hex": "#f8660f",
+          "name": "#f8660f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#020101"
+          "hex": "#020101",
+          "name": "#020101",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +163,7 @@
       }
     ],
     "wof:id": 1511927871,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "sign: National Airlines, United States bicentennial",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

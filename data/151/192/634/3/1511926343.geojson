@@ -35,35 +35,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4b6599"
+          "hex": "#c9ccca",
+          "name": "#c9ccca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#414346"
+          "hex": "#4b6599",
+          "name": "#4b6599",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9ccca"
+          "hex": "#414346",
+          "name": "#414346",
+          "reference": "marekm4"
         }
       ]
     },
@@ -186,7 +204,7 @@
       }
     ],
     "wof:id": 1511926343,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: AirTran Airways, Boeing 737-200, Atlanta International Airport (ATL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -204,5 +222,5 @@
     -84.430686,
     33.636518
   ],
-  "geometry": {"coordinates":[[-84.430686,33.636518]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-84.430686,33.636518]]}
 }

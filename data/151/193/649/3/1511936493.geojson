@@ -29,68 +29,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#87a96b"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#9acd32",
+          "name": "yellowgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#9acd32"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#fffaf0"
+          "hex": "#fffaf0",
+          "name": "floralwhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6b8e23"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2a351f"
+          "hex": "#88c256",
+          "name": "#88c256",
+          "reference": "marekm4"
         },
         {
-          "hex": "#72b142"
+          "hex": "#ece6da",
+          "name": "#ece6da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#88c256"
+          "hex": "#3f96c8",
+          "name": "#3f96c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f2728"
+          "hex": "#fcfbec",
+          "name": "#fcfbec",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece6da"
+          "hex": "#2a351f",
+          "name": "#2a351f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#679d2f"
+          "hex": "#72b142",
+          "name": "#72b142",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f96c8"
+          "hex": "#2f2728",
+          "name": "#2f2728",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fcfbec"
+          "hex": "#679d2f",
+          "name": "#679d2f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +211,7 @@
       }
     ],
     "wof:id": 1511936493,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Holiday Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +229,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

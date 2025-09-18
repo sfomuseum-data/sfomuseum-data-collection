@@ -33,26 +33,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c20b05"
+          "hex": "#f4e9d8",
+          "name": "#f4e9d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4e9d8"
+          "hex": "#c20b05",
+          "name": "#c20b05",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +154,7 @@
       }
     ],
     "wof:id": 1511928161,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: Grupo Iberia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

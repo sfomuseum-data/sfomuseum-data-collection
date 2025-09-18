@@ -29,74 +29,118 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#8b4513"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#de9f37"
+          "hex": "#cd780e",
+          "name": "#cd780e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cd780e"
+          "hex": "#673d2e",
+          "name": "#673d2e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#916a51"
+          "hex": "#916a51",
+          "name": "#916a51",
+          "reference": "marekm4"
         },
         {
-          "hex": "#673d2e"
+          "hex": "#de9f37",
+          "name": "#de9f37",
+          "reference": "marekm4"
         },
         {
-          "hex": "#212122"
+          "hex": "#212122",
+          "name": "#212122",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e08914"
+          "hex": "#ded5cb",
+          "name": "#ded5cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae1d9"
+          "hex": "#e08914",
+          "name": "#e08914",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ded5cb"
+          "hex": "#eae1d9",
+          "name": "#eae1d9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +221,7 @@
       }
     ],
     "wof:id": 1511935717,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "timetable: Air California",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +239,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

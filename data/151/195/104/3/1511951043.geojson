@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ee204d"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ed2842"
+          "hex": "#f0e3d3",
+          "name": "#f0e3d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f0307"
+          "hex": "#2f0307",
+          "name": "#2f0307",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0e3d3"
+          "hex": "#f4eadc",
+          "name": "#f4eadc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d40009"
+          "hex": "#d40009",
+          "name": "#d40009",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4eadc"
+          "hex": "#ed2842",
+          "name": "#ed2842",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +178,7 @@
       }
     ],
     "wof:id": 1511951043,
-    "wof:lastmodified": 1758181302,
+    "wof:lastmodified": 1758233647,
     "wof:name": "menu: United Air Lines, Red Carpet (First) Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

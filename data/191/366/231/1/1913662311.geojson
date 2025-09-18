@@ -33,53 +33,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3a1f19"
+          "hex": "#d4d6c8",
+          "name": "#d4d6c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c18a6c"
+          "hex": "#c18a6c",
+          "name": "#c18a6c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4d6c8"
+          "hex": "#677587",
+          "name": "#677587",
+          "reference": "marekm4"
         },
         {
-          "hex": "#677587"
+          "hex": "#3a1f19",
+          "name": "#3a1f19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b54529"
+          "hex": "#b54529",
+          "name": "#b54529",
+          "reference": "marekm4"
         }
       ]
     },
@@ -178,7 +208,7 @@
       }
     ],
     "wof:id": 1913662311,
-    "wof:lastmodified": 1758181384,
+    "wof:lastmodified": 1758233763,
     "wof:name": "photograph: San Francisco International Airport (SFO), Alaska Airlines Boeing 727",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +225,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

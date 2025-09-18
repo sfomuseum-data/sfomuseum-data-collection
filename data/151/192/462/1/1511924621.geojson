@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#333942"
+          "hex": "#b9351f",
+          "name": "#b9351f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7c29a"
+          "hex": "#d7c29a",
+          "name": "#d7c29a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b52b12"
+          "hex": "#b52b12",
+          "name": "#b52b12",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bda278"
+          "hex": "#333942",
+          "name": "#333942",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7c49f"
+          "hex": "#2c3141",
+          "name": "#2c3141",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2c3141"
+          "hex": "#bda278",
+          "name": "#bda278",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b9351f"
+          "hex": "#c9aa72",
+          "name": "#c9aa72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9aa72"
+          "hex": "#d7c49f",
+          "name": "#d7c49f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +196,7 @@
       }
     ],
     "wof:id": 1511924621,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "airmail flight cover: New Zealand - Canton Island route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

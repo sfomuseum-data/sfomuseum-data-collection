@@ -28,41 +28,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e1dece"
+          "hex": "#2685ce",
+          "name": "#2685ce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1677c7"
+          "hex": "#1677c7",
+          "name": "#1677c7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2685ce"
+          "hex": "#e1dece",
+          "name": "#e1dece",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e2a40"
+          "hex": "#1e2a40",
+          "name": "#1e2a40",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +162,7 @@
       }
     ],
     "wof:id": 1511940805,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: KLM (Royal Dutch Airlines), U.S.A. edition",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +180,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

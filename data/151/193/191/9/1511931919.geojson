@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff7538"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff7538",
+          "name": "Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4d3f32"
+          "hex": "#f86220",
+          "name": "#f86220",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f86220"
+          "hex": "#c69060",
+          "name": "#c69060",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0ccc2"
+          "hex": "#d0ccc2",
+          "name": "#d0ccc2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c69060"
+          "hex": "#4d3f32",
+          "name": "#4d3f32",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511931919,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "timetable: Bonanza Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

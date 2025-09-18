@@ -25,50 +25,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7d8482"
+          "hex": "#454b49",
+          "name": "#454b49",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1eee2"
+          "hex": "#7d8482",
+          "name": "#7d8482",
+          "reference": "marekm4"
         },
         {
-          "hex": "#323433"
+          "hex": "#323433",
+          "name": "#323433",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7b827d"
+          "hex": "#7b827d",
+          "name": "#7b827d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#454b49"
+          "hex": "#c9cdcb",
+          "name": "#c9cdcb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9cdcb"
+          "hex": "#f1eee2",
+          "name": "#f1eee2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +184,7 @@
       }
     ],
     "wof:id": 1913662717,
-    "wof:lastmodified": 1758181385,
+    "wof:lastmodified": 1758233763,
     "wof:name": "photograph: San Francisco International Airport (SFO), construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +201,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

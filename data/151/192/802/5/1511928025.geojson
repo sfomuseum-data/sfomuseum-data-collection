@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#17806d",
+          "name": "Tropical Rain Forest",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#17806d"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#008000",
+          "name": "green",
+          "reference": "css4"
         },
         {
-          "hex": "#008000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#078d0f"
+          "hex": "#ece9db",
+          "name": "#ece9db",
+          "reference": "marekm4"
         },
         {
-          "hex": "#040903"
+          "hex": "#040903",
+          "name": "#040903",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece9db"
+          "hex": "#078d0f",
+          "name": "#078d0f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511928025,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: Alaska Airlines, quick reference, Anchorage",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

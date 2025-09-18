@@ -34,62 +34,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#273c34"
+          "hex": "#9c9361",
+          "name": "#9c9361",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a61c0b"
+          "hex": "#a61c0b",
+          "name": "#a61c0b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c8cec6"
+          "hex": "#759cac",
+          "name": "#759cac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#759cac"
+          "hex": "#f5eeda",
+          "name": "#f5eeda",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5eeda"
+          "hex": "#c8cec6",
+          "name": "#c8cec6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c9361"
+          "hex": "#273c34",
+          "name": "#273c34",
+          "reference": "marekm4"
         }
       ]
     },
@@ -195,7 +231,7 @@
       }
     ],
     "wof:id": 1762680261,
-    "wof:lastmodified": 1758181317,
+    "wof:lastmodified": 1758233661,
     "wof:name": "postcard: Madrid-Barajas Airport (Aeropuerto Madrid Barajas), Boeing 727, Iberia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +248,5 @@
     -3.562012,
     40.477078
   ],
-  "geometry": {"coordinates":[[-3.562012,40.477078]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-3.562012,40.477078]]}
 }

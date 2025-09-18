@@ -24,26 +24,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4e4c47"
+          "hex": "#4e4c47",
+          "name": "#4e4c47",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dddbd5"
+          "hex": "#dddbd5",
+          "name": "#dddbd5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +152,7 @@
       }
     ],
     "wof:id": 1762888939,
-    "wof:lastmodified": 1758181342,
+    "wof:lastmodified": 1758233695,
     "wof:name": "photograph: San Francisco International Airport (SFO), William K. Coblentz",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +169,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

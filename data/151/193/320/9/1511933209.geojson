@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#b8860b",
+          "name": "darkgoldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#b8860b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f1efe0"
+          "hex": "#d12f0c",
+          "name": "#d12f0c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9d8a33"
+          "hex": "#9d8a33",
+          "name": "#9d8a33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d12f0c"
+          "hex": "#252315",
+          "name": "#252315",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252315"
+          "hex": "#f1efe0",
+          "name": "#f1efe0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511933209,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: Continental Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

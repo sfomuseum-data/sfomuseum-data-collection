@@ -35,56 +35,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f9f7f8"
+          "hex": "#f9f7f8",
+          "name": "#f9f7f8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebedee"
+          "hex": "#3b445d",
+          "name": "#3b445d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#576aae"
+          "hex": "#638ce9",
+          "name": "#638ce9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#638ce9"
+          "hex": "#576aae",
+          "name": "#576aae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6890ce"
+          "hex": "#504855",
+          "name": "#504855",
+          "reference": "marekm4"
         },
         {
-          "hex": "#504855"
+          "hex": "#ebedee",
+          "name": "#ebedee",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b445d"
+          "hex": "#6890ce",
+          "name": "#6890ce",
+          "reference": "marekm4"
         }
       ]
     },
@@ -176,7 +208,7 @@
       }
     ],
     "wof:id": 1511930831,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "airmail flight cover: Pan American World Airways, Airbus, Toulouse - New York route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -194,5 +226,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

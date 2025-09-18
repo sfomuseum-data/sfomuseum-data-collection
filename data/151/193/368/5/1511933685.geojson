@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#324ab2"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff0000"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2123a0"
+          "hex": "#dfe2f3",
+          "name": "#dfe2f3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ed1715"
+          "hex": "#ed1715",
+          "name": "#ed1715",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfe2f3"
+          "hex": "#2123a0",
+          "name": "#2123a0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -164,7 +182,7 @@
       }
     ],
     "wof:id": 1511933685,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Jet America Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -182,5 +200,5 @@
     -87.894364,
     41.983038
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-87.894364,41.983038]]}
 }

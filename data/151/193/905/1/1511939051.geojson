@@ -28,26 +28,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eff0f2"
+          "hex": "#eff0f2",
+          "name": "#eff0f2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#051735"
+          "hex": "#051735",
+          "name": "#051735",
+          "reference": "marekm4"
         }
       ]
     },
@@ -125,7 +137,7 @@
       }
     ],
     "wof:id": 1511939051,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Cathay Pacific Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -143,5 +155,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

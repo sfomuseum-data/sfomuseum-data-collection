@@ -28,50 +28,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c8c5ba"
+          "hex": "#857a6f",
+          "name": "#857a6f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#908779"
+          "hex": "#908779",
+          "name": "#908779",
+          "reference": "marekm4"
         },
         {
-          "hex": "#493936"
+          "hex": "#493936",
+          "name": "#493936",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857a6f"
+          "hex": "#052488",
+          "name": "#052488",
+          "reference": "marekm4"
         },
         {
-          "hex": "#052488"
+          "hex": "#c8c5ba",
+          "name": "#c8c5ba",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +178,7 @@
       }
     ],
     "wof:id": 1511933531,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Frontier Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

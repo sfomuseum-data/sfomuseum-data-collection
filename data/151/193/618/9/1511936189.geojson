@@ -29,68 +29,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c46210"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808000"
+          "hex": "#ffa500",
+          "name": "orange",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#b8860b",
+          "name": "darkgoldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#b8860b"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#ffa500"
+          "hex": "#808000",
+          "name": "olive",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#371c0c"
+          "hex": "#eae0c3",
+          "name": "#eae0c3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b16c04"
+          "hex": "#bfb9a5",
+          "name": "#bfb9a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6ab05"
+          "hex": "#977202",
+          "name": "#977202",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302a09"
+          "hex": "#371c0c",
+          "name": "#371c0c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae0c3"
+          "hex": "#dda603",
+          "name": "#dda603",
+          "reference": "marekm4"
         },
         {
-          "hex": "#977202"
+          "hex": "#e6ab05",
+          "name": "#e6ab05",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfb9a5"
+          "hex": "#b16c04",
+          "name": "#b16c04",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dda603"
+          "hex": "#302a09",
+          "name": "#302a09",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +211,7 @@
       }
     ],
     "wof:id": 1511936189,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: Cal-State Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +229,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

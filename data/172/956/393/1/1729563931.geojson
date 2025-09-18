@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#fff5ee"
+          "hex": "#fff5ee",
+          "name": "seashell",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#251c1c"
+          "hex": "#e91b28",
+          "name": "#e91b28",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8f7ee"
+          "hex": "#f8f7ee",
+          "name": "#f8f7ee",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e91b28"
+          "hex": "#251c1c",
+          "name": "#251c1c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -131,7 +149,7 @@
       }
     ],
     "wof:id": 1729563931,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "boarding pass: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -149,5 +167,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

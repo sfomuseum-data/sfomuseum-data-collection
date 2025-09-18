@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cb4154",
+          "name": "Brick Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#cb4154"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#303345"
+          "hex": "#303345",
+          "name": "#303345",
+          "reference": "marekm4"
         },
         {
-          "hex": "#273151"
+          "hex": "#273151",
+          "name": "#273151",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b4a9d"
+          "hex": "#bf111a",
+          "name": "#bf111a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf111a"
+          "hex": "#c8cccd",
+          "name": "#c8cccd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c7384e"
+          "hex": "#c7384e",
+          "name": "#c7384e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#caccc2"
+          "hex": "#4b4a9d",
+          "name": "#4b4a9d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6995c1"
+          "hex": "#6995c1",
+          "name": "#6995c1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c8cccd"
+          "hex": "#caccc2",
+          "name": "#caccc2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +225,7 @@
       }
     ],
     "wof:id": 1511953891,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, Washington, DC - Frankfurt route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +243,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

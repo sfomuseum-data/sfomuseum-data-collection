@@ -28,38 +28,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4169e1"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#20211f"
+          "hex": "#efede1",
+          "name": "#efede1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3885da"
+          "hex": "#3885da",
+          "name": "#3885da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efede1"
+          "hex": "#20211f",
+          "name": "#20211f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d7ad3"
+          "hex": "#2d7ad3",
+          "name": "#2d7ad3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -137,7 +157,7 @@
       }
     ],
     "wof:id": 1511936885,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +175,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

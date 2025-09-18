@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c8385a"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c8385a",
+          "name": "Maroon",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fdf5e6"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#faf5e9"
+          "hex": "#faf5e9",
+          "name": "#faf5e9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8334d"
+          "hex": "#242219",
+          "name": "#242219",
+          "reference": "marekm4"
         },
         {
-          "hex": "#242219"
+          "hex": "#b8334d",
+          "name": "#b8334d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511941297,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Thai Airways International",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

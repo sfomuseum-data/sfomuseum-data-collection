@@ -25,80 +25,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#baa041"
+          "hex": "#3f5249",
+          "name": "#3f5249",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2a373"
+          "hex": "#baa041",
+          "name": "#baa041",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f5249"
+          "hex": "#93721f",
+          "name": "#93721f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1c196"
+          "hex": "#cdcbb6",
+          "name": "#cdcbb6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#477889"
+          "hex": "#323712",
+          "name": "#323712",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdcbb6"
+          "hex": "#d1c196",
+          "name": "#d1c196",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a6586"
+          "hex": "#477889",
+          "name": "#477889",
+          "reference": "marekm4"
         },
         {
-          "hex": "#93721f"
+          "hex": "#b2a373",
+          "name": "#b2a373",
+          "reference": "marekm4"
         },
         {
-          "hex": "#323712"
+          "hex": "#4a6586",
+          "name": "#4a6586",
+          "reference": "marekm4"
         }
       ]
     },
@@ -190,7 +238,7 @@
       }
     ],
     "wof:id": 1762683999,
-    "wof:lastmodified": 1758181324,
+    "wof:lastmodified": 1758233666,
     "wof:name": "postcard: LaGuardia Field, New York Municipal Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -207,5 +255,5 @@
     -73.875778,
     40.774956
   ],
-  "geometry": {"coordinates":[[-73.875778,40.774956]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.875778,40.774956]]}
 }

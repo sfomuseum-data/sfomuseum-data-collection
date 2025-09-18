@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff0000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#161610"
+          "hex": "#da140d",
+          "name": "#da140d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c52612"
+          "hex": "#161610",
+          "name": "#161610",
+          "reference": "marekm4"
         },
         {
-          "hex": "#da140d"
+          "hex": "#272730",
+          "name": "#272730",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2e0d9"
+          "hex": "#c52612",
+          "name": "#c52612",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7e1dc"
+          "hex": "#e7e1dc",
+          "name": "#e7e1dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272730"
+          "hex": "#e2e0d9",
+          "name": "#e2e0d9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +196,7 @@
       }
     ],
     "wof:id": 1511936803,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Pacific Express",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

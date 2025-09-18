@@ -30,101 +30,163 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c46210"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#faa76c"
+          "hex": "#dd9475",
+          "name": "Copper",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#faa76c",
+          "name": "Tan",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dd9475"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f4a460"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f4e9d1"
+          "hex": "#e8e7df",
+          "name": "#e8e7df",
+          "reference": "marekm4"
         },
         {
-          "hex": "#deab63"
+          "hex": "#b23a13",
+          "name": "#b23a13",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a8492c"
+          "hex": "#1d150a",
+          "name": "#1d150a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b23a13"
+          "hex": "#363423",
+          "name": "#363423",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2d8c0"
+          "hex": "#8d7547",
+          "name": "#8d7547",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d150a"
+          "hex": "#f4e9d1",
+          "name": "#f4e9d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#363423"
+          "hex": "#a8492c",
+          "name": "#a8492c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b3955a"
+          "hex": "#b3955a",
+          "name": "#b3955a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8e7df"
+          "hex": "#e7b267",
+          "name": "#e7b267",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d7547"
+          "hex": "#e2d8c0",
+          "name": "#e2d8c0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7b267"
+          "hex": "#27271e",
+          "name": "#27271e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#27271e"
+          "hex": "#deab63",
+          "name": "#deab63",
+          "reference": "marekm4"
         }
       ]
     },
@@ -203,7 +265,7 @@
       }
     ],
     "wof:id": 1729564931,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "brochure: Qantas Empire Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -221,5 +283,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

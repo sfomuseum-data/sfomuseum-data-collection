@@ -35,26 +35,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#99a8b8"
+          "hex": "#444646",
+          "name": "#444646",
+          "reference": "marekm4"
         },
         {
-          "hex": "#444646"
+          "hex": "#99a8b8",
+          "name": "#99a8b8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +180,7 @@
       }
     ],
     "wof:id": 1511926073,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233614,
     "wof:name": "slide: Aeropelican Air Services, de Havilland DHC-6 Twin Otter, Sydney Airport (SYD)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +198,5 @@
     151.173388,
     -33.934928
   ],
-  "geometry": {"coordinates":[[151.173388,-33.934928]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[151.173388,-33.934928]]}
 }

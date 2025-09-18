@@ -24,35 +24,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#43463f"
+          "hex": "#9fa09c",
+          "name": "#9fa09c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#82847d"
+          "hex": "#43463f",
+          "name": "#43463f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9fa09c"
+          "hex": "#82847d",
+          "name": "#82847d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +158,7 @@
       }
     ],
     "wof:id": 1913662949,
-    "wof:lastmodified": 1758181386,
+    "wof:lastmodified": 1758233764,
     "wof:name": "photograph: San Francisco Airport, aerial view",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +175,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

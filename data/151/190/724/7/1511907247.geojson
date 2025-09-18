@@ -22,35 +22,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dd3424"
+          "hex": "#dd3424",
+          "name": "#dd3424",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a2b3c"
+          "hex": "#f1e5d7",
+          "name": "#f1e5d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1e5d7"
+          "hex": "#2a2b3c",
+          "name": "#2a2b3c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -132,7 +150,7 @@
       }
     ],
     "wof:id": 1511907247,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Air Mail Service, Auckland - Canton Island route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -150,5 +168,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

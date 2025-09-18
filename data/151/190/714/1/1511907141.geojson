@@ -25,26 +25,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#acacaf"
+          "hex": "#2a1c1e",
+          "name": "#2a1c1e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a1c1e"
+          "hex": "#acacaf",
+          "name": "#acacaf",
+          "reference": "marekm4"
         }
       ]
     },
@@ -123,7 +135,7 @@
       }
     ],
     "wof:id": 1511907141,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233602,
     "wof:name": "navigational device: bubble sextant",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -141,5 +153,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

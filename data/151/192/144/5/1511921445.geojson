@@ -32,53 +32,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd853f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d7c5a7"
+          "hex": "#c19640",
+          "name": "#c19640",
+          "reference": "marekm4"
         },
         {
-          "hex": "#360a03"
+          "hex": "#f8f3e3",
+          "name": "#f8f3e3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8f3e3"
+          "hex": "#360a03",
+          "name": "#360a03",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c19640"
+          "hex": "#9c310c",
+          "name": "#9c310c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c310c"
+          "hex": "#d7c5a7",
+          "name": "#d7c5a7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -164,7 +194,7 @@
       }
     ],
     "wof:id": 1511921445,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233611,
     "wof:name": "menu: Northwest Orient",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -182,5 +212,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

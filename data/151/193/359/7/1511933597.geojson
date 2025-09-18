@@ -32,56 +32,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c5d0e6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c71585"
+          "hex": "#c71585",
+          "name": "mediumvioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c7d3e5"
+          "hex": "#ab1f5c",
+          "name": "#ab1f5c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a52142"
+          "hex": "#a52142",
+          "name": "#a52142",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ab1f5c"
+          "hex": "#cdd9d5",
+          "name": "#cdd9d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdd9d5"
+          "hex": "#362630",
+          "name": "#362630",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b0612"
+          "hex": "#c7d3e5",
+          "name": "#c7d3e5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#362630"
+          "hex": "#2b0612",
+          "name": "#2b0612",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +201,7 @@
       }
     ],
     "wof:id": 1511933597,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Hawaiian Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +219,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

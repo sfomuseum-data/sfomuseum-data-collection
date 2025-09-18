@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2add0"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#496bbb"
+          "hex": "#a5ade0",
+          "name": "#a5ade0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a5ade0"
+          "hex": "#496bbb",
+          "name": "#496bbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e2832"
+          "hex": "#2e2832",
+          "name": "#2e2832",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c8ddc"
+          "hex": "#6c8ddc",
+          "name": "#6c8ddc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -175,7 +199,7 @@
       }
     ],
     "wof:id": 1511926453,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: USAir, McDonnell Douglas MD-80, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -193,5 +217,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

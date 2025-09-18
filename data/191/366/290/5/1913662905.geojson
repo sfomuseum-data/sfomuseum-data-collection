@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#120f19"
+          "hex": "#cbcac6",
+          "name": "#cbcac6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#62728c"
+          "hex": "#62728c",
+          "name": "#62728c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbcac6"
+          "hex": "#120f19",
+          "name": "#120f19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#945657"
+          "hex": "#945657",
+          "name": "#945657",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +173,7 @@
       }
     ],
     "wof:id": 1913662905,
-    "wof:lastmodified": 1758181386,
+    "wof:lastmodified": 1758233764,
     "wof:name": "photograph: San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -166,5 +190,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

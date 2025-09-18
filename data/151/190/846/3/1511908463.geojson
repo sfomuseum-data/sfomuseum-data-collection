@@ -29,29 +29,43 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#fd5e53"
+          "hex": "#fd5e53",
+          "name": "Sunset Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f0e5cf"
+          "hex": "#f0e5cf",
+          "name": "#f0e5cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1e8d5"
+          "hex": "#e95960",
+          "name": "#e95960",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e95960"
+          "hex": "#f1e8d5",
+          "name": "#f1e8d5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -129,7 +143,7 @@
       }
     ],
     "wof:id": 1511908463,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233604,
     "wof:name": "airsickness bag: British Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -147,5 +161,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

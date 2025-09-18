@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1dacd6"
+          "hex": "#1dacd6",
+          "name": "Cerulean",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#1e90ff"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#359de3"
+          "hex": "#b2c6c8",
+          "name": "#b2c6c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2c6c8"
+          "hex": "#2b60aa",
+          "name": "#2b60aa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b60aa"
+          "hex": "#1b2738",
+          "name": "#1b2738",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b2738"
+          "hex": "#359de3",
+          "name": "#359de3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511939355,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Malaysia Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

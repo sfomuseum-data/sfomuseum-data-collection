@@ -34,62 +34,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2f3836"
+          "hex": "#f0e9d6",
+          "name": "#f0e9d6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dae2e4"
+          "hex": "#718778",
+          "name": "#718778",
+          "reference": "marekm4"
         },
         {
-          "hex": "#718778"
+          "hex": "#dae2e4",
+          "name": "#dae2e4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0e9d6"
+          "hex": "#2f3836",
+          "name": "#2f3836",
+          "reference": "marekm4"
         },
         {
-          "hex": "#54768b"
+          "hex": "#54768b",
+          "name": "#54768b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#599fce"
+          "hex": "#599fce",
+          "name": "#599fce",
+          "reference": "marekm4"
         }
       ]
     },
@@ -192,7 +228,7 @@
       }
     ],
     "wof:id": 1762686031,
-    "wof:lastmodified": 1758181328,
+    "wof:lastmodified": 1758233668,
     "wof:name": "postcard: Los Angeles International Airport, Boeing 707, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -209,5 +245,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

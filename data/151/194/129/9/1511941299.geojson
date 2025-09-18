@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#93563b"
+          "hex": "#2f1513",
+          "name": "#2f1513",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2b5af"
+          "hex": "#b2b5af",
+          "name": "#b2b5af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ac9852"
+          "hex": "#93563b",
+          "name": "#93563b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f1513"
+          "hex": "#ac9852",
+          "name": "#ac9852",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511941299,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Thai Airways International, pocket schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

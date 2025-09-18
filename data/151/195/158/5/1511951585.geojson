@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#006400"
+          "hex": "#006400",
+          "name": "darkgreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f1eddf"
+          "hex": "#075c04",
+          "name": "#075c04",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc0402"
+          "hex": "#f1eddf",
+          "name": "#f1eddf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#075c04"
+          "hex": "#bc0402",
+          "name": "#bc0402",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511951585,
-    "wof:lastmodified": 1758181303,
+    "wof:lastmodified": 1758233647,
     "wof:name": "timetable: Balkan Bulgarian Airlines, pocket winter schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

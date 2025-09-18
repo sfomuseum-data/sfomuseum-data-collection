@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd5c5c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d63f42"
+          "hex": "#d63f42",
+          "name": "#d63f42",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee2d2"
+          "hex": "#eee2d2",
+          "name": "#eee2d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#262e41"
+          "hex": "#262e41",
+          "name": "#262e41",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +162,7 @@
       }
     ],
     "wof:id": 1511907295,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: United States Air Mail, FAM-19, Canton Island - San Francisco route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +180,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

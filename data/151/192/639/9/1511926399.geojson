@@ -32,44 +32,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#dd9475"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dd9475",
+          "name": "Copper",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d8bfd8"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#e9967a",
+          "name": "darksalmon",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#e9967a"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c8bbd3"
+          "hex": "#c8bbd3",
+          "name": "#c8bbd3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#db8d71"
+          "hex": "#a66858",
+          "name": "#a66858",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a66858"
+          "hex": "#2a1e19",
+          "name": "#2a1e19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a1e19"
+          "hex": "#db8d71",
+          "name": "#db8d71",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +187,7 @@
       }
     ],
     "wof:id": 1511926399,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Champion Air, Boeing 727-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +205,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

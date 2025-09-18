@@ -30,50 +30,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bc120e"
+          "hex": "#e0d7cb",
+          "name": "#e0d7cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1a0c0d"
+          "hex": "#e6dfd4",
+          "name": "#e6dfd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0d7cb"
+          "hex": "#1c0b0c",
+          "name": "#1c0b0c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6dfd4"
+          "hex": "#be120d",
+          "name": "#be120d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1c0b0c"
+          "hex": "#1a0c0d",
+          "name": "#1a0c0d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#be120d"
+          "hex": "#bc120e",
+          "name": "#bc120e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +185,7 @@
       }
     ],
     "wof:id": 1511930397,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "timetable: British Airways and Hughes Airwest",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +203,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -33,41 +33,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6a5acd"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#6a5acd",
+          "name": "slateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7481d5"
+          "hex": "#6574c8",
+          "name": "#6574c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbccef"
+          "hex": "#151826",
+          "name": "#151826",
+          "reference": "marekm4"
         },
         {
-          "hex": "#151826"
+          "hex": "#7481d5",
+          "name": "#7481d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6574c8"
+          "hex": "#cbccef",
+          "name": "#cbccef",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +184,7 @@
       }
     ],
     "wof:id": 1762759347,
-    "wof:lastmodified": 1758181329,
+    "wof:lastmodified": 1758233681,
     "wof:name": "slide: China Southern Airlines, McDonnell Douglas MD-80, Guangzhou Baiyun International Airport (CAN)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +201,5 @@
     113.399556,
     23.447348
   ],
-  "geometry": {"coordinates":[[113.399556,23.447348]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[113.399556,23.447348]]}
 }

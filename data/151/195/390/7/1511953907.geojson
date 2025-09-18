@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfd5be"
+          "hex": "#2b281a",
+          "name": "#2b281a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b281a"
+          "hex": "#584a20",
+          "name": "#584a20",
+          "reference": "marekm4"
         },
         {
-          "hex": "#954f34"
+          "hex": "#649db5",
+          "name": "#649db5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a79565"
+          "hex": "#954f34",
+          "name": "#954f34",
+          "reference": "marekm4"
         },
         {
-          "hex": "#584a20"
+          "hex": "#a79565",
+          "name": "#a79565",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7cfbd"
+          "hex": "#dfd5be",
+          "name": "#dfd5be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#649db5"
+          "hex": "#d7cfbd",
+          "name": "#d7cfbd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +207,7 @@
       }
     ],
     "wof:id": 1511953907,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American Airways, first airmail flight, Macao - Hawaii route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +225,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

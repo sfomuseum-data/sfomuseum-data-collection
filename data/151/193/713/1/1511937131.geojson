@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#596ea8"
+          "hex": "#596ea8",
+          "name": "#596ea8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#698fc1"
+          "hex": "#b8becc",
+          "name": "#b8becc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8974a7"
+          "hex": "#8974a7",
+          "name": "#8974a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8becc"
+          "hex": "#698fc1",
+          "name": "#698fc1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f2327"
+          "hex": "#1f2327",
+          "name": "#1f2327",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511937131,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA), holiday schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

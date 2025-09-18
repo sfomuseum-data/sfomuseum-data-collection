@@ -35,35 +35,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cfd0e5"
+          "hex": "#cfd0e5",
+          "name": "#cfd0e5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4865a5"
+          "hex": "#4865a5",
+          "name": "#4865a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#111520"
+          "hex": "#111520",
+          "name": "#111520",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +192,7 @@
       }
     ],
     "wof:id": 1511926273,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Lauda Air, Boeing 777-200, Melbourne Airport (MEL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +210,5 @@
     144.843764,
     -37.668253
   ],
-  "geometry": {"coordinates":[[144.843764,-37.668253]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[144.843764,-37.668253]]}
 }

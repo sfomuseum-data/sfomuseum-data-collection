@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#140c0b"
+          "hex": "#a8231a",
+          "name": "#a8231a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a8231a"
+          "hex": "#140c0b",
+          "name": "#140c0b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb8d21"
+          "hex": "#e6e0d7",
+          "name": "#e6e0d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e0d7"
+          "hex": "#cb8d21",
+          "name": "#cb8d21",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511932861,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: Alaska Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

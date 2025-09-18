@@ -34,47 +34,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9e95b5"
+          "hex": "#272939",
+          "name": "#272939",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7683bc"
+          "hex": "#887b98",
+          "name": "#887b98",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272939"
+          "hex": "#9e95b5",
+          "name": "#9e95b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#887b98"
+          "hex": "#7683bc",
+          "name": "#7683bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a6ba5"
+          "hex": "#5a6ba5",
+          "name": "#5a6ba5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +209,7 @@
       }
     ],
     "wof:id": 1511926233,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: KLM (Royal Dutch Airlines), McDonnell Douglas MD-11, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +227,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

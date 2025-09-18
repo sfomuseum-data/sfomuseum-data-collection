@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cb4154"
+          "hex": "#cb4154",
+          "name": "Brick Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#464049"
+          "hex": "#ded3c7",
+          "name": "#ded3c7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ded3c7"
+          "hex": "#ba363e",
+          "name": "#ba363e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0c8b2"
+          "hex": "#d0c8b2",
+          "name": "#d0c8b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ba363e"
+          "hex": "#464049",
+          "name": "#464049",
+          "reference": "marekm4"
         }
       ]
     },
@@ -147,7 +171,7 @@
       }
     ],
     "wof:id": 1511953343,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233649,
     "wof:name": "airmail flight cover: United States Air Mail",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +189,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

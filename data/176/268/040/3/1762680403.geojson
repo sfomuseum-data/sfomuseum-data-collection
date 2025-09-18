@@ -32,41 +32,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8d5ca"
+          "hex": "#878679",
+          "name": "#878679",
+          "reference": "marekm4"
         },
         {
-          "hex": "#878679"
+          "hex": "#d8d5ca",
+          "name": "#d8d5ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a2b26"
+          "hex": "#e3ddd3",
+          "name": "#e3ddd3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3ddd3"
+          "hex": "#2a2b26",
+          "name": "#2a2b26",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +196,7 @@
       }
     ],
     "wof:id": 1762680403,
-    "wof:lastmodified": 1758181317,
+    "wof:lastmodified": 1758233661,
     "wof:name": "postcard: San Francisco Municipal Airport, Western Air Lines, Douglas DC-4",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +213,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

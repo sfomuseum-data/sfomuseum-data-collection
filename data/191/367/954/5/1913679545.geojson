@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c46210"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a35721"
+          "hex": "#4e3b25",
+          "name": "#4e3b25",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7b0a8"
+          "hex": "#768692",
+          "name": "#768692",
+          "reference": "marekm4"
         },
         {
-          "hex": "#768692"
+          "hex": "#a35721",
+          "name": "#a35721",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e3b25"
+          "hex": "#b7b0a8",
+          "name": "#b7b0a8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +182,7 @@
       }
     ],
     "wof:id": 1913679545,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233764,
     "wof:name": "photograph: San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +199,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

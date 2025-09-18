@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff0000"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e7190f"
+          "hex": "#1d1c2b",
+          "name": "#1d1c2b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d1c2b"
+          "hex": "#ebebf0",
+          "name": "#ebebf0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebebf0"
+          "hex": "#e7190f",
+          "name": "#e7190f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511938579,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: WestAir Commuter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

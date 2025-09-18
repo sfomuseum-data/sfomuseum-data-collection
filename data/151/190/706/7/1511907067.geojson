@@ -32,32 +32,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1164b4"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fdf5e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
         },
         {
-          "hex": "#0000cd"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0141c5"
+          "hex": "#0141c5",
+          "name": "#0141c5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1eee3"
+          "hex": "#f1eee3",
+          "name": "#f1eee3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbf7e6"
+          "hex": "#fbf7e6",
+          "name": "#fbf7e6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +159,7 @@
       }
     ],
     "wof:id": 1511907067,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "menu: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +177,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

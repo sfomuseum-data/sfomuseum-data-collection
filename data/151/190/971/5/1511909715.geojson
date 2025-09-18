@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e8decc"
+          "hex": "#6b8dc5",
+          "name": "#6b8dc5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47181e"
+          "hex": "#e8decc",
+          "name": "#e8decc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b8dc5"
+          "hex": "#47181e",
+          "name": "#47181e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ce1518"
+          "hex": "#2d59b7",
+          "name": "#2d59b7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d59b7"
+          "hex": "#ce1518",
+          "name": "#ce1518",
+          "reference": "marekm4"
         }
       ]
     },
@@ -166,7 +196,7 @@
       }
     ],
     "wof:id": 1511909715,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Airlines, and MVA (Mississippi Valley Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -184,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

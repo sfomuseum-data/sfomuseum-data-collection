@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0d101e"
+          "hex": "#e7ebe6",
+          "name": "#e7ebe6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7ebe6"
+          "hex": "#dd2007",
+          "name": "#dd2007",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dd2007"
+          "hex": "#0d101e",
+          "name": "#0d101e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511940745,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: JAL Cargo",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

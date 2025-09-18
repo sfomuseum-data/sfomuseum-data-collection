@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c9c2a6"
+          "hex": "#c9c2a6",
+          "name": "#c9c2a6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#605b3d"
+          "hex": "#605b3d",
+          "name": "#605b3d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#989270"
+          "hex": "#837c5d",
+          "name": "#837c5d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#837c5d"
+          "hex": "#989270",
+          "name": "#989270",
+          "reference": "marekm4"
         }
       ]
     },
@@ -124,7 +148,7 @@
       }
     ],
     "wof:id": 1511942419,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233635,
     "wof:name": "photograph: San Francisco Bay Area aerial, lake and clouds",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -142,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

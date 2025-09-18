@@ -35,53 +35,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4f6eac"
+          "hex": "#7088ba",
+          "name": "#7088ba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bebed0"
+          "hex": "#473a3e",
+          "name": "#473a3e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7088ba"
+          "hex": "#bebed0",
+          "name": "#bebed0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#473a3e"
+          "hex": "#8b5960",
+          "name": "#8b5960",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8b5960"
+          "hex": "#4f6eac",
+          "name": "#4f6eac",
+          "reference": "marekm4"
         }
       ]
     },
@@ -181,7 +211,7 @@
       }
     ],
     "wof:id": 1511926397,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Virgin Atlantic, Airbus A340-600, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -199,5 +229,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

@@ -34,62 +34,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#0a7e8c",
+          "name": "Metallic Seaweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#0a7e8c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#5f9ea0"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5799ae"
+          "hex": "#958f68",
+          "name": "#958f68",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece0be"
+          "hex": "#197495",
+          "name": "#197495",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2c2b20"
+          "hex": "#2c2b20",
+          "name": "#2c2b20",
+          "reference": "marekm4"
         },
         {
-          "hex": "#197495"
+          "hex": "#bbcdc7",
+          "name": "#bbcdc7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#958f68"
+          "hex": "#ece0be",
+          "name": "#ece0be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbcdc7"
+          "hex": "#5799ae",
+          "name": "#5799ae",
+          "reference": "marekm4"
         }
       ]
     },
@@ -195,7 +231,7 @@
       }
     ],
     "wof:id": 1762687713,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233670,
     "wof:name": "postcard: Boston Logan International Airport, National Airlines, Boeing 727",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +248,5 @@
     -71.01475,
     42.362322
   ],
-  "geometry": {"coordinates":[[-71.01475,42.362322]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-71.01475,42.362322]]}
 }

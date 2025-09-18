@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#800000"
+          "hex": "#9acd32",
+          "name": "yellowgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#9acd32"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5f1113"
+          "hex": "#e6dfc4",
+          "name": "#e6dfc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ad8d76"
+          "hex": "#e5dcbd",
+          "name": "#e5dcbd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#915e52"
+          "hex": "#915e52",
+          "name": "#915e52",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6dfc4"
+          "hex": "#bec234",
+          "name": "#bec234",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5dcbd"
+          "hex": "#ad8d76",
+          "name": "#ad8d76",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bec234"
+          "hex": "#5f1113",
+          "name": "#5f1113",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +192,7 @@
       }
     ],
     "wof:id": 1729565005,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233656,
     "wof:name": "pocket calendar: Qantas Empire Airways, 1954",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +210,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

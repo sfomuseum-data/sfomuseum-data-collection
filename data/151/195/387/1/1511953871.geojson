@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#32364a"
+          "hex": "#cfcec4",
+          "name": "#cfcec4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cacabf"
+          "hex": "#3e4b94",
+          "name": "#3e4b94",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a51c11"
+          "hex": "#a51c11",
+          "name": "#a51c11",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a62110"
+          "hex": "#a62110",
+          "name": "#a62110",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e4b94"
+          "hex": "#292a60",
+          "name": "#292a60",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfcec4"
+          "hex": "#303788",
+          "name": "#303788",
+          "reference": "marekm4"
         },
         {
-          "hex": "#292a60"
+          "hex": "#cacabf",
+          "name": "#cacabf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#303788"
+          "hex": "#32364a",
+          "name": "#32364a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -176,7 +214,7 @@
       }
     ],
     "wof:id": 1511953871,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, Sydney - Honolulu route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -194,5 +232,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

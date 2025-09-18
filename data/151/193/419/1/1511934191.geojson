@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffae42"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#0000cd"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0132b7"
+          "hex": "#0132b7",
+          "name": "#0132b7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae5d4"
+          "hex": "#eae5d4",
+          "name": "#eae5d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dd2921"
+          "hex": "#2e2c2e",
+          "name": "#2e2c2e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e2c2e"
+          "hex": "#dd2921",
+          "name": "#dd2921",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5af2b"
+          "hex": "#d5af2b",
+          "name": "#d5af2b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +183,7 @@
       }
     ],
     "wof:id": 1511934191,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: Piedmont Airlines, Florida",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b80904"
+          "hex": "#b80904",
+          "name": "#b80904",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4dfcd"
+          "hex": "#e4dfcd",
+          "name": "#e4dfcd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#161e3e"
+          "hex": "#161e3e",
+          "name": "#161e3e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +163,7 @@
       }
     ],
     "wof:id": 1511936731,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Northwest Orient",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

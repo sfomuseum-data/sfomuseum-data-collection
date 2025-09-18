@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#ffa500",
+          "name": "orange",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ffa500"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#171213"
+          "hex": "#fda502",
+          "name": "#fda502",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fda502"
+          "hex": "#171213",
+          "name": "#171213",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c1c6c7"
+          "hex": "#c1c6c7",
+          "name": "#c1c6c7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +154,7 @@
       }
     ],
     "wof:id": 1511939343,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Lufthansa",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

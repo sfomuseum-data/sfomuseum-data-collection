@@ -26,53 +26,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#926eae"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9b6d90"
+          "hex": "#f0ebda",
+          "name": "#f0ebda",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b32c22"
+          "hex": "#c3241c",
+          "name": "#c3241c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0ebda"
+          "hex": "#f0e8d1",
+          "name": "#f0e8d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#262c50"
+          "hex": "#21294a",
+          "name": "#21294a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c3241c"
+          "hex": "#262c50",
+          "name": "#262c50",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0e8d1"
+          "hex": "#9b6d90",
+          "name": "#9b6d90",
+          "reference": "marekm4"
         },
         {
-          "hex": "#21294a"
+          "hex": "#b32c22",
+          "name": "#b32c22",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +179,7 @@
       }
     ],
     "wof:id": 1511945879,
-    "wof:lastmodified": 1758181304,
+    "wof:lastmodified": 1758233640,
     "wof:name": "airmail flight cover: FAM-8, Brownsville - Mexico City route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +197,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

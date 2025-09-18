@@ -34,47 +34,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#adadac"
+          "hex": "#948679",
+          "name": "#948679",
+          "reference": "marekm4"
         },
         {
-          "hex": "#604337"
+          "hex": "#7a7984",
+          "name": "#7a7984",
+          "reference": "marekm4"
         },
         {
-          "hex": "#867268"
+          "hex": "#604337",
+          "name": "#604337",
+          "reference": "marekm4"
         },
         {
-          "hex": "#948679"
+          "hex": "#adadac",
+          "name": "#adadac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7a7984"
+          "hex": "#867268",
+          "name": "#867268",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +206,7 @@
       }
     ],
     "wof:id": 1762759619,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233682,
     "wof:name": "photograph: TWA (Trans World Airlines), San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -197,5 +223,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

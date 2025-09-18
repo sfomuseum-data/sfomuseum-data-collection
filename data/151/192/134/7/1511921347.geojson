@@ -33,59 +33,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fdd9b5"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fdd9b5",
+          "name": "Apricot",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#928d76"
+          "hex": "#efdbb5",
+          "name": "#efdbb5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#393b3b"
+          "hex": "#e2cda6",
+          "name": "#e2cda6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#837d67"
+          "hex": "#999075",
+          "name": "#999075",
+          "reference": "marekm4"
         },
         {
-          "hex": "#999075"
+          "hex": "#393b3b",
+          "name": "#393b3b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#292e28"
+          "hex": "#efdbae",
+          "name": "#efdbae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2cda6"
+          "hex": "#928d76",
+          "name": "#928d76",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efdbb5"
+          "hex": "#837d67",
+          "name": "#837d67",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efdbae"
+          "hex": "#232731",
+          "name": "#232731",
+          "reference": "marekm4"
         },
         {
-          "hex": "#232731"
+          "hex": "#292e28",
+          "name": "#292e28",
+          "reference": "marekm4"
         }
       ]
     },
@@ -197,7 +231,7 @@
       }
     ],
     "wof:id": 1511921347,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233610,
     "wof:name": "event program: Pan American World Airways, San Francisco International Airport (SFO) dedication",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -215,5 +249,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

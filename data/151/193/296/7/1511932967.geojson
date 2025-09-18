@@ -26,44 +26,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#fc6c85"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ee204d"
+          "hex": "#fc6c85",
+          "name": "Wild Watermelon",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fffafa"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#f08080",
+          "name": "lightcoral",
+          "reference": "css4"
         },
         {
-          "hex": "#f08080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#342820"
+          "hex": "#d91b30",
+          "name": "#d91b30",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fefafb"
+          "hex": "#fefafb",
+          "name": "#fefafb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d91b30"
+          "hex": "#342820",
+          "name": "#342820",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fb6b8b"
+          "hex": "#fb6b8b",
+          "name": "#fb6b8b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +165,7 @@
       }
     ],
     "wof:id": 1511932967,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: America West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +183,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

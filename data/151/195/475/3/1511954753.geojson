@@ -31,44 +31,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fd7c6e",
+          "name": "Bittersweet",
+          "reference": "crayola"
         },
         {
-          "hex": "#fd7c6e"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#ff6347",
+          "name": "tomato",
+          "reference": "css4"
         },
         {
-          "hex": "#fa8072"
+          "hex": "#fa8072",
+          "name": "salmon",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ff6347"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f23c31"
+          "hex": "#f98c75",
+          "name": "#f98c75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#24292a"
+          "hex": "#fceed7",
+          "name": "#fceed7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fceed7"
+          "hex": "#f23c31",
+          "name": "#f23c31",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f98c75"
+          "hex": "#24292a",
+          "name": "#24292a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +177,7 @@
       }
     ],
     "wof:id": 1511954753,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "timetable: JAT Yugoslav Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +195,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

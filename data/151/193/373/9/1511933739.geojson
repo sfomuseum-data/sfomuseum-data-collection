@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#0000cd"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#f0f8ff"
+          "hex": "#f0f8ff",
+          "name": "aliceblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f4f4fc"
+          "hex": "#f4f4fc",
+          "name": "#f4f4fc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#242dc2"
+          "hex": "#ea380c",
+          "name": "#ea380c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ea380c"
+          "hex": "#242dc2",
+          "name": "#242dc2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511933739,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Midway Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

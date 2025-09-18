@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9aceeb"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#9aceeb",
+          "name": "Cornflower",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#191c1f"
+          "hex": "#9dc3e5",
+          "name": "#9dc3e5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6da3e0"
+          "hex": "#6da3e0",
+          "name": "#6da3e0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9dc3e5"
+          "hex": "#191c1f",
+          "name": "#191c1f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511937299,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: Swift Aire Lines, San Luis Obispo, San Francisco and Sacramento",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

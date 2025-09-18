@@ -29,80 +29,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfd5bf"
+          "hex": "#ccc8c9",
+          "name": "#ccc8c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26476e"
+          "hex": "#192667",
+          "name": "#192667",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d92427"
+          "hex": "#dfd5bf",
+          "name": "#dfd5bf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ccc8c9"
+          "hex": "#26476e",
+          "name": "#26476e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d00704"
+          "hex": "#47688b",
+          "name": "#47688b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47688b"
+          "hex": "#516195",
+          "name": "#516195",
+          "reference": "marekm4"
         },
         {
-          "hex": "#516195"
+          "hex": "#718798",
+          "name": "#718798",
+          "reference": "marekm4"
         },
         {
-          "hex": "#718798"
+          "hex": "#7b85a8",
+          "name": "#7b85a8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7b85a8"
+          "hex": "#d92427",
+          "name": "#d92427",
+          "reference": "marekm4"
         },
         {
-          "hex": "#192667"
+          "hex": "#d00704",
+          "name": "#d00704",
+          "reference": "marekm4"
         }
       ]
     },
@@ -186,7 +234,7 @@
       }
     ],
     "wof:id": 1511937601,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: United Air Lines, San Francisco and Oakland",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -204,5 +252,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

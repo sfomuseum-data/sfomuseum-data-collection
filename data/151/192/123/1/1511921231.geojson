@@ -27,77 +27,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffcf48"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d6d2c8"
+          "hex": "#d6d2c8",
+          "name": "#d6d2c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3c3a3c"
+          "hex": "#cfcabd",
+          "name": "#cfcabd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece2ce"
+          "hex": "#8c8770",
+          "name": "#8c8770",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d2c51"
+          "hex": "#e5c821",
+          "name": "#e5c821",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8c8770"
+          "hex": "#8f8c6c",
+          "name": "#8f8c6c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d4840"
+          "hex": "#4d4840",
+          "name": "#4d4840",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5c821"
+          "hex": "#2d2c51",
+          "name": "#2d2c51",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfcabd"
+          "hex": "#ece2ce",
+          "name": "#ece2ce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f8c6c"
+          "hex": "#3c3a3c",
+          "name": "#3c3a3c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#877c5f"
+          "hex": "#877c5f",
+          "name": "#877c5f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -205,7 +251,7 @@
       }
     ],
     "wof:id": 1511921231,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233610,
     "wof:name": "menu: San Francisco International Airport (SFO), Coffee Shop",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -223,5 +269,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

@@ -22,26 +22,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#383b36"
+          "hex": "#383b36",
+          "name": "#383b36",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbdbda"
+          "hex": "#dbdbda",
+          "name": "#dbdbda",
+          "reference": "marekm4"
         }
       ]
     },
@@ -109,7 +121,7 @@
       }
     ],
     "wof:id": 1511958229,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "photograph: Panama-Pacific International Exposition, Art Smith",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -127,5 +139,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

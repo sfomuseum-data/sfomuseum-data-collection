@@ -31,26 +31,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b5b4b2"
+          "hex": "#715857",
+          "name": "#715857",
+          "reference": "marekm4"
         },
         {
-          "hex": "#715857"
+          "hex": "#b5b4b2",
+          "name": "#b5b4b2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -125,7 +137,7 @@
       }
     ],
     "wof:id": 1511922049,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233611,
     "wof:name": "condiment dish: Continental Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -143,5 +155,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -25,50 +25,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#867964"
+          "hex": "#3f423b",
+          "name": "#3f423b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#908876"
+          "hex": "#908876",
+          "name": "#908876",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f423b"
+          "hex": "#867964",
+          "name": "#867964",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bab8b6"
+          "hex": "#eae2da",
+          "name": "#eae2da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae2da"
+          "hex": "#bab8b6",
+          "name": "#bab8b6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +184,7 @@
       }
     ],
     "wof:id": 1762683709,
-    "wof:lastmodified": 1758181323,
+    "wof:lastmodified": 1758233665,
     "wof:name": "postcard: New Tokyo International Airport (Narita)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +201,5 @@
     140.395257,
     35.755744
   ],
-  "geometry": {"coordinates":[[140.395257,35.755744]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[140.395257,35.755744]]}
 }

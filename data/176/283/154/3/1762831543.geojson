@@ -33,44 +33,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dad2e7"
+          "hex": "#5d72b6",
+          "name": "#5d72b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5d72b6"
+          "hex": "#7681bd",
+          "name": "#7681bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#141824"
+          "hex": "#dad2e7",
+          "name": "#dad2e7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7681bd"
+          "hex": "#141824",
+          "name": "#141824",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +208,7 @@
       }
     ],
     "wof:id": 1762831543,
-    "wof:lastmodified": 1758181337,
+    "wof:lastmodified": 1758233690,
     "wof:name": "slide: Allegiant Air, McDonnell Douglas MD-83, San Jose International Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +225,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#da6d0e"
+          "hex": "#da6d0e",
+          "name": "#da6d0e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#686b8b"
+          "hex": "#e89c0e",
+          "name": "#e89c0e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e89c0e"
+          "hex": "#15153c",
+          "name": "#15153c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#15153c"
+          "hex": "#686b8b",
+          "name": "#686b8b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511951131,
-    "wof:lastmodified": 1758181302,
+    "wof:lastmodified": 1758233647,
     "wof:name": "timetable: American Trans Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

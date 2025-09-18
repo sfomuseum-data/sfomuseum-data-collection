@@ -26,44 +26,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#e6e6fa"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#0000cd"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#310f33"
+          "hex": "#fe2f10",
+          "name": "#fe2f10",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b2ad5"
+          "hex": "#2b2ad5",
+          "name": "#2b2ad5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e6fb"
+          "hex": "#e6e6fb",
+          "name": "#e6e6fb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fe2f10"
+          "hex": "#310f33",
+          "name": "#310f33",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +165,7 @@
       }
     ],
     "wof:id": 1511954709,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "timetable: Air Irvine",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +183,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

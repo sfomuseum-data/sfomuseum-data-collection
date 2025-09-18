@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1164b4"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#12130c"
+          "hex": "#1049cf",
+          "name": "#1049cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6490d7"
+          "hex": "#12130c",
+          "name": "#12130c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1049cf"
+          "hex": "#6490d7",
+          "name": "#6490d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#daded7"
+          "hex": "#daded7",
+          "name": "#daded7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +179,7 @@
       }
     ],
     "wof:id": 1511906771,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233601,
     "wof:name": "timetable: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +197,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

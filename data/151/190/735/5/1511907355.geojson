@@ -29,71 +29,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#663399"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#663399",
+          "name": "rebeccapurple",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#25274f"
+          "hex": "#999178",
+          "name": "#999178",
+          "reference": "marekm4"
         },
         {
-          "hex": "#695097"
+          "hex": "#bfbdae",
+          "name": "#bfbdae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#999178"
+          "hex": "#25274f",
+          "name": "#25274f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#36374a"
+          "hex": "#c4c2b2",
+          "name": "#c4c2b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ad2623"
+          "hex": "#695097",
+          "name": "#695097",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfbdae"
+          "hex": "#b51e1a",
+          "name": "#b51e1a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#979079"
+          "hex": "#979079",
+          "name": "#979079",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4c2b2"
+          "hex": "#ad2623",
+          "name": "#ad2623",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b51e1a"
+          "hex": "#36374a",
+          "name": "#36374a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -176,7 +218,7 @@
       }
     ],
     "wof:id": 1511907355,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "airmail flight cover: Transpacific Air Mail, Suva (Fiji) - Honolulu route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -194,5 +236,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

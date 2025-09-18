@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#0000cd"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b22314"
+          "hex": "#044abc",
+          "name": "#044abc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#044abc"
+          "hex": "#433e2f",
+          "name": "#433e2f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cac9bf"
+          "hex": "#b22314",
+          "name": "#b22314",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ccaf1b"
+          "hex": "#ccaf1b",
+          "name": "#ccaf1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#433e2f"
+          "hex": "#cac9bf",
+          "name": "#cac9bf",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +193,7 @@
       }
     ],
     "wof:id": 1511925667,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "timetable: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +211,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

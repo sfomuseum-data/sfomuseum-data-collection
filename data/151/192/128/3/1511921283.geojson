@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#fffafa"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#181626"
+          "hex": "#fefcfb",
+          "name": "#fefcfb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ff4522"
+          "hex": "#ff4522",
+          "name": "#ff4522",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fefcfb"
+          "hex": "#181626",
+          "name": "#181626",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511921283,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233610,
     "wof:name": "timetable: Western Airlines, quick reference",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

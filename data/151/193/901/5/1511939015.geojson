@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e9e0dc"
+          "hex": "#e9e0dc",
+          "name": "#e9e0dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ec1404"
+          "hex": "#23364b",
+          "name": "#23364b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe6cc"
+          "hex": "#ec1404",
+          "name": "#ec1404",
+          "reference": "marekm4"
         },
         {
-          "hex": "#071794"
+          "hex": "#ebe6cc",
+          "name": "#ebe6cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#23364b"
+          "hex": "#071794",
+          "name": "#071794",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +182,7 @@
       }
     ],
     "wof:id": 1511939015,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: CAAC (Civil Aviation Administration of China), quick schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

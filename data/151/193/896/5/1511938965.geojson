@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#b4674d"
+          "hex": "#b4674d",
+          "name": "Brown",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dcae38"
+          "hex": "#4b3f43",
+          "name": "#4b3f43",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b3f43"
+          "hex": "#aa5546",
+          "name": "#aa5546",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5f7f9"
+          "hex": "#f5f7f9",
+          "name": "#f5f7f9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4c67b8"
+          "hex": "#dcae38",
+          "name": "#dcae38",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aa5546"
+          "hex": "#4c67b8",
+          "name": "#4c67b8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511938965,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Asiana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

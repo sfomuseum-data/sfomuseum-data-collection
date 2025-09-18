@@ -37,35 +37,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c5d0e6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#52649c"
+          "hex": "#52649c",
+          "name": "#52649c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#21202d"
+          "hex": "#d0cedb",
+          "name": "#d0cedb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0cedb"
+          "hex": "#21202d",
+          "name": "#21202d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -172,7 +190,7 @@
       }
     ],
     "wof:id": 1511926187,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Thai Flying (Cargo), Boeing 707-321CF, Sharjah International Airport (SHJ)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -190,5 +208,5 @@
     55.518278,
     25.322186
   ],
-  "geometry": {"coordinates":[[55.518278,25.322186]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[55.518278,25.322186]]}
 }

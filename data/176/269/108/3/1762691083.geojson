@@ -31,62 +31,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faf0e6"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ede5d0"
+          "hex": "#ecece7",
+          "name": "#ecece7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#464138"
+          "hex": "#ede5d0",
+          "name": "#ede5d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ecece7"
+          "hex": "#d09c33",
+          "name": "#d09c33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d09c33"
+          "hex": "#464138",
+          "name": "#464138",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a3622d"
+          "hex": "#a3622d",
+          "name": "#a3622d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#251d27"
+          "hex": "#251d27",
+          "name": "#251d27",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +220,7 @@
       }
     ],
     "wof:id": 1762691083,
-    "wof:lastmodified": 1758181319,
+    "wof:lastmodified": 1758233674,
     "wof:name": "postcard: Pan American Terminal, John F. Kennedy International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +237,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

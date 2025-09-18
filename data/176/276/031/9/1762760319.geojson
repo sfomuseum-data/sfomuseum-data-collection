@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c5d0e6"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#202f59"
+          "hex": "#202f59",
+          "name": "#202f59",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3c9de"
+          "hex": "#d3c9de",
+          "name": "#d3c9de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f4b94"
+          "hex": "#2f4b94",
+          "name": "#2f4b94",
+          "reference": "marekm4"
         }
       ]
     },
@@ -160,7 +178,7 @@
       }
     ],
     "wof:id": 1762760319,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: China Southern Airlines, Boeing 737-800, Beijing Capital International Airport (PEK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +195,5 @@
     116.586155,
     40.068469
   ],
-  "geometry": {"coordinates":[[116.586155,40.068469]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[116.586155,40.068469]]}
 }

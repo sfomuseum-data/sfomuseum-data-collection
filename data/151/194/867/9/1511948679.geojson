@@ -25,53 +25,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#87a96b"
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#6dae81"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3b4332"
+          "hex": "#3b4332",
+          "name": "#3b4332",
+          "reference": "marekm4"
         },
         {
-          "hex": "#738d5c"
+          "hex": "#92a961",
+          "name": "#92a961",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4dfc6"
+          "hex": "#729188",
+          "name": "#729188",
+          "reference": "marekm4"
         },
         {
-          "hex": "#729188"
+          "hex": "#738d5c",
+          "name": "#738d5c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#92a961"
+          "hex": "#d4dfc6",
+          "name": "#d4dfc6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -165,7 +195,7 @@
       }
     ],
     "wof:id": 1511948679,
-    "wof:lastmodified": 1758181309,
+    "wof:lastmodified": 1758233643,
     "wof:name": "negative: San Francisco International Airport (SFO), film crew",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +213,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

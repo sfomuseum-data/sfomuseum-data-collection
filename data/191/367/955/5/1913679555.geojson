@@ -24,35 +24,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c8cbd3"
+          "hex": "#c8cbd3",
+          "name": "#c8cbd3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#353238"
+          "hex": "#797587",
+          "name": "#797587",
+          "reference": "marekm4"
         },
         {
-          "hex": "#797587"
+          "hex": "#353238",
+          "name": "#353238",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +158,7 @@
       }
     ],
     "wof:id": 1913679555,
-    "wof:lastmodified": 1758181385,
+    "wof:lastmodified": 1758233764,
     "wof:name": "slide: San Francisco Airport, Administration Building",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +175,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

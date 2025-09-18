@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4d72e9"
+          "hex": "#c32526",
+          "name": "#c32526",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6590fd"
+          "hex": "#4d72e9",
+          "name": "#4d72e9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c32526"
+          "hex": "#161423",
+          "name": "#161423",
+          "reference": "marekm4"
         },
         {
-          "hex": "#161423"
+          "hex": "#6590fd",
+          "name": "#6590fd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -178,7 +202,7 @@
       }
     ],
     "wof:id": 1762759281,
-    "wof:lastmodified": 1758181329,
+    "wof:lastmodified": 1758233681,
     "wof:name": "slide: Southwest Airlines, Boeing 737-700, Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +219,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

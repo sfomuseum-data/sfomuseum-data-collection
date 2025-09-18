@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#61758a"
+          "hex": "#998c74",
+          "name": "#998c74",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f514f"
+          "hex": "#a85643",
+          "name": "#a85643",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c2c1be"
+          "hex": "#4f514f",
+          "name": "#4f514f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a85643"
+          "hex": "#c2c1be",
+          "name": "#c2c1be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#998c74"
+          "hex": "#61758a",
+          "name": "#61758a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +180,7 @@
       }
     ],
     "wof:id": 1511917145,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233609,
     "wof:name": "The book of gliders",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +198,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

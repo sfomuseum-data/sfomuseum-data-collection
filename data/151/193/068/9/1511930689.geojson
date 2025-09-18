@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e2d5be"
+          "hex": "#e2d5be",
+          "name": "#e2d5be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d81b19"
+          "hex": "#d81b19",
+          "name": "#d81b19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f2574"
+          "hex": "#4a508e",
+          "name": "#4a508e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a508e"
+          "hex": "#1f2574",
+          "name": "#1f2574",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511930689,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "timetable: British Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

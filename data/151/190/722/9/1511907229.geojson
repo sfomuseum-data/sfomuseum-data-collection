@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#34324f"
+          "hex": "#f1e5d6",
+          "name": "#f1e5d6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1e5d6"
+          "hex": "#34324f",
+          "name": "#34324f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#63598c"
+          "hex": "#63598c",
+          "name": "#63598c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e32f1c"
+          "hex": "#e32f1c",
+          "name": "#e32f1c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +165,7 @@
       }
     ],
     "wof:id": 1511907229,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: United States Air Mail, FAM-19, Honolulu - Auckland route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +183,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

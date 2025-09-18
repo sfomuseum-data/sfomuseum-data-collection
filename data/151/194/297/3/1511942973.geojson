@@ -32,56 +32,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff7538"
+          "hex": "#ff7538",
+          "name": "Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ff8c00"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#ff8c00",
+          "name": "darkorange",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ede5cc"
+          "hex": "#2b5295",
+          "name": "#2b5295",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0ebd9"
+          "hex": "#5f8dac",
+          "name": "#5f8dac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f8dac"
+          "hex": "#ee8a05",
+          "name": "#ee8a05",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ee8a05"
+          "hex": "#f0ebd9",
+          "name": "#f0ebd9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272f48"
+          "hex": "#272f48",
+          "name": "#272f48",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b5295"
+          "hex": "#ede5cc",
+          "name": "#ede5cc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -166,7 +198,7 @@
       }
     ],
     "wof:id": 1511942973,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233636,
     "wof:name": "airmail flight cover: British Overseas Airways Corporation (BOAC), first polar flight",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -184,5 +216,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

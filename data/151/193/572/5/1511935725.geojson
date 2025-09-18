@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e75220"
+          "hex": "#ece6de",
+          "name": "#ece6de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece6de"
+          "hex": "#e75220",
+          "name": "#e75220",
+          "reference": "marekm4"
         },
         {
-          "hex": "#512a1f"
+          "hex": "#512a1f",
+          "name": "#512a1f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511935725,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "timetable: Air California",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ee204d"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0d1620"
+          "hex": "#b2b2a8",
+          "name": "#b2b2a8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2b2a8"
+          "hex": "#0d1620",
+          "name": "#0d1620",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb1629"
+          "hex": "#cb1629",
+          "name": "#cb1629",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +154,7 @@
       }
     ],
     "wof:id": 1511927953,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: British Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

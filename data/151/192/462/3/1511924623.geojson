@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7851a9"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a9aaac"
+          "hex": "#a9aaac",
+          "name": "#a9aaac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#545da1"
+          "hex": "#555da0",
+          "name": "#555da0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#555da0"
+          "hex": "#a6a7a9",
+          "name": "#a6a7a9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a6a7a9"
+          "hex": "#545da1",
+          "name": "#545da1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#464653"
+          "hex": "#424251",
+          "name": "#424251",
+          "reference": "marekm4"
         },
         {
-          "hex": "#424251"
+          "hex": "#464653",
+          "name": "#464653",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +166,7 @@
       }
     ],
     "wof:id": 1511924623,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "commemorative medallion: Civil Air Transport (CAT)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +184,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

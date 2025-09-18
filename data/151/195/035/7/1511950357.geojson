@@ -26,26 +26,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2b48c"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#242921"
+          "hex": "#d3c7a5",
+          "name": "#d3c7a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3c7a5"
+          "hex": "#242921",
+          "name": "#242921",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +181,7 @@
       }
     ],
     "wof:id": 1511950357,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: Aeroport de Paris (Charles de Gaulle, Le Bourget, Orly), pocket schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +199,5 @@
     2.542809,
     49.007854
   ],
-  "geometry": {"coordinates":[[2.542809,49.007854],[2.43122,48.952922]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[2.542809,49.007854],[2.43122,48.952922]]}
 }

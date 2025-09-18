@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#87847b"
+          "hex": "#be1f18",
+          "name": "#be1f18",
+          "reference": "marekm4"
         },
         {
-          "hex": "#545554"
+          "hex": "#87847b",
+          "name": "#87847b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#be1f18"
+          "hex": "#545554",
+          "name": "#545554",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5c3bd"
+          "hex": "#c5c3bd",
+          "name": "#c5c3bd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511950443,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: United Airlines, Frequent flyer",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

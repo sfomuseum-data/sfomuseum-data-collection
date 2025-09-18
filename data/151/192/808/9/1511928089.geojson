@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b8860b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#b8860b",
+          "name": "darkgoldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b79906"
+          "hex": "#353694",
+          "name": "#353694",
+          "reference": "marekm4"
         },
         {
-          "hex": "#353694"
+          "hex": "#d9d7cb",
+          "name": "#d9d7cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#241f4c"
+          "hex": "#b79906",
+          "name": "#b79906",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9d7cb"
+          "hex": "#241f4c",
+          "name": "#241f4c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +169,7 @@
       }
     ],
     "wof:id": 1511928089,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: Eastern Air Lines, Washington, D.C. / Baltimore",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +187,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

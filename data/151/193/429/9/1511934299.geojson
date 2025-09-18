@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#c5e384",
+          "name": "Yellow Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#a8e4a0"
+          "hex": "#a8e4a0",
+          "name": "Granny Smith Apple",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5e384"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#88744c"
+          "hex": "#bacb99",
+          "name": "#bacb99",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c966a"
+          "hex": "#bfce99",
+          "name": "#bfce99",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bacb99"
+          "hex": "#9c966a",
+          "name": "#9c966a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e421c"
+          "hex": "#97956b",
+          "name": "#97956b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97956b"
+          "hex": "#867551",
+          "name": "#867551",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfce99"
+          "hex": "#5b3c1b",
+          "name": "#5b3c1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#867551"
+          "hex": "#5e421c",
+          "name": "#5e421c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5b3c1b"
+          "hex": "#88744c",
+          "name": "#88744c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +197,7 @@
       }
     ],
     "wof:id": 1511934299,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: San Juan Airlines, winter schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +215,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

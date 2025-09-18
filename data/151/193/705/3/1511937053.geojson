@@ -28,41 +28,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5f5"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ebeff0"
+          "hex": "#193342",
+          "name": "#193342",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f6aa9"
+          "hex": "#ebeff0",
+          "name": "#ebeff0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#193342"
+          "hex": "#1f6aa9",
+          "name": "#1f6aa9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e8dc9"
+          "hex": "#3e8dc9",
+          "name": "#3e8dc9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +162,7 @@
       }
     ],
     "wof:id": 1511937053,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +180,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

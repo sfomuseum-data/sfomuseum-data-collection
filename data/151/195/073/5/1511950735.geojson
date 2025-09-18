@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffb6c1"
+          "hex": "#ffb6c1",
+          "name": "lightpink",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c1518"
+          "hex": "#2c1518",
+          "name": "#2c1518",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb1211"
+          "hex": "#e6c1b5",
+          "name": "#e6c1b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6c1b5"
+          "hex": "#cb1211",
+          "name": "#cb1211",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511950735,
-    "wof:lastmodified": 1758181302,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: Air China, summer and fall schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#ceff1d",
+          "name": "Electric Lime",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ceff1d"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b7c6cb"
+          "hex": "#6d97b8",
+          "name": "#6d97b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6d97b8"
+          "hex": "#cfca2c",
+          "name": "#cfca2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfca2c"
+          "hex": "#b7c6cb",
+          "name": "#b7c6cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#09231c"
+          "hex": "#365ca6",
+          "name": "#365ca6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#365ca6"
+          "hex": "#09231c",
+          "name": "#09231c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511941335,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: VARIG, Cruzerio, Rio-Sul",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

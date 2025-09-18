@@ -34,41 +34,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#cda4de",
+          "name": "Wisteria",
+          "reference": "crayola"
         },
         {
-          "hex": "#cda4de"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#6a5acd",
+          "name": "slateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6a5acd"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6b83db"
+          "hex": "#bdb0e2",
+          "name": "#bdb0e2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f74c6"
+          "hex": "#131623",
+          "name": "#131623",
+          "reference": "marekm4"
         },
         {
-          "hex": "#131623"
+          "hex": "#6b83db",
+          "name": "#6b83db",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bdb0e2"
+          "hex": "#5f74c6",
+          "name": "#5f74c6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -165,7 +187,7 @@
       }
     ],
     "wof:id": 1511926581,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Air Dolomiti, Bombardier CRJ100, Frankfurt Airport (FRA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +205,5 @@
     7.267284,
     49.945918
   ],
-  "geometry": {"coordinates":[[7.267284,49.945918]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[7.267284,49.945918]]}
 }

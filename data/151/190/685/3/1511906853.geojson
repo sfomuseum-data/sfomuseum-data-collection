@@ -30,50 +30,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#343449"
+          "hex": "#e1482d",
+          "name": "#e1482d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f3e9d5"
+          "hex": "#f5ebd7",
+          "name": "#f5ebd7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5ebd7"
+          "hex": "#f3e9d5",
+          "name": "#f3e9d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1482d"
+          "hex": "#ed4529",
+          "name": "#ed4529",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ed4529"
+          "hex": "#252241",
+          "name": "#252241",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252241"
+          "hex": "#343449",
+          "name": "#343449",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +189,7 @@
       }
     ],
     "wof:id": 1511906853,
-    "wof:lastmodified": 1758181394,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American Airways, FAM-14, Guam - Manila route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +207,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

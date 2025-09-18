@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e6dbcc"
+          "hex": "#d41523",
+          "name": "#d41523",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d41523"
+          "hex": "#1f39ab",
+          "name": "#1f39ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f39ab"
+          "hex": "#e6dbcc",
+          "name": "#e6dbcc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +163,7 @@
       }
     ],
     "wof:id": 1511909749,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233606,
     "wof:name": "timetable: United Airlines,, South America",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

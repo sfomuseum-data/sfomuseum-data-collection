@@ -28,41 +28,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#da960f"
+          "hex": "#c9300e",
+          "name": "#c9300e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9300e"
+          "hex": "#c5c3b9",
+          "name": "#c5c3b9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#191817"
+          "hex": "#191817",
+          "name": "#191817",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5c3b9"
+          "hex": "#da960f",
+          "name": "#da960f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +162,7 @@
       }
     ],
     "wof:id": 1511939599,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Sky West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +180,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

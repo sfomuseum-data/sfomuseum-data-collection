@@ -32,44 +32,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2add0"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#008080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4c95c2"
+          "hex": "#4c95c2",
+          "name": "#4c95c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#29362b"
+          "hex": "#02589f",
+          "name": "#02589f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#02589f"
+          "hex": "#9db9c9",
+          "name": "#9db9c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9db9c9"
+          "hex": "#29362b",
+          "name": "#29362b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +174,7 @@
       }
     ],
     "wof:id": 1511928631,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "poster: Malev Hungarian Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +192,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

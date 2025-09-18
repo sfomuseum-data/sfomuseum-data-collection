@@ -32,47 +32,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         },
         {
-          "hex": "#0000cd"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#f8f8ff"
+          "hex": "#f8f8ff",
+          "name": "ghostwhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e2789"
+          "hex": "#272dca",
+          "name": "#272dca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f7f8fb"
+          "hex": "#080f72",
+          "name": "#080f72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272dca"
+          "hex": "#f7f8fb",
+          "name": "#f7f8fb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#080f72"
+          "hex": "#e6e4da",
+          "name": "#e6e4da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e4da"
+          "hex": "#1e2789",
+          "name": "#1e2789",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +185,7 @@
       }
     ],
     "wof:id": 1511940067,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Aerolineas Argentinas",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +203,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

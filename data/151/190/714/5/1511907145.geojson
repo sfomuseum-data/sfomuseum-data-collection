@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#aeaaa6"
+          "hex": "#926f55",
+          "name": "#926f55",
+          "reference": "marekm4"
         },
         {
-          "hex": "#926f55"
+          "hex": "#b2916f",
+          "name": "#b2916f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#40374f"
+          "hex": "#aeaaa6",
+          "name": "#aeaaa6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2916f"
+          "hex": "#40374f",
+          "name": "#40374f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +175,7 @@
       }
     ],
     "wof:id": 1511907145,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "flight officer cap badge: Pan American Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +193,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

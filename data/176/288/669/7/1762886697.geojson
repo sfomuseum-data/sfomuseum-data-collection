@@ -24,26 +24,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dedede"
+          "hex": "#dedede",
+          "name": "#dedede",
+          "reference": "marekm4"
         },
         {
-          "hex": "#404040"
+          "hex": "#404040",
+          "name": "#404040",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +146,7 @@
       }
     ],
     "wof:id": 1762886697,
-    "wof:lastmodified": 1758181338,
+    "wof:lastmodified": 1758233693,
     "wof:name": "negatives: San Francisco International Airport (SFO), Terminal Building construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -151,5 +163,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

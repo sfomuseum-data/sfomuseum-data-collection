@@ -29,86 +29,138 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#319177"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#b2ec5d",
+          "name": "Inchworm",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         },
         {
-          "hex": "#b2ec5d"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#daa520"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#fdf5e6"
+          "hex": "#9acd32",
+          "name": "yellowgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#9acd32"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         },
         {
-          "hex": "#add8e6"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#add8e6",
+          "name": "lightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6b8e23"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b7d5e4"
+          "hex": "#d7ad23",
+          "name": "#d7ad23",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a8551e"
+          "hex": "#2d194b",
+          "name": "#2d194b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7ad23"
+          "hex": "#a8551e",
+          "name": "#a8551e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#10258d"
+          "hex": "#fbf6e6",
+          "name": "#fbf6e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d194b"
+          "hex": "#c1cd3e",
+          "name": "#c1cd3e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#489730"
+          "hex": "#10258d",
+          "name": "#10258d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b130e"
+          "hex": "#489730",
+          "name": "#489730",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbf6e6"
+          "hex": "#2b130e",
+          "name": "#2b130e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c1cd3e"
+          "hex": "#b7d5e4",
+          "name": "#b7d5e4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -189,7 +241,7 @@
       }
     ],
     "wof:id": 1511941295,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Thai Airways International, winter schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -207,5 +259,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

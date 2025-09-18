@@ -34,50 +34,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cfc8ba"
+          "hex": "#43402d",
+          "name": "#43402d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e8976"
+          "hex": "#827d69",
+          "name": "#827d69",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5ecd4"
+          "hex": "#cfc8ba",
+          "name": "#cfc8ba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#827d69"
+          "hex": "#8e8976",
+          "name": "#8e8976",
+          "reference": "marekm4"
         },
         {
-          "hex": "#43402d"
+          "hex": "#f5ecd4",
+          "name": "#f5ecd4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -182,7 +210,7 @@
       }
     ],
     "wof:id": 1762693795,
-    "wof:lastmodified": 1758181324,
+    "wof:lastmodified": 1758233677,
     "wof:name": "postcard: Boeing 314 Atlantic Clipper, LaGuardia Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -199,5 +227,5 @@
     -73.875778,
     40.774956
   ],
-  "geometry": {"coordinates":[[-73.875778,40.774956]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.875778,40.774956]]}
 }

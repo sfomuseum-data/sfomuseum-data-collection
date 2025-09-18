@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2add0"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b0c4de"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#799ce6"
+          "hex": "#696c91",
+          "name": "#696c91",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97abe1"
+          "hex": "#101012",
+          "name": "#101012",
+          "reference": "marekm4"
         },
         {
-          "hex": "#101012"
+          "hex": "#97abe1",
+          "name": "#97abe1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f7271"
+          "hex": "#799ce6",
+          "name": "#799ce6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#696c91"
+          "hex": "#8f7271",
+          "name": "#8f7271",
+          "reference": "marekm4"
         }
       ]
     },
@@ -192,7 +222,7 @@
       }
     ],
     "wof:id": 1762760689,
-    "wof:lastmodified": 1758181332,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: United Airlines, Boeing 737-500, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -209,5 +239,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

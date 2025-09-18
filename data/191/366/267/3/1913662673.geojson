@@ -24,53 +24,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#88706d"
+          "hex": "#717696",
+          "name": "#717696",
+          "reference": "marekm4"
         },
         {
-          "hex": "#717696"
+          "hex": "#b0aeb8",
+          "name": "#b0aeb8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b0aeb8"
+          "hex": "#373539",
+          "name": "#373539",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7c83a4"
+          "hex": "#7c83a4",
+          "name": "#7c83a4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#373539"
+          "hex": "#88706d",
+          "name": "#88706d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +188,7 @@
       }
     ],
     "wof:id": 1913662673,
-    "wof:lastmodified": 1758181385,
+    "wof:lastmodified": 1758233763,
     "wof:name": "slide: San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +205,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

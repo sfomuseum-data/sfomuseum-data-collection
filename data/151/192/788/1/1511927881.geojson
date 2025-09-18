@@ -29,62 +29,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#663399"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#663399",
+          "name": "rebeccapurple",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ebe7dc"
+          "hex": "#615897",
+          "name": "#615897",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dc1e0c"
+          "hex": "#dc1e0c",
+          "name": "#dc1e0c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#615897"
+          "hex": "#34353f",
+          "name": "#34353f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f5398"
+          "hex": "#de160a",
+          "name": "#de160a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302f40"
+          "hex": "#302f40",
+          "name": "#302f40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e2d9"
+          "hex": "#ebe7dc",
+          "name": "#ebe7dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#de160a"
+          "hex": "#e6e2d9",
+          "name": "#e6e2d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#34353f"
+          "hex": "#5f5398",
+          "name": "#5f5398",
+          "reference": "marekm4"
         }
       ]
     },
@@ -165,7 +201,7 @@
       }
     ],
     "wof:id": 1511927881,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: Japan Air Lines, international service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +219,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

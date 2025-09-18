@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#0000cd"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e8e4d6"
+          "hex": "#e8e4d6",
+          "name": "#e8e4d6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0244cb"
+          "hex": "#c71d0b",
+          "name": "#c71d0b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c71d0b"
+          "hex": "#1b1915",
+          "name": "#1b1915",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b1915"
+          "hex": "#0244cb",
+          "name": "#0244cb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +178,7 @@
       }
     ],
     "wof:id": 1511909029,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233604,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

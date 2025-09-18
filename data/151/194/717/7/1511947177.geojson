@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a8e4a0"
+          "hex": "#a8e4a0",
+          "name": "Granny Smith Apple",
+          "reference": "crayola"
         },
         {
-          "hex": "#b2ec5d"
+          "hex": "#78dbe2",
+          "name": "Aquamarine",
+          "reference": "crayola"
         },
         {
-          "hex": "#78dbe2"
+          "hex": "#b2ec5d",
+          "name": "Inchworm",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b"
+          "hex": "#87ceeb",
+          "name": "skyblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#98fb98"
+          "hex": "#98fb98",
+          "name": "palegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#87ceeb"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#75cfce"
+          "hex": "#b6d957",
+          "name": "#b6d957",
+          "reference": "marekm4"
         },
         {
-          "hex": "#343836"
+          "hex": "#343836",
+          "name": "#343836",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9fe5a7"
+          "hex": "#9fe5a7",
+          "name": "#9fe5a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b6d957"
+          "hex": "#75cfce",
+          "name": "#75cfce",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +186,7 @@
       }
     ],
     "wof:id": 1511947177,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233641,
     "wof:name": "negative: San Francisco International Airport (SFO), construction and maintenance",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +204,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

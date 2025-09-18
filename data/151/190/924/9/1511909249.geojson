@@ -28,41 +28,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b1c1be"
+          "hex": "#0e1718",
+          "name": "#0e1718",
+          "reference": "marekm4"
         },
         {
-          "hex": "#377aa8"
+          "hex": "#4b89b3",
+          "name": "#4b89b3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0e1718"
+          "hex": "#b1c1be",
+          "name": "#b1c1be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b89b3"
+          "hex": "#377aa8",
+          "name": "#377aa8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +173,7 @@
       }
     ],
     "wof:id": 1511909249,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: Air West",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +191,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

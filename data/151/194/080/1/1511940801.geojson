@@ -28,47 +28,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1974d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ceff1d"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ceff1d",
+          "name": "Electric Lime",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         },
         {
-          "hex": "#1e90ff"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ffd700"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0173cc"
+          "hex": "#0173cc",
+          "name": "#0173cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0d1418"
+          "hex": "#e6d70a",
+          "name": "#e6d70a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4e3ce"
+          "hex": "#1688d6",
+          "name": "#1688d6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1688d6"
+          "hex": "#0d1418",
+          "name": "#0d1418",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6d70a"
+          "hex": "#e4e3ce",
+          "name": "#e4e3ce",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +172,7 @@
       }
     ],
     "wof:id": 1511940801,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: KLM (Royal Dutch Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +190,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

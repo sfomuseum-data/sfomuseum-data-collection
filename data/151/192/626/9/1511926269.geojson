@@ -35,35 +35,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d8bfd8"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#282927"
+          "hex": "#c7bbd5",
+          "name": "#c7bbd5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c7bbd5"
+          "hex": "#282927",
+          "name": "#282927",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6369a3"
+          "hex": "#6369a3",
+          "name": "#6369a3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +181,7 @@
       }
     ],
     "wof:id": 1511926269,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Olympic Airlines, Airbus A340-300, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +199,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

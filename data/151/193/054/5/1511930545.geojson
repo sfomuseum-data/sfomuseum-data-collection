@@ -29,38 +29,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#e6e6fa"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#555a59"
+          "hex": "#edeef9",
+          "name": "#edeef9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b3e3c"
+          "hex": "#555a59",
+          "name": "#555a59",
+          "reference": "marekm4"
         },
         {
-          "hex": "#edeef9"
+          "hex": "#ebecf7",
+          "name": "#ebecf7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebecf7"
+          "hex": "#3b3e3c",
+          "name": "#3b3e3c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -138,7 +158,7 @@
       }
     ],
     "wof:id": 1511930545,
-    "wof:lastmodified": 1758094837,
+    "wof:lastmodified": 1758233619,
     "wof:name": "menu: Air New Zealand, Premium Economy Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +176,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

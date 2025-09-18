@@ -29,26 +29,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dcd1b4"
+          "hex": "#0c1546",
+          "name": "#0c1546",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0c1546"
+          "hex": "#dcd1b4",
+          "name": "#dcd1b4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -129,7 +141,7 @@
       }
     ],
     "wof:id": 1511936833,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Mexicana de Aviación, Pan American Airways System",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -147,5 +159,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

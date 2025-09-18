@@ -28,50 +28,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#fdf5e6"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4d8bb2"
+          "hex": "#4d8bb2",
+          "name": "#4d8bb2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a699d"
+          "hex": "#bf1d2a",
+          "name": "#bf1d2a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf1d2a"
+          "hex": "#faf8e6",
+          "name": "#faf8e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b3e38"
+          "hex": "#3a699d",
+          "name": "#3a699d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#faf8e6"
+          "hex": "#3b3e38",
+          "name": "#3b3e38",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +178,7 @@
       }
     ],
     "wof:id": 1511933775,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Midway Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

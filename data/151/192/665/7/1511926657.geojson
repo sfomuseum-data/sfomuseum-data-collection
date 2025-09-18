@@ -35,44 +35,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#9aceeb"
+          "hex": "#9aceeb",
+          "name": "Cornflower",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5576ca"
+          "hex": "#668de5",
+          "name": "#668de5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#333339"
+          "hex": "#5576ca",
+          "name": "#5576ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#668de5"
+          "hex": "#333339",
+          "name": "#333339",
+          "reference": "marekm4"
         },
         {
-          "hex": "#abbcf4"
+          "hex": "#abbcf4",
+          "name": "#abbcf4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -178,7 +202,7 @@
       }
     ],
     "wof:id": 1511926657,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: British Airways, Boeing 747-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -196,5 +220,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

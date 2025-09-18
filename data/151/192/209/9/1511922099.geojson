@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd853f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#624112"
+          "hex": "#be983a",
+          "name": "#be983a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f7f3f3"
+          "hex": "#373536",
+          "name": "#373536",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9d3cf"
+          "hex": "#d9d3cf",
+          "name": "#d9d3cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ac480f"
+          "hex": "#624112",
+          "name": "#624112",
+          "reference": "marekm4"
         },
         {
-          "hex": "#be983a"
+          "hex": "#ac480f",
+          "name": "#ac480f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#373536"
+          "hex": "#f7f3f3",
+          "name": "#f7f3f3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -160,7 +194,7 @@
       }
     ],
     "wof:id": 1511922099,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233611,
     "wof:name": "menu: United Airlines, Economy Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -178,5 +212,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

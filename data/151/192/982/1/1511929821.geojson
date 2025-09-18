@@ -31,17 +31,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ccc7c1"
+          "hex": "#ccc7c1",
+          "name": "#ccc7c1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -114,7 +120,7 @@
       }
     ],
     "wof:id": 1511929821,
-    "wof:lastmodified": 1757662802,
+    "wof:lastmodified": 1758233618,
     "wof:name": "flight officer wings: Braniff International",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -132,5 +138,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

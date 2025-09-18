@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#faa76c"
+          "hex": "#faa76c",
+          "name": "Tan",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff5349"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff5349",
+          "name": "Red Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f4a460"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ff6347"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#ff6347",
+          "name": "tomato",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#14463c"
+          "hex": "#14463c",
+          "name": "#14463c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0b55c"
+          "hex": "#e9e4df",
+          "name": "#e9e4df",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e4df"
+          "hex": "#f0b55c",
+          "name": "#f0b55c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e85638"
+          "hex": "#e85638",
+          "name": "#e85638",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +183,7 @@
       }
     ],
     "wof:id": 1511930903,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "timetable: Panair do Brasil, Pan American Airways System",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -30,44 +30,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#add8e6",
+          "name": "lightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#add8e6"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b9d2de"
+          "hex": "#b9d2de",
+          "name": "#b9d2de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#48778a"
+          "hex": "#48778a",
+          "name": "#48778a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6293ad"
+          "hex": "#6293ad",
+          "name": "#6293ad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#274048"
+          "hex": "#274048",
+          "name": "#274048",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +173,7 @@
       }
     ],
     "wof:id": 1511928467,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +191,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -35,41 +35,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6085c2"
+          "hex": "#6085c2",
+          "name": "#6085c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9c7cd"
+          "hex": "#4669ac",
+          "name": "#4669ac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#13151c"
+          "hex": "#13151c",
+          "name": "#13151c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4669ac"
+          "hex": "#c9c7cd",
+          "name": "#c9c7cd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +196,7 @@
       }
     ],
     "wof:id": 1511926405,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Air Tahiti Nui, Airbus A340-300, Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +214,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

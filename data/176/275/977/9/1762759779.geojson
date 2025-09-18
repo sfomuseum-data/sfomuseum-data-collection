@@ -34,47 +34,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5b7186"
+          "hex": "#b9babb",
+          "name": "#b9babb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7b848c"
+          "hex": "#887060",
+          "name": "#887060",
+          "reference": "marekm4"
         },
         {
-          "hex": "#444d50"
+          "hex": "#5b7186",
+          "name": "#5b7186",
+          "reference": "marekm4"
         },
         {
-          "hex": "#887060"
+          "hex": "#7b848c",
+          "name": "#7b848c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b9babb"
+          "hex": "#444d50",
+          "name": "#444d50",
+          "reference": "marekm4"
         }
       ]
     },
@@ -186,7 +212,7 @@
       }
     ],
     "wof:id": 1762759779,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233682,
     "wof:name": "slide: Air China, Boeing 747-400, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -203,5 +229,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

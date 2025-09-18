@@ -34,26 +34,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d8bfd8"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#29263a"
+          "hex": "#e4c7cc",
+          "name": "#e4c7cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4c7cc"
+          "hex": "#29263a",
+          "name": "#29263a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +163,7 @@
       }
     ],
     "wof:id": 1511926557,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Air Nostrum, Bombardier CRJ200, Frankfurt Airport (FRA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +181,5 @@
     7.267284,
     49.945918
   ],
-  "geometry": {"coordinates":[[7.267284,49.945918]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[7.267284,49.945918]]}
 }

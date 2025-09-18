@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#616fac"
+          "hex": "#616fac",
+          "name": "#616fac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1f2c"
+          "hex": "#1e1f2c",
+          "name": "#1e1f2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b4b2d5"
+          "hex": "#b4b2d5",
+          "name": "#b4b2d5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +198,7 @@
       }
     ],
     "wof:id": 1511926817,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "slide: Air Transat, Lockheed L-1011-500, Toronto Pearson International Airport (YYZ)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +216,5 @@
     -79.628342,
     43.676352
   ],
-  "geometry": {"coordinates":[[-79.628342,43.676352]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-79.628342,43.676352]]}
 }

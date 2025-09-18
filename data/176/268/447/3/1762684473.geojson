@@ -24,35 +24,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ee204d"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dcdbdc"
+          "hex": "#dcdbdc",
+          "name": "#dcdbdc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ca1623"
+          "hex": "#ca1623",
+          "name": "#ca1623",
+          "reference": "marekm4"
         },
         {
-          "hex": "#171816"
+          "hex": "#171816",
+          "name": "#171816",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +160,7 @@
       }
     ],
     "wof:id": 1762684473,
-    "wof:lastmodified": 1758181325,
+    "wof:lastmodified": 1758233666,
     "wof:name": "timetable: Denver International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +177,5 @@
     -104.672219,
     39.864939
   ],
-  "geometry": {"coordinates":[[-104.672219,39.864939]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-104.672219,39.864939]]}
 }

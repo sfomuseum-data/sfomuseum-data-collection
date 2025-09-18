@@ -23,59 +23,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#deaa88"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f0e68c"
+          "hex": "#f0e68c",
+          "name": "khaki",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#deb887"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2d2a17"
+          "hex": "#e3d297",
+          "name": "#e3d297",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dac478"
+          "hex": "#2d2a17",
+          "name": "#2d2a17",
+          "reference": "marekm4"
         },
         {
-          "hex": "#423e4a"
+          "hex": "#dac478",
+          "name": "#dac478",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a54f4a"
+          "hex": "#d4bd7b",
+          "name": "#d4bd7b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3d297"
+          "hex": "#a54f4a",
+          "name": "#a54f4a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0cd90"
+          "hex": "#e0cd90",
+          "name": "#e0cd90",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4bd7b"
+          "hex": "#423e4a",
+          "name": "#423e4a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +193,7 @@
       }
     ],
     "wof:id": 1511922837,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233612,
     "wof:name": "airmail flight cover: First airmail flight, CAM, Cleveland - Pittsburgh route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +211,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

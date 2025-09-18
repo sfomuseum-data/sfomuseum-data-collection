@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1974d2"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#1e90ff"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#153016"
+          "hex": "#d0cdc0",
+          "name": "#d0cdc0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#258bdd"
+          "hex": "#258bdd",
+          "name": "#258bdd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1b51d"
+          "hex": "#e1b51d",
+          "name": "#e1b51d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0cdc0"
+          "hex": "#d83d19",
+          "name": "#d83d19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d83d19"
+          "hex": "#153016",
+          "name": "#153016",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511951969,
-    "wof:lastmodified": 1758181304,
+    "wof:lastmodified": 1758233648,
     "wof:name": "tourist information brochure: Aeroflot Soviet Airlines, Olympics Moscow",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#85754e"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#51392d"
+          "hex": "#eae0d3",
+          "name": "#eae0d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c33130"
+          "hex": "#afb2ad",
+          "name": "#afb2ad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#afb2ad"
+          "hex": "#51392d",
+          "name": "#51392d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a08f72"
+          "hex": "#a08f72",
+          "name": "#a08f72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae0d3"
+          "hex": "#8e6450",
+          "name": "#8e6450",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7b888d"
+          "hex": "#c33130",
+          "name": "#c33130",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e6450"
+          "hex": "#7b888d",
+          "name": "#7b888d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -214,7 +256,7 @@
       }
     ],
     "wof:id": 1762686305,
-    "wof:lastmodified": 1758181328,
+    "wof:lastmodified": 1758233668,
     "wof:name": "postcard: Mexico City Airport, Mexicana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -231,5 +273,5 @@
     -99.080804,
     19.431302
   ],
-  "geometry": {"coordinates":[[-99.080804,19.431302]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-99.080804,19.431302]]}
 }

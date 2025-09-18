@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#87a96b"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#090a07"
+          "hex": "#c9c5b6",
+          "name": "#c9c5b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee9d8"
+          "hex": "#eee9d8",
+          "name": "#eee9d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#49602b"
+          "hex": "#49602b",
+          "name": "#49602b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9c5b6"
+          "hex": "#97996e",
+          "name": "#97996e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97996e"
+          "hex": "#090a07",
+          "name": "#090a07",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +201,7 @@
       }
     ],
     "wof:id": 1762685125,
-    "wof:lastmodified": 1758181326,
+    "wof:lastmodified": 1758233667,
     "wof:name": "postcard: Chicago Municipal Airport, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +218,5 @@
     -88.468432,
     41.768592
   ],
-  "geometry": {"coordinates":[[-88.468432,41.768592]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-88.468432,41.768592]]}
 }

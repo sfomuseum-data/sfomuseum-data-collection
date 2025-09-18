@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd9575"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cabfa0"
+          "hex": "#16284d",
+          "name": "#16284d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c0a678"
+          "hex": "#cabfa0",
+          "name": "#cabfa0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#16284d"
+          "hex": "#c0a678",
+          "name": "#c0a678",
+          "reference": "marekm4"
         }
       ]
     },
@@ -137,7 +155,7 @@
       }
     ],
     "wof:id": 1511927905,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +173,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

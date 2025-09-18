@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ca3e0b"
+          "hex": "#ca3e0b",
+          "name": "#ca3e0b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e5ed"
+          "hex": "#181619",
+          "name": "#181619",
+          "reference": "marekm4"
         },
         {
-          "hex": "#181619"
+          "hex": "#e9e5ed",
+          "name": "#e9e5ed",
+          "reference": "marekm4"
         }
       ]
     },
@@ -138,7 +156,7 @@
       }
     ],
     "wof:id": 1511930395,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "timetable: Golden West / National Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +174,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

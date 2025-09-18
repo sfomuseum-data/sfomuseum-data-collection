@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#008080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#006400",
+          "name": "darkgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#006400"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#083822"
+          "hex": "#e2c01f",
+          "name": "#e2c01f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dedcd1"
+          "hex": "#d73c01",
+          "name": "#d73c01",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0d5789"
+          "hex": "#083822",
+          "name": "#083822",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2c01f"
+          "hex": "#0d5789",
+          "name": "#0d5789",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d73c01"
+          "hex": "#dedcd1",
+          "name": "#dedcd1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511952987,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233648,
     "wof:name": "luggage label: Panagra (Pan American-Grace Airways)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

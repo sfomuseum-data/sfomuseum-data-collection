@@ -30,44 +30,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#916e5a"
+          "hex": "#d1c0a7",
+          "name": "#d1c0a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a28b75"
+          "hex": "#916e5a",
+          "name": "#916e5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#453027"
+          "hex": "#453027",
+          "name": "#453027",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1c0a7"
+          "hex": "#a28b75",
+          "name": "#a28b75",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +185,7 @@
       }
     ],
     "wof:id": 1913662495,
-    "wof:lastmodified": 1758181385,
+    "wof:lastmodified": 1758233763,
     "wof:name": "photograph: San Francisco International Airport (SFO), United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -178,5 +202,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

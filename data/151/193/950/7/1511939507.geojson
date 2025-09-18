@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff7538"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#ff7538",
+          "name": "Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#0000cd",
+          "name": "mediumblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ff8c00"
+          "hex": "#ff8c00",
+          "name": "darkorange",
+          "reference": "css4"
         },
         {
-          "hex": "#0000cd"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#32102c"
+          "hex": "#bfb3c5",
+          "name": "#bfb3c5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ea950f"
+          "hex": "#132abd",
+          "name": "#132abd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#132abd"
+          "hex": "#32102c",
+          "name": "#32102c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfb3c5"
+          "hex": "#ea950f",
+          "name": "#ea950f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511939507,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

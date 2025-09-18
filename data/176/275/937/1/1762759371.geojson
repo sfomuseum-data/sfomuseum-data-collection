@@ -34,41 +34,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5e739e"
+          "hex": "#5e739e",
+          "name": "#5e739e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7283a8"
+          "hex": "#7283a8",
+          "name": "#7283a8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#413f4c"
+          "hex": "#413f4c",
+          "name": "#413f4c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c6c0c0"
+          "hex": "#c6c0c0",
+          "name": "#c6c0c0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +196,7 @@
       }
     ],
     "wof:id": 1762759371,
-    "wof:lastmodified": 1758181329,
+    "wof:lastmodified": 1758233681,
     "wof:name": "slide: Western Pacific Airlines, Boeing 737-300, Phoenix Sky Harbor International Airport (PHX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +213,5 @@
     -112.017392,
     33.432684
   ],
-  "geometry": {"coordinates":[[-112.017392,33.432684]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-112.017392,33.432684]]}
 }

@@ -35,41 +35,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4c4642"
+          "hex": "#4c4642",
+          "name": "#4c4642",
+          "reference": "marekm4"
         },
         {
-          "hex": "#908678"
+          "hex": "#b9b5ad",
+          "name": "#b9b5ad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b9b5ad"
+          "hex": "#908678",
+          "name": "#908678",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857567"
+          "hex": "#857567",
+          "name": "#857567",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +191,7 @@
       }
     ],
     "wof:id": 1762761379,
-    "wof:lastmodified": 1758181333,
+    "wof:lastmodified": 1758233684,
     "wof:name": "photograph: Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +208,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

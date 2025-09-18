@@ -34,71 +34,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d0d7d3"
+          "hex": "#6d9daa",
+          "name": "#6d9daa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e8e6e"
+          "hex": "#9e8e6e",
+          "name": "#9e8e6e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eadec1"
+          "hex": "#d0d7d3",
+          "name": "#d0d7d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f5948"
+          "hex": "#91523f",
+          "name": "#91523f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#29272b"
+          "hex": "#5f5948",
+          "name": "#5f5948",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6d9daa"
+          "hex": "#eadec1",
+          "name": "#eadec1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#91523f"
+          "hex": "#29272b",
+          "name": "#29272b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -200,7 +242,7 @@
       }
     ],
     "wof:id": 1762680981,
-    "wof:lastmodified": 1758181318,
+    "wof:lastmodified": 1758233662,
     "wof:name": "postcard: Eastern Air Lines, Lockheed Constellation, Louisville airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -217,5 +259,5 @@
     -85.744415,
     38.187123
   ],
-  "geometry": {"coordinates":[[-85.744415,38.187123]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-85.744415,38.187123]]}
 }

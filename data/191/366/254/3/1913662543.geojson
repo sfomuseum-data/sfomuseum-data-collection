@@ -25,38 +25,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c3031"
+          "hex": "#b1b6b5",
+          "name": "#b1b6b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1b6b5"
+          "hex": "#242730",
+          "name": "#242730",
+          "reference": "marekm4"
         },
         {
-          "hex": "#242730"
+          "hex": "#f1edce",
+          "name": "#f1edce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1edce"
+          "hex": "#2c3031",
+          "name": "#2c3031",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +164,7 @@
       }
     ],
     "wof:id": 1913662543,
-    "wof:lastmodified": 1758181385,
+    "wof:lastmodified": 1758233763,
     "wof:name": "photograph: San Francisco International Airport (SFO), construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +181,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

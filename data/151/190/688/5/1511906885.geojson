@@ -30,41 +30,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4e4f43"
+          "hex": "#f9ecd4",
+          "name": "#f9ecd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5e6ce"
+          "hex": "#f5e6ce",
+          "name": "#f5e6ce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9ecd4"
+          "hex": "#d65053",
+          "name": "#d65053",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d65053"
+          "hex": "#4e4f43",
+          "name": "#4e4f43",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +184,7 @@
       }
     ],
     "wof:id": 1511906885,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American Airways, FAM-14, San Francisco - Hong Kong route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +202,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

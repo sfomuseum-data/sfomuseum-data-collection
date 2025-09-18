@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#fdf5e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f4f0e6"
+          "hex": "#211f15",
+          "name": "#211f15",
+          "reference": "marekm4"
         },
         {
-          "hex": "#211f15"
+          "hex": "#0660d3",
+          "name": "#0660d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbf8e7"
+          "hex": "#fbf8e7",
+          "name": "#fbf8e7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0660d3"
+          "hex": "#f4f0e6",
+          "name": "#f4f0e6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +169,7 @@
       }
     ],
     "wof:id": 1511921249,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233610,
     "wof:name": "menu: United Air Lines, Blue Carpet (Economy) Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +187,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

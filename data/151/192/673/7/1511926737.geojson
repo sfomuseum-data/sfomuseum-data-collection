@@ -32,44 +32,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d8bfd8"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cac3d4"
+          "hex": "#cac3d4",
+          "name": "#cac3d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#45609b"
+          "hex": "#45609b",
+          "name": "#45609b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#23283d"
+          "hex": "#5f83bb",
+          "name": "#5f83bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f83bb"
+          "hex": "#23283d",
+          "name": "#23283d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +175,7 @@
       }
     ],
     "wof:id": 1511926737,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: KLM Asia, Boeing 747-400",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +193,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

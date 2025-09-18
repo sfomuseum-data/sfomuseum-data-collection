@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#319177"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2e8b57"
+          "hex": "#2e8b57",
+          "name": "seagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#19612e"
+          "hex": "#d2b80b",
+          "name": "#d2b80b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d2b80b"
+          "hex": "#e2e9d9",
+          "name": "#e2e9d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f8c5a"
+          "hex": "#4f8c5a",
+          "name": "#4f8c5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2e9d9"
+          "hex": "#19612e",
+          "name": "#19612e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +179,7 @@
       }
     ],
     "wof:id": 1511907987,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "timetable: Braniff International",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +197,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

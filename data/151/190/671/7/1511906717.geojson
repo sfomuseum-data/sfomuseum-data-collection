@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dcd6c5"
+          "hex": "#dcd6c5",
+          "name": "#dcd6c5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfbaa6"
+          "hex": "#bfbaa6",
+          "name": "#bfbaa6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#181938"
+          "hex": "#8c877b",
+          "name": "#8c877b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#837c75"
+          "hex": "#837c75",
+          "name": "#837c75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8c877b"
+          "hex": "#181938",
+          "name": "#181938",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0b0e2c"
+          "hex": "#0b0e2c",
+          "name": "#0b0e2c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +203,7 @@
       }
     ],
     "wof:id": 1511906717,
-    "wof:lastmodified": 1758181394,
+    "wof:lastmodified": 1758233601,
     "wof:name": "employee manual: Pan American World Airways, employee handbook",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +221,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

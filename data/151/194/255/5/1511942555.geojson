@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cfc6a7"
+          "hex": "#a39670",
+          "name": "#a39670",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857a5a"
+          "hex": "#47432c",
+          "name": "#47432c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47432c"
+          "hex": "#857a5a",
+          "name": "#857a5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a39670"
+          "hex": "#cfc6a7",
+          "name": "#cfc6a7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -130,7 +154,7 @@
       }
     ],
     "wof:id": 1511942555,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233635,
     "wof:name": "photograph: San Francisco, Sunset District, aerial",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

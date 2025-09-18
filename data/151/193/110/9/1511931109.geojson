@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffcf48"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#36302d"
+          "hex": "#36302d",
+          "name": "#36302d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e8fc0"
+          "hex": "#4e8fc0",
+          "name": "#4e8fc0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece8de"
+          "hex": "#d43d29",
+          "name": "#d43d29",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d43d29"
+          "hex": "#f1d642",
+          "name": "#f1d642",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1d642"
+          "hex": "#ece8de",
+          "name": "#ece8de",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +184,7 @@
       }
     ],
     "wof:id": 1511931109,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233620,
     "wof:name": "brochure: Chicago \u0026 Southern Air Lines (C\u0026S), general service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +202,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

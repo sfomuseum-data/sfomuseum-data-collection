@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c42411"
+          "hex": "#c42411",
+          "name": "#c42411",
+          "reference": "marekm4"
         },
         {
-          "hex": "#151330"
+          "hex": "#151330",
+          "name": "#151330",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1c5ae"
+          "hex": "#d1c5ae",
+          "name": "#d1c5ae",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +163,7 @@
       }
     ],
     "wof:id": 1511927999,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: Capital Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#b4674d"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#b4674d",
+          "name": "Brown",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ad5b38"
+          "hex": "#13111d",
+          "name": "#13111d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#13111d"
+          "hex": "#cdc7be",
+          "name": "#cdc7be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3c548a"
+          "hex": "#bf9650",
+          "name": "#bf9650",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf9650"
+          "hex": "#3c548a",
+          "name": "#3c548a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdc7be"
+          "hex": "#ad5b38",
+          "name": "#ad5b38",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511938277,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: Republic Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#46402c"
+          "hex": "#d00c0f",
+          "name": "#d00c0f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8dac1"
+          "hex": "#e8dac1",
+          "name": "#e8dac1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d00c0f"
+          "hex": "#023a9c",
+          "name": "#023a9c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#023a9c"
+          "hex": "#46402c",
+          "name": "#46402c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +178,7 @@
       }
     ],
     "wof:id": 1511910237,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233606,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

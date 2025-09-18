@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#fc2847",
+          "name": "Scarlet",
+          "reference": "crayola"
         },
         {
-          "hex": "#fc6c85"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fc6c85",
+          "name": "Wild Watermelon",
+          "reference": "crayola"
         },
         {
-          "hex": "#fc2847"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#fdbcb4"
+          "hex": "#fdbcb4",
+          "name": "Melon",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#f08080",
+          "name": "lightcoral",
+          "reference": "css4"
         },
         {
-          "hex": "#f08080"
+          "hex": "#ffc0cb",
+          "name": "pink",
+          "reference": "css4"
         },
         {
-          "hex": "#ffc0cb"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f43452"
+          "hex": "#041089",
+          "name": "#041089",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b0b37"
+          "hex": "#f43452",
+          "name": "#f43452",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbbfc5"
+          "hex": "#fbbfc5",
+          "name": "#fbbfc5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#041089"
+          "hex": "#f9738d",
+          "name": "#f9738d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9738d"
+          "hex": "#1b0b37",
+          "name": "#1b0b37",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +183,7 @@
       }
     ],
     "wof:id": 1511933429,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Eastern Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

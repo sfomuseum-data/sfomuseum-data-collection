@@ -25,68 +25,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#755c42"
+          "hex": "#725647",
+          "name": "#725647",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f7a88"
+          "hex": "#755c42",
+          "name": "#755c42",
+          "reference": "marekm4"
         },
         {
-          "hex": "#937455"
+          "hex": "#c8b7b4",
+          "name": "#c8b7b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a48b70"
+          "hex": "#8d705a",
+          "name": "#8d705a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c6bcc0"
+          "hex": "#a78e6e",
+          "name": "#a78e6e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d705a"
+          "hex": "#c6bcc0",
+          "name": "#c6bcc0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c8b7b4"
+          "hex": "#a48b70",
+          "name": "#a48b70",
+          "reference": "marekm4"
         },
         {
-          "hex": "#725647"
+          "hex": "#8f7a88",
+          "name": "#8f7a88",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a78e6e"
+          "hex": "#937455",
+          "name": "#937455",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +217,7 @@
       }
     ],
     "wof:id": 1762888253,
-    "wof:lastmodified": 1758181341,
+    "wof:lastmodified": 1758233694,
     "wof:name": "photographs: San Francisco International Airport (SFO), airport drainage",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -194,5 +234,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

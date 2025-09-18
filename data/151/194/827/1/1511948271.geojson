@@ -25,26 +25,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3a3a3a"
+          "hex": "#bdbdbd",
+          "name": "#bdbdbd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bdbdbd"
+          "hex": "#3a3a3a",
+          "name": "#3a3a3a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +151,7 @@
       }
     ],
     "wof:id": 1511948271,
-    "wof:lastmodified": 1758008471,
+    "wof:lastmodified": 1758233643,
     "wof:name": "negative: San Francisco International Airport (SFO), James K. Carr",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +169,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

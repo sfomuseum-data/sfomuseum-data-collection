@@ -31,53 +31,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d6461a"
+          "hex": "#728aac",
+          "name": "#728aac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#728aac"
+          "hex": "#1d4695",
+          "name": "#1d4695",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bebeb7"
+          "hex": "#1f2132",
+          "name": "#1f2132",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f2132"
+          "hex": "#bebeb7",
+          "name": "#bebeb7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d4695"
+          "hex": "#d6461a",
+          "name": "#d6461a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +192,7 @@
       }
     ],
     "wof:id": 1511940547,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: CP Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +210,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

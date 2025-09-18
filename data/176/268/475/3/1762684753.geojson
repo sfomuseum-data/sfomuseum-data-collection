@@ -25,71 +25,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c5d0e6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1770a5"
+          "hex": "#4a613f",
+          "name": "#4a613f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a613f"
+          "hex": "#1b2f1e",
+          "name": "#1b2f1e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5897bc"
+          "hex": "#c0d0d4",
+          "name": "#c0d0d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece3cf"
+          "hex": "#1770a5",
+          "name": "#1770a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c0d0d4"
+          "hex": "#5897bc",
+          "name": "#5897bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b2f1e"
+          "hex": "#748761",
+          "name": "#748761",
+          "reference": "marekm4"
         },
         {
-          "hex": "#748761"
+          "hex": "#ece3cf",
+          "name": "#ece3cf",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +219,7 @@
       }
     ],
     "wof:id": 1762684753,
-    "wof:lastmodified": 1758181325,
+    "wof:lastmodified": 1758233667,
     "wof:name": "postcard: Phoenix Sky Harbor Municipal Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -194,5 +236,5 @@
     -112.017392,
     33.432684
   ],
-  "geometry": {"coordinates":[[-112.017392,33.432684]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-112.017392,33.432684]]}
 }

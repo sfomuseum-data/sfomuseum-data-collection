@@ -31,101 +31,163 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2f2622"
+          "hex": "#1e6bb0",
+          "name": "#1e6bb0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a54121"
+          "hex": "#98968e",
+          "name": "#98968e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#292c2b"
+          "hex": "#e3ae3d",
+          "name": "#e3ae3d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae8e8"
+          "hex": "#252627",
+          "name": "#252627",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a38b58"
+          "hex": "#938777",
+          "name": "#938777",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3ae3d"
+          "hex": "#292c2b",
+          "name": "#292c2b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e6bb0"
+          "hex": "#b22f10",
+          "name": "#b22f10",
+          "reference": "marekm4"
         },
         {
-          "hex": "#98968e"
+          "hex": "#a54121",
+          "name": "#a54121",
+          "reference": "marekm4"
         },
         {
-          "hex": "#938777"
+          "hex": "#a38b58",
+          "name": "#a38b58",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dc4332"
+          "hex": "#2f2622",
+          "name": "#2f2622",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252627"
+          "hex": "#eae8e8",
+          "name": "#eae8e8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97968e"
+          "hex": "#dc4332",
+          "name": "#dc4332",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b22f10"
+          "hex": "#97968e",
+          "name": "#97968e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -201,7 +263,7 @@
       }
     ],
     "wof:id": 1880235867,
-    "wof:lastmodified": 1758181374,
+    "wof:lastmodified": 1758233747,
     "wof:name": "amenity kit: Virgin America, first class, New York City",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -218,5 +280,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff5349"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#ff5349",
+          "name": "Red Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ff6347"
+          "hex": "#ff6347",
+          "name": "tomato",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ec4e37"
+          "hex": "#ea4b35",
+          "name": "#ea4b35",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ea4b35"
+          "hex": "#20355a",
+          "name": "#20355a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f3ebdc"
+          "hex": "#f3ebdc",
+          "name": "#f3ebdc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#20355a"
+          "hex": "#1b2c5e",
+          "name": "#1b2c5e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b2c5e"
+          "hex": "#6f9cae",
+          "name": "#6f9cae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae6da"
+          "hex": "#ec4e37",
+          "name": "#ec4e37",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f9cae"
+          "hex": "#eae6da",
+          "name": "#eae6da",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +197,7 @@
       }
     ],
     "wof:id": 1511909787,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233606,
     "wof:name": "airmail flight cover: TWA (Trans World Airlines), FAM-27, Philadelphia - Frankfurt route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +215,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

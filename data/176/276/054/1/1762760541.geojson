@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5f6e84"
+          "hex": "#5f6e84",
+          "name": "#5f6e84",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cccccb"
+          "hex": "#424548",
+          "name": "#424548",
+          "reference": "marekm4"
         },
         {
-          "hex": "#424548"
+          "hex": "#cccccb",
+          "name": "#cccccb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +179,7 @@
       }
     ],
     "wof:id": 1762760541,
-    "wof:lastmodified": 1758181332,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: Boeing 777-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -178,5 +196,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

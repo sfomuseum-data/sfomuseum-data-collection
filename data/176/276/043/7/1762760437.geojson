@@ -34,41 +34,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bfbeb1"
+          "hex": "#bfbeb1",
+          "name": "#bfbeb1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#897264"
+          "hex": "#585150",
+          "name": "#585150",
+          "reference": "marekm4"
         },
         {
-          "hex": "#938578"
+          "hex": "#897264",
+          "name": "#897264",
+          "reference": "marekm4"
         },
         {
-          "hex": "#585150"
+          "hex": "#938578",
+          "name": "#938578",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +193,7 @@
       }
     ],
     "wof:id": 1762760437,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233683,
     "wof:name": "photograph: PSA (Pacific Southwest Airlines), Boeing 727, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +210,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

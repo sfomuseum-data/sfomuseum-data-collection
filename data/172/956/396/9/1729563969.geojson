@@ -31,41 +31,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#35302f"
+          "hex": "#968979",
+          "name": "#968979",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f6e66"
+          "hex": "#c4baa9",
+          "name": "#c4baa9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4baa9"
+          "hex": "#8f6e66",
+          "name": "#8f6e66",
+          "reference": "marekm4"
         },
         {
-          "hex": "#968979"
+          "hex": "#35302f",
+          "name": "#35302f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -165,7 +187,7 @@
       }
     ],
     "wof:id": 1729563969,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "traveler information: TWA (Trans World Airlines), New York International Airport (Idlewild)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +205,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

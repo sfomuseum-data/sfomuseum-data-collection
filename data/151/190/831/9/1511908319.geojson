@@ -23,32 +23,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#435146"
+          "hex": "#435045",
+          "name": "#435045",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a9abaa"
+          "hex": "#435146",
+          "name": "#435146",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a6a8a7"
+          "hex": "#a9abaa",
+          "name": "#a9abaa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#435045"
+          "hex": "#a6a8a7",
+          "name": "#a6a8a7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -125,7 +141,7 @@
       }
     ],
     "wof:id": 1511908319,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233603,
     "wof:name": "travel mug: San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -143,5 +159,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

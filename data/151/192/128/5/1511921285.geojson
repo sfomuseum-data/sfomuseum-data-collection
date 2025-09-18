@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1c0a09"
+          "hex": "#e1dacc",
+          "name": "#e1dacc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1dacc"
+          "hex": "#bd1151",
+          "name": "#bd1151",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bd1151"
+          "hex": "#1c0a09",
+          "name": "#1c0a09",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +163,7 @@
       }
     ],
     "wof:id": 1511921285,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233610,
     "wof:name": "inflight entertainment guide: Western Airlines, McDonnell Douglas DC-10",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

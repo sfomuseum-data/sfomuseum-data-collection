@@ -33,35 +33,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cac4bb"
+          "hex": "#cac4bb",
+          "name": "#cac4bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#867267"
+          "hex": "#51473f",
+          "name": "#51473f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#51473f"
+          "hex": "#867267",
+          "name": "#867267",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +202,7 @@
       }
     ],
     "wof:id": 1762760857,
-    "wof:lastmodified": 1758181332,
+    "wof:lastmodified": 1758233683,
     "wof:name": "photograph: Aer Lingus, BAC One-Eleven Series 200, Manchester International Airport (MAN)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +219,5 @@
     -2.337608,
     53.411253
   ],
-  "geometry": {"coordinates":[[-2.337608,53.411253]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-2.337608,53.411253]]}
 }

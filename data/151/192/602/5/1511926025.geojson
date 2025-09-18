@@ -35,41 +35,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6387b8"
+          "hex": "#4166a7",
+          "name": "#4166a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#27262e"
+          "hex": "#d0d0d2",
+          "name": "#d0d0d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0d0d2"
+          "hex": "#6387b8",
+          "name": "#6387b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4166a7"
+          "hex": "#27262e",
+          "name": "#27262e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -175,7 +197,7 @@
       }
     ],
     "wof:id": 1511926025,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233614,
     "wof:name": "slide: Delta Air Lines, Boeing 767-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -193,5 +215,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

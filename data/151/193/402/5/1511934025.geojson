@@ -26,44 +26,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cfc7bc"
+          "hex": "#ad332a",
+          "name": "#ad332a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#92837d"
+          "hex": "#cfc7bc",
+          "name": "#cfc7bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ad332a"
+          "hex": "#696262",
+          "name": "#696262",
+          "reference": "marekm4"
         },
         {
-          "hex": "#696262"
+          "hex": "#92837d",
+          "name": "#92837d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +165,7 @@
       }
     ],
     "wof:id": 1511934025,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Northwest Airlines, frequent flyer",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +183,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

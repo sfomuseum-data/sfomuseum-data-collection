@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c79e4e"
+          "hex": "#c79e4e",
+          "name": "#c79e4e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c7c5c3"
+          "hex": "#6e638e",
+          "name": "#6e638e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#110c0d"
+          "hex": "#c7c5c3",
+          "name": "#c7c5c3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a66432"
+          "hex": "#a66432",
+          "name": "#a66432",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6e638e"
+          "hex": "#110c0d",
+          "name": "#110c0d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +183,7 @@
       }
     ],
     "wof:id": 1511933323,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: Delta Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

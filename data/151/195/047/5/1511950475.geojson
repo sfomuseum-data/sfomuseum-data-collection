@@ -25,35 +25,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d6dce0"
+          "hex": "#d6dce0",
+          "name": "#d6dce0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#236fd9"
+          "hex": "#236fd9",
+          "name": "#236fd9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5991dc"
+          "hex": "#5991dc",
+          "name": "#5991dc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +179,7 @@
       }
     ],
     "wof:id": 1511950475,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: San Jose International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +197,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

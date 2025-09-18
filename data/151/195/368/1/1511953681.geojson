@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8cec1"
+          "hex": "#dad2c4",
+          "name": "#dad2c4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c92416"
+          "hex": "#d8cec1",
+          "name": "#d8cec1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c39669"
+          "hex": "#1b1853",
+          "name": "#1b1853",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dad2c4"
+          "hex": "#3a245a",
+          "name": "#3a245a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a245a"
+          "hex": "#c39669",
+          "name": "#c39669",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b53736"
+          "hex": "#b53736",
+          "name": "#b53736",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b1853"
+          "hex": "#c92416",
+          "name": "#c92416",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511953681,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, New York - Buenos Aires route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

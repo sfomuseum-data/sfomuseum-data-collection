@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c7c38"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d9d9d3"
+          "hex": "#282313",
+          "name": "#282313",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b99160"
+          "hex": "#b99160",
+          "name": "#b99160",
+          "reference": "marekm4"
         },
         {
-          "hex": "#956b37"
+          "hex": "#d9d9d3",
+          "name": "#d9d9d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#282313"
+          "hex": "#956b37",
+          "name": "#956b37",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +187,7 @@
       }
     ],
     "wof:id": 1762692307,
-    "wof:lastmodified": 1758181321,
+    "wof:lastmodified": 1758233676,
     "wof:name": "timetable: San Jose International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +204,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

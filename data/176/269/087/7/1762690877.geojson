@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e9ddca"
+          "hex": "#e9ddca",
+          "name": "#e9ddca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#619bc5"
+          "hex": "#a73a28",
+          "name": "#a73a28",
+          "reference": "marekm4"
         },
         {
-          "hex": "#43352d"
+          "hex": "#b5c8d1",
+          "name": "#b5c8d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b5c8d1"
+          "hex": "#43352d",
+          "name": "#43352d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a73a28"
+          "hex": "#619bc5",
+          "name": "#619bc5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -186,7 +216,7 @@
       }
     ],
     "wof:id": 1762690877,
-    "wof:lastmodified": 1758181318,
+    "wof:lastmodified": 1758233674,
     "wof:name": "postcard: Interflug, Tupolev TU-134, Berlin Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -203,5 +233,5 @@
     13.518116,
     52.385085
   ],
-  "geometry": {"coordinates":[[13.518116,52.385085]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[13.518116,52.385085]]}
 }

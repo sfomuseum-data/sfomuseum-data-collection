@@ -31,26 +31,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e4d6bd"
+          "hex": "#e4d6bd",
+          "name": "#e4d6bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#242222"
+          "hex": "#242222",
+          "name": "#242222",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +158,7 @@
       }
     ],
     "wof:id": 1511939869,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233632,
     "wof:name": "advertisement: TWA (Trans World Airlines), Dulles International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +176,5 @@
     -77.453702,
     38.949246
   ],
-  "geometry": {"coordinates":[[-77.453702,38.949246]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-77.453702,38.949246]]}
 }

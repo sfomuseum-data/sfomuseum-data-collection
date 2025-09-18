@@ -25,26 +25,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fffafa"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fefdfa"
+          "hex": "#cf3a3c",
+          "name": "#cf3a3c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cf3a3c"
+          "hex": "#fefdfa",
+          "name": "#fefdfa",
+          "reference": "marekm4"
         }
       ]
     },
@@ -119,7 +131,7 @@
       }
     ],
     "wof:id": 1511915891,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233608,
     "wof:name": "How to build an aeroplane",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -137,5 +149,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

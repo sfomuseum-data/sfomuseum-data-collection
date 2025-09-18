@@ -32,41 +32,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#4a646c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a2a4a9"
+          "hex": "#a2a4a9",
+          "name": "#a2a4a9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b5167"
+          "hex": "#4b5167",
+          "name": "#4b5167",
+          "reference": "marekm4"
         },
         {
-          "hex": "#606784"
+          "hex": "#7e8183",
+          "name": "#7e8183",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7e8183"
+          "hex": "#606784",
+          "name": "#606784",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +183,7 @@
       }
     ],
     "wof:id": 1511929519,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233618,
     "wof:name": "airline bag: Cathay Pacific Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -22,26 +22,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e253a"
+          "hex": "#ded3bb",
+          "name": "#ded3bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ded3bb"
+          "hex": "#1e253a",
+          "name": "#1e253a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -107,7 +119,7 @@
       }
     ],
     "wof:id": 1511942333,
-    "wof:lastmodified": 1758094850,
+    "wof:lastmodified": 1758233635,
     "wof:name": "timetable: Delta Air Lines",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",
@@ -125,5 +137,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
 }

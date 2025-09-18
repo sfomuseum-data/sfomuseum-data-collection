@@ -32,50 +32,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#18a7b5",
+          "name": "Teal Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#18a7b5"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#393740"
+          "hex": "#d1cdcc",
+          "name": "#d1cdcc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a3741"
+          "hex": "#469dbb",
+          "name": "#469dbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#469dbb"
+          "hex": "#3d96b3",
+          "name": "#3d96b3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#38353e"
+          "hex": "#39363f",
+          "name": "#39363f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1cdcc"
+          "hex": "#393740",
+          "name": "#393740",
+          "reference": "marekm4"
         },
         {
-          "hex": "#39363f"
+          "hex": "#3a3741",
+          "name": "#3a3741",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d96b3"
+          "hex": "#38353e",
+          "name": "#38353e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +190,7 @@
       }
     ],
     "wof:id": 1511928037,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "airline bag: Air Canada",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +208,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

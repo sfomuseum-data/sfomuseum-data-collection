@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#fae7b5",
+          "name": "Banana Mania",
+          "reference": "crayola"
         },
         {
-          "hex": "#fae7b5"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9d996f"
+          "hex": "#9d996f",
+          "name": "#9d996f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#424933"
+          "hex": "#f4e3b5",
+          "name": "#f4e3b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4e3b5"
+          "hex": "#424933",
+          "name": "#424933",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511937785,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: Arab Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

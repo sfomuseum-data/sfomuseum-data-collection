@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#f75394",
+          "name": "Violet Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ee204d"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#f75394"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#fdf5e6"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e75296"
+          "hex": "#d81a4d",
+          "name": "#d81a4d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f281a"
+          "hex": "#fdf5e6",
+          "name": "#fdf5e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fdf5e6"
+          "hex": "#1f281a",
+          "name": "#1f281a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d81a4d"
+          "hex": "#e75296",
+          "name": "#e75296",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511941013,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Mexicana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

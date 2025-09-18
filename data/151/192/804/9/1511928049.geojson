@@ -31,50 +31,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#3bb08f",
+          "name": "Jungle Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#3bb08f"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5dc"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d24f28"
+          "hex": "#d24f28",
+          "name": "#d24f28",
+          "reference": "marekm4"
         },
         {
-          "hex": "#363b38"
+          "hex": "#3e6696",
+          "name": "#3e6696",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e6696"
+          "hex": "#e9ece0",
+          "name": "#e9ece0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d92a8"
+          "hex": "#363b38",
+          "name": "#363b38",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9ece0"
+          "hex": "#4d92a8",
+          "name": "#4d92a8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +185,7 @@
       }
     ],
     "wof:id": 1511928049,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: British Overseas Airways Corporation (BOAC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +203,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

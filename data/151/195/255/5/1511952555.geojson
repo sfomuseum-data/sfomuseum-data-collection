@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6a5645"
+          "hex": "#a68e72",
+          "name": "#a68e72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9a675a"
+          "hex": "#b1aeab",
+          "name": "#b1aeab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1aeab"
+          "hex": "#6a5645",
+          "name": "#6a5645",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a68e72"
+          "hex": "#9a675a",
+          "name": "#9a675a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +170,7 @@
       }
     ],
     "wof:id": 1511952555,
-    "wof:lastmodified": 1758181304,
+    "wof:lastmodified": 1758233648,
     "wof:name": "children’s souvenir wings: Midway Airlines, Junior Pilot",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +188,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

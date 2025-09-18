@@ -31,50 +31,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#20282f"
+          "hex": "#20282f",
+          "name": "#20282f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3a01b"
+          "hex": "#e4e0df",
+          "name": "#e4e0df",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b679e"
+          "hex": "#2b679e",
+          "name": "#2b679e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a8bae"
+          "hex": "#5a8bae",
+          "name": "#5a8bae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4e0df"
+          "hex": "#e3a01b",
+          "name": "#e3a01b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +208,7 @@
       }
     ],
     "wof:id": 1511937265,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +226,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

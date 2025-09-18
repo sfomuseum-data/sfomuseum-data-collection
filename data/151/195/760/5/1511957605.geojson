@@ -25,38 +25,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#404639"
+          "hex": "#7c8379",
+          "name": "#7c8379",
+          "reference": "marekm4"
         },
         {
-          "hex": "#82887d"
+          "hex": "#404639",
+          "name": "#404639",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7c8379"
+          "hex": "#b2b7b2",
+          "name": "#b2b7b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2b7b2"
+          "hex": "#82887d",
+          "name": "#82887d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +172,7 @@
       }
     ],
     "wof:id": 1511957605,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233653,
     "wof:name": "photograph: San Francisco International Airport (SFO), fuel service system",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +190,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

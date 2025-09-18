@@ -32,86 +32,138 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#6dae81"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffebcd"
+          "hex": "#808000",
+          "name": "olive",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#808000"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6f9e9e"
+          "hex": "#6f9e9e",
+          "name": "#6f9e9e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#927216"
+          "hex": "#f4ebcd",
+          "name": "#f4ebcd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4eacc"
+          "hex": "#544e34",
+          "name": "#544e34",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1b14"
+          "hex": "#334a4c",
+          "name": "#334a4c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1a659"
+          "hex": "#191712",
+          "name": "#191712",
+          "reference": "marekm4"
         },
         {
-          "hex": "#191712"
+          "hex": "#1e1b14",
+          "name": "#1e1b14",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfe1ca"
+          "hex": "#f4eacc",
+          "name": "#f4eacc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#334a4c"
+          "hex": "#dfe1ca",
+          "name": "#dfe1ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f6eccd"
+          "hex": "#b1a659",
+          "name": "#b1a659",
+          "reference": "marekm4"
         },
         {
-          "hex": "#544e34"
+          "hex": "#f6eccd",
+          "name": "#f6eccd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4ebcd"
+          "hex": "#927216",
+          "name": "#927216",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +246,7 @@
       }
     ],
     "wof:id": 1511956501,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233652,
     "wof:name": "menu: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +264,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

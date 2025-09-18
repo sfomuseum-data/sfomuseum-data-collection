@@ -33,53 +33,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#663399",
+          "name": "rebeccapurple",
+          "reference": "css4"
         },
         {
-          "hex": "#fff5ee"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ffefd5"
+          "hex": "#fff5ee",
+          "name": "seashell",
+          "reference": "css4"
         },
         {
-          "hex": "#663399"
+          "hex": "#ffefd5",
+          "name": "papayawhip",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4a23ad"
+          "hex": "#fcf7ec",
+          "name": "#fcf7ec",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbf1d7"
+          "hex": "#4a23ad",
+          "name": "#4a23ad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d283c"
+          "hex": "#2d283c",
+          "name": "#2d283c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fcf7ec"
+          "hex": "#d4130f",
+          "name": "#d4130f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4130f"
+          "hex": "#fbf1d7",
+          "name": "#fbf1d7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +198,7 @@
       }
     ],
     "wof:id": 1511954513,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "airmail flight cover: Pan American World Airways, Boeing 747SP, Los Angeles - Tokyo route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +216,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

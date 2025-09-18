@@ -28,77 +28,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d9d5d7"
+          "hex": "#e3e4e5",
+          "name": "#e3e4e5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e3434"
+          "hex": "#d9d5d7",
+          "name": "#d9d5d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c8cab"
+          "hex": "#546998",
+          "name": "#546998",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e162b"
+          "hex": "#452127",
+          "name": "#452127",
+          "reference": "marekm4"
         },
         {
-          "hex": "#452127"
+          "hex": "#5e162b",
+          "name": "#5e162b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9d4f56"
+          "hex": "#6c8cab",
+          "name": "#6c8cab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3e4e5"
+          "hex": "#3e3434",
+          "name": "#3e3434",
+          "reference": "marekm4"
         },
         {
-          "hex": "#546998"
+          "hex": "#9d4f56",
+          "name": "#9d4f56",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e8e3"
+          "hex": "#e9e8e3",
+          "name": "#e9e8e3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -181,7 +227,7 @@
       }
     ],
     "wof:id": 1511938909,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: America West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -199,5 +245,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

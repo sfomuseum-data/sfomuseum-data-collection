@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1a100a"
+          "hex": "#b81b15",
+          "name": "#b81b15",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b81b15"
+          "hex": "#f0e9d8",
+          "name": "#f0e9d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0e9d8"
+          "hex": "#1a100a",
+          "name": "#1a100a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +157,7 @@
       }
     ],
     "wof:id": 1511932385,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Frontier Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +175,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -32,38 +32,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3c4046"
+          "hex": "#3c4046",
+          "name": "#3c4046",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9dbe0"
+          "hex": "#d9dbe0",
+          "name": "#d9dbe0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26282d"
+          "hex": "#26282d",
+          "name": "#26282d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5c9cd"
+          "hex": "#c5c9cd",
+          "name": "#c5c9cd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +176,7 @@
       }
     ],
     "wof:id": 1511907173,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "maintenance manual: Pan American World Airways, Boeing 707-300",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +194,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

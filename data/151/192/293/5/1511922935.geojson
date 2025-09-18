@@ -28,17 +28,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bbbbbc"
+          "hex": "#bbbbbc",
+          "name": "#bbbbbc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1511922935,
-    "wof:lastmodified": 1757662794,
+    "wof:lastmodified": 1758233612,
     "wof:name": "entree plate: Qantas Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -126,5 +132,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

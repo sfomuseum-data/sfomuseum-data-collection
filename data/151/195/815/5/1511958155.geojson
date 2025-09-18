@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e9e8e5"
+          "hex": "#32352e",
+          "name": "#32352e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#32352e"
+          "hex": "#e9e8e5",
+          "name": "#e9e8e5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#84857c"
+          "hex": "#84857c",
+          "name": "#84857c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -132,7 +150,7 @@
       }
     ],
     "wof:id": 1511958155,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "photograph: Panama-Pacific International Exposition, Charles F. Niles’ monoplane",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -150,5 +168,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

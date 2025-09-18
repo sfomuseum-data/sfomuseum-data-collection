@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ee204d"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#412e0a"
+          "hex": "#1b49c3",
+          "name": "#1b49c3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d01425"
+          "hex": "#412e0a",
+          "name": "#412e0a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e1d5"
+          "hex": "#e6e1d5",
+          "name": "#e6e1d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b49c3"
+          "hex": "#d01425",
+          "name": "#d01425",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +178,7 @@
       }
     ],
     "wof:id": 1511909645,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Airlines, Bakersfield",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

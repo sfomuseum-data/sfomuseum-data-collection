@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff7f49"
+          "hex": "#ff7f49",
+          "name": "Burnt Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#ff7f50",
+          "name": "coral",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#ff7f50"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f53100"
+          "hex": "#f6914f",
+          "name": "#f6914f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae2de"
+          "hex": "#f53100",
+          "name": "#f53100",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f6914f"
+          "hex": "#150702",
+          "name": "#150702",
+          "reference": "marekm4"
         },
         {
-          "hex": "#150702"
+          "hex": "#eae2de",
+          "name": "#eae2de",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +187,7 @@
       }
     ],
     "wof:id": 1762680585,
-    "wof:lastmodified": 1758181318,
+    "wof:lastmodified": 1758233662,
     "wof:name": "timetable: San Jose International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +204,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

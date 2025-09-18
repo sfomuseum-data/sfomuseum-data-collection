@@ -35,44 +35,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2b6cc4"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ebc7df",
+          "name": "Thistle",
+          "reference": "crayola"
         },
         {
-          "hex": "#ebc7df"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1d1b25"
+          "hex": "#3a66da",
+          "name": "#3a66da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2c2cc"
+          "hex": "#e2c2cc",
+          "name": "#e2c2cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5587fe"
+          "hex": "#1d1b25",
+          "name": "#1d1b25",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a66da"
+          "hex": "#5587fe",
+          "name": "#5587fe",
+          "reference": "marekm4"
         }
       ]
     },
@@ -181,7 +205,7 @@
       }
     ],
     "wof:id": 1511926793,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "slide: Southwest Airlines, Boeing 737-500, Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -199,5 +223,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d40b05"
+          "hex": "#dddbd2",
+          "name": "#dddbd2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dddbd2"
+          "hex": "#05050a",
+          "name": "#05050a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#05050a"
+          "hex": "#d40b05",
+          "name": "#d40b05",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +162,7 @@
       }
     ],
     "wof:id": 1511921101,
-    "wof:lastmodified": 1758181284,
+    "wof:lastmodified": 1758233610,
     "wof:name": "timetable: Pan American Airways System, Latin America",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +180,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

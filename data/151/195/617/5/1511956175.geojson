@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#b4674d"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#b4674d",
+          "name": "Brown",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd853f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#516493"
+          "hex": "#c79450",
+          "name": "#c79450",
+          "reference": "marekm4"
         },
         {
-          "hex": "#362b2f"
+          "hex": "#362b2f",
+          "name": "#362b2f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c79450"
+          "hex": "#aa553a",
+          "name": "#aa553a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aa553a"
+          "hex": "#516493",
+          "name": "#516493",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfd1c5"
+          "hex": "#dfd1c5",
+          "name": "#dfd1c5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +184,7 @@
       }
     ],
     "wof:id": 1511956175,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233652,
     "wof:name": "advertisement: Air France",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +202,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

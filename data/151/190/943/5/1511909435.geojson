@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dcd5cc"
+          "hex": "#d5181a",
+          "name": "#d5181a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5181a"
+          "hex": "#dcd5cc",
+          "name": "#dcd5cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f64a5"
+          "hex": "#e43536",
+          "name": "#e43536",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e43536"
+          "hex": "#eee6e3",
+          "name": "#eee6e3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#183399"
+          "hex": "#4f64a5",
+          "name": "#4f64a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#512537"
+          "hex": "#512537",
+          "name": "#512537",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee6e3"
+          "hex": "#183399",
+          "name": "#183399",
+          "reference": "marekm4"
         }
       ]
     },
@@ -179,7 +217,7 @@
       }
     ],
     "wof:id": 1511909435,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -197,5 +235,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

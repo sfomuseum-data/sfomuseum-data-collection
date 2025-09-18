@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffcf48"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffe4c4"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ffd700"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f4d92b"
+          "hex": "#1d1a17",
+          "name": "#1d1a17",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee0c5"
+          "hex": "#f4d92b",
+          "name": "#f4d92b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d1a17"
+          "hex": "#eee0c5",
+          "name": "#eee0c5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -133,7 +151,7 @@
       }
     ],
     "wof:id": 1511922863,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233612,
     "wof:name": "timetable: Hughes Airwest",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -151,5 +169,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

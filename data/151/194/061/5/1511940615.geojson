@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#1e90ff"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#509be2"
+          "hex": "#0c74de",
+          "name": "#0c74de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0c74de"
+          "hex": "#020b63",
+          "name": "#020b63",
+          "reference": "marekm4"
         },
         {
-          "hex": "#020b63"
+          "hex": "#cadcdb",
+          "name": "#cadcdb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cadcdb"
+          "hex": "#509be2",
+          "name": "#509be2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511940615,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: Finnair, winter schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

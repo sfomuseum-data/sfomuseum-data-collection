@@ -30,59 +30,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faf0e6"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#fffafa"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fdfcfc"
+          "hex": "#ebe9e4",
+          "name": "#ebe9e4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#312a32"
+          "hex": "#fdfcfc",
+          "name": "#fdfcfc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5571c8"
+          "hex": "#312a32",
+          "name": "#312a32",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe9e4"
+          "hex": "#6a88e5",
+          "name": "#6a88e5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5878e3"
+          "hex": "#5878e3",
+          "name": "#5878e3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a88e5"
+          "hex": "#5571c8",
+          "name": "#5571c8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +228,7 @@
       }
     ],
     "wof:id": 1511908275,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233603,
     "wof:name": "San Francisco Airport: a report",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +246,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-122.370943,37.61799]]}
 }

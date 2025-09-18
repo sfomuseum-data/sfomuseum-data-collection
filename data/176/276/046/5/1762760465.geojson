@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c5d0e6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4a5d97"
+          "hex": "#c4c2d8",
+          "name": "#c4c2d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#292636"
+          "hex": "#4a5d97",
+          "name": "#4a5d97",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4c2d8"
+          "hex": "#292636",
+          "name": "#292636",
+          "reference": "marekm4"
         }
       ]
     },
@@ -170,7 +188,7 @@
       }
     ],
     "wof:id": 1762760465,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: TWA (Trans World Airlines), Boeing 767-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +205,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fffafa"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fafaf8"
+          "hex": "#fafaf8",
+          "name": "#fafaf8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1c2b56"
+          "hex": "#1c2b56",
+          "name": "#1c2b56",
+          "reference": "marekm4"
         },
         {
-          "hex": "#374f89"
+          "hex": "#374f89",
+          "name": "#374f89",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +158,7 @@
       }
     ],
     "wof:id": 1511928359,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "timetable: United Airlines, San Francisco / Oakland / San Jose",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +176,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

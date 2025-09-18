@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#523c30"
+          "hex": "#897263",
+          "name": "#897263",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aa9272"
+          "hex": "#aa9272",
+          "name": "#aa9272",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c7bfb4"
+          "hex": "#c7bfb4",
+          "name": "#c7bfb4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#747985"
+          "hex": "#747985",
+          "name": "#747985",
+          "reference": "marekm4"
         },
         {
-          "hex": "#897263"
+          "hex": "#523c30",
+          "name": "#523c30",
+          "reference": "marekm4"
         }
       ]
     },
@@ -188,7 +218,7 @@
       }
     ],
     "wof:id": 1762759445,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233681,
     "wof:name": "photograph: Delta Air Lines, Boeing 727, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -205,5 +235,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

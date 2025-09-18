@@ -29,62 +29,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#34343f"
+          "hex": "#6573a7",
+          "name": "#6573a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#010101"
+          "hex": "#010101",
+          "name": "#010101",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f8fc1"
+          "hex": "#b8bcc4",
+          "name": "#b8bcc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6573a7"
+          "hex": "#efedec",
+          "name": "#efedec",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8bcc4"
+          "hex": "#6f8fc1",
+          "name": "#6f8fc1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efedec"
+          "hex": "#34343f",
+          "name": "#34343f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +198,7 @@
       }
     ],
     "wof:id": 1511930573,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "menu: British Airways, Club World class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +216,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

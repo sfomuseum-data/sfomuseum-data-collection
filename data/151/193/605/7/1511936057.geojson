@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#3bb08f",
+          "name": "Jungle Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#3bb08f"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#0a7e8c",
+          "name": "Metallic Seaweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#0a7e8c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e7ddc5"
+          "hex": "#399aa8",
+          "name": "#399aa8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#047c95"
+          "hex": "#e7ddc5",
+          "name": "#e7ddc5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ccd9cd"
+          "hex": "#274344",
+          "name": "#274344",
+          "reference": "marekm4"
         },
         {
-          "hex": "#274344"
+          "hex": "#047c95",
+          "name": "#047c95",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252f2b"
+          "hex": "#252f2b",
+          "name": "#252f2b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#399aa8"
+          "hex": "#51a7b0",
+          "name": "#51a7b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#51a7b0"
+          "hex": "#ccd9cd",
+          "name": "#ccd9cd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511936057,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: Bonanza Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

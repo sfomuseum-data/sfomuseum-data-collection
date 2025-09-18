@@ -23,53 +23,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9f8978"
+          "hex": "#d4cbb4",
+          "name": "#d4cbb4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4cbb4"
+          "hex": "#8d7167",
+          "name": "#8d7167",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4c7b4"
+          "hex": "#d4c7b4",
+          "name": "#d4c7b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#697587"
+          "hex": "#494149",
+          "name": "#494149",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d7167"
+          "hex": "#697587",
+          "name": "#697587",
+          "reference": "marekm4"
         },
         {
-          "hex": "#494149"
+          "hex": "#9f8978",
+          "name": "#9f8978",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +172,7 @@
       }
     ],
     "wof:id": 1511953337,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233649,
     "wof:name": "airmail flight cover: Transpacific Air Mail, San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +190,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

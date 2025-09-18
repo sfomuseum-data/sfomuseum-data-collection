@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#58427c"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ef98aa",
+          "name": "Mauvelous",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#ef98aa"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#ffb6c1"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#ffb6c1",
+          "name": "lightpink",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#95585a"
+          "hex": "#95585a",
+          "name": "#95585a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2afb3"
+          "hex": "#0e0e15",
+          "name": "#0e0e15",
+          "reference": "marekm4"
         },
         {
-          "hex": "#545e95"
+          "hex": "#e2afb3",
+          "name": "#e2afb3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0e0e15"
+          "hex": "#545e95",
+          "name": "#545e95",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +176,7 @@
       }
     ],
     "wof:id": 1762760621,
-    "wof:lastmodified": 1758181332,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +193,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

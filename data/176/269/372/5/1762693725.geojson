@@ -35,71 +35,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#bf4f51"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a44b33"
+          "hex": "#a44b33",
+          "name": "#a44b33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3475a1"
+          "hex": "#6399bd",
+          "name": "#6399bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d453b"
+          "hex": "#ece2d3",
+          "name": "#ece2d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5d2d8"
+          "hex": "#131217",
+          "name": "#131217",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6399bd"
+          "hex": "#c5d2d8",
+          "name": "#c5d2d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#131217"
+          "hex": "#3475a1",
+          "name": "#3475a1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece2d3"
+          "hex": "#4d453b",
+          "name": "#4d453b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -203,7 +245,7 @@
       }
     ],
     "wof:id": 1762693725,
-    "wof:lastmodified": 1758181324,
+    "wof:lastmodified": 1758233677,
     "wof:name": "postcard: LaGuardia Airport, American Airlines, Convair 240, Lockheed Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -220,5 +262,5 @@
     -73.875778,
     40.774956
   ],
-  "geometry": {"coordinates":[[-73.875778,40.774956]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.875778,40.774956]]}
 }

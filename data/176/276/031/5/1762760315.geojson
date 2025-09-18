@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5a6aac"
+          "hex": "#272231",
+          "name": "#272231",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272231"
+          "hex": "#bdb1d2",
+          "name": "#bdb1d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bdb1d2"
+          "hex": "#5a6aac",
+          "name": "#5a6aac",
+          "reference": "marekm4"
         }
       ]
     },
@@ -160,7 +178,7 @@
       }
     ],
     "wof:id": 1762760315,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: American Connection, Fokker F.100, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +195,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

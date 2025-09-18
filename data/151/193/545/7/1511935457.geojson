@@ -31,26 +31,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bdbcbb"
+          "hex": "#9e3b4c",
+          "name": "#9e3b4c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e3b4c"
+          "hex": "#bdbcbb",
+          "name": "#bdbcbb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -128,7 +140,7 @@
       }
     ],
     "wof:id": 1511935457,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "flight officer wings: Pacific Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -146,5 +158,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

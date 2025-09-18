@@ -25,41 +25,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#eceabe"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#87a96b"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6b8e23"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#8fbc8f",
+          "name": "darkseagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#8fbc8f"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cef2c6"
+          "hex": "#6a9654",
+          "name": "#6a9654",
+          "reference": "marekm4"
         },
         {
-          "hex": "#34472d"
+          "hex": "#34472d",
+          "name": "#34472d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a9654"
+          "hex": "#8ec06e",
+          "name": "#8ec06e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8ec06e"
+          "hex": "#cef2c6",
+          "name": "#cef2c6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +175,7 @@
       }
     ],
     "wof:id": 1511949617,
-    "wof:lastmodified": 1758181311,
+    "wof:lastmodified": 1758233645,
     "wof:name": "negative: San Francisco International Airport (SFO), film crew",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +193,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

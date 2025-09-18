@@ -28,26 +28,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0e1a3b"
+          "hex": "#ced1d4",
+          "name": "#ced1d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ced1d4"
+          "hex": "#0e1a3b",
+          "name": "#0e1a3b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -125,7 +137,7 @@
       }
     ],
     "wof:id": 1511939375,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Mexicana Airlines\r",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -143,5 +155,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff7538"
+          "hex": "#ff7538",
+          "name": "Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#ff6347",
+          "name": "tomato",
+          "reference": "css4"
         },
         {
-          "hex": "#ff6347"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f6f2e8"
+          "hex": "#494544",
+          "name": "#494544",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f7722b"
+          "hex": "#f6f2e8",
+          "name": "#f6f2e8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f6aa24"
+          "hex": "#f6aa24",
+          "name": "#f6aa24",
+          "reference": "marekm4"
         },
         {
-          "hex": "#494544"
+          "hex": "#f7722b",
+          "name": "#f7722b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f3f1e6"
+          "hex": "#f3f1e6",
+          "name": "#f3f1e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#523728"
+          "hex": "#523728",
+          "name": "#523728",
+          "reference": "marekm4"
         }
       ]
     },
@@ -160,7 +192,7 @@
       }
     ],
     "wof:id": 1511925499,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "timetable: National Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -178,5 +210,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

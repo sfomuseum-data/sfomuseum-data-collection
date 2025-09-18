@@ -32,89 +32,143 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c7c38"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9b6a3c"
+          "hex": "#9b6a3c",
+          "name": "#9b6a3c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1dad4"
+          "hex": "#e6dfcd",
+          "name": "#e6dfcd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d2b147"
+          "hex": "#342c26",
+          "name": "#342c26",
+          "reference": "marekm4"
         },
         {
-          "hex": "#342c26"
+          "hex": "#302928",
+          "name": "#302928",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2986a"
+          "hex": "#8f5d57",
+          "name": "#8f5d57",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f5d57"
+          "hex": "#d1dad4",
+          "name": "#d1dad4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b69f5b"
+          "hex": "#e7dfcc",
+          "name": "#e7dfcc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302928"
+          "hex": "#9f564a",
+          "name": "#9f564a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#322c29"
+          "hex": "#322c29",
+          "name": "#322c29",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6dfcd"
+          "hex": "#b2986a",
+          "name": "#b2986a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f564a"
+          "hex": "#b69f5b",
+          "name": "#b69f5b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7dfcc"
+          "hex": "#d2b147",
+          "name": "#d2b147",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +238,7 @@
       }
     ],
     "wof:id": 1913928211,
-    "wof:lastmodified": 1758181389,
+    "wof:lastmodified": 1758233769,
     "wof:name": "safety information card: American Airlines, Boeing 767ER",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +255,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

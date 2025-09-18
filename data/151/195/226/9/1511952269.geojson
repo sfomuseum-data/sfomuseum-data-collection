@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ea7e5d"
+          "hex": "#ea7e5d",
+          "name": "Burnt Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f4a460"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c1913"
+          "hex": "#2c1913",
+          "name": "#2c1913",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece9e3"
+          "hex": "#f15307",
+          "name": "#f15307",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f19060"
+          "hex": "#f19060",
+          "name": "#f19060",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f15307"
+          "hex": "#ece9e3",
+          "name": "#ece9e3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511952269,
-    "wof:lastmodified": 1758181304,
+    "wof:lastmodified": 1758233648,
     "wof:name": "timetable: National Airlines, quick reference, Los Angeles / San Diego / San Juan",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

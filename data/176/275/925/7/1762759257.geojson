@@ -34,38 +34,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#444441"
+          "hex": "#cdcbc7",
+          "name": "#cdcbc7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdcbc7"
+          "hex": "#727b85",
+          "name": "#727b85",
+          "reference": "marekm4"
         },
         {
-          "hex": "#727b85"
+          "hex": "#444441",
+          "name": "#444441",
+          "reference": "marekm4"
         },
         {
-          "hex": "#75808c"
+          "hex": "#75808c",
+          "name": "#75808c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +191,7 @@
       }
     ],
     "wof:id": 1762759257,
-    "wof:lastmodified": 1758181329,
+    "wof:lastmodified": 1758233681,
     "wof:name": "slide: United Airlines, Boeing 757-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +208,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

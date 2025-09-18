@@ -22,47 +22,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b49753"
+          "hex": "#55646e",
+          "name": "#55646e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae2d8"
+          "hex": "#eae2d8",
+          "name": "#eae2d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#76868f"
+          "hex": "#76868f",
+          "name": "#76868f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#55646e"
+          "hex": "#b49753",
+          "name": "#b49753",
+          "reference": "marekm4"
         },
         {
-          "hex": "#657786"
+          "hex": "#657786",
+          "name": "#657786",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +160,7 @@
       }
     ],
     "wof:id": 1511915057,
-    "wof:lastmodified": 1758181284,
+    "wof:lastmodified": 1758233608,
     "wof:name": "Harper's aircraft book: why aeroplanes fly, how to make models, and all about aircraft, little and big",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +178,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -25,17 +25,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d1ebdf"
+          "hex": "#d1ebdf",
+          "name": "#d1ebdf",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +142,7 @@
       }
     ],
     "wof:id": 1511910205,
-    "wof:lastmodified": 1757662918,
+    "wof:lastmodified": 1758233606,
     "wof:name": "report: San Francisco Board of Supervisors, Mills Field Municipal Airport of San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +160,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

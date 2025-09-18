@@ -29,41 +29,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e2d3b9"
+          "hex": "#e2d3b9",
+          "name": "#e2d3b9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d31413"
+          "hex": "#0f1b6d",
+          "name": "#0f1b6d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2c3d88"
+          "hex": "#d31413",
+          "name": "#d31413",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0f1b6d"
+          "hex": "#2c3d88",
+          "name": "#2c3d88",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +168,7 @@
       }
     ],
     "wof:id": 1511937575,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -34,77 +34,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#3bb08f"
+          "hex": "#3bb08f",
+          "name": "Jungle Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5389b2"
+          "hex": "#5389b2",
+          "name": "#5389b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9c6ba"
+          "hex": "#c93028",
+          "name": "#c93028",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c93028"
+          "hex": "#c43735",
+          "name": "#c43735",
+          "reference": "marekm4"
         },
         {
-          "hex": "#548d9f"
+          "hex": "#2d3947",
+          "name": "#2d3947",
+          "reference": "marekm4"
         },
         {
-          "hex": "#325a95"
+          "hex": "#548d9f",
+          "name": "#548d9f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#223246"
+          "hex": "#c9c6ba",
+          "name": "#c9c6ba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#beb9c4"
+          "hex": "#425d8c",
+          "name": "#425d8c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c43735"
+          "hex": "#223246",
+          "name": "#223246",
+          "reference": "marekm4"
         },
         {
-          "hex": "#425d8c"
+          "hex": "#325a95",
+          "name": "#325a95",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d3947"
+          "hex": "#beb9c4",
+          "name": "#beb9c4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +240,7 @@
       }
     ],
     "wof:id": 1511938207,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: Pacific Express / Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +258,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

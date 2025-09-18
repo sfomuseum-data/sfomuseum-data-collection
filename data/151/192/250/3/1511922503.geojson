@@ -33,47 +33,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7e7f80"
+          "hex": "#911029",
+          "name": "#911029",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6e595f"
+          "hex": "#7e7f80",
+          "name": "#7e7f80",
+          "reference": "marekm4"
         },
         {
-          "hex": "#99989b"
+          "hex": "#7f8081",
+          "name": "#7f8081",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7f8081"
+          "hex": "#6e595f",
+          "name": "#6e595f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#911029"
+          "hex": "#99989b",
+          "name": "#99989b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +185,7 @@
       }
     ],
     "wof:id": 1511922503,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233612,
     "wof:name": "airline bag: Iberia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +203,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

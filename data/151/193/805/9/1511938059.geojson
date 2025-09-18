@@ -28,50 +28,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1dacd6"
+          "hex": "#1dacd6",
+          "name": "Cerulean",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#1e90ff"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2ea2de"
+          "hex": "#e5ebda",
+          "name": "#e5ebda",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5ebda"
+          "hex": "#041d4f",
+          "name": "#041d4f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#065493"
+          "hex": "#e60303",
+          "name": "#e60303",
+          "reference": "marekm4"
         },
         {
-          "hex": "#041d4f"
+          "hex": "#2ea2de",
+          "name": "#2ea2de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e60303"
+          "hex": "#065493",
+          "name": "#065493",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +177,7 @@
       }
     ],
     "wof:id": 1511938059,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: Scandinavian Airlines System (SAS)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +195,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

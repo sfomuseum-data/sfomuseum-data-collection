@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#81837e"
+          "hex": "#caccca",
+          "name": "#caccca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9cbc4"
+          "hex": "#1f211b",
+          "name": "#1f211b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#51544e"
+          "hex": "#51544e",
+          "name": "#51544e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f211b"
+          "hex": "#7e817c",
+          "name": "#7e817c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#caccca"
+          "hex": "#c9cbc4",
+          "name": "#c9cbc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7e817c"
+          "hex": "#81837e",
+          "name": "#81837e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -179,7 +209,7 @@
       }
     ],
     "wof:id": 1897913645,
-    "wof:lastmodified": 1758181384,
+    "wof:lastmodified": 1758233762,
     "wof:name": "photograph: Eastern Air Lines, Airbus A300, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -196,5 +226,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

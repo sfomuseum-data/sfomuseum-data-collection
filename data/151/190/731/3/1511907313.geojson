@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bebdb1"
+          "hex": "#3b5895",
+          "name": "#3b5895",
+          "reference": "marekm4"
         },
         {
-          "hex": "#708ea8"
+          "hex": "#bebdb1",
+          "name": "#bebdb1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e3d49"
+          "hex": "#c5c3b4",
+          "name": "#c5c3b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#473354"
+          "hex": "#be1b19",
+          "name": "#be1b19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b5895"
+          "hex": "#1a1f5c",
+          "name": "#1a1f5c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5c3b4"
+          "hex": "#708ea8",
+          "name": "#708ea8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1a1f5c"
+          "hex": "#473354",
+          "name": "#473354",
+          "reference": "marekm4"
         },
         {
-          "hex": "#be1b19"
+          "hex": "#9e3d49",
+          "name": "#9e3d49",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +236,7 @@
       }
     ],
     "wof:id": 1511907313,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: United States Air Mail, FAM-19, Los Angeles - Suva (Fiji) route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +254,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

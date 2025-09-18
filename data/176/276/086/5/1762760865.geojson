@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4e629c"
+          "hex": "#11131c",
+          "name": "#11131c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#11131c"
+          "hex": "#4e629c",
+          "name": "#4e629c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbbbcc"
+          "hex": "#bbbbcc",
+          "name": "#bbbbcc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f86bb"
+          "hex": "#6f86bb",
+          "name": "#6f86bb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +170,7 @@
       }
     ],
     "wof:id": 1762760865,
-    "wof:lastmodified": 1758181332,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +187,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

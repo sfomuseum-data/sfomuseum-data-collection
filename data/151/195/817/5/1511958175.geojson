@@ -22,26 +22,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e2e3e0"
+          "hex": "#e2e3e0",
+          "name": "#e2e3e0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#32342f"
+          "hex": "#32342f",
+          "name": "#32342f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -108,7 +120,7 @@
       }
     ],
     "wof:id": 1511958175,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "photograph: Panama-Pacific International Exposition, aviator Lincoln Beachey",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -126,5 +138,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

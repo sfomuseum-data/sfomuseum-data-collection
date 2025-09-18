@@ -32,41 +32,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#fff8dc",
+          "name": "cornsilk",
+          "reference": "css4"
         },
         {
-          "hex": "#fff8dc"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f8f0dc"
+          "hex": "#4a3f5d",
+          "name": "#4a3f5d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e5d8d"
+          "hex": "#5e5d8d",
+          "name": "#5e5d8d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a3f5d"
+          "hex": "#fdf5de",
+          "name": "#fdf5de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fdf5de"
+          "hex": "#f8f0dc",
+          "name": "#f8f0dc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -170,7 +192,7 @@
       }
     ],
     "wof:id": 1511907099,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American World Airways, Saigon - Singapore route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +210,5 @@
     103.873378,
     1.307411
   ],
-  "geometry": {"coordinates":[[103.873378,1.307411]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[103.873378,1.307411]]}
 }

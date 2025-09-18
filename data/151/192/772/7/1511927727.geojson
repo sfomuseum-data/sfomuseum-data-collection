@@ -29,71 +29,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c5d0e6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#1e90ff"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dbe4ee"
+          "hex": "#bccde4",
+          "name": "#bccde4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bccde4"
+          "hex": "#b6201f",
+          "name": "#b6201f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#58a5eb"
+          "hex": "#0774dc",
+          "name": "#0774dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#328ce4"
+          "hex": "#328ce4",
+          "name": "#328ce4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0774dc"
+          "hex": "#300830",
+          "name": "#300830",
+          "reference": "marekm4"
         },
         {
-          "hex": "#300830"
+          "hex": "#9377b2",
+          "name": "#9377b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b6201f"
+          "hex": "#58a5eb",
+          "name": "#58a5eb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9377b2"
+          "hex": "#dbe4ee",
+          "name": "#dbe4ee",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +213,7 @@
       }
     ],
     "wof:id": 1511927727,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "wine list: KLM (Royal Dutch Airlines), Business Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +231,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

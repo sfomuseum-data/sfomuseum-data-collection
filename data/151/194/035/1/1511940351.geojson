@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#319177"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff0000"
+          "hex": "#006400",
+          "name": "darkgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#228b22"
+          "hex": "#228b22",
+          "name": "forestgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#006400"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3f9335"
+          "hex": "#a1c46a",
+          "name": "#a1c46a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#de0a06"
+          "hex": "#d0dfc1",
+          "name": "#d0dfc1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0dfc1"
+          "hex": "#de0a06",
+          "name": "#de0a06",
+          "reference": "marekm4"
         },
         {
-          "hex": "#165f1d"
+          "hex": "#3f9335",
+          "name": "#3f9335",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a1c46a"
+          "hex": "#165f1d",
+          "name": "#165f1d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511940351,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: Alitalia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

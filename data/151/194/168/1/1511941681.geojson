@@ -32,35 +32,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffcf48"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f4a460"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8b751"
+          "hex": "#ddbe55",
+          "name": "#ddbe55",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ddbe55"
+          "hex": "#cdc8c6",
+          "name": "#cdc8c6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdc8c6"
+          "hex": "#ccc8c6",
+          "name": "#ccc8c6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ccc8c6"
+          "hex": "#d8b751",
+          "name": "#d8b751",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +164,7 @@
       }
     ],
     "wof:id": 1511941681,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233634,
     "wof:name": "airline bag: Hughes Airwest",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +182,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

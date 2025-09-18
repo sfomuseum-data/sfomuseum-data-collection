@@ -33,71 +33,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e34507"
+          "hex": "#e34507",
+          "name": "#e34507",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302c1f"
+          "hex": "#e1e1d1",
+          "name": "#e1e1d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ca3e0e"
+          "hex": "#302c1f",
+          "name": "#302c1f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1e1d1"
+          "hex": "#e8e4d5",
+          "name": "#e8e4d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1dfce"
+          "hex": "#e94002",
+          "name": "#e94002",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8e4d5"
+          "hex": "#3d2314",
+          "name": "#3d2314",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d2314"
+          "hex": "#e1dfce",
+          "name": "#e1dfce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2c2116"
+          "hex": "#2c2116",
+          "name": "#2c2116",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e94002"
+          "hex": "#ca3e0e",
+          "name": "#ca3e0e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -185,7 +227,7 @@
       }
     ],
     "wof:id": 1511937759,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: Aeronaves de Mexico",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -203,5 +245,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

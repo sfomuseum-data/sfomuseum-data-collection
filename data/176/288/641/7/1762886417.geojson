@@ -24,41 +24,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#907058"
+          "hex": "#c9bbb2",
+          "name": "#c9bbb2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7a5c4a"
+          "hex": "#7a5c4a",
+          "name": "#7a5c4a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b39775"
+          "hex": "#b39775",
+          "name": "#b39775",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9bbb2"
+          "hex": "#907058",
+          "name": "#907058",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +171,7 @@
       }
     ],
     "wof:id": 1762886417,
-    "wof:lastmodified": 1758181337,
+    "wof:lastmodified": 1758233692,
     "wof:name": "photographs: San Francisco International Airport (SFO), airport drainage",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -166,5 +188,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

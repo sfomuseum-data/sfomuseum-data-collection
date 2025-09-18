@@ -32,50 +32,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a3271d"
+          "hex": "#cdc4b6",
+          "name": "#cdc4b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cac2b3"
+          "hex": "#343441",
+          "name": "#343441",
+          "reference": "marekm4"
         },
         {
-          "hex": "#343441"
+          "hex": "#a3271d",
+          "name": "#a3271d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f1e40"
+          "hex": "#cac2b3",
+          "name": "#cac2b3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdc4b6"
+          "hex": "#a21d12",
+          "name": "#a21d12",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a21d12"
+          "hex": "#1f1e40",
+          "name": "#1f1e40",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +190,7 @@
       }
     ],
     "wof:id": 1511953913,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, Lockheed Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +208,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

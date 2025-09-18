@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#efe6cb"
+          "hex": "#0536a9",
+          "name": "#0536a9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0536a9"
+          "hex": "#efe6cb",
+          "name": "#efe6cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d61d13"
+          "hex": "#43322a",
+          "name": "#43322a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#362e22"
+          "hex": "#d6201d",
+          "name": "#d6201d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#43322a"
+          "hex": "#f2f0d5",
+          "name": "#f2f0d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6201d"
+          "hex": "#d61d13",
+          "name": "#d61d13",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2f0d5"
+          "hex": "#03369d",
+          "name": "#03369d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#03369d"
+          "hex": "#362e22",
+          "name": "#362e22",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511928301,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233618,
     "wof:name": "timetable: United Air Lines, quick reference Washington and Baltimore",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

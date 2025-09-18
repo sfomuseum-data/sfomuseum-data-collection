@@ -35,35 +35,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#385295"
+          "hex": "#dbdbe3",
+          "name": "#dbdbe3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbdbe3"
+          "hex": "#1a2549",
+          "name": "#1a2549",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1a2549"
+          "hex": "#385295",
+          "name": "#385295",
+          "reference": "marekm4"
         }
       ]
     },
@@ -179,7 +197,7 @@
       }
     ],
     "wof:id": 1511926393,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Casino Express Airlines, Boeing 737-200, San Jose International Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -197,5 +215,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

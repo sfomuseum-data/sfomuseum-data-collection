@@ -33,44 +33,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#9aceeb",
+          "name": "Cornflower",
+          "reference": "crayola"
         },
         {
-          "hex": "#9aceeb"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#87ceeb",
+          "name": "skyblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#87ceeb"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0e1013"
+          "hex": "#3e5db2",
+          "name": "#3e5db2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#94b2ed"
+          "hex": "#94b2ed",
+          "name": "#94b2ed",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b93ec"
+          "hex": "#0e1013",
+          "name": "#0e1013",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e5db2"
+          "hex": "#6b93ec",
+          "name": "#6b93ec",
+          "reference": "marekm4"
         }
       ]
     },
@@ -181,7 +205,7 @@
       }
     ],
     "wof:id": 1762760387,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: Midwest Express Airlines, McDonnell Douglas MD-88, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +222,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

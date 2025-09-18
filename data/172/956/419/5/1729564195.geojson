@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff0000"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#fffafa"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b99a48"
+          "hex": "#fbfbf9",
+          "name": "#fbfbf9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dc1111"
+          "hex": "#b99a48",
+          "name": "#b99a48",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbfbf9"
+          "hex": "#dc1111",
+          "name": "#dc1111",
+          "reference": "marekm4"
         }
       ]
     },
@@ -130,7 +148,7 @@
       }
     ],
     "wof:id": 1729564195,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233655,
     "wof:name": "ticket jacket: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

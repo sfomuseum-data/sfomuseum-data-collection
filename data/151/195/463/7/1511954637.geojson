@@ -27,50 +27,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffe4c4"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f2e7d0"
+          "hex": "#4d68b0",
+          "name": "#4d68b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ede2cb"
+          "hex": "#ede2cb",
+          "name": "#ede2cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#728ac1"
+          "hex": "#f2e7d0",
+          "name": "#f2e7d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f5545"
+          "hex": "#728ac1",
+          "name": "#728ac1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d68b0"
+          "hex": "#4f5545",
+          "name": "#4f5545",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +178,7 @@
       }
     ],
     "wof:id": 1511954637,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "airmail flight cover: Douglas DC-9, Long Beach - Edwards Air Force Base",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

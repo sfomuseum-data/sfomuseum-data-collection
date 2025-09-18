@@ -36,35 +36,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#ebc7df",
+          "name": "Thistle",
+          "reference": "crayola"
         },
         {
-          "hex": "#ebc7df"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d8bfd8"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dabbe1"
+          "hex": "#5961a7",
+          "name": "#5961a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5961a7"
+          "hex": "#dabbe1",
+          "name": "#dabbe1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272436"
+          "hex": "#272436",
+          "name": "#272436",
+          "reference": "marekm4"
         }
       ]
     },
@@ -170,7 +188,7 @@
       }
     ],
     "wof:id": 1511926131,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233614,
     "wof:name": "slide: Continental Airlines, Boeing 767-300ER, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +206,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#8f509d",
+          "name": "Vivid Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#8f509d"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e1c5b"
+          "hex": "#c22e31",
+          "name": "#c22e31",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a06990"
+          "hex": "#1e1c5b",
+          "name": "#1e1c5b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#db1d10"
+          "hex": "#a06990",
+          "name": "#a06990",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe1cf"
+          "hex": "#db1d10",
+          "name": "#db1d10",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9decf"
+          "hex": "#3c1752",
+          "name": "#3c1752",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c22e31"
+          "hex": "#ebe1cf",
+          "name": "#ebe1cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3c1752"
+          "hex": "#e9decf",
+          "name": "#e9decf",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +215,7 @@
       }
     ],
     "wof:id": 1511954065,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: BWIA (British West Indies Airways), Boeing 707, New York - Trinidad route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +233,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

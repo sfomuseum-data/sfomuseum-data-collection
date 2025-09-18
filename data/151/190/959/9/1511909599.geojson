@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#32180e"
+          "hex": "#32180e",
+          "name": "#32180e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0151f"
+          "hex": "#e7e0d1",
+          "name": "#e7e0d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#738ac4"
+          "hex": "#d0151f",
+          "name": "#d0151f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7e0d1"
+          "hex": "#738ac4",
+          "name": "#738ac4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2444af"
+          "hex": "#2444af",
+          "name": "#2444af",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +193,7 @@
       }
     ],
     "wof:id": 1511909599,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Airlines, Chicago",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +211,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

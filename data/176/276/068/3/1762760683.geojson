@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2a2d0"
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#515b8a"
+          "hex": "#515b8a",
+          "name": "#515b8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#161a28"
+          "hex": "#a6a2c7",
+          "name": "#a6a2c7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a6a2c7"
+          "hex": "#161a28",
+          "name": "#161a28",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +192,7 @@
       }
     ],
     "wof:id": 1762760683,
-    "wof:lastmodified": 1758181332,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: Cargolux, Boeing 747-100 San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +209,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

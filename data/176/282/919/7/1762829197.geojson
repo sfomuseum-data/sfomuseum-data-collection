@@ -34,68 +34,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f2e3d2"
+          "hex": "#a35038",
+          "name": "#a35038",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5ccca"
+          "hex": "#5991c2",
+          "name": "#5991c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1c211d"
+          "hex": "#403030",
+          "name": "#403030",
+          "reference": "marekm4"
         },
         {
-          "hex": "#403030"
+          "hex": "#f2e3d2",
+          "name": "#f2e3d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2770be"
+          "hex": "#c5ccca",
+          "name": "#c5ccca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5991c2"
+          "hex": "#2770be",
+          "name": "#2770be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a35038"
+          "hex": "#1c211d",
+          "name": "#1c211d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -202,7 +242,7 @@
       }
     ],
     "wof:id": 1762829197,
-    "wof:lastmodified": 1758181336,
+    "wof:lastmodified": 1758233686,
     "wof:name": "postcard: TWA (Trans World Airlines), Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -219,5 +259,5 @@
     -75.247885,
     39.880952
   ],
-  "geometry": {"coordinates":[[-75.247885,39.880952]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-75.247885,39.880952]]}
 }

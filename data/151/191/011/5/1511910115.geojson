@@ -26,50 +26,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#928c73"
+          "hex": "#5a563c",
+          "name": "#5a563c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a563c"
+          "hex": "#dbd2b6",
+          "name": "#dbd2b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbd2b6"
+          "hex": "#928c73",
+          "name": "#928c73",
+          "reference": "marekm4"
         },
         {
-          "hex": "#918b74"
+          "hex": "#d2c9b1",
+          "name": "#d2c9b1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d2c9b1"
+          "hex": "#918b74",
+          "name": "#918b74",
+          "reference": "marekm4"
         },
         {
-          "hex": "#55513a"
+          "hex": "#55513a",
+          "name": "#55513a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -173,7 +201,7 @@
       }
     ],
     "wof:id": 1511910115,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233606,
     "wof:name": "lease draft: City and County of San Francisco, Mills Estate Incorporated, temporary airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +219,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

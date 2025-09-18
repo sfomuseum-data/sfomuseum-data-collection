@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#40314b"
+          "hex": "#b02a30",
+          "name": "#b02a30",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0d5c2"
+          "hex": "#1d278e",
+          "name": "#1d278e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d278e"
+          "hex": "#40314b",
+          "name": "#40314b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b02a30"
+          "hex": "#25318e",
+          "name": "#25318e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c02025"
+          "hex": "#26245a",
+          "name": "#26245a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#25318e"
+          "hex": "#dad0be",
+          "name": "#dad0be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dad0be"
+          "hex": "#e0d5c2",
+          "name": "#e0d5c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26245a"
+          "hex": "#c02025",
+          "name": "#c02025",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511953827,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, New York - Abidjan, Ivory Coast route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -31,83 +31,133 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9d1748"
+          "hex": "#e9dfc3",
+          "name": "#e9dfc3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6dacf"
+          "hex": "#dfd6c0",
+          "name": "#dfd6c0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#353126"
+          "hex": "#9e3156",
+          "name": "#9e3156",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26100c"
+          "hex": "#26100c",
+          "name": "#26100c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3c3327"
+          "hex": "#e0dac5",
+          "name": "#e0dac5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#958d72"
+          "hex": "#958d72",
+          "name": "#958d72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfd6c0"
+          "hex": "#e6dacf",
+          "name": "#e6dacf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e1046"
+          "hex": "#353126",
+          "name": "#353126",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9dfc3"
+          "hex": "#3c3327",
+          "name": "#3c3327",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0dac5"
+          "hex": "#3b331d",
+          "name": "#3b331d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b331d"
+          "hex": "#9d1748",
+          "name": "#9d1748",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e3156"
+          "hex": "#9e1046",
+          "name": "#9e1046",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +244,7 @@
       }
     ],
     "wof:id": 1511937969,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: Mexicana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +262,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

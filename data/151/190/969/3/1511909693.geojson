@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#291710"
+          "hex": "#ebe4d4",
+          "name": "#ebe4d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e74323"
+          "hex": "#291710",
+          "name": "#291710",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe4d4"
+          "hex": "#e74323",
+          "name": "#e74323",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +163,7 @@
       }
     ],
     "wof:id": 1511909693,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Airlines Cargo",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

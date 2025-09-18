@@ -35,44 +35,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2add0"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#5f9ea0"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9eaac6"
+          "hex": "#252832",
+          "name": "#252832",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5776af"
+          "hex": "#6f90c1",
+          "name": "#6f90c1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252832"
+          "hex": "#5776af",
+          "name": "#5776af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f90c1"
+          "hex": "#9eaac6",
+          "name": "#9eaac6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +193,7 @@
       }
     ],
     "wof:id": 1511926689,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Bahamasair, Boeing 737-100, Miami International Airport (MIA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +211,5 @@
     -80.296006,
     25.79047
   ],
-  "geometry": {"coordinates":[[-80.296006,25.79047]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-80.296006,25.79047]]}
 }

@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffcf48"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#fffafa"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#ffd700"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f7d032"
+          "hex": "#f7d032",
+          "name": "#f7d032",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7412e"
+          "hex": "#fbfaf8",
+          "name": "#fbfaf8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#150f15"
+          "hex": "#292c89",
+          "name": "#292c89",
+          "reference": "marekm4"
         },
         {
-          "hex": "#292c89"
+          "hex": "#e7412e",
+          "name": "#e7412e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbfaf8"
+          "hex": "#150f15",
+          "name": "#150f15",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +179,7 @@
       }
     ],
     "wof:id": 1729563949,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "ticket jacket: TWA (Trans World Airlines), Lisbon",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +197,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

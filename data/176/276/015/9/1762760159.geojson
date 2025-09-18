@@ -32,47 +32,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#757983"
+          "hex": "#9c8b71",
+          "name": "#9c8b71",
+          "reference": "marekm4"
         },
         {
-          "hex": "#443b3b"
+          "hex": "#afa89e",
+          "name": "#afa89e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c8b71"
+          "hex": "#443b3b",
+          "name": "#443b3b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#afa89e"
+          "hex": "#757983",
+          "name": "#757983",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a7462"
+          "hex": "#8a7462",
+          "name": "#8a7462",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +206,7 @@
       }
     ],
     "wof:id": 1762760159,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233682,
     "wof:name": "photograph: Republic Airlines, Douglas DC-9, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -197,5 +223,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

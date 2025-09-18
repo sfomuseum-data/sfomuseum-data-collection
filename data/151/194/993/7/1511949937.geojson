@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#87a96b"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#9acd32"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#9acd32",
+          "name": "yellowgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#628acb"
+          "hex": "#5978c1",
+          "name": "#5978c1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5978c1"
+          "hex": "#628acb",
+          "name": "#628acb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0e0e20"
+          "hex": "#9dbe39",
+          "name": "#9dbe39",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9dbe39"
+          "hex": "#0e0e20",
+          "name": "#0e0e20",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f3f0ed"
+          "hex": "#f3f0ed",
+          "name": "#f3f0ed",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511949937,
-    "wof:lastmodified": 1758181311,
+    "wof:lastmodified": 1758233645,
     "wof:name": "timetable: Air Littoral",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

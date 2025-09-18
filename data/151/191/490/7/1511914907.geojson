@@ -25,53 +25,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#4a646c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#58678e"
+          "hex": "#cfc1ab",
+          "name": "#cfc1ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#798598"
+          "hex": "#798598",
+          "name": "#798598",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a79278"
+          "hex": "#58678e",
+          "name": "#58678e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfc1ab"
+          "hex": "#40445d",
+          "name": "#40445d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#40445d"
+          "hex": "#a79278",
+          "name": "#a79278",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +174,7 @@
       }
     ],
     "wof:id": 1511914907,
-    "wof:lastmodified": 1758181284,
+    "wof:lastmodified": 1758233608,
     "wof:name": "Book of modern airplanes",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +192,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

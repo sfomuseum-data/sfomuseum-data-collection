@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#121051"
+          "hex": "#2d1340",
+          "name": "#2d1340",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc393a"
+          "hex": "#121051",
+          "name": "#121051",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d1340"
+          "hex": "#bc393a",
+          "name": "#bc393a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#274fa6"
+          "hex": "#e1dad1",
+          "name": "#e1dad1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1dad1"
+          "hex": "#e5e1d5",
+          "name": "#e5e1d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#da1008"
+          "hex": "#da1008",
+          "name": "#da1008",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e1d5"
+          "hex": "#274fa6",
+          "name": "#274fa6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +215,7 @@
       }
     ],
     "wof:id": 1511954069,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: BWIA (British West Indies Airways), Boeing 707, New York - Barbados route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +233,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

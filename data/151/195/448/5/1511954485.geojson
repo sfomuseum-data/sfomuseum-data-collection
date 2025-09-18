@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c6bfb3"
+          "hex": "#9273ab",
+          "name": "#9273ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbc6b7"
+          "hex": "#c5170e",
+          "name": "#c5170e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4271e"
+          "hex": "#c4271e",
+          "name": "#c4271e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0f1137"
+          "hex": "#0f1137",
+          "name": "#0f1137",
+          "reference": "marekm4"
         },
         {
-          "hex": "#14113b"
+          "hex": "#14113b",
+          "name": "#14113b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9273ab"
+          "hex": "#cbc6b7",
+          "name": "#cbc6b7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5170e"
+          "hex": "#c6bfb3",
+          "name": "#c6bfb3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +187,7 @@
       }
     ],
     "wof:id": 1511954485,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "airmail flight cover: Pan American Airways, first airmail flight, Honolulu - Singapore route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +205,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

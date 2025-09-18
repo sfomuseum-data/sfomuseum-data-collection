@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e6ecee"
+          "hex": "#e6ecee",
+          "name": "#e6ecee",
+          "reference": "marekm4"
         },
         {
-          "hex": "#15110e"
+          "hex": "#15110e",
+          "name": "#15110e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c90ba"
+          "hex": "#6c90ba",
+          "name": "#6c90ba",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +154,7 @@
       }
     ],
     "wof:id": 1511933827,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Muse Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

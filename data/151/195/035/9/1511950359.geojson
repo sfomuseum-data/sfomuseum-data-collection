@@ -26,41 +26,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d48a17"
+          "hex": "#cb6f01",
+          "name": "#cb6f01",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9ebde"
+          "hex": "#d48a17",
+          "name": "#d48a17",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26292c"
+          "hex": "#26292c",
+          "name": "#26292c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb6f01"
+          "hex": "#e9ebde",
+          "name": "#e9ebde",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +199,7 @@
       }
     ],
     "wof:id": 1511950359,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: Gatwick Heathrow Airlink, pocket schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +217,5 @@
     -0.183008,
     51.470087
   ],
-  "geometry": {"coordinates":[[-0.183008,51.144421],[-0.450443,51.470087]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-0.183008,51.144421],[-0.450443,51.470087]]}
 }

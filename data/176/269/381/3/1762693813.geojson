@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7851a9"
+          "hex": "#f8d568",
+          "name": "Orange Yellow",
+          "reference": "crayola"
         },
         {
-          "hex": "#f8d568"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#172262"
+          "hex": "#dcc75d",
+          "name": "#dcc75d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3e2d7"
+          "hex": "#e3e2d7",
+          "name": "#e3e2d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dcc75d"
+          "hex": "#172262",
+          "name": "#172262",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c6797"
+          "hex": "#5c6797",
+          "name": "#5c6797",
+          "reference": "marekm4"
         }
       ]
     },
@@ -148,7 +172,7 @@
       }
     ],
     "wof:id": 1762693813,
-    "wof:lastmodified": 1758181324,
+    "wof:lastmodified": 1758233677,
     "wof:name": "timetable: Oakland International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +189,5 @@
     -122.212464,
     37.72131
   ],
-  "geometry": {"coordinates":[[-122.212464,37.72131]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.212464,37.72131]]}
 }

@@ -35,41 +35,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#8d7161"
+          "hex": "#978775",
+          "name": "#978775",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9d3ce"
+          "hex": "#504c44",
+          "name": "#504c44",
+          "reference": "marekm4"
         },
         {
-          "hex": "#504c44"
+          "hex": "#d9d3ce",
+          "name": "#d9d3ce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#978775"
+          "hex": "#8d7161",
+          "name": "#8d7161",
+          "reference": "marekm4"
         }
       ]
     },
@@ -186,7 +208,7 @@
       }
     ],
     "wof:id": 1511949277,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233644,
     "wof:name": "negative: San Francisco International Airport (SFO), Concorde",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -204,5 +226,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

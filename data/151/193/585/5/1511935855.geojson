@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#102966"
+          "hex": "#c40e0b",
+          "name": "#c40e0b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c40e0b"
+          "hex": "#e1d6bc",
+          "name": "#e1d6bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1d6bc"
+          "hex": "#102966",
+          "name": "#102966",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +161,7 @@
       }
     ],
     "wof:id": 1511935855,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: Pacific Northern Airlines, Alaska service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +179,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

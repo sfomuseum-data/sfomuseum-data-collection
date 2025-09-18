@@ -31,62 +31,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#984942"
+          "hex": "#e9e0cd",
+          "name": "#e9e0cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e0cd"
+          "hex": "#639dc3",
+          "name": "#639dc3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d1a1c"
+          "hex": "#4c463e",
+          "name": "#4c463e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#639dc3"
+          "hex": "#2d1a1c",
+          "name": "#2d1a1c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b5c7d3"
+          "hex": "#b5c7d3",
+          "name": "#b5c7d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4c463e"
+          "hex": "#984942",
+          "name": "#984942",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +220,7 @@
       }
     ],
     "wof:id": 1762684235,
-    "wof:lastmodified": 1758181324,
+    "wof:lastmodified": 1758233666,
     "wof:name": "postcard: Convair 240, Boston Logan International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +237,5 @@
     -71.01475,
     42.362322
   ],
-  "geometry": {"coordinates":[[-71.01475,42.362322]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-71.01475,42.362322]]}
 }

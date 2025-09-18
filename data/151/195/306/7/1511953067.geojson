@@ -23,59 +23,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#deaa88"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c7b693"
+          "hex": "#a5533b",
+          "name": "#a5533b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d4f57"
+          "hex": "#4d4f57",
+          "name": "#4d4f57",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a5533b"
+          "hex": "#938a79",
+          "name": "#938a79",
+          "reference": "marekm4"
         },
         {
-          "hex": "#938a79"
+          "hex": "#c9ba9f",
+          "name": "#c9ba9f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a49677"
+          "hex": "#c7b693",
+          "name": "#c7b693",
+          "reference": "marekm4"
         },
         {
-          "hex": "#45433e"
+          "hex": "#45433e",
+          "name": "#45433e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9ba9f"
+          "hex": "#a49677",
+          "name": "#a49677",
+          "reference": "marekm4"
         }
       ]
     },
@@ -148,7 +182,7 @@
       }
     ],
     "wof:id": 1511953067,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233649,
     "wof:name": "airmail flight cover: Charles Lindbergh flight, CAM-2, Chicago - St. Louis route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -166,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

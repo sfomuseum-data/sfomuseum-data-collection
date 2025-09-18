@@ -29,47 +29,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bcbaa8"
+          "hex": "#992c5f",
+          "name": "#992c5f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8b6a3"
+          "hex": "#b8b6a3",
+          "name": "#b8b6a3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d1812"
+          "hex": "#bcbaa8",
+          "name": "#bcbaa8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#992c5f"
+          "hex": "#8d345f",
+          "name": "#8d345f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1d14"
+          "hex": "#1d1812",
+          "name": "#1d1812",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d345f"
+          "hex": "#1e1d14",
+          "name": "#1e1d14",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +172,7 @@
       }
     ],
     "wof:id": 1729564935,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "brochure: Qantas Empire Airways, Hong Kong",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +190,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

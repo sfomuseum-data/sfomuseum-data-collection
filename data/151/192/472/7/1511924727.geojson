@@ -29,32 +29,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cfd9bf"
+          "hex": "#b1140e",
+          "name": "#b1140e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1140e"
+          "hex": "#cddbc1",
+          "name": "#cddbc1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cddbc1"
+          "hex": "#cfd9bf",
+          "name": "#cfd9bf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ac140e"
+          "hex": "#ac140e",
+          "name": "#ac140e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -147,7 +163,7 @@
       }
     ],
     "wof:id": 1511924727,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "seat occupied card: Frontier Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

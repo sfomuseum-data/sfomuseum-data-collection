@@ -33,59 +33,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#fefe22",
+          "name": "Laser Lemon",
+          "reference": "crayola"
         },
         {
-          "hex": "#fefe22"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffd700"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#efebe7"
+          "hex": "#efe8e6",
+          "name": "#efe8e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fedb00"
+          "hex": "#d30a05",
+          "name": "#d30a05",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efe8e6"
+          "hex": "#cb0b05",
+          "name": "#cb0b05",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb0b05"
+          "hex": "#d80e23",
+          "name": "#d80e23",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fed900"
+          "hex": "#f8ebde",
+          "name": "#f8ebde",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d80e23"
+          "hex": "#fed900",
+          "name": "#fed900",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8ebde"
+          "hex": "#efebe7",
+          "name": "#efebe7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d30a05"
+          "hex": "#fedb00",
+          "name": "#fedb00",
+          "reference": "marekm4"
         }
       ]
     },
@@ -175,7 +209,7 @@
       }
     ],
     "wof:id": 1511923871,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "safety information card: Air Belgium, Boeing 737",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -193,5 +227,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

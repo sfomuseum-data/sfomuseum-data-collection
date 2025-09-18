@@ -26,26 +26,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#585858"
+          "hex": "#585858",
+          "name": "#585858",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "#c0c0c0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +175,7 @@
       }
     ],
     "wof:id": 1511943665,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233636,
     "wof:name": "negative: San Francisco Airport, Terminal Building architectural model",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +193,5 @@
     -122.370943,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]]}
 }

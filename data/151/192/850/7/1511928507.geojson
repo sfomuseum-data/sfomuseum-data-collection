@@ -29,38 +29,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#191a39"
+          "hex": "#f9f2dd",
+          "name": "#f9f2dd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9f3e1"
+          "hex": "#191a39",
+          "name": "#191a39",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9f2dd"
+          "hex": "#4a4433",
+          "name": "#4a4433",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a4433"
+          "hex": "#f9f3e1",
+          "name": "#f9f3e1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -138,7 +158,7 @@
       }
     ],
     "wof:id": 1511928507,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "menu: Scandinavian Airlines System (SAS), EuroClass",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +176,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

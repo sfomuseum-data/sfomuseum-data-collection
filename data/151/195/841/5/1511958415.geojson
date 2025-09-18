@@ -22,26 +22,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#38372f"
+          "hex": "#a6b2be",
+          "name": "#a6b2be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a6b2be"
+          "hex": "#38372f",
+          "name": "#38372f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -107,7 +119,7 @@
       }
     ],
     "wof:id": 1511958415,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "airmail flight cover information: International Tributes to the History of Flight",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -125,5 +137,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

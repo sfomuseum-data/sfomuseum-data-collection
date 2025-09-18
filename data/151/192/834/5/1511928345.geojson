@@ -33,89 +33,143 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d21f16"
+          "hex": "#d21f16",
+          "name": "#d21f16",
+          "reference": "marekm4"
         },
         {
-          "hex": "#211e1e"
+          "hex": "#265a91",
+          "name": "#265a91",
+          "reference": "marekm4"
         },
         {
-          "hex": "#265a91"
+          "hex": "#cb3d3b",
+          "name": "#cb3d3b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5d6d2"
+          "hex": "#2f3b54",
+          "name": "#2f3b54",
+          "reference": "marekm4"
         },
         {
-          "hex": "#748da2"
+          "hex": "#0b2595",
+          "name": "#0b2595",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb3d3b"
+          "hex": "#cec8bc",
+          "name": "#cec8bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0b2595"
+          "hex": "#d5d6d2",
+          "name": "#d5d6d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cec8bc"
+          "hex": "#211e1e",
+          "name": "#211e1e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f3b54"
+          "hex": "#748da2",
+          "name": "#748da2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -224,7 +278,7 @@
       }
     ],
     "wof:id": 1511928345,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -242,5 +296,5 @@
     -0.450443,
     51.470087
   ],
-  "geometry": {"coordinates":[[-0.450443,51.470087]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-0.450443,51.470087]]}
 }

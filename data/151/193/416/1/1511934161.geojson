@@ -29,77 +29,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#0a7e8c"
+          "hex": "#0a7e8c",
+          "name": "Metallic Seaweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#008b8b"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1f7299"
+          "hex": "#daceb4",
+          "name": "#daceb4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1b13"
+          "hex": "#ceab3d",
+          "name": "#ceab3d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbc0af"
+          "hex": "#968d74",
+          "name": "#968d74",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e92ab"
+          "hex": "#4e92ab",
+          "name": "#4e92ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#daceb4"
+          "hex": "#bbc0af",
+          "name": "#bbc0af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#968d74"
+          "hex": "#1e1b13",
+          "name": "#1e1b13",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d474b"
+          "hex": "#1d474b",
+          "name": "#1d474b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ceab3d"
+          "hex": "#1f7299",
+          "name": "#1f7299",
+          "reference": "marekm4"
         }
       ]
     },
@@ -182,7 +228,7 @@
       }
     ],
     "wof:id": 1511934161,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: People Express Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -200,5 +246,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

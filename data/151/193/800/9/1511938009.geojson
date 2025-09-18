@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffae42"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffcf48"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#ffd700"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dec9b2"
+          "hex": "#efdeca",
+          "name": "#efdeca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9c727"
+          "hex": "#ab3f3e",
+          "name": "#ab3f3e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#722123"
+          "hex": "#f9c727",
+          "name": "#f9c727",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ab3f3e"
+          "hex": "#722123",
+          "name": "#722123",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1b626"
+          "hex": "#e1b626",
+          "name": "#e1b626",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efdeca"
+          "hex": "#8e3d3f",
+          "name": "#8e3d3f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e3d3f"
+          "hex": "#dec9b2",
+          "name": "#dec9b2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +207,7 @@
       }
     ],
     "wof:id": 1511938009,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: Qantas Empire Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +225,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

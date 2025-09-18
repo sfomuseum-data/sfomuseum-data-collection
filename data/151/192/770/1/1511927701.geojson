@@ -29,32 +29,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#fffaf0",
+          "name": "floralwhite",
+          "reference": "css4"
         },
         {
-          "hex": "#fffaf0"
+          "hex": "#ffffff",
+          "name": "white",
+          "reference": "css4"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fffffc"
+          "hex": "#fffffc",
+          "name": "#fffffc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#464c65"
+          "hex": "#464c65",
+          "name": "#464c65",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fcfaee"
+          "hex": "#fcfaee",
+          "name": "#fcfaee",
+          "reference": "marekm4"
         }
       ]
     },
@@ -132,7 +148,7 @@
       }
     ],
     "wof:id": 1511927701,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233617,
     "wof:name": "menu: Continental Airlines, First Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -150,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2a2d0"
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#9370db"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#9370db",
+          "name": "mediumpurple",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#28232d"
+          "hex": "#7587c7",
+          "name": "#7587c7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#949dc7"
+          "hex": "#6a72aa",
+          "name": "#6a72aa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a72aa"
+          "hex": "#949dc7",
+          "name": "#949dc7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7587c7"
+          "hex": "#28232d",
+          "name": "#28232d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +193,7 @@
       }
     ],
     "wof:id": 1762828513,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233685,
     "wof:name": "slide: Pacific Southwest Airlines (PSA), Boeing 727-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +210,5 @@
     -122.212464,
     37.72131
   ],
-  "geometry": {"coordinates":[[-122.212464,37.72131]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.212464,37.72131]]}
 }

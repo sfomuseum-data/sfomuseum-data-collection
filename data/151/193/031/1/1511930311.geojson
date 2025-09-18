@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#fffafa"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c98e22"
+          "hex": "#fcfcf8",
+          "name": "#fcfcf8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6e88d5"
+          "hex": "#6e88d5",
+          "name": "#6e88d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fcfcf8"
+          "hex": "#494737",
+          "name": "#494737",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2246b9"
+          "hex": "#c98e22",
+          "name": "#c98e22",
+          "reference": "marekm4"
         },
         {
-          "hex": "#494737"
+          "hex": "#2246b9",
+          "name": "#2246b9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +180,7 @@
       }
     ],
     "wof:id": 1511930311,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233619,
     "wof:name": "menu: Continental Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +198,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#798a99"
+          "hex": "#3c3d45",
+          "name": "#3c3d45",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9cbcd"
+          "hex": "#c9cbcd",
+          "name": "#c9cbcd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a7687"
+          "hex": "#798a99",
+          "name": "#798a99",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3c3d45"
+          "hex": "#6a7687",
+          "name": "#6a7687",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +176,7 @@
       }
     ],
     "wof:id": 1511957361,
-    "wof:lastmodified": 1758181311,
+    "wof:lastmodified": 1758233653,
     "wof:name": "photograph: San Francisco International Airport (SFO), South Terminal construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +194,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

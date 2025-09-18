@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ece9da"
+          "hex": "#ece9da",
+          "name": "#ece9da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#27214e"
+          "hex": "#da3634",
+          "name": "#da3634",
+          "reference": "marekm4"
         },
         {
-          "hex": "#201b4c"
+          "hex": "#e5e3d8",
+          "name": "#e5e3d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d43633"
+          "hex": "#d43633",
+          "name": "#d43633",
+          "reference": "marekm4"
         },
         {
-          "hex": "#da3634"
+          "hex": "#27214e",
+          "name": "#27214e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#759fca"
+          "hex": "#759fca",
+          "name": "#759fca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e3d8"
+          "hex": "#201b4c",
+          "name": "#201b4c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +193,7 @@
       }
     ],
     "wof:id": 1511906909,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American Airways, Singapore - Manila route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +211,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

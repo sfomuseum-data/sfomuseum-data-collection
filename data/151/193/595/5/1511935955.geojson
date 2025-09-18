@@ -28,38 +28,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#eceabe"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fcf0cb"
+          "hex": "#eb4609",
+          "name": "#eb4609",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eb4609"
+          "hex": "#093388",
+          "name": "#093388",
+          "reference": "marekm4"
         },
         {
-          "hex": "#093388"
+          "hex": "#fcf0cb",
+          "name": "#fcf0cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#071869"
+          "hex": "#071869",
+          "name": "#071869",
+          "reference": "marekm4"
         }
       ]
     },
@@ -137,7 +157,7 @@
       }
     ],
     "wof:id": 1511935955,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +175,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

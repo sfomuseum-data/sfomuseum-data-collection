@@ -32,80 +32,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b5b7a1"
+          "hex": "#a19d76",
+          "name": "#a19d76",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c9977"
+          "hex": "#9c9977",
+          "name": "#9c9977",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bebea5"
+          "hex": "#191a64",
+          "name": "#191a64",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b51205"
+          "hex": "#2f325a",
+          "name": "#2f325a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b21307"
+          "hex": "#b51205",
+          "name": "#b51205",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f325a"
+          "hex": "#b21307",
+          "name": "#b21307",
+          "reference": "marekm4"
         },
         {
-          "hex": "#426292"
+          "hex": "#bebea5",
+          "name": "#bebea5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#191a64"
+          "hex": "#426292",
+          "name": "#426292",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a19d76"
+          "hex": "#b5b7a1",
+          "name": "#b5b7a1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -193,7 +241,7 @@
       }
     ],
     "wof:id": 1511907323,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "airmail flight cover: Pan American Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -211,5 +259,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

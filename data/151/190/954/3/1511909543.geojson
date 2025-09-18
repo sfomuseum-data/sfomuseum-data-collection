@@ -28,50 +28,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#406daf"
+          "hex": "#e5e0d9",
+          "name": "#e5e0d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a94e23"
+          "hex": "#a94e23",
+          "name": "#a94e23",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f8cbc"
+          "hex": "#406daf",
+          "name": "#406daf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e0d9"
+          "hex": "#5f8cbc",
+          "name": "#5f8cbc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f352a"
+          "hex": "#2f352a",
+          "name": "#2f352a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -160,7 +188,7 @@
       }
     ],
     "wof:id": 1511909543,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -178,5 +206,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -31,44 +31,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#deaa88"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#a57164"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a47984"
+          "hex": "#cca4a6",
+          "name": "#cca4a6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cca4a6"
+          "hex": "#936472",
+          "name": "#936472",
+          "reference": "marekm4"
         },
         {
-          "hex": "#56394e"
+          "hex": "#a47984",
+          "name": "#a47984",
+          "reference": "marekm4"
         },
         {
-          "hex": "#936472"
+          "hex": "#56394e",
+          "name": "#56394e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +192,7 @@
       }
     ],
     "wof:id": 1762831117,
-    "wof:lastmodified": 1758181337,
+    "wof:lastmodified": 1758233689,
     "wof:name": "slide: San Francisco International Airport (SFO), United Airlines, Douglas DC-8 [digital image]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +209,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

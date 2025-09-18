@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dbdedb"
+          "hex": "#3d3c32",
+          "name": "#3d3c32",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d3c32"
+          "hex": "#070806",
+          "name": "#070806",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfdab6"
+          "hex": "#dbdedb",
+          "name": "#dbdedb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#070806"
+          "hex": "#dfdab6",
+          "name": "#dfdab6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +169,7 @@
       }
     ],
     "wof:id": 1511921693,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233611,
     "wof:name": "menu: United Airlines, First Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +187,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -31,38 +31,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e1e5a"
+          "hex": "#1f2f87",
+          "name": "#1f2f87",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d82512"
+          "hex": "#e0c9b2",
+          "name": "#e0c9b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f2f87"
+          "hex": "#1e1e5a",
+          "name": "#1e1e5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0c9b2"
+          "hex": "#d82512",
+          "name": "#d82512",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +166,7 @@
       }
     ],
     "wof:id": 1511936713,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Northwest Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +184,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

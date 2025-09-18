@@ -25,47 +25,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#74a0ee"
+          "hex": "#b1becd",
+          "name": "#b1becd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#515047"
+          "hex": "#464945",
+          "name": "#464945",
+          "reference": "marekm4"
         },
         {
-          "hex": "#464945"
+          "hex": "#515047",
+          "name": "#515047",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1becd"
+          "hex": "#f4f8f9",
+          "name": "#f4f8f9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4f8f9"
+          "hex": "#74a0ee",
+          "name": "#74a0ee",
+          "reference": "marekm4"
         }
       ]
     },
@@ -148,7 +174,7 @@
       }
     ],
     "wof:id": 1762682401,
-    "wof:lastmodified": 1758181321,
+    "wof:lastmodified": 1758233664,
     "wof:name": "timetable: Cincinnati / Northern Kentucky International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +191,5 @@
     -84.657144,
     39.054422
   ],
-  "geometry": {"coordinates":[[-84.657144,39.054422]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-84.657144,39.054422]]}
 }

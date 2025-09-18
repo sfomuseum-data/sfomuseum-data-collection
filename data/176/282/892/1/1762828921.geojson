@@ -33,35 +33,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d9d6cb"
+          "hex": "#d9d6cb",
+          "name": "#d9d6cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#85867b"
+          "hex": "#4f5147",
+          "name": "#4f5147",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f5147"
+          "hex": "#85867b",
+          "name": "#85867b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +175,7 @@
       }
     ],
     "wof:id": 1762828921,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233686,
     "wof:name": "photograph: John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +192,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

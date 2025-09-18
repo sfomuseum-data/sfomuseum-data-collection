@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d6c096"
+          "hex": "#171a37",
+          "name": "#171a37",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c15921"
+          "hex": "#d6c096",
+          "name": "#d6c096",
+          "reference": "marekm4"
         },
         {
-          "hex": "#171a37"
+          "hex": "#c15921",
+          "name": "#c15921",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c3a149"
+          "hex": "#c3a149",
+          "name": "#c3a149",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511952937,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233648,
     "wof:name": "luggage label: Panair do Brasil",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

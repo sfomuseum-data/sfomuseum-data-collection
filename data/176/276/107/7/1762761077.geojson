@@ -30,44 +30,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2add0"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#748ab8"
+          "hex": "#576a9b",
+          "name": "#576a9b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a8aecb"
+          "hex": "#a8aecb",
+          "name": "#a8aecb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121318"
+          "hex": "#121318",
+          "name": "#121318",
+          "reference": "marekm4"
         },
         {
-          "hex": "#576a9b"
+          "hex": "#748ab8",
+          "name": "#748ab8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +192,7 @@
       }
     ],
     "wof:id": 1762761077,
-    "wof:lastmodified": 1758181333,
+    "wof:lastmodified": 1758233684,
     "wof:name": "slide: Delta Air Lines, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +209,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

@@ -29,68 +29,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6a92aa"
+          "hex": "#ccc9b8",
+          "name": "#ccc9b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a2b25"
+          "hex": "#e0d7be",
+          "name": "#e0d7be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e3029"
+          "hex": "#1e6294",
+          "name": "#1e6294",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e6294"
+          "hex": "#8f8a76",
+          "name": "#8f8a76",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f8a76"
+          "hex": "#2a2b25",
+          "name": "#2a2b25",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1c6194"
+          "hex": "#2e3029",
+          "name": "#2e3029",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ccc9b8"
+          "hex": "#1c6194",
+          "name": "#1c6194",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0d7be"
+          "hex": "#6a92aa",
+          "name": "#6a92aa",
+          "reference": "marekm4"
         }
       ]
     },
@@ -166,7 +206,7 @@
       }
     ],
     "wof:id": 1729564907,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "timetable: British Commonwealth Pacific Airlines (BCPA), transpacific",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -184,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

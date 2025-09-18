@@ -26,35 +26,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bab86c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b8b042"
+          "hex": "#cfcfb3",
+          "name": "#cfcfb3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#060603"
+          "hex": "#060603",
+          "name": "#060603",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfcfb3"
+          "hex": "#b8b042",
+          "name": "#b8b042",
+          "reference": "marekm4"
         }
       ]
     },
@@ -135,7 +153,7 @@
       }
     ],
     "wof:id": 1511907553,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "model aircraft: Douglas World Cruiser \"Chicago\" and cradle",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -153,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

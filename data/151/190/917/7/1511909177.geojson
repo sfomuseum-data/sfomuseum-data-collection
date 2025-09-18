@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d71002"
+          "hex": "#1f2d37",
+          "name": "#1f2d37",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e2cf"
+          "hex": "#05408e",
+          "name": "#05408e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#05408e"
+          "hex": "#e6e2cf",
+          "name": "#e6e2cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f2d37"
+          "hex": "#d71002",
+          "name": "#d71002",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +181,7 @@
       }
     ],
     "wof:id": 1511909177,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Air Lines, San Francisco / Oakland / San Jose",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +199,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

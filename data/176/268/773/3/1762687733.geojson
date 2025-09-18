@@ -24,38 +24,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d5d9dd"
+          "hex": "#2a2e2e",
+          "name": "#2a2e2e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2a2e2e"
+          "hex": "#d5d9dd",
+          "name": "#d5d9dd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6785bb"
+          "hex": "#6785bb",
+          "name": "#6785bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5d7cb5"
+          "hex": "#5d7cb5",
+          "name": "#5d7cb5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +177,7 @@
       }
     ],
     "wof:id": 1762687733,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233670,
     "wof:name": "timetable: San Jose International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +194,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

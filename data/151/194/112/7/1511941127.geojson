@@ -29,71 +29,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c82413"
+          "hex": "#5c4d1f",
+          "name": "#5c4d1f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2dac7"
+          "hex": "#1e1b14",
+          "name": "#1e1b14",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c4d1f"
+          "hex": "#c82413",
+          "name": "#c82413",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aa3825"
+          "hex": "#e2dac7",
+          "name": "#e2dac7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#938a77"
+          "hex": "#bcb5a7",
+          "name": "#bcb5a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1b14"
+          "hex": "#938a77",
+          "name": "#938a77",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bcb5a7"
+          "hex": "#aa3825",
+          "name": "#aa3825",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +216,7 @@
       }
     ],
     "wof:id": 1511941127,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Qantas Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +234,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

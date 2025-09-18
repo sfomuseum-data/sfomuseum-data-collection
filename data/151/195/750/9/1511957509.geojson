@@ -23,80 +23,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#bf4f51"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b22e12"
+          "hex": "#b22e12",
+          "name": "#b22e12",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6d8d50"
+          "hex": "#a69d73",
+          "name": "#a69d73",
+          "reference": "marekm4"
         },
         {
-          "hex": "#151d38"
+          "hex": "#151d38",
+          "name": "#151d38",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a44842"
+          "hex": "#b49b75",
+          "name": "#b49b75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d2bfa0"
+          "hex": "#32353a",
+          "name": "#32353a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ccba9a"
+          "hex": "#6d8d50",
+          "name": "#6d8d50",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b49b75"
+          "hex": "#d2bfa0",
+          "name": "#d2bfa0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#32353a"
+          "hex": "#a44842",
+          "name": "#a44842",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a69d73"
+          "hex": "#ccba9a",
+          "name": "#ccba9a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +217,7 @@
       }
     ],
     "wof:id": 1511957509,
-    "wof:lastmodified": 1758181311,
+    "wof:lastmodified": 1758233653,
     "wof:name": "airmail flight cover: AM-31, Everglades, Florida",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +235,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

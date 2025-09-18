@@ -30,35 +30,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e5dac2"
+          "hex": "#e5dac2",
+          "name": "#e5dac2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#555358"
+          "hex": "#982c13",
+          "name": "#982c13",
+          "reference": "marekm4"
         },
         {
-          "hex": "#982c13"
+          "hex": "#555358",
+          "name": "#555358",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +172,7 @@
       }
     ],
     "wof:id": 1762759421,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233681,
     "wof:name": "photograph: TWA (Trans World Airlines), Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +189,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

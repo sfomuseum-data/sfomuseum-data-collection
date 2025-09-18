@@ -29,38 +29,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffbcd9"
+          "hex": "#ffbcd9",
+          "name": "Cotton Candy",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffc0cb"
+          "hex": "#ffe4e1",
+          "name": "mistyrose",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4e1"
+          "hex": "#ffc0cb",
+          "name": "pink",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0e022f"
+          "hex": "#1e131a",
+          "name": "#1e131a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e131a"
+          "hex": "#ffd5d7",
+          "name": "#ffd5d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fecdd0"
+          "hex": "#fecdd0",
+          "name": "#fecdd0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ffd5d7"
+          "hex": "#0e022f",
+          "name": "#0e022f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -138,7 +158,7 @@
       }
     ],
     "wof:id": 1511956657,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233652,
     "wof:name": "menu: Hawaiian Airlines, First Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +176,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

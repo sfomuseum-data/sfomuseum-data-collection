@@ -36,35 +36,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#413a2c"
+          "hex": "#413a2c",
+          "name": "#413a2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5f1df"
+          "hex": "#385ebd",
+          "name": "#385ebd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#385ebd"
+          "hex": "#f5f1df",
+          "name": "#f5f1df",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +172,7 @@
       }
     ],
     "wof:id": 1746271265,
-    "wof:lastmodified": 1758181314,
+    "wof:lastmodified": 1758233656,
     "wof:name": "airmail flight cover: Kai Tak Airport (Hong Kong)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +203,5 @@
     114.135572,
     37.778008
   ],
-  "geometry": {"coordinates":[[-122.431272,37.778008],[-122.363639,37.593912],[114.135572,22.381131]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.431272,37.778008],[-122.363639,37.593912],[114.135572,22.381131]]}
 }

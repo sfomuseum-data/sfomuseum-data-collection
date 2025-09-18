@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd9575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e2d5b1"
+          "hex": "#d1c4b1",
+          "name": "#d1c4b1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#28296c"
+          "hex": "#28296c",
+          "name": "#28296c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#738897"
+          "hex": "#e2d5b1",
+          "name": "#e2d5b1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c49c67"
+          "hex": "#462d23",
+          "name": "#462d23",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1c4b1"
+          "hex": "#738897",
+          "name": "#738897",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c5c2f"
+          "hex": "#c49c67",
+          "name": "#c49c67",
+          "reference": "marekm4"
         },
         {
-          "hex": "#462d23"
+          "hex": "#9c5c2f",
+          "name": "#9c5c2f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -203,7 +245,7 @@
       }
     ],
     "wof:id": 1762686257,
-    "wof:lastmodified": 1758181328,
+    "wof:lastmodified": 1758233668,
     "wof:name": "postcard: American Airlines, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -220,5 +262,5 @@
     -73.875778,
     40.774956
   ],
-  "geometry": {"coordinates":[[-73.875778,40.774956]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.875778,40.774956]]}
 }

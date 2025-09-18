@@ -33,62 +33,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ddd6d0"
+          "hex": "#dbd4cc",
+          "name": "#dbd4cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252223"
+          "hex": "#cc240a",
+          "name": "#cc240a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1d4d1"
+          "hex": "#d1d4d1",
+          "name": "#d1d4d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#15171b"
+          "hex": "#312d2e",
+          "name": "#312d2e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0240d"
+          "hex": "#ddd6d0",
+          "name": "#ddd6d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#312d2e"
+          "hex": "#d0240d",
+          "name": "#d0240d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c8250d"
+          "hex": "#252223",
+          "name": "#252223",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbd4cc"
+          "hex": "#c8250d",
+          "name": "#c8250d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc240a"
+          "hex": "#15171b",
+          "name": "#15171b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -178,7 +214,7 @@
       }
     ],
     "wof:id": 1511910245,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233606,
     "wof:name": "timetable: Northwest Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -196,5 +232,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

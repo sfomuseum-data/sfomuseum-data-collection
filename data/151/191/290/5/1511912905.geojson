@@ -22,53 +22,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6dae81"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#87a96b"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#588672"
+          "hex": "#588672",
+          "name": "#588672",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b4948"
+          "hex": "#2b4948",
+          "name": "#2b4948",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a19e61"
+          "hex": "#5f8c8a",
+          "name": "#5f8c8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f8c8a"
+          "hex": "#a19e61",
+          "name": "#a19e61",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9ebe5"
+          "hex": "#e9ebe5",
+          "name": "#e9ebe5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +166,7 @@
       }
     ],
     "wof:id": 1511912905,
-    "wof:lastmodified": 1758181398,
+    "wof:lastmodified": 1758233607,
     "wof:name": "From the earth to the moon, direct, in 97 hours 20 minutes: and a trip round it .",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +184,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

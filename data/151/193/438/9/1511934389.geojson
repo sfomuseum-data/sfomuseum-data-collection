@@ -31,53 +31,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2b6cc4"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#9aceeb"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#9aceeb",
+          "name": "Cornflower",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ba581e"
+          "hex": "#5695e2",
+          "name": "#5695e2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5695e2"
+          "hex": "#2f70d2",
+          "name": "#2f70d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f163d"
+          "hex": "#ba581e",
+          "name": "#ba581e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f70d2"
+          "hex": "#aecbe6",
+          "name": "#aecbe6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aecbe6"
+          "hex": "#2f163d",
+          "name": "#2f163d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +192,7 @@
       }
     ],
     "wof:id": 1511934389,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: Southwest Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +210,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

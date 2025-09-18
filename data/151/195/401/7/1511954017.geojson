@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cb3b21"
+          "hex": "#c39070",
+          "name": "#c39070",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9c8af"
+          "hex": "#391e2b",
+          "name": "#391e2b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c39070"
+          "hex": "#d7c6b6",
+          "name": "#d7c6b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272621"
+          "hex": "#272621",
+          "name": "#272621",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ce3614"
+          "hex": "#ce3614",
+          "name": "#ce3614",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7c6b6"
+          "hex": "#cb3b21",
+          "name": "#cb3b21",
+          "reference": "marekm4"
         },
         {
-          "hex": "#391e2b"
+          "hex": "#d9c8af",
+          "name": "#d9c8af",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +186,7 @@
       }
     ],
     "wof:id": 1511954017,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American Airways, first airmail flight, Lisbon - San Juan route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +204,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

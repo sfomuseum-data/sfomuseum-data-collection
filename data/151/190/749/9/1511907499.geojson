@@ -38,56 +38,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#adaeaf"
+          "hex": "#b2b2b4",
+          "name": "#b2b2b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f363f"
+          "hex": "#4b4a4c",
+          "name": "#4b4a4c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#afafb0"
+          "hex": "#37393f",
+          "name": "#37393f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#323741"
+          "hex": "#afafb0",
+          "name": "#afafb0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2b2b4"
+          "hex": "#b1b2b3",
+          "name": "#b1b2b3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#404042"
+          "hex": "#2f363f",
+          "name": "#2f363f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b0b0b2"
+          "hex": "#484749",
+          "name": "#484749",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b4a4c"
+          "hex": "#404042",
+          "name": "#404042",
+          "reference": "marekm4"
         },
         {
-          "hex": "#37393f"
+          "hex": "#323741",
+          "name": "#323741",
+          "reference": "marekm4"
         },
         {
-          "hex": "#484749"
+          "hex": "#aeaeaf",
+          "name": "#aeaeaf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1b2b3"
+          "hex": "#b0b0b2",
+          "name": "#b0b0b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aeaeaf"
+          "hex": "#adaeaf",
+          "name": "#adaeaf",
+          "reference": "marekm4"
         }
       ]
     },
@@ -191,7 +223,7 @@
       }
     ],
     "wof:id": 1511907499,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "model airplane: Amerijet International, Boeing 727-100",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -209,5 +241,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

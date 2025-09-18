@@ -39,56 +39,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c0c0bf"
+          "hex": "#4e433e",
+          "name": "#4e433e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c0bfbf"
+          "hex": "#4b4847",
+          "name": "#4b4847",
+          "reference": "marekm4"
         },
         {
-          "hex": "#483b33"
+          "hex": "#514d4a",
+          "name": "#514d4a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e433e"
+          "hex": "#4e4540",
+          "name": "#4e4540",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b4847"
+          "hex": "#c0bfbf",
+          "name": "#c0bfbf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bebdbc"
+          "hex": "#483b33",
+          "name": "#483b33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e4540"
+          "hex": "#bdbcbb",
+          "name": "#bdbcbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bdbcbb"
+          "hex": "#bdbdbc",
+          "name": "#bdbdbc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#514d4a"
+          "hex": "#c0c0bf",
+          "name": "#c0c0bf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d443d"
+          "hex": "#4d443d",
+          "name": "#4d443d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bdbdbc"
+          "hex": "#bebdbc",
+          "name": "#bebdbc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -201,7 +233,7 @@
       }
     ],
     "wof:id": 1511909383,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233605,
     "wof:name": "model airplane: Continental Airlines, McDonnell Douglas DC-10",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",
@@ -219,5 +251,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
 }

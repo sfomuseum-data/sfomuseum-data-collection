@@ -34,26 +34,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#343145"
+          "hex": "#ddced2",
+          "name": "#ddced2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ddced2"
+          "hex": "#343145",
+          "name": "#343145",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +186,7 @@
       }
     ],
     "wof:id": 1511926571,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Reliant Airlines, Dassault Falcon 20, San Jose International Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +204,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

@@ -35,62 +35,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6089b4"
+          "hex": "#f0e6d3",
+          "name": "#f0e6d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0e6d3"
+          "hex": "#8a5141",
+          "name": "#8a5141",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a5141"
+          "hex": "#dadcdc",
+          "name": "#dadcdc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#42393a"
+          "hex": "#4c473a",
+          "name": "#4c473a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4c473a"
+          "hex": "#6089b4",
+          "name": "#6089b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f72ab"
+          "hex": "#42393a",
+          "name": "#42393a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dadcdc"
+          "hex": "#3f72ab",
+          "name": "#3f72ab",
+          "reference": "marekm4"
         }
       ]
     },
@@ -192,7 +228,7 @@
       }
     ],
     "wof:id": 1762682763,
-    "wof:lastmodified": 1758181322,
+    "wof:lastmodified": 1758233664,
     "wof:name": "postcard: Seattle - Tacoma International Airport, Northwest Airlines, Boeing 720B",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -209,5 +245,5 @@
     -122.304268,
     47.441823
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.304268,47.441823]]}
 }

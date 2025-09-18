@@ -29,17 +29,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eae5d4"
+          "hex": "#eae5d4",
+          "name": "#eae5d4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -117,7 +123,7 @@
       }
     ],
     "wof:id": 1511927385,
-    "wof:lastmodified": 1757662799,
+    "wof:lastmodified": 1758233616,
     "wof:name": "airsickness bag: Cathay Pacific Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -135,5 +141,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -30,62 +30,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#9acd32",
+          "name": "yellowgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#9acd32"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a8af42"
+          "hex": "#f8f1e2",
+          "name": "#f8f1e2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e459d"
+          "hex": "#3d3b21",
+          "name": "#3d3b21",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d3b21"
+          "hex": "#2e459d",
+          "name": "#2e459d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b63d21"
+          "hex": "#edebdc",
+          "name": "#edebdc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8f1e2"
+          "hex": "#b63d21",
+          "name": "#b63d21",
+          "reference": "marekm4"
         },
         {
-          "hex": "#edebdc"
+          "hex": "#a8af42",
+          "name": "#a8af42",
+          "reference": "marekm4"
         }
       ]
     },
@@ -167,7 +203,7 @@
       }
     ],
     "wof:id": 1511953149,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233649,
     "wof:name": "airmail flight cover: Charles Lindbergh, 50th Anniversary",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +221,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

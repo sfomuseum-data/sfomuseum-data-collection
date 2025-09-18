@@ -24,35 +24,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#21241d"
+          "hex": "#d4d0c9",
+          "name": "#d4d0c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#949370"
+          "hex": "#21241d",
+          "name": "#21241d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4d0c9"
+          "hex": "#949370",
+          "name": "#949370",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +158,7 @@
       }
     ],
     "wof:id": 1913662909,
-    "wof:lastmodified": 1758181386,
+    "wof:lastmodified": 1758233764,
     "wof:name": "photograph: San Francisco International Airport (SFO), aerial view",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +175,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

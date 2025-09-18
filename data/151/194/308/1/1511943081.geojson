@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffa343"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#ffa500",
+          "name": "orange",
+          "reference": "css4"
         },
         {
-          "hex": "#ffa500"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eee9d5"
+          "hex": "#eee9d5",
+          "name": "#eee9d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8a007"
+          "hex": "#2b2a20",
+          "name": "#2b2a20",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b2a20"
+          "hex": "#f8a007",
+          "name": "#f8a007",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +160,7 @@
       }
     ],
     "wof:id": 1511943081,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233636,
     "wof:name": "timetable: Aerocondor, Boeing 707-C",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +178,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#494636"
+          "hex": "#e4dfc4",
+          "name": "#e4dfc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5ddc4"
+          "hex": "#494636",
+          "name": "#494636",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4dfc4"
+          "hex": "#8d8b74",
+          "name": "#8d8b74",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d8b74"
+          "hex": "#e5ddc4",
+          "name": "#e5ddc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#525141"
+          "hex": "#525141",
+          "name": "#525141",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +183,7 @@
       }
     ],
     "wof:id": 1762828619,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233686,
     "wof:name": "document: City and County of San Francisco, Mills Estate Incorporated, Rental Agreement",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +200,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

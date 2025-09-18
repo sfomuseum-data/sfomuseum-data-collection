@@ -31,53 +31,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffae42"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#324e9a"
+          "hex": "#272a49",
+          "name": "#272a49",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272a49"
+          "hex": "#e5b320",
+          "name": "#e5b320",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a8bb4"
+          "hex": "#6a8bb4",
+          "name": "#6a8bb4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4e5de"
+          "hex": "#324e9a",
+          "name": "#324e9a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5b320"
+          "hex": "#e4e5de",
+          "name": "#e4e5de",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +192,7 @@
       }
     ],
     "wof:id": 1511939011,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: British Caledonian Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +210,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

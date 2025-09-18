@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cda4de"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#cda4de",
+          "name": "Wisteria",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6a5acd"
+          "hex": "#dda0dd",
+          "name": "plum",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dda0dd"
+          "hex": "#6a5acd",
+          "name": "slateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c293e"
+          "hex": "#c5aadc",
+          "name": "#c5aadc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5aadc"
+          "hex": "#2c293e",
+          "name": "#2c293e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f6cbc"
+          "hex": "#5f6cbc",
+          "name": "#5f6cbc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#867bb9"
+          "hex": "#867bb9",
+          "name": "#867bb9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -175,7 +199,7 @@
       }
     ],
     "wof:id": 1511926135,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233614,
     "wof:name": "slide: Scandinavian Airlines System (SAS), Airbus A330, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -193,5 +217,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

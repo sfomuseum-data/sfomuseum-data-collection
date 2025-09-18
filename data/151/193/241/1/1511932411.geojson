@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#800080"
+          "hex": "#800080",
+          "name": "purple",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#33498c"
+          "hex": "#0b246c",
+          "name": "#0b246c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0b246c"
+          "hex": "#33498c",
+          "name": "#33498c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2ddb7"
+          "hex": "#a10c63",
+          "name": "#a10c63",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a10c63"
+          "hex": "#e2ddb7",
+          "name": "#e2ddb7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511932411,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Muse Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

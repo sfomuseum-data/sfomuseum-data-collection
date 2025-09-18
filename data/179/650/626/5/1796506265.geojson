@@ -28,26 +28,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b2afa9"
+          "hex": "#555467",
+          "name": "#555467",
+          "reference": "marekm4"
         },
         {
-          "hex": "#555467"
+          "hex": "#b2afa9",
+          "name": "#b2afa9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -147,7 +159,7 @@
       }
     ],
     "wof:id": 1796506265,
-    "wof:lastmodified": 1758181367,
+    "wof:lastmodified": 1758233736,
     "wof:name": "cocktail napkin: San Francisco Airport, Skyway Cafe",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +176,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

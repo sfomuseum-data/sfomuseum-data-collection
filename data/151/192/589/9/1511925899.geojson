@@ -28,32 +28,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fce883"
+          "hex": "#fce883",
+          "name": "Yellow",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffff99"
+          "hex": "#ffff99",
+          "name": "Canary",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f0e68c"
+          "hex": "#f0e68c",
+          "name": "khaki",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fffe8d"
+          "hex": "#403915",
+          "name": "#403915",
+          "reference": "marekm4"
         },
         {
-          "hex": "#403915"
+          "hex": "#fffe8d",
+          "name": "#fffe8d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8f475"
+          "hex": "#f8f475",
+          "name": "#f8f475",
+          "reference": "marekm4"
         }
       ]
     },
@@ -132,7 +148,7 @@
       }
     ],
     "wof:id": 1511925899,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "timetable: Pan American World Airways, cargo schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -150,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

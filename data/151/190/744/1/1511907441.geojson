@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfdcd4"
+          "hex": "#1b2148",
+          "name": "#1b2148",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bb342e"
+          "hex": "#dddbd4",
+          "name": "#dddbd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#312b4b"
+          "hex": "#6393be",
+          "name": "#6393be",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b2148"
+          "hex": "#3d64ab",
+          "name": "#3d64ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dddbd4"
+          "hex": "#312b4b",
+          "name": "#312b4b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6393be"
+          "hex": "#dfdcd4",
+          "name": "#dfdcd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc2a1f"
+          "hex": "#bc2a1f",
+          "name": "#bc2a1f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d64ab"
+          "hex": "#bb342e",
+          "name": "#bb342e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +218,7 @@
       }
     ],
     "wof:id": 1511907441,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233603,
     "wof:name": "airmail flight cover: Pan American World Airways, Calcutta - Tokyo route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +236,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

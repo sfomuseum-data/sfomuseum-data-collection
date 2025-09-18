@@ -29,20 +29,28 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fffafa"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fefcf9"
+          "hex": "#fefcf9",
+          "name": "#fefcf9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fdfbf7"
+          "hex": "#fdfbf7",
+          "name": "#fdfbf7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -119,7 +127,7 @@
       }
     ],
     "wof:id": 1511921453,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233611,
     "wof:name": "menu: Piedmont Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -137,5 +145,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

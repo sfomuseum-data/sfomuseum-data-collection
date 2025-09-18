@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#27308a"
+          "hex": "#354288",
+          "name": "#354288",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe2cd"
+          "hex": "#ebe2cd",
+          "name": "#ebe2cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#393b5f"
+          "hex": "#b52319",
+          "name": "#b52319",
+          "reference": "marekm4"
         },
         {
-          "hex": "#202670"
+          "hex": "#27308a",
+          "name": "#27308a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b6241d"
+          "hex": "#393b5f",
+          "name": "#393b5f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6dcc4"
+          "hex": "#b6241d",
+          "name": "#b6241d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b52319"
+          "hex": "#e6dcc4",
+          "name": "#e6dcc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#354288"
+          "hex": "#202670",
+          "name": "#202670",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511953867,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, Washington, DC - Nassau route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -31,17 +31,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bcbdbd"
+          "hex": "#bcbdbd",
+          "name": "#bcbdbd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -118,7 +124,7 @@
       }
     ],
     "wof:id": 1511923715,
-    "wof:lastmodified": 1757662795,
+    "wof:lastmodified": 1758233613,
     "wof:name": "entree plate: Continental Airlines",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",
@@ -136,5 +142,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
 }

@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#28275f"
+          "hex": "#28275f",
+          "name": "#28275f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b71f1e"
+          "hex": "#af302c",
+          "name": "#af302c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#273b89"
+          "hex": "#eae0ca",
+          "name": "#eae0ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#443a4f"
+          "hex": "#b71f1e",
+          "name": "#b71f1e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae0ca"
+          "hex": "#273b89",
+          "name": "#273b89",
+          "reference": "marekm4"
         },
         {
-          "hex": "#af302c"
+          "hex": "#242e8a",
+          "name": "#242e8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#242e8a"
+          "hex": "#443a4f",
+          "name": "#443a4f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e0ca"
+          "hex": "#e9e0ca",
+          "name": "#e9e0ca",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511953863,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, New York - Freeport route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

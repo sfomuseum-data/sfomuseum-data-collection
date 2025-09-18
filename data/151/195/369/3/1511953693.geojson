@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e7dcc8"
+          "hex": "#e4d9ca",
+          "name": "#e4d9ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c1302c"
+          "hex": "#e7dcc8",
+          "name": "#e7dcc8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#28356a"
+          "hex": "#c1302c",
+          "name": "#c1302c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47424c"
+          "hex": "#47424c",
+          "name": "#47424c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc1716"
+          "hex": "#1e358b",
+          "name": "#1e358b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4d9ca"
+          "hex": "#28356a",
+          "name": "#28356a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e358b"
+          "hex": "#cc1716",
+          "name": "#cc1716",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +196,7 @@
       }
     ],
     "wof:id": 1511953693,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American World Airways, Honolulu - Los Angeles route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

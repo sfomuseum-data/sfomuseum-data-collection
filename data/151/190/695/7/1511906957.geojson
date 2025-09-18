@@ -30,80 +30,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#319177"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#3cb371"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#3cb371",
+          "name": "mediumseagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5e97cc"
+          "hex": "#27394e",
+          "name": "#27394e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c43221"
+          "hex": "#e6eaeb",
+          "name": "#e6eaeb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6eaeb"
+          "hex": "#c43221",
+          "name": "#c43221",
+          "reference": "marekm4"
         },
         {
-          "hex": "#559c5a"
+          "hex": "#5e97cc",
+          "name": "#5e97cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#192856"
+          "hex": "#322d5a",
+          "name": "#322d5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9372f"
+          "hex": "#559c5a",
+          "name": "#559c5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e9e7"
+          "hex": "#e6e9e7",
+          "name": "#e6e9e7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#27394e"
+          "hex": "#c9372f",
+          "name": "#c9372f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#322d5a"
+          "hex": "#ede9dc",
+          "name": "#ede9dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ede9dc"
+          "hex": "#192856",
+          "name": "#192856",
+          "reference": "marekm4"
         }
       ]
     },
@@ -199,7 +247,7 @@
       }
     ],
     "wof:id": 1511906957,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American World Airways, San Francisco - Bangkok route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -217,5 +265,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

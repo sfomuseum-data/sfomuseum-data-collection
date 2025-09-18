@@ -32,92 +32,148 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffcf48"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e1b94a"
+          "hex": "#343436",
+          "name": "#343436",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9a3d2b"
+          "hex": "#e1b94a",
+          "name": "#e1b94a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3d329"
+          "hex": "#352a2d",
+          "name": "#352a2d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#081762"
+          "hex": "#a44240",
+          "name": "#a44240",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a44240"
+          "hex": "#4898d8",
+          "name": "#4898d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#352a2d"
+          "hex": "#d2cbb9",
+          "name": "#d2cbb9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d2cbb9"
+          "hex": "#b5b0b0",
+          "name": "#b5b0b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b5b0b0"
+          "hex": "#cecec4",
+          "name": "#cecec4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cecec4"
+          "hex": "#e3d329",
+          "name": "#e3d329",
+          "reference": "marekm4"
         },
         {
-          "hex": "#343436"
+          "hex": "#081762",
+          "name": "#081762",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4898d8"
+          "hex": "#9a3d2b",
+          "name": "#9a3d2b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -188,7 +244,7 @@
       }
     ],
     "wof:id": 1913938477,
-    "wof:lastmodified": 1758181389,
+    "wof:lastmodified": 1758233770,
     "wof:name": "safety information card: Braniff Inc., BAC One-Eleven 400",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -205,5 +261,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

@@ -23,56 +23,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3e4053"
+          "hex": "#bf4c23",
+          "name": "#bf4c23",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c69e63"
+          "hex": "#d6ceb4",
+          "name": "#d6ceb4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf4c23"
+          "hex": "#3e4053",
+          "name": "#3e4053",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4ccb3"
+          "hex": "#c69e63",
+          "name": "#c69e63",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6ceb4"
+          "hex": "#d4ccb3",
+          "name": "#d4ccb3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c8a74"
+          "hex": "#6c8a74",
+          "name": "#6c8a74",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +188,7 @@
       }
     ],
     "wof:id": 1511908945,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233604,
     "wof:name": "airmail flight cover: Experimental Route 2001, Philadelphia - Camden, New Jersey route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +206,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

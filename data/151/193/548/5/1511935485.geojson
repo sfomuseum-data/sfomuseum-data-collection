@@ -38,71 +38,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#6dae81"
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bbbbba"
+          "hex": "#3e474a",
+          "name": "#3e474a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#424b4d"
+          "hex": "#699397",
+          "name": "#699397",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b4445"
+          "hex": "#bcbcbc",
+          "name": "#bcbcbc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d4546"
+          "hex": "#454644",
+          "name": "#454644",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b9b9b8"
+          "hex": "#3d4546",
+          "name": "#3d4546",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a4a47"
+          "hex": "#b9b9b8",
+          "name": "#b9b9b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e474a"
+          "hex": "#3b4445",
+          "name": "#3b4445",
+          "reference": "marekm4"
         },
         {
-          "hex": "#918a76"
+          "hex": "#918a76",
+          "name": "#918a76",
+          "reference": "marekm4"
         },
         {
-          "hex": "#454644"
+          "hex": "#4a4a47",
+          "name": "#4a4a47",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bdbebd"
+          "hex": "#bdbebd",
+          "name": "#bdbebd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#babbba"
+          "hex": "#424b4d",
+          "name": "#424b4d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#699397"
+          "hex": "#bbbbba",
+          "name": "#bbbbba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bcbcbc"
+          "hex": "#babbba",
+          "name": "#babbba",
+          "reference": "marekm4"
         }
       ]
     },
@@ -198,7 +240,7 @@
       }
     ],
     "wof:id": 1511935485,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "model airplane: KLM (Royal Dutch Airlines), Boeing 747-400",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -216,5 +258,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

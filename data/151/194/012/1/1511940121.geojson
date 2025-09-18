@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#efe3cc"
+          "hex": "#392019",
+          "name": "#392019",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c48b53"
+          "hex": "#c48b53",
+          "name": "#c48b53",
+          "reference": "marekm4"
         },
         {
-          "hex": "#392019"
+          "hex": "#b0552a",
+          "name": "#b0552a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b0552a"
+          "hex": "#efe3cc",
+          "name": "#efe3cc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511940121,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Air Canada",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

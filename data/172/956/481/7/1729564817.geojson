@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#daa520"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dcc5a6"
+          "hex": "#d3a013",
+          "name": "#d3a013",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f754b"
+          "hex": "#9f754b",
+          "name": "#9f754b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3a013"
+          "hex": "#dcc5a6",
+          "name": "#dcc5a6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -130,7 +148,7 @@
       }
     ],
     "wof:id": 1729564817,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "baggage destination tag: Trans Australia Airlines (TAA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

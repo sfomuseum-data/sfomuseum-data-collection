@@ -29,47 +29,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fffafa"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffffff",
+          "name": "white",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1a0908"
+          "hex": "#fd3810",
+          "name": "#fd3810",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fdfcfb"
+          "hex": "#1a0908",
+          "name": "#1a0908",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fd3810"
+          "hex": "#fefefe",
+          "name": "#fefefe",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f93905"
+          "hex": "#f93905",
+          "name": "#f93905",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fefefe"
+          "hex": "#121112",
+          "name": "#121112",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121112"
+          "hex": "#fdfcfb",
+          "name": "#fdfcfb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +187,7 @@
       }
     ],
     "wof:id": 1511909467,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Air Lines, cargo schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +205,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

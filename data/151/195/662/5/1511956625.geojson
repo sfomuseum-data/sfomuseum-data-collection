@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fdd9b5"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#fdd9b5",
+          "name": "Apricot",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ad8c74"
+          "hex": "#91715c",
+          "name": "#91715c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fddfc1"
+          "hex": "#fddfc1",
+          "name": "#fddfc1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#423328"
+          "hex": "#ad8c74",
+          "name": "#ad8c74",
+          "reference": "marekm4"
         },
         {
-          "hex": "#91715c"
+          "hex": "#423328",
+          "name": "#423328",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511956625,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233652,
     "wof:name": "timetable: Pan American World Airways, cargo schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

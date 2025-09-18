@@ -37,62 +37,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bfbebf"
+          "hex": "#bbbbbb",
+          "name": "#bbbbbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f484b"
+          "hex": "#605153",
+          "name": "#605153",
+          "reference": "marekm4"
         },
         {
-          "hex": "#573b3e"
+          "hex": "#5c5859",
+          "name": "#5c5859",
+          "reference": "marekm4"
         },
         {
-          "hex": "#60474b"
+          "hex": "#b9b9b9",
+          "name": "#b9b9b9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8b8b9"
+          "hex": "#573b3e",
+          "name": "#573b3e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c5859"
+          "hex": "#bfbebf",
+          "name": "#bfbebf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e5a5b"
+          "hex": "#5f484b",
+          "name": "#5f484b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b9b9b9"
+          "hex": "#5e5a5b",
+          "name": "#5e5a5b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#605153"
+          "hex": "#60474b",
+          "name": "#60474b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c1c0c1"
+          "hex": "#b8b8b9",
+          "name": "#b8b8b9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbbbbb"
+          "hex": "#c1c0c1",
+          "name": "#c1c0c1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -178,7 +214,7 @@
       }
     ],
     "wof:id": 1729564815,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "model airplane: Virgin America, Airbus A320",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -196,5 +232,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

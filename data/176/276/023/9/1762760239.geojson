@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffe4c4"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#373430"
+          "hex": "#8d8777",
+          "name": "#8d8777",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d8777"
+          "hex": "#383531",
+          "name": "#383531",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece3cf"
+          "hex": "#373430",
+          "name": "#373430",
+          "reference": "marekm4"
         },
         {
-          "hex": "#383531"
+          "hex": "#efe3c9",
+          "name": "#efe3c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#49453c"
+          "hex": "#49453c",
+          "name": "#49453c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee3cc"
+          "hex": "#ece3cf",
+          "name": "#ece3cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f7762"
+          "hex": "#8f7762",
+          "name": "#8f7762",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efe3c9"
+          "hex": "#eee3cc",
+          "name": "#eee3cc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +216,7 @@
       }
     ],
     "wof:id": 1762760239,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233682,
     "wof:name": "The Pacific Commerce [1 issue: January 5, 1927]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +233,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

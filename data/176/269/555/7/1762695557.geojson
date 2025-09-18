@@ -35,53 +35,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e9dfd0"
+          "hex": "#2c1c18",
+          "name": "#2c1c18",
+          "reference": "marekm4"
         },
         {
-          "hex": "#becfd4"
+          "hex": "#becfd4",
+          "name": "#becfd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#589ac2"
+          "hex": "#e53721",
+          "name": "#e53721",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e53721"
+          "hex": "#e9dfd0",
+          "name": "#e9dfd0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2c1c18"
+          "hex": "#589ac2",
+          "name": "#589ac2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +214,7 @@
       }
     ],
     "wof:id": 1762695557,
-    "wof:lastmodified": 1758181327,
+    "wof:lastmodified": 1758233679,
     "wof:name": "postcard: Japan Air Lines, United, Boeing 747, Honolulu International Airport, Diamond Head",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +231,5 @@
     -157.918416,
     21.332508
   ],
-  "geometry": {"coordinates":[[-157.918416,21.332508]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-157.918416,21.332508]]}
 }

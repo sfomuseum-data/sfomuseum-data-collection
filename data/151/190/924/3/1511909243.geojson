@@ -29,71 +29,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c0448f"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff43a4"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#ff43a4",
+          "name": "Wild Strawberry",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#c0448f",
+          "name": "Red Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5dc"
+          "hex": "#c71585",
+          "name": "mediumvioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#c71585"
+          "hex": "#ff69b4",
+          "name": "hotpink",
+          "reference": "css4"
         },
         {
-          "hex": "#ff69b4"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d5ccae"
+          "hex": "#201d19",
+          "name": "#201d19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ae3e8b"
+          "hex": "#d5ccae",
+          "name": "#d5ccae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fe5313"
+          "hex": "#fe5313",
+          "name": "#fe5313",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f437b8"
+          "hex": "#ae3e8b",
+          "name": "#ae3e8b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#faf0de"
+          "hex": "#f437b8",
+          "name": "#f437b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#201d19"
+          "hex": "#faf0de",
+          "name": "#faf0de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c42d29"
+          "hex": "#c42d29",
+          "name": "#c42d29",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +225,7 @@
       }
     ],
     "wof:id": 1511909243,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: Air West",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +243,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

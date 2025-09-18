@@ -29,80 +29,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#deaa88"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#800000"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a89875"
+          "hex": "#a89875",
+          "name": "#a89875",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdad45"
+          "hex": "#471d0b",
+          "name": "#471d0b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#471d0b"
+          "hex": "#e0cea9",
+          "name": "#e0cea9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc400c"
+          "hex": "#cdad45",
+          "name": "#cdad45",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0cea9"
+          "hex": "#cc400c",
+          "name": "#cc400c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e5241"
+          "hex": "#9e5241",
+          "name": "#9e5241",
+          "reference": "marekm4"
         },
         {
-          "hex": "#493e37"
+          "hex": "#493e37",
+          "name": "#493e37",
+          "reference": "marekm4"
         },
         {
-          "hex": "#beaf90"
+          "hex": "#beaf90",
+          "name": "#beaf90",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +231,7 @@
       }
     ],
     "wof:id": 1511941061,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Pacific Western Airlines (PWA) and Transair",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +249,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

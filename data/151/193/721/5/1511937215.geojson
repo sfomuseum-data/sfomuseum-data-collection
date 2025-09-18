@@ -33,74 +33,118 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b00f0e"
+          "hex": "#162872",
+          "name": "#162872",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d5a93"
+          "hex": "#ca0e10",
+          "name": "#ca0e10",
+          "reference": "marekm4"
         },
         {
-          "hex": "#454993"
+          "hex": "#cfc4b4",
+          "name": "#cfc4b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfc4b4"
+          "hex": "#b00f0e",
+          "name": "#b00f0e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ca0e10"
+          "hex": "#7a84a3",
+          "name": "#7a84a3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5c8b0"
+          "hex": "#d9cbb2",
+          "name": "#d9cbb2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e5496"
+          "hex": "#d5c8b0",
+          "name": "#d5c8b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc171a"
+          "hex": "#454993",
+          "name": "#454993",
+          "reference": "marekm4"
         },
         {
-          "hex": "#162872"
+          "hex": "#bc171a",
+          "name": "#bc171a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9cbb2"
+          "hex": "#4e5496",
+          "name": "#4e5496",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7a84a3"
+          "hex": "#4d5a93",
+          "name": "#4d5a93",
+          "reference": "marekm4"
         }
       ]
     },
@@ -212,7 +256,7 @@
       }
     ],
     "wof:id": 1511937215,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -230,5 +274,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

@@ -41,56 +41,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4d4343"
+          "hex": "#4d4343",
+          "name": "#4d4343",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b4b6b8"
+          "hex": "#afb0b2",
+          "name": "#afb0b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7b8bb"
+          "hex": "#4f4240",
+          "name": "#4f4240",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7b8ba"
+          "hex": "#564744",
+          "name": "#564744",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b3b5b7"
+          "hex": "#b7b8bb",
+          "name": "#b7b8bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#504441"
+          "hex": "#b7b8ba",
+          "name": "#b7b8ba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#afb0b2"
+          "hex": "#504849",
+          "name": "#504849",
+          "reference": "marekm4"
         },
         {
-          "hex": "#564744"
+          "hex": "#b4b6b8",
+          "name": "#b4b6b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f4240"
+          "hex": "#504441",
+          "name": "#504441",
+          "reference": "marekm4"
         },
         {
-          "hex": "#504849"
+          "hex": "#b3b5b7",
+          "name": "#b3b5b7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#463e3e"
+          "hex": "#463e3e",
+          "name": "#463e3e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -209,7 +241,7 @@
       }
     ],
     "wof:id": 1511906747,
-    "wof:lastmodified": 1758181394,
+    "wof:lastmodified": 1758233601,
     "wof:name": "model airplane: Pan American World Airways, Boeing 707-320",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -227,5 +259,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

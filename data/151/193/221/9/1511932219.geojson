@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#d98695"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ee204d"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#d98695",
+          "name": "Shimmering Blush",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffb6c1"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#ffb6c1",
+          "name": "lightpink",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#261a25"
+          "hex": "#d4152d",
+          "name": "#d4152d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4152d"
+          "hex": "#e8bac3",
+          "name": "#e8bac3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8bac3"
+          "hex": "#df768b",
+          "name": "#df768b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#df768b"
+          "hex": "#261a25",
+          "name": "#261a25",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511932219,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Eastern Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

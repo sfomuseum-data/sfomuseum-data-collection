@@ -25,41 +25,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#eceabe"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#69664d"
+          "hex": "#69664d",
+          "name": "#69664d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfd7b5"
+          "hex": "#918e72",
+          "name": "#918e72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#918e72"
+          "hex": "#e3dbb9",
+          "name": "#e3dbb9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3dbb9"
+          "hex": "#dfd7b5",
+          "name": "#dfd7b5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +178,7 @@
       }
     ],
     "wof:id": 1762827979,
-    "wof:lastmodified": 1758181334,
+    "wof:lastmodified": 1758233685,
     "wof:name": "correspondence: City of San Mateo, proposed airport site",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +195,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

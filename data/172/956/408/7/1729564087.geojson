@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#324ab2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#333336"
+          "hex": "#d4d3c8",
+          "name": "#d4d3c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4d3c8"
+          "hex": "#4e58a9",
+          "name": "#4e58a9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e58a9"
+          "hex": "#333336",
+          "name": "#333336",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +170,7 @@
       }
     ],
     "wof:id": 1729564087,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "airmail flight cover order form: Qantas Empire Airways, Boeing 707",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +188,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -32,83 +32,133 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#bf4f51"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ad3a2c"
+          "hex": "#483f34",
+          "name": "#483f34",
+          "reference": "marekm4"
         },
         {
-          "hex": "#483f34"
+          "hex": "#a54b39",
+          "name": "#a54b39",
+          "reference": "marekm4"
         },
         {
-          "hex": "#34222c"
+          "hex": "#ad3a2c",
+          "name": "#ad3a2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#352927"
+          "hex": "#352927",
+          "name": "#352927",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d2cec9"
+          "hex": "#5d6faf",
+          "name": "#5d6faf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c79a5f"
+          "hex": "#c6b853",
+          "name": "#c6b853",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5d6faf"
+          "hex": "#dbd3ca",
+          "name": "#dbd3ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ded7d0"
+          "hex": "#34222c",
+          "name": "#34222c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a54b39"
+          "hex": "#ded7d0",
+          "name": "#ded7d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbd3ca"
+          "hex": "#c79a5f",
+          "name": "#c79a5f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c6b853"
+          "hex": "#d2cec9",
+          "name": "#d2cec9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -178,7 +228,7 @@
       }
     ],
     "wof:id": 1914555719,
-    "wof:lastmodified": 1758181390,
+    "wof:lastmodified": 1758233770,
     "wof:name": "safety information card: Metrojet / US Airways, Boeing 737-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +245,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

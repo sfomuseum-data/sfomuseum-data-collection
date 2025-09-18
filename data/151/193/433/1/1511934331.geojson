@@ -29,83 +29,133 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#daa520"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d70906"
+          "hex": "#213a96",
+          "name": "#213a96",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2e1de"
+          "hex": "#4c628c",
+          "name": "#4c628c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4c628c"
+          "hex": "#e2e1de",
+          "name": "#e2e1de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#16152b"
+          "hex": "#16152b",
+          "name": "#16152b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302734"
+          "hex": "#d4d0cb",
+          "name": "#d4d0cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c94418"
+          "hex": "#d70906",
+          "name": "#d70906",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d09723"
+          "hex": "#d09723",
+          "name": "#d09723",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4d0cb"
+          "hex": "#c94418",
+          "name": "#c94418",
+          "reference": "marekm4"
         },
         {
-          "hex": "#213a96"
+          "hex": "#302734",
+          "name": "#302734",
+          "reference": "marekm4"
         }
       ]
     },
@@ -187,7 +237,7 @@
       }
     ],
     "wof:id": 1511934331,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: Southwest Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -205,5 +255,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

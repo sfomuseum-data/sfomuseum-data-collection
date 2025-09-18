@@ -32,62 +32,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#eee8aa"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#eee8aa",
+          "name": "palegoldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfdccc"
+          "hex": "#dbcca4",
+          "name": "#dbcca4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a9a36f"
+          "hex": "#594d20",
+          "name": "#594d20",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbcca4"
+          "hex": "#758b70",
+          "name": "#758b70",
+          "reference": "marekm4"
         },
         {
-          "hex": "#758b70"
+          "hex": "#8a6d33",
+          "name": "#8a6d33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#594d20"
+          "hex": "#a9a36f",
+          "name": "#a9a36f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a6d33"
+          "hex": "#dfdccc",
+          "name": "#dfdccc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -189,7 +225,7 @@
       }
     ],
     "wof:id": 1762685293,
-    "wof:lastmodified": 1758181326,
+    "wof:lastmodified": 1758233667,
     "wof:name": "postcard: Newark Airport, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -206,5 +242,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

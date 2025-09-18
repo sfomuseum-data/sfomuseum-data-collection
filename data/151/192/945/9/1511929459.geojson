@@ -26,35 +26,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#da1912"
+          "hex": "#da1912",
+          "name": "#da1912",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26282f"
+          "hex": "#26282f",
+          "name": "#26282f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6d6c7"
+          "hex": "#e6d6c7",
+          "name": "#e6d6c7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -133,7 +151,7 @@
       }
     ],
     "wof:id": 1511929459,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233618,
     "wof:name": "ticket jacket: Northwest Orient",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -151,5 +169,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

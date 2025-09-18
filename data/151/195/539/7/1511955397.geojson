@@ -29,62 +29,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#fc6c85"
+          "hex": "#fc6c85",
+          "name": "Wild Watermelon",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fff0f5"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f08080",
+          "name": "lightcoral",
+          "reference": "css4"
         },
         {
-          "hex": "#f08080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#fff0f5",
+          "name": "lavenderblush",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e87986"
+          "hex": "#33323d",
+          "name": "#33323d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272317"
+          "hex": "#272317",
+          "name": "#272317",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d12925"
+          "hex": "#d12925",
+          "name": "#d12925",
+          "reference": "marekm4"
         },
         {
-          "hex": "#33323d"
+          "hex": "#f2ead9",
+          "name": "#f2ead9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fcf5f4"
+          "hex": "#fcf5f4",
+          "name": "#fcf5f4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2ead9"
+          "hex": "#e87986",
+          "name": "#e87986",
+          "reference": "marekm4"
         }
       ]
     },
@@ -167,7 +203,7 @@
       }
     ],
     "wof:id": 1511955397,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "timetable: WestAir",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +221,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

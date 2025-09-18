@@ -29,62 +29,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5f5"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#b8860b"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#b8860b",
+          "name": "darkgoldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f6f5f4"
+          "hex": "#f6f5f4",
+          "name": "#f6f5f4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0dacd"
+          "hex": "#c6870e",
+          "name": "#c6870e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1406"
+          "hex": "#ac6900",
+          "name": "#ac6900",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c6870e"
+          "hex": "#bc7802",
+          "name": "#bc7802",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ac6900"
+          "hex": "#c49a40",
+          "name": "#c49a40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c49a40"
+          "hex": "#e0dacd",
+          "name": "#e0dacd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#38230d"
+          "hex": "#38230d",
+          "name": "#38230d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc7802"
+          "hex": "#1e1406",
+          "name": "#1e1406",
+          "reference": "marekm4"
         }
       ]
     },
@@ -166,7 +202,7 @@
       }
     ],
     "wof:id": 1511934427,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: Swift Aire Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -184,5 +220,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

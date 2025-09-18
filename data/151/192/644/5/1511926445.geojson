@@ -35,50 +35,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6e82ae"
+          "hex": "#857b8f",
+          "name": "#857b8f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfbec9"
+          "hex": "#6e82ae",
+          "name": "#6e82ae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f75a5"
+          "hex": "#353340",
+          "name": "#353340",
+          "reference": "marekm4"
         },
         {
-          "hex": "#353340"
+          "hex": "#bfbec9",
+          "name": "#bfbec9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857b8f"
+          "hex": "#5f75a5",
+          "name": "#5f75a5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +211,7 @@
       }
     ],
     "wof:id": 1511926445,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: EVA (Evergreen Airways), Boeing 747-200, Los Angeles International Airport (LAX)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +229,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

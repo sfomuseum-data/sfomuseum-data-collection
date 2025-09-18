@@ -35,53 +35,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#895f68"
+          "hex": "#d7c6d0",
+          "name": "#d7c6d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#676692"
+          "hex": "#895f68",
+          "name": "#895f68",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e748d"
+          "hex": "#4b3a46",
+          "name": "#4b3a46",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7c6d0"
+          "hex": "#8e748d",
+          "name": "#8e748d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b3a46"
+          "hex": "#676692",
+          "name": "#676692",
+          "reference": "marekm4"
         }
       ]
     },
@@ -191,7 +221,7 @@
       }
     ],
     "wof:id": 1511926573,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Air Koryo, Ilyushin Il-62M, Beijing Capital International Airport (PEK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -209,5 +239,5 @@
     116.586155,
     40.068469
   ],
-  "geometry": {"coordinates":[[116.586155,40.068469]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[116.586155,40.068469]]}
 }

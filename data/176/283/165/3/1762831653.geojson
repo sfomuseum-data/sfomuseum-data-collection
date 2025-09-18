@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#58427c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2a2d0"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5a628f"
+          "hex": "#9ba1c2",
+          "name": "#9ba1c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e3a4a"
+          "hex": "#857a92",
+          "name": "#857a92",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9ba1c2"
+          "hex": "#7a8aba",
+          "name": "#7a8aba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857a92"
+          "hex": "#3e3a4a",
+          "name": "#3e3a4a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7a8aba"
+          "hex": "#5a628f",
+          "name": "#5a628f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -193,7 +223,7 @@
       }
     ],
     "wof:id": 1762831653,
-    "wof:lastmodified": 1758181338,
+    "wof:lastmodified": 1758233690,
     "wof:name": "slide: Alaska Airlines, Boeing 737-800, San Jose International Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -210,5 +240,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

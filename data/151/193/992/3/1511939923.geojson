@@ -40,56 +40,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#adaeaf"
+          "hex": "#524441",
+          "name": "#524441",
+          "reference": "marekm4"
         },
         {
-          "hex": "#534542"
+          "hex": "#504441",
+          "name": "#504441",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aeaeaf"
+          "hex": "#4f413e",
+          "name": "#4f413e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aeafaf"
+          "hex": "#aeaeaf",
+          "name": "#aeaeaf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#534743"
+          "hex": "#aeafb0",
+          "name": "#aeafb0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#504441"
+          "hex": "#534743",
+          "name": "#534743",
+          "reference": "marekm4"
         },
         {
-          "hex": "#adaeae"
+          "hex": "#534542",
+          "name": "#534542",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aeafb0"
+          "hex": "#adaeaf",
+          "name": "#adaeaf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#524441"
+          "hex": "#adaeae",
+          "name": "#adaeae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#584945"
+          "hex": "#aeafaf",
+          "name": "#aeafaf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f413e"
+          "hex": "#584945",
+          "name": "#584945",
+          "reference": "marekm4"
         }
       ]
     },
@@ -188,7 +220,7 @@
       }
     ],
     "wof:id": 1511939923,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233632,
     "wof:name": "model airplane: Mohawk Airlines, Convair 240 ",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -206,5 +238,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

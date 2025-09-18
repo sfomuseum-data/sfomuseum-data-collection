@@ -31,50 +31,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffae42"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#eee8aa"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#eee8aa",
+          "name": "palegoldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#af3510"
+          "hex": "#e0d4ab",
+          "name": "#e0d4ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0d4ab"
+          "hex": "#af3510",
+          "name": "#af3510",
+          "reference": "marekm4"
         },
         {
-          "hex": "#081474"
+          "hex": "#081474",
+          "name": "#081474",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbbe47"
+          "hex": "#dbbe47",
+          "name": "#dbbe47",
+          "reference": "marekm4"
         },
         {
-          "hex": "#051f89"
+          "hex": "#051f89",
+          "name": "#051f89",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +202,7 @@
       }
     ],
     "wof:id": 1511951141,
-    "wof:lastmodified": 1758181302,
+    "wof:lastmodified": 1758233647,
     "wof:name": "brochure: Mid Pacific Air, Hawaii",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +220,5 @@
     -157.918416,
     21.332508
   ],
-  "geometry": {"coordinates":[[-157.918416,21.332508]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-157.918416,21.332508]]}
 }

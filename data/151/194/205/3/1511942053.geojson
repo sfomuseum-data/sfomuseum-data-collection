@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b4b1af"
+          "hex": "#d85f05",
+          "name": "#d85f05",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d85f05"
+          "hex": "#b4b1af",
+          "name": "#b4b1af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#44372c"
+          "hex": "#44372c",
+          "name": "#44372c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -131,7 +149,7 @@
       }
     ],
     "wof:id": 1511942053,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233635,
     "wof:name": "playing cards: CP Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -149,5 +167,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

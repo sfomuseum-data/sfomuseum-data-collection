@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e9e4d1"
+          "hex": "#301516",
+          "name": "#301516",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdaf49"
+          "hex": "#252421",
+          "name": "#252421",
+          "reference": "marekm4"
         },
         {
-          "hex": "#19469a"
+          "hex": "#cdaf49",
+          "name": "#cdaf49",
+          "reference": "marekm4"
         },
         {
-          "hex": "#301516"
+          "hex": "#e9e7df",
+          "name": "#e9e7df",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e7df"
+          "hex": "#e9e4d1",
+          "name": "#e9e4d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a74831"
+          "hex": "#19469a",
+          "name": "#19469a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252421"
+          "hex": "#a74831",
+          "name": "#a74831",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +196,7 @@
       }
     ],
     "wof:id": 1511938725,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: Wien Air Alaska",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

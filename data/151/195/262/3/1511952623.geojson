@@ -29,68 +29,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#00008b",
+          "name": "darkblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#00008b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ee0e04"
+          "hex": "#1b191f",
+          "name": "#1b191f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0c0e8a"
+          "hex": "#ebe9e1",
+          "name": "#ebe9e1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe9e1"
+          "hex": "#0c0e8a",
+          "name": "#0c0e8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#030358"
+          "hex": "#030358",
+          "name": "#030358",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbdbd7"
+          "hex": "#ee0e04",
+          "name": "#ee0e04",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6263a3"
+          "hex": "#6263a3",
+          "name": "#6263a3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b191f"
+          "hex": "#dbdbd7",
+          "name": "#dbdbd7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -172,7 +212,7 @@
       }
     ],
     "wof:id": 1511952623,
-    "wof:lastmodified": 1758181304,
+    "wof:lastmodified": 1758233648,
     "wof:name": "route map: Qantas Empire Airways, Sydney to Singapore",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -190,5 +230,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

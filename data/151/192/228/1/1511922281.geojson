@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e6e6dc"
+          "hex": "#e6e6dc",
+          "name": "#e6e6dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#293044"
+          "hex": "#5f6e8a",
+          "name": "#5f6e8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f6e8a"
+          "hex": "#293044",
+          "name": "#293044",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +172,7 @@
       }
     ],
     "wof:id": 1511922281,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233611,
     "wof:name": "promotional aircraft print: United Airlines, Stinson SM-8A Junior, 1931-1933",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +190,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd9575"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#463c40"
+          "hex": "#47362e",
+          "name": "#47362e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbc7ae"
+          "hex": "#c59071",
+          "name": "#c59071",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c59071"
+          "hex": "#463c40",
+          "name": "#463c40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c14838"
+          "hex": "#dbc7ae",
+          "name": "#dbc7ae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9c4ab"
+          "hex": "#d9c4ab",
+          "name": "#d9c4ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47362e"
+          "hex": "#c14838",
+          "name": "#c14838",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +187,7 @@
       }
     ],
     "wof:id": 1511954345,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American Airways, 1946 airmail test",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +205,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

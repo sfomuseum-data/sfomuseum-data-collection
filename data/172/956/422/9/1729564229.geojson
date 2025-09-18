@@ -31,53 +31,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#fae7b5"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#fae7b5",
+          "name": "Banana Mania",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff0000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#710d1a"
+          "hex": "#fe1620",
+          "name": "#fe1620",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9d0d22"
+          "hex": "#e1e0d6",
+          "name": "#e1e0d6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fee7c4"
+          "hex": "#9d0d22",
+          "name": "#9d0d22",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1e0d6"
+          "hex": "#fee7c4",
+          "name": "#fee7c4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fe1620"
+          "hex": "#710d1a",
+          "name": "#710d1a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +181,7 @@
       }
     ],
     "wof:id": 1729564229,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233655,
     "wof:name": "training manual: TWA (Trans World Airlines), Lockheed L-1011 TriStar, Boeing 747 and 767",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +199,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

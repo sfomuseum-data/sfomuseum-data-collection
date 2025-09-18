@@ -23,59 +23,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bc8f8f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8c9a3"
+          "hex": "#b40e03",
+          "name": "#b40e03",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b40e03"
+          "hex": "#dacba5",
+          "name": "#dacba5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#081a40"
+          "hex": "#202f45",
+          "name": "#202f45",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b01c0f"
+          "hex": "#b01c0f",
+          "name": "#b01c0f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a29472"
+          "hex": "#081a40",
+          "name": "#081a40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#202f45"
+          "hex": "#a29472",
+          "name": "#a29472",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dacba5"
+          "hex": "#d8c9a3",
+          "name": "#d8c9a3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -148,7 +182,7 @@
       }
     ],
     "wof:id": 1511953409,
-    "wof:lastmodified": 1758181306,
+    "wof:lastmodified": 1758233649,
     "wof:name": "airmail flight cover: United States Air Mail",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -166,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e6a8d7"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#e6a8d7",
+          "name": "Orchid",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d8bfd8"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c2938"
+          "hex": "#52508a",
+          "name": "#52508a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dcb6d6"
+          "hex": "#dcb6d6",
+          "name": "#dcb6d6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#52508a"
+          "hex": "#2c2938",
+          "name": "#2c2938",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +189,7 @@
       }
     ],
     "wof:id": 1511926647,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Delta Connection, Dornier DO 328J, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +207,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

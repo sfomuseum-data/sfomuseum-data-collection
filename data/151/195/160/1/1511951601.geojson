@@ -23,53 +23,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#fff5ee",
+          "name": "seashell",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#fff5ee"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f9f5ed"
+          "hex": "#e53225",
+          "name": "#e53225",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e53225"
+          "hex": "#1e1f40",
+          "name": "#1e1f40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dc3837"
+          "hex": "#251e3f",
+          "name": "#251e3f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1f40"
+          "hex": "#f6f2ea",
+          "name": "#f6f2ea",
+          "reference": "marekm4"
         },
         {
-          "hex": "#251e3f"
+          "hex": "#dc3837",
+          "name": "#dc3837",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f6f2ea"
+          "hex": "#f9f5ed",
+          "name": "#f9f5ed",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +172,7 @@
       }
     ],
     "wof:id": 1511951601,
-    "wof:lastmodified": 1758181303,
+    "wof:lastmodified": 1758233647,
     "wof:name": "airmail flight cover: AM-31, first jet airmail flight, San Francisco - Atlanta route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +190,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

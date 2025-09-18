@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#edd19c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cac0aa"
+          "hex": "#708799",
+          "name": "#708799",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfcfab"
+          "hex": "#906960",
+          "name": "#906960",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f2f24"
+          "hex": "#3e4454",
+          "name": "#3e4454",
+          "reference": "marekm4"
         },
         {
-          "hex": "#708799"
+          "hex": "#4f6d92",
+          "name": "#4f6d92",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f6d92"
+          "hex": "#cac0aa",
+          "name": "#cac0aa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e4454"
+          "hex": "#dfcfab",
+          "name": "#dfcfab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#906960"
+          "hex": "#2f2f24",
+          "name": "#2f2f24",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +209,7 @@
       }
     ],
     "wof:id": 1729564355,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233655,
     "wof:name": "postcard and passenger flight record: Transcontinental \u0026 Western Air (TWA), Boeing 307 Stratoliner",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +227,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -24,41 +24,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4e4e3f"
+          "hex": "#4e4e3f",
+          "name": "#4e4e3f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b4ab88"
+          "hex": "#979273",
+          "name": "#979273",
+          "reference": "marekm4"
         },
         {
-          "hex": "#827d63"
+          "hex": "#b4ab88",
+          "name": "#b4ab88",
+          "reference": "marekm4"
         },
         {
-          "hex": "#979273"
+          "hex": "#827d63",
+          "name": "#827d63",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +177,7 @@
       }
     ],
     "wof:id": 1762829921,
-    "wof:lastmodified": 1758181337,
+    "wof:lastmodified": 1758233687,
     "wof:name": "photograph: San Francisco International Airport (SFO), Terminal Building construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +194,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

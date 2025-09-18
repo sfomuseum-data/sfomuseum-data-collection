@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffa343"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#ff7f50"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff7f50",
+          "name": "coral",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dedcd7"
+          "hex": "#161819",
+          "name": "#161819",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2973c"
+          "hex": "#f2973c",
+          "name": "#f2973c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1542d"
+          "hex": "#d1542d",
+          "name": "#d1542d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#161819"
+          "hex": "#dedcd7",
+          "name": "#dedcd7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511938813,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: Air Canada",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -35,38 +35,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bebcb8"
+          "hex": "#718294",
+          "name": "#718294",
+          "reference": "marekm4"
         },
         {
-          "hex": "#718294"
+          "hex": "#6c7b87",
+          "name": "#6c7b87",
+          "reference": "marekm4"
         },
         {
-          "hex": "#43433b"
+          "hex": "#43433b",
+          "name": "#43433b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c7b87"
+          "hex": "#bebcb8",
+          "name": "#bebcb8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -170,7 +190,7 @@
       }
     ],
     "wof:id": 1511926303,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Lufthansa German Airlines, Airbus A321-100, Frankfurt Airport (FRA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +208,5 @@
     7.267284,
     49.945918
   ],
-  "geometry": {"coordinates":[[7.267284,49.945918]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[7.267284,49.945918]]}
 }

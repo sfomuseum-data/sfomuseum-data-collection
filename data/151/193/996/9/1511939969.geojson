@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6495ed"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0e0e6"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b0e0e6",
+          "name": "powderblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#242748"
+          "hex": "#61aff2",
+          "name": "#61aff2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#61aff2"
+          "hex": "#c8e1f1",
+          "name": "#c8e1f1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c8e1f1"
+          "hex": "#242748",
+          "name": "#242748",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511939969,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: LOT (Polish Airlines), winter schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

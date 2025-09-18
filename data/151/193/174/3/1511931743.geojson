@@ -26,35 +26,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2b48c"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d2c0a2"
+          "hex": "#b59e79",
+          "name": "#b59e79",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a2b24"
+          "hex": "#3a2b24",
+          "name": "#3a2b24",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b59e79"
+          "hex": "#d2c0a2",
+          "name": "#d2c0a2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -133,7 +151,7 @@
       }
     ],
     "wof:id": 1511931743,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "airmail flight cover: U.S. Navy Seaplane, Hilo to Pearl Harbor Flight, San Francisco - Hawaii, January 18, 1934",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -151,5 +169,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

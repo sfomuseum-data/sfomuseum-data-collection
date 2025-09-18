@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bab86c"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#76a9c4"
+          "hex": "#8e7442",
+          "name": "#8e7442",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5b638a"
+          "hex": "#ad9b53",
+          "name": "#ad9b53",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ad9b53"
+          "hex": "#e7dcc4",
+          "name": "#e7dcc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7dcc4"
+          "hex": "#76a9c4",
+          "name": "#76a9c4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0d6ce"
+          "hex": "#d0d6ce",
+          "name": "#d0d6ce",
+          "reference": "marekm4"
         },
         {
-          "hex": "#464e1c"
+          "hex": "#5b638a",
+          "name": "#5b638a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e7442"
+          "hex": "#464e1c",
+          "name": "#464e1c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -199,7 +241,7 @@
       }
     ],
     "wof:id": 1762682045,
-    "wof:lastmodified": 1758181320,
+    "wof:lastmodified": 1758233663,
     "wof:name": "postcard: American Air Lines, Douglas DC-3,Kansas City Municipal Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -216,5 +258,5 @@
     -94.716176,
     39.304107
   ],
-  "geometry": {"coordinates":[[-94.716176,39.304107]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-94.716176,39.304107]]}
 }

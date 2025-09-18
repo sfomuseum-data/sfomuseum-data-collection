@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d4cbab"
+          "hex": "#857b59",
+          "name": "#857b59",
+          "reference": "marekm4"
         },
         {
-          "hex": "#605839"
+          "hex": "#9e946d",
+          "name": "#9e946d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e946d"
+          "hex": "#605839",
+          "name": "#605839",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857b59"
+          "hex": "#d4cbab",
+          "name": "#d4cbab",
+          "reference": "marekm4"
         }
       ]
     },
@@ -129,7 +153,7 @@
       }
     ],
     "wof:id": 1511942453,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233635,
     "wof:name": "photograph: San Francisco Bay Area aerial, San Francisco piers",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -147,5 +171,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

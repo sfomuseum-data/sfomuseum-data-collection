@@ -28,38 +28,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#054089"
+          "hex": "#054089",
+          "name": "#054089",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8dfc8"
+          "hex": "#e8dfc8",
+          "name": "#e8dfc8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d51013"
+          "hex": "#0d3168",
+          "name": "#0d3168",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0d3168"
+          "hex": "#d51013",
+          "name": "#d51013",
+          "reference": "marekm4"
         }
       ]
     },
@@ -137,7 +157,7 @@
       }
     ],
     "wof:id": 1511937623,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +175,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

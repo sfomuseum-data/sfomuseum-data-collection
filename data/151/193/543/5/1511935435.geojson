@@ -28,101 +28,163 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b4674d"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#b4674d",
+          "name": "Brown",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#afc5d2"
+          "hex": "#e8e5d9",
+          "name": "#e8e5d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c34237"
+          "hex": "#72a4cf",
+          "name": "#72a4cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8e5d9"
+          "hex": "#124d92",
+          "name": "#124d92",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7e0d2"
+          "hex": "#ba5d42",
+          "name": "#ba5d42",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5b95c5"
+          "hex": "#6396c6",
+          "name": "#6396c6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#15519b"
+          "hex": "#15519b",
+          "name": "#15519b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6396c6"
+          "hex": "#c34237",
+          "name": "#c34237",
+          "reference": "marekm4"
         },
         {
-          "hex": "#123260"
+          "hex": "#123260",
+          "name": "#123260",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b3142"
+          "hex": "#1b3257",
+          "name": "#1b3257",
+          "reference": "marekm4"
         },
         {
-          "hex": "#124d92"
+          "hex": "#1d54a0",
+          "name": "#1d54a0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b3257"
+          "hex": "#e7e0d2",
+          "name": "#e7e0d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ba5d42"
+          "hex": "#afc5d2",
+          "name": "#afc5d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d54a0"
+          "hex": "#2b3142",
+          "name": "#2b3142",
+          "reference": "marekm4"
         },
         {
-          "hex": "#72a4cf"
+          "hex": "#5b95c5",
+          "name": "#5b95c5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -207,7 +269,7 @@
       }
     ],
     "wof:id": 1511935435,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "flight information booklet: Northwest Orient Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -225,5 +287,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

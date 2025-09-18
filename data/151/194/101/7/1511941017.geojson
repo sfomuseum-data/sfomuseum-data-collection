@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#de5d83"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#de5d83",
+          "name": "Blush",
+          "reference": "crayola"
         },
         {
-          "hex": "#c8385a"
+          "hex": "#c8385a",
+          "name": "Maroon",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8618f"
+          "hex": "#bf1a53",
+          "name": "#bf1a53",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf1a53"
+          "hex": "#1d2c16",
+          "name": "#1d2c16",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee5d7"
+          "hex": "#d8618f",
+          "name": "#d8618f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d2c16"
+          "hex": "#eee5d7",
+          "name": "#eee5d7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511941017,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Mexicana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

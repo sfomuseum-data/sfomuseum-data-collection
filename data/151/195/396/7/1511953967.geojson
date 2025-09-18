@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ccb6a2"
+          "hex": "#a09870",
+          "name": "#a09870",
+          "reference": "marekm4"
         },
         {
-          "hex": "#494a3a"
+          "hex": "#a18e78",
+          "name": "#a18e78",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a18e78"
+          "hex": "#383839",
+          "name": "#383839",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a09870"
+          "hex": "#494a3a",
+          "name": "#494a3a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#383839"
+          "hex": "#a75a47",
+          "name": "#a75a47",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4c1a4"
+          "hex": "#ccb6a2",
+          "name": "#ccb6a2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a75a47"
+          "hex": "#d4c1a4",
+          "name": "#d4c1a4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +186,7 @@
       }
     ],
     "wof:id": 1511953967,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American Airways, FAM-14, first airmail flight, Guam - Hong Kong route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +204,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

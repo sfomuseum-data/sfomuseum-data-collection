@@ -25,62 +25,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#0081ab"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#0081ab",
+          "name": "Steel Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1ca9c9"
+          "hex": "#1ca9c9",
+          "name": "Pacific Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3892c0"
+          "hex": "#0c0c0a",
+          "name": "#0c0c0a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#48422f"
+          "hex": "#eae2c8",
+          "name": "#eae2c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfdecd"
+          "hex": "#48422f",
+          "name": "#48422f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0879bf"
+          "hex": "#0879bf",
+          "name": "#0879bf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae2c8"
+          "hex": "#dfdecd",
+          "name": "#dfdecd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0c0c0a"
+          "hex": "#3892c0",
+          "name": "#3892c0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -167,7 +203,7 @@
       }
     ],
     "wof:id": 1762694619,
-    "wof:lastmodified": 1758181325,
+    "wof:lastmodified": 1758233678,
     "wof:name": "postcard: Palm Springs Municipal Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -184,5 +220,5 @@
     -116.506042,
     33.824619
   ],
-  "geometry": {"coordinates":[[-116.506042,33.824619]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-116.506042,33.824619]]}
 }

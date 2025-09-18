@@ -25,26 +25,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e5dac7"
+          "hex": "#e5dac7",
+          "name": "#e5dac7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f3531"
+          "hex": "#3f3531",
+          "name": "#3f3531",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +157,7 @@
       }
     ],
     "wof:id": 1511910193,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233606,
     "wof:name": "correspondence: South San Francisco Land and Improvement Company",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +175,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

@@ -30,53 +30,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5d93ac"
+          "hex": "#03548e",
+          "name": "#03548e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6193ac"
+          "hex": "#d6dcd6",
+          "name": "#d6dcd6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#04457b"
+          "hex": "#03518d",
+          "name": "#03518d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#03518d"
+          "hex": "#6193ac",
+          "name": "#6193ac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#03548e"
+          "hex": "#5d93ac",
+          "name": "#5d93ac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dedfd4"
+          "hex": "#04457b",
+          "name": "#04457b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6dcd6"
+          "hex": "#dedfd4",
+          "name": "#dedfd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#03427a"
+          "hex": "#03427a",
+          "name": "#03427a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +187,7 @@
       }
     ],
     "wof:id": 1729564879,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "brochure: British Commonwealth Pacific Airlines (BCPA), Douglas DC-6",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +205,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

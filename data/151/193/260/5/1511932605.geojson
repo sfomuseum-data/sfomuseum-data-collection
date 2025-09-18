@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffae42"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fff5ee"
+          "hex": "#fff5ee",
+          "name": "seashell",
+          "reference": "css4"
         },
         {
-          "hex": "#ffa500"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffa500",
+          "name": "orange",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ffa60a"
+          "hex": "#fe3e0f",
+          "name": "#fe3e0f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fe3e0f"
+          "hex": "#fbf6ec",
+          "name": "#fbf6ec",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fbf6ec"
+          "hex": "#ffa60a",
+          "name": "#ffa60a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#210c24"
+          "hex": "#210c24",
+          "name": "#210c24",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +169,7 @@
       }
     ],
     "wof:id": 1511932605,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Braniff International, fall schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +187,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

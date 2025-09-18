@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d8bfd8"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#d8bfd8",
+          "name": "thistle",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cdc1d3"
+          "hex": "#6975aa",
+          "name": "#6975aa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857a9d"
+          "hex": "#3b3540",
+          "name": "#3b3540",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6975aa"
+          "hex": "#6f80b4",
+          "name": "#6f80b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b3540"
+          "hex": "#cdc1d3",
+          "name": "#cdc1d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f80b4"
+          "hex": "#857a9d",
+          "name": "#857a9d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -175,7 +199,7 @@
       }
     ],
     "wof:id": 1762759463,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233681,
     "wof:name": "slide: Air France, Boeing 777-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +216,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

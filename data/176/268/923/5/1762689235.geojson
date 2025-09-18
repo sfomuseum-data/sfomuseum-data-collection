@@ -34,71 +34,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c0448f"
+          "hex": "#c0448f",
+          "name": "Red Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#968b73"
+          "hex": "#443440",
+          "name": "#443440",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2d7c6"
+          "hex": "#9b584a",
+          "name": "#9b584a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ab5294"
+          "hex": "#c4c9c2",
+          "name": "#c4c9c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9d8a73"
+          "hex": "#5b5247",
+          "name": "#5b5247",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5b5247"
+          "hex": "#9d8a73",
+          "name": "#9d8a73",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4c9c2"
+          "hex": "#968b73",
+          "name": "#968b73",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9b584a"
+          "hex": "#ab5294",
+          "name": "#ab5294",
+          "reference": "marekm4"
         },
         {
-          "hex": "#443440"
+          "hex": "#e2d7c6",
+          "name": "#e2d7c6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -204,7 +246,7 @@
       }
     ],
     "wof:id": 1762689235,
-    "wof:lastmodified": 1758181333,
+    "wof:lastmodified": 1758233672,
     "wof:name": "postcard: Los Angeles International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -221,5 +263,5 @@
     -118.38951,
     33.942593
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

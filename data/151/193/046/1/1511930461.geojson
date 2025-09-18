@@ -31,53 +31,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#fefe22"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fefe22",
+          "name": "Laser Lemon",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ffd700"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b94f1a"
+          "hex": "#ecd911",
+          "name": "#ecd911",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a90b1"
+          "hex": "#b94f1a",
+          "name": "#b94f1a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ecd911"
+          "hex": "#b9bac0",
+          "name": "#b9bac0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#373f1c"
+          "hex": "#373f1c",
+          "name": "#373f1c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b9bac0"
+          "hex": "#6a90b1",
+          "name": "#6a90b1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +189,7 @@
       }
     ],
     "wof:id": 1511930461,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "tourist information: Aloha Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +207,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -34,50 +34,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5a5749"
+          "hex": "#5a5749",
+          "name": "#5a5749",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3d6b4"
+          "hex": "#998f72",
+          "name": "#998f72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e7357"
+          "hex": "#e3d6b4",
+          "name": "#e3d6b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b7b59e"
+          "hex": "#9e7357",
+          "name": "#9e7357",
+          "reference": "marekm4"
         },
         {
-          "hex": "#998f72"
+          "hex": "#b7b59e",
+          "name": "#b7b59e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +212,7 @@
       }
     ],
     "wof:id": 1762692007,
-    "wof:lastmodified": 1758181321,
+    "wof:lastmodified": 1758233675,
     "wof:name": "postcard: Pan American Airways, Boeing 314, LaGuardia Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +229,5 @@
     -73.875778,
     40.774956
   ],
-  "geometry": {"coordinates":[[-73.875778,40.774956]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.875778,40.774956]]}
 }

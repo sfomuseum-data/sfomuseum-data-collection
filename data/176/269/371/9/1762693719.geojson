@@ -25,80 +25,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eee4cb"
+          "hex": "#121815",
+          "name": "#121815",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5293ae"
+          "hex": "#14639a",
+          "name": "#14639a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfd1c4"
+          "hex": "#948c72",
+          "name": "#948c72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121815"
+          "hex": "#5293ae",
+          "name": "#5293ae",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a7290d"
+          "hex": "#eee4cb",
+          "name": "#eee4cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#14639a"
+          "hex": "#5a5238",
+          "name": "#5a5238",
+          "reference": "marekm4"
         },
         {
-          "hex": "#948c72"
+          "hex": "#cfd1c4",
+          "name": "#cfd1c4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a5238"
+          "hex": "#a7290d",
+          "name": "#a7290d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -187,7 +235,7 @@
       }
     ],
     "wof:id": 1762693719,
-    "wof:lastmodified": 1758181324,
+    "wof:lastmodified": 1758233677,
     "wof:name": "postcard: Ontario International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -204,5 +252,5 @@
     -117.587749,
     34.059934
   ],
-  "geometry": {"coordinates":[[-117.587749,34.059934]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-117.587749,34.059934]]}
 }

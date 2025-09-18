@@ -25,8 +25,8 @@
       1159288091
     ],
     "millsfield:exhibition_ids": [
-      1914632803,
       1896874709,
+      1914632803,
       1947305541
     ],
     "millsfield:images": [
@@ -37,98 +37,158 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bf4f51"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d0cecd"
+          "hex": "#ad443f",
+          "name": "#ad443f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#87837c"
+          "hex": "#948671",
+          "name": "#948671",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a09f98"
+          "hex": "#97968e",
+          "name": "#97968e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a71e1d"
+          "hex": "#b8925c",
+          "name": "#b8925c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97968e"
+          "hex": "#322124",
+          "name": "#322124",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ad443f"
+          "hex": "#a71e1d",
+          "name": "#a71e1d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#974932"
+          "hex": "#362c33",
+          "name": "#362c33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d1f1e"
+          "hex": "#974932",
+          "name": "#974932",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8925c"
+          "hex": "#d0cecd",
+          "name": "#d0cecd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#362c33"
+          "hex": "#2d1f1e",
+          "name": "#2d1f1e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#948671"
+          "hex": "#a09f98",
+          "name": "#a09f98",
+          "reference": "marekm4"
         },
         {
-          "hex": "#322124"
+          "hex": "#87837c",
+          "name": "#87837c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -229,7 +289,7 @@
       }
     ],
     "wof:id": 1880113547,
-    "wof:lastmodified": 1758181373,
+    "wof:lastmodified": 1758233745,
     "wof:name": "amenity kit: Virgin America, first class, Newark",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -246,5 +306,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

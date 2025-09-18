@@ -30,71 +30,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#926eae"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d2cbc0"
+          "hex": "#1c1f68",
+          "name": "#1c1f68",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1c1f68"
+          "hex": "#d2cbc0",
+          "name": "#d2cbc0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a6390"
+          "hex": "#d31319",
+          "name": "#d31319",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbd6df"
+          "hex": "#7a84a1",
+          "name": "#7a84a1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7a84a1"
+          "hex": "#5a6390",
+          "name": "#5a6390",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d31319"
+          "hex": "#dbd6df",
+          "name": "#dbd6df",
+          "reference": "marekm4"
         },
         {
-          "hex": "#545996"
+          "hex": "#545996",
+          "name": "#545996",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b316b"
+          "hex": "#2b316b",
+          "name": "#2b316b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +219,7 @@
       }
     ],
     "wof:id": 1511938113,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: TWA (Trans World Airlines), New York Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +237,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

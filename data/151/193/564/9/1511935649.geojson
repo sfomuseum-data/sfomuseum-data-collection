@@ -31,44 +31,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#0a7e8c",
+          "name": "Metallic Seaweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#18a7b5"
+          "hex": "#18a7b5",
+          "name": "Teal Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#0a7e8c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#323135"
+          "hex": "#323135",
+          "name": "#323135",
+          "reference": "marekm4"
         },
         {
-          "hex": "#318ca2"
+          "hex": "#e0ddd2",
+          "name": "#e0ddd2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0ddd2"
+          "hex": "#1f7b96",
+          "name": "#1f7b96",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f7b96"
+          "hex": "#318ca2",
+          "name": "#318ca2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +176,7 @@
       }
     ],
     "wof:id": 1511935649,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "timetable: Air California",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +194,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,80 +29,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#faa76c",
+          "name": "Tan",
+          "reference": "crayola"
         },
         {
-          "hex": "#319177"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#faa76c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#3cb371",
+          "name": "mediumseagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#3cb371"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#2e8b57",
+          "name": "seagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2e8b57"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#538e64"
+          "hex": "#8d3d36",
+          "name": "#8d3d36",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5b7ac"
+          "hex": "#e1a85f",
+          "name": "#e1a85f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4b6a8"
+          "hex": "#538e64",
+          "name": "#538e64",
+          "reference": "marekm4"
         },
         {
-          "hex": "#883531"
+          "hex": "#4b9071",
+          "name": "#4b9071",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b9071"
+          "hex": "#522d2c",
+          "name": "#522d2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2ac56"
+          "hex": "#4d2e28",
+          "name": "#4d2e28",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d3d36"
+          "hex": "#883531",
+          "name": "#883531",
+          "reference": "marekm4"
         },
         {
-          "hex": "#522d2c"
+          "hex": "#d5b7ac",
+          "name": "#d5b7ac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1a85f"
+          "hex": "#d4b6a8",
+          "name": "#d4b6a8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d2e28"
+          "hex": "#e2ac56",
+          "name": "#e2ac56",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +225,7 @@
       }
     ],
     "wof:id": 1729564761,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "flight information guide: Qantas Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +243,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

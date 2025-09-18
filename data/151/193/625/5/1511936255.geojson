@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#fff44f"
+          "hex": "#fff44f",
+          "name": "Lemon Yellow",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f0e68c"
+          "hex": "#ffffff",
+          "name": "white",
+          "reference": "css4"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#f0e68c",
+          "name": "khaki",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fffe4b"
+          "hex": "#fffe4b",
+          "name": "#fffe4b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6d686a"
+          "hex": "#6d686a",
+          "name": "#6d686a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fdfdfc"
+          "hex": "#fdfdfc",
+          "name": "#fdfdfc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511936255,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: Continental Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

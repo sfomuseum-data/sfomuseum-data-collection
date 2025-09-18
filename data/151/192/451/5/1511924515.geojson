@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ebe8de"
+          "hex": "#45588f",
+          "name": "#45588f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae7de"
+          "hex": "#424a68",
+          "name": "#424a68",
+          "reference": "marekm4"
         },
         {
-          "hex": "#424a68"
+          "hex": "#ebe8de",
+          "name": "#ebe8de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#404866"
+          "hex": "#eae7de",
+          "name": "#eae7de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#44578e"
+          "hex": "#404866",
+          "name": "#404866",
+          "reference": "marekm4"
         },
         {
-          "hex": "#45588f"
+          "hex": "#44578e",
+          "name": "#44578e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -150,7 +178,7 @@
       }
     ],
     "wof:id": 1511924515,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "airsickness bag: Delta Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -168,5 +196,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

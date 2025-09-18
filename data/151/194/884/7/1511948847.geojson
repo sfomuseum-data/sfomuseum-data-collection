@@ -25,50 +25,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#87a96b"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3f3e25"
+          "hex": "#6388bf",
+          "name": "#6388bf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfcbac"
+          "hex": "#9da363",
+          "name": "#9da363",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9da363"
+          "hex": "#5073b7",
+          "name": "#5073b7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6388bf"
+          "hex": "#3f3e25",
+          "name": "#3f3e25",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5073b7"
+          "hex": "#bfcbac",
+          "name": "#bfcbac",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +190,7 @@
       }
     ],
     "wof:id": 1511948847,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233644,
     "wof:name": "negative: San Francisco International Airport (SFO), noise abatement equipment",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +208,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

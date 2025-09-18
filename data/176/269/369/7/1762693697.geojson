@@ -24,41 +24,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2691e"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c66519"
+          "hex": "#e4e6dc",
+          "name": "#e4e6dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b0f14"
+          "hex": "#d89417",
+          "name": "#d89417",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d89417"
+          "hex": "#c66519",
+          "name": "#c66519",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4e6dc"
+          "hex": "#3b0f14",
+          "name": "#3b0f14",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +167,7 @@
       }
     ],
     "wof:id": 1762693697,
-    "wof:lastmodified": 1758181324,
+    "wof:lastmodified": 1758233677,
     "wof:name": "timetable: Reno Cannon International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +184,5 @@
     -119.772167,
     39.505219
   ],
-  "geometry": {"coordinates":[[-119.772167,39.505219]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-119.772167,39.505219]]}
 }

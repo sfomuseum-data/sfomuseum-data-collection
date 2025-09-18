@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#5d76cb"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#99906b"
+          "hex": "#99906b",
+          "name": "#99906b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f689f"
+          "hex": "#8b6f53",
+          "name": "#8b6f53",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cacecc"
+          "hex": "#5a8ab7",
+          "name": "#5a8ab7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a8ab7"
+          "hex": "#dfd5c5",
+          "name": "#dfd5c5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5b5a4d"
+          "hex": "#5f689f",
+          "name": "#5f689f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8b6f53"
+          "hex": "#5b5a4d",
+          "name": "#5b5a4d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfd5c5"
+          "hex": "#cacecc",
+          "name": "#cacecc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -201,7 +239,7 @@
       }
     ],
     "wof:id": 1762683503,
-    "wof:lastmodified": 1758181323,
+    "wof:lastmodified": 1758233665,
     "wof:name": "postcard: Eastern Air Lines, Douglas DC-3, Columbus (GA) airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -218,5 +256,5 @@
     -84.93882,
     32.51625
   ],
-  "geometry": {"coordinates":[[-84.93882,32.51625]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-84.93882,32.51625]]}
 }

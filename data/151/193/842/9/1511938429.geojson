@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fefe22"
+          "hex": "#fae7b5",
+          "name": "Banana Mania",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fae7b5"
+          "hex": "#fefe22",
+          "name": "Laser Lemon",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffff00"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#fffacd"
+          "hex": "#ffff00",
+          "name": "yellow",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#fffacd",
+          "name": "lemonchiffon",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fdfcbd"
+          "hex": "#fdfcbd",
+          "name": "#fdfcbd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fef025"
+          "hex": "#fe5705",
+          "name": "#fe5705",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252525"
+          "hex": "#fef025",
+          "name": "#fef025",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fe5705"
+          "hex": "#252525",
+          "name": "#252525",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511938429,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: Sunworld International Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

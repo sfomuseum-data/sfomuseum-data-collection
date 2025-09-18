@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#d68a59"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2add0"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#97a9bd"
+          "hex": "#7394b8",
+          "name": "#7394b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c7792"
+          "hex": "#5c7792",
+          "name": "#5c7792",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d49a4b"
+          "hex": "#333936",
+          "name": "#333936",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7394b8"
+          "hex": "#97a9bd",
+          "name": "#97a9bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#333936"
+          "hex": "#d49a4b",
+          "name": "#d49a4b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -188,7 +218,7 @@
       }
     ],
     "wof:id": 1762759743,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233682,
     "wof:name": "slide: AeroMexico, Boeing 757",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -205,5 +235,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

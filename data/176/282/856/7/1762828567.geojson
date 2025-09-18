@@ -26,62 +26,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         },
         {
-          "hex": "#319177"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2e8b57",
+          "name": "seagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2e8b57"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dddece"
+          "hex": "#dddece",
+          "name": "#dddece",
+          "reference": "marekm4"
         },
         {
-          "hex": "#221f16"
+          "hex": "#e1ded0",
+          "name": "#e1ded0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#363526"
+          "hex": "#221f16",
+          "name": "#221f16",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebebe8"
+          "hex": "#363526",
+          "name": "#363526",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a9344"
+          "hex": "#369545",
+          "name": "#369545",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1ded0"
+          "hex": "#ebebe8",
+          "name": "#ebebe8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#369545"
+          "hex": "#3a9344",
+          "name": "#3a9344",
+          "reference": "marekm4"
         },
         {
-          "hex": "#162415"
+          "hex": "#162415",
+          "name": "#162415",
+          "reference": "marekm4"
         }
       ]
     },
@@ -179,7 +215,7 @@
       }
     ],
     "wof:id": 1762828567,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233685,
     "wof:name": "timetable: Transportation Displays, Inc., San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -196,5 +232,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9f1918"
+          "hex": "#151457",
+          "name": "#151457",
+          "reference": "marekm4"
         },
         {
-          "hex": "#979395"
+          "hex": "#979395",
+          "name": "#979395",
+          "reference": "marekm4"
         },
         {
-          "hex": "#151457"
+          "hex": "#9f1918",
+          "name": "#9f1918",
+          "reference": "marekm4"
         }
       ]
     },
@@ -164,7 +182,7 @@
       }
     ],
     "wof:id": 1511933699,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Jet America Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -182,5 +200,5 @@
     -87.894364,
     41.983038
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-87.894364,41.983038]]}
 }

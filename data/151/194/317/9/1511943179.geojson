@@ -27,53 +27,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3b6c91"
+          "hex": "#6790a8",
+          "name": "#6790a8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#182e3d"
+          "hex": "#182e3d",
+          "name": "#182e3d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6790a8"
+          "hex": "#3b6c91",
+          "name": "#3b6c91",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfc8c3"
+          "hex": "#c51517",
+          "name": "#c51517",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c51517"
+          "hex": "#bfc8c3",
+          "name": "#bfc8c3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -207,7 +237,7 @@
       }
     ],
     "wof:id": 1511943179,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233636,
     "wof:name": "timetable: Port Authority of New York and New Jersey (Kennedy, La Guardia, Newark Airports)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -225,5 +255,5 @@
     -73.787845,
     40.774956
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286],[-73.875778,40.774956],[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286],[-73.875778,40.774956],[-74.177526,40.691243]]}
 }

@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1b2b58"
+          "hex": "#dcddd4",
+          "name": "#dcddd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#799da7"
+          "hex": "#1b2b58",
+          "name": "#1b2b58",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dcddd4"
+          "hex": "#d82210",
+          "name": "#d82210",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d82210"
+          "hex": "#799da7",
+          "name": "#799da7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +163,7 @@
       }
     ],
     "wof:id": 1729564825,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "luggage label: British Commonwealth Pacific Airlines (BCPA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

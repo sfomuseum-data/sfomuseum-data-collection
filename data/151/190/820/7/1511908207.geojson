@@ -28,26 +28,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#adacad"
+          "hex": "#47464a",
+          "name": "#47464a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47464a"
+          "hex": "#adacad",
+          "name": "#adacad",
+          "reference": "marekm4"
         }
       ]
     },
@@ -131,7 +143,7 @@
       }
     ],
     "wof:id": 1511908207,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233603,
     "wof:name": "amenity kit: Pan American World Airways, Clipper Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -149,5 +161,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

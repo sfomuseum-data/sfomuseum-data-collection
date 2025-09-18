@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faf0e6"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f1eade"
+          "hex": "#222120",
+          "name": "#222120",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f3efe9"
+          "hex": "#f1eade",
+          "name": "#f1eade",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302f2c"
+          "hex": "#f3efe9",
+          "name": "#f3efe9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0992a"
+          "hex": "#d0992a",
+          "name": "#d0992a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#222120"
+          "hex": "#302f2c",
+          "name": "#302f2c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +181,7 @@
       }
     ],
     "wof:id": 1511921485,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233611,
     "wof:name": "menu: Japan Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +199,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

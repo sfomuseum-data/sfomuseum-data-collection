@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#867961"
+          "hex": "#867961",
+          "name": "#867961",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c5a4f"
+          "hex": "#b3a669",
+          "name": "#b3a669",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9e0c1"
+          "hex": "#5c5a4f",
+          "name": "#5c5a4f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b3a669"
+          "hex": "#d9e0c1",
+          "name": "#d9e0c1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +186,7 @@
       }
     ],
     "wof:id": 1511948797,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233644,
     "wof:name": "negative: San Francisco International Airport (SFO), South Terminal, construction and maintenance",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +204,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

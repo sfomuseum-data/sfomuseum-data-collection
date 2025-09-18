@@ -27,77 +27,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#9aceeb",
+          "name": "Cornflower",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#9aceeb"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#87cefa"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#87cefa",
+          "name": "lightskyblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4b6699"
+          "hex": "#9dcdfe",
+          "name": "#9dcdfe",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b3bbcd"
+          "hex": "#2d5be3",
+          "name": "#2d5be3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e517a"
+          "hex": "#6e89b1",
+          "name": "#6e89b1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#140e2c"
+          "hex": "#140e2c",
+          "name": "#140e2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6392fb"
+          "hex": "#3e517a",
+          "name": "#3e517a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9dcdfe"
+          "hex": "#6392fb",
+          "name": "#6392fb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d5be3"
+          "hex": "#4b6699",
+          "name": "#4b6699",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6e89b1"
+          "hex": "#b3bbcd",
+          "name": "#b3bbcd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -224,7 +270,7 @@
       }
     ],
     "wof:id": 1511910413,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233607,
     "wof:name": "architectural drawing: Mills Field Municipal Airport of San Francisco, Letters on Roof of Hangar No. 1",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -242,5 +288,5 @@
     -122.370943,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]]}
 }

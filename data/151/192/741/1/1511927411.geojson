@@ -29,23 +29,33 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfddd5"
+          "hex": "#dfddd5",
+          "name": "#dfddd5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7d7d1"
+          "hex": "#d7d7d1",
+          "name": "#d7d7d1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -123,7 +133,7 @@
       }
     ],
     "wof:id": 1511927411,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233616,
     "wof:name": "airsickness bag: Crossair",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -141,5 +151,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

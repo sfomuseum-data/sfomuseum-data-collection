@@ -32,47 +32,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#daa520"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#fffaf0",
+          "name": "floralwhite",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#fffaf0"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e1a17"
+          "hex": "#130e0d",
+          "name": "#130e0d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#130e0d"
+          "hex": "#fdfcf3",
+          "name": "#fdfcf3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3e0d3"
+          "hex": "#e3e0d3",
+          "name": "#e3e0d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cb9930"
+          "hex": "#cb9930",
+          "name": "#cb9930",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fdfcf3"
+          "hex": "#1e1a17",
+          "name": "#1e1a17",
+          "reference": "marekm4"
         }
       ]
     },
@@ -175,7 +201,7 @@
       }
     ],
     "wof:id": 1511933567,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Golden West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -193,5 +219,5 @@
     -119.837133,
     34.427974
   ],
-  "geometry": {"coordinates":[[-119.837133,34.427974]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-119.837133,34.427974]]}
 }

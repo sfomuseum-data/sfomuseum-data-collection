@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#22212d"
+          "hex": "#6c6a8a",
+          "name": "#6c6a8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdc9d5"
+          "hex": "#22212d",
+          "name": "#22212d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857a92"
+          "hex": "#857a92",
+          "name": "#857a92",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c6a8a"
+          "hex": "#cdc9d5",
+          "name": "#cdc9d5",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +207,7 @@
       }
     ],
     "wof:id": 1762761215,
-    "wof:lastmodified": 1758181333,
+    "wof:lastmodified": 1758233684,
     "wof:name": "slide: Air China, Boeing 747-400, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -200,5 +224,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

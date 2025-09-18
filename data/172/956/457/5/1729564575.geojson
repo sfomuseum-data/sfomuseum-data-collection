@@ -32,77 +32,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#8fd400",
+          "name": "Sheen Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8fd400"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b0c4de"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#253c35"
+          "hex": "#bab0cd",
+          "name": "#bab0cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#727b8a"
+          "hex": "#727b8a",
+          "name": "#727b8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b01921"
+          "hex": "#ae171d",
+          "name": "#ae171d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bab0cd"
+          "hex": "#253c35",
+          "name": "#253c35",
+          "reference": "marekm4"
         },
         {
-          "hex": "#72798d"
+          "hex": "#263e39",
+          "name": "#263e39",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbc605"
+          "hex": "#b01921",
+          "name": "#b01921",
+          "reference": "marekm4"
         },
         {
-          "hex": "#263e39"
+          "hex": "#7c8393",
+          "name": "#7c8393",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ae171d"
+          "hex": "#cbc605",
+          "name": "#cbc605",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bbadd4"
+          "hex": "#bbadd4",
+          "name": "#bbadd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7c8393"
+          "hex": "#72798d",
+          "name": "#72798d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +230,7 @@
       }
     ],
     "wof:id": 1729564575,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "safety information card: TWA (Trans World Airlines), Boeing 747",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -202,5 +248,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

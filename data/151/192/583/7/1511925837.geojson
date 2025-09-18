@@ -29,38 +29,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#312e23"
+          "hex": "#e3e2d0",
+          "name": "#e3e2d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#232216"
+          "hex": "#e5e0ca",
+          "name": "#e5e0ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e0ca"
+          "hex": "#232216",
+          "name": "#232216",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3e2d0"
+          "hex": "#312e23",
+          "name": "#312e23",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +163,7 @@
       }
     ],
     "wof:id": 1511925837,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "timetable: TWA (Trans World Airlines), employee schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

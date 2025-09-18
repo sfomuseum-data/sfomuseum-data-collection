@@ -38,44 +38,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2d3030"
+          "hex": "#5774a0",
+          "name": "#5774a0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b96d4"
+          "hex": "#2d3030",
+          "name": "#2d3030",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5774a0"
+          "hex": "#adb9cc",
+          "name": "#adb9cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#adb9cc"
+          "hex": "#6b96d4",
+          "name": "#6b96d4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +187,7 @@
       }
     ],
     "wof:id": 1762831083,
-    "wof:lastmodified": 1758181336,
+    "wof:lastmodified": 1758233689,
     "wof:name": "slide: San Francisco International Airport (SFO), International Terminal",
     "wof:parent_id": 1762831083,
     "wof:placetype": "custom",
@@ -180,5 +204,5 @@
     -122.39194393158,
     37.615217260347
   ],
-  "geometry": {"coordinates":[[-122.39194393158,37.615217260347]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.39194393158,37.615217260347]]}
 }

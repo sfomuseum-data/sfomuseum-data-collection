@@ -34,47 +34,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2a2d0"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#737588"
+          "hex": "#46464b",
+          "name": "#46464b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e7374"
+          "hex": "#958a7a",
+          "name": "#958a7a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a2a4be"
+          "hex": "#737588",
+          "name": "#737588",
+          "reference": "marekm4"
         },
         {
-          "hex": "#46464b"
+          "hex": "#8e7374",
+          "name": "#8e7374",
+          "reference": "marekm4"
         },
         {
-          "hex": "#958a7a"
+          "hex": "#a2a4be",
+          "name": "#a2a4be",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +220,7 @@
       }
     ],
     "wof:id": 1762760827,
-    "wof:lastmodified": 1758181332,
+    "wof:lastmodified": 1758233683,
     "wof:name": "slide: American Champion (AirCal), Boeing 737-300, San Jose Airport (SJC)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -211,5 +237,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

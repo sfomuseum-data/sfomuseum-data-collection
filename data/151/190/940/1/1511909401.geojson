@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#e9967a"
+          "hex": "#e9967a",
+          "name": "darksalmon",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1d1b18"
+          "hex": "#d54626",
+          "name": "#d54626",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d08f6d"
+          "hex": "#1d1b18",
+          "name": "#1d1b18",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d54626"
+          "hex": "#d08f6d",
+          "name": "#d08f6d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dec8aa"
+          "hex": "#dec8aa",
+          "name": "#dec8aa",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +164,7 @@
       }
     ],
     "wof:id": 1511909401,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233605,
     "wof:name": "postcard: Radio Operators",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +182,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

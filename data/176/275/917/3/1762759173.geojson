@@ -34,38 +34,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2a2d0"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a3a4cd"
+          "hex": "#7984bd",
+          "name": "#7984bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c75aa"
+          "hex": "#a3a4cd",
+          "name": "#a3a4cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d3b55"
+          "hex": "#6c75aa",
+          "name": "#6c75aa",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7984bd"
+          "hex": "#3d3b55",
+          "name": "#3d3b55",
+          "reference": "marekm4"
         }
       ]
     },
@@ -173,7 +193,7 @@
       }
     ],
     "wof:id": 1762759173,
-    "wof:lastmodified": 1758181329,
+    "wof:lastmodified": 1758233681,
     "wof:name": "slide: Royal Jordanian (Cargo), Boeing 707-300, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -190,5 +210,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

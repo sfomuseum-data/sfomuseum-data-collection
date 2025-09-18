@@ -34,74 +34,118 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#58427c"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#deaa88"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#deb887"
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#906f4c"
+          "hex": "#906f4c",
+          "name": "#906f4c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1c992"
+          "hex": "#ebe6de",
+          "name": "#ebe6de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7b570"
+          "hex": "#d7b570",
+          "name": "#d7b570",
+          "reference": "marekm4"
         },
         {
-          "hex": "#49323c"
+          "hex": "#e1c992",
+          "name": "#e1c992",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe6de"
+          "hex": "#525689",
+          "name": "#525689",
+          "reference": "marekm4"
         },
         {
-          "hex": "#be9d6d"
+          "hex": "#be9d6d",
+          "name": "#be9d6d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3a2514"
+          "hex": "#49323c",
+          "name": "#49323c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#525689"
+          "hex": "#3a2514",
+          "name": "#3a2514",
+          "reference": "marekm4"
         }
       ]
     },
@@ -202,7 +246,7 @@
       }
     ],
     "wof:id": 1762695707,
-    "wof:lastmodified": 1758181328,
+    "wof:lastmodified": 1758233680,
     "wof:name": "postcard: Shannon Airport, Lockheed Constellation, TWA, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -219,5 +263,5 @@
     -8.917893,
     52.694304
   ],
-  "geometry": {"coordinates":[[-8.917893,52.694304]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-8.917893,52.694304]]}
 }

@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#58427c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000080"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000080",
+          "name": "navy",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8230e"
+          "hex": "#ddd5cf",
+          "name": "#ddd5cf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#050667"
+          "hex": "#d8230e",
+          "name": "#d8230e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ddd5cf"
+          "hex": "#515394",
+          "name": "#515394",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbd1c4"
+          "hex": "#050667",
+          "name": "#050667",
+          "reference": "marekm4"
         },
         {
-          "hex": "#515394"
+          "hex": "#d3210e",
+          "name": "#d3210e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0a0c5d"
+          "hex": "#dbd1c4",
+          "name": "#dbd1c4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3210e"
+          "hex": "#0a0c5d",
+          "name": "#0a0c5d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +191,7 @@
       }
     ],
     "wof:id": 1511936755,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Pacific Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +209,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

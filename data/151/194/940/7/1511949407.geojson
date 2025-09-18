@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9f8577"
+          "hex": "#d9ddde",
+          "name": "#d9ddde",
+          "reference": "marekm4"
         },
         {
-          "hex": "#45383b"
+          "hex": "#45383b",
+          "name": "#45383b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#936b5f"
+          "hex": "#9f8577",
+          "name": "#9f8577",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9ddde"
+          "hex": "#936b5f",
+          "name": "#936b5f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -156,7 +180,7 @@
       }
     ],
     "wof:id": 1511949407,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233644,
     "wof:name": "negative: San Francisco International Airport (SFO), Medical Clinic dedication",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +198,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

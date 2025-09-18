@@ -31,35 +31,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#3bb08f",
+          "name": "Jungle Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#3bb08f"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#3cb371"
+          "hex": "#3cb371",
+          "name": "mediumseagreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e8e0cd"
+          "hex": "#379a90",
+          "name": "#379a90",
+          "reference": "marekm4"
         },
         {
-          "hex": "#379a90"
+          "hex": "#293533",
+          "name": "#293533",
+          "reference": "marekm4"
         },
         {
-          "hex": "#293533"
+          "hex": "#e8e0cd",
+          "name": "#e8e0cd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +157,7 @@
       }
     ],
     "wof:id": 1729564797,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "baggage destination tag: Qantas Empire Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +175,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

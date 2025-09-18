@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#58427c"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cda4de"
+          "hex": "#cda4de",
+          "name": "Wisteria",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#35324b"
+          "hex": "#c3b7e3",
+          "name": "#c3b7e3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f4644"
+          "hex": "#35324b",
+          "name": "#35324b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d5186"
+          "hex": "#4d5186",
+          "name": "#4d5186",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c3b7e3"
+          "hex": "#9f4644",
+          "name": "#9f4644",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +207,7 @@
       }
     ],
     "wof:id": 1762760237,
-    "wof:lastmodified": 1758181331,
+    "wof:lastmodified": 1758233682,
     "wof:name": "slide: United Airlines Boeing 737-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -200,5 +224,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

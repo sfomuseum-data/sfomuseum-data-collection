@@ -26,44 +26,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fc6c85"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#ee204d"
+          "hex": "#fc6c85",
+          "name": "Wild Watermelon",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f08080"
+          "hex": "#fff0f5",
+          "name": "lavenderblush",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#f08080",
+          "name": "lightcoral",
+          "reference": "css4"
         },
         {
-          "hex": "#fff0f5"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fd708f"
+          "hex": "#feeef2",
+          "name": "#feeef2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dd2b43"
+          "hex": "#dd2b43",
+          "name": "#dd2b43",
+          "reference": "marekm4"
         },
         {
-          "hex": "#332525"
+          "hex": "#332525",
+          "name": "#332525",
+          "reference": "marekm4"
         },
         {
-          "hex": "#feeef2"
+          "hex": "#fd708f",
+          "name": "#fd708f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +165,7 @@
       }
     ],
     "wof:id": 1511932929,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: America West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +183,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

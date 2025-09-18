@@ -34,50 +34,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5dc"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f4eee0"
+          "hex": "#f4eee0",
+          "name": "#f4eee0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#40313b"
+          "hex": "#dcd5cc",
+          "name": "#dcd5cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8c593b"
+          "hex": "#54503f",
+          "name": "#54503f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dcd5cc"
+          "hex": "#8c593b",
+          "name": "#8c593b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#54503f"
+          "hex": "#40313b",
+          "name": "#40313b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +211,7 @@
       }
     ],
     "wof:id": 1762686335,
-    "wof:lastmodified": 1758181328,
+    "wof:lastmodified": 1758233668,
     "wof:name": "postcard: United Airlines, Boeing 737-322, Chicago O’Hare International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -200,5 +228,5 @@
     -87.894364,
     41.983038
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-87.894364,41.983038]]}
 }

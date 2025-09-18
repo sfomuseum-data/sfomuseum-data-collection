@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6b87bc"
+          "hex": "#4c66a2",
+          "name": "#4c66a2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c0bfcd"
+          "hex": "#c0bfcd",
+          "name": "#c0bfcd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#332f3b"
+          "hex": "#332f3b",
+          "name": "#332f3b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4c66a2"
+          "hex": "#6b87bc",
+          "name": "#6b87bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8c6968"
+          "hex": "#8c6968",
+          "name": "#8c6968",
+          "reference": "marekm4"
         }
       ]
     },
@@ -189,7 +219,7 @@
       }
     ],
     "wof:id": 1511926809,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "slide: Skyservice USA, Airbus A320, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -207,5 +237,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

@@ -25,62 +25,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#473317"
+          "hex": "#f5ead5",
+          "name": "#f5ead5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f6e8c9"
+          "hex": "#e7dbc1",
+          "name": "#e7dbc1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4d8b9"
+          "hex": "#473317",
+          "name": "#473317",
+          "reference": "marekm4"
         },
         {
-          "hex": "#44303b"
+          "hex": "#44303b",
+          "name": "#44303b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e2519"
+          "hex": "#e4d8b9",
+          "name": "#e4d8b9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5ead5"
+          "hex": "#f6e8c9",
+          "name": "#f6e8c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7dbc1"
+          "hex": "#2e2519",
+          "name": "#2e2519",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +187,7 @@
       }
     ],
     "wof:id": 1511931517,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "airmail flight cover: Bobbie Trout Intended Solo Honolulu - Los Angeles Flight, September 1932",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +205,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

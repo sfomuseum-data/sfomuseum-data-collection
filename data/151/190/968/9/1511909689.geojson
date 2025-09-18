@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#324ab2"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#483d8b"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f0e4c3"
+          "hex": "#f7edcb",
+          "name": "#f7edcb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f7edcb"
+          "hex": "#2b349a",
+          "name": "#2b349a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d71213"
+          "hex": "#f0e4c3",
+          "name": "#f0e4c3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#183594"
+          "hex": "#d71213",
+          "name": "#d71213",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b349a"
+          "hex": "#183594",
+          "name": "#183594",
+          "reference": "marekm4"
         }
       ]
     },
@@ -167,7 +197,7 @@
       }
     ],
     "wof:id": 1511909689,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: United Airlines Cargo and Swissair",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +215,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

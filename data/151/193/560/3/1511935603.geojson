@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         },
         {
-          "hex": "#87a96b"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#deb887"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#f0e68c",
+          "name": "khaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         },
         {
-          "hex": "#f0e68c"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6b8d55"
+          "hex": "#698a54",
+          "name": "#698a54",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f6c3b"
+          "hex": "#6b8d55",
+          "name": "#6b8d55",
+          "reference": "marekm4"
         },
         {
-          "hex": "#edcf91"
+          "hex": "#e8cc93",
+          "name": "#e8cc93",
+          "reference": "marekm4"
         },
         {
-          "hex": "#698a54"
+          "hex": "#b2ad72",
+          "name": "#b2ad72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#43703e"
+          "hex": "#3f6c3b",
+          "name": "#3f6c3b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2ad72"
+          "hex": "#43703e",
+          "name": "#43703e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9ba46c"
+          "hex": "#9ba46c",
+          "name": "#9ba46c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8cc93"
+          "hex": "#edcf91",
+          "name": "#edcf91",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +206,7 @@
       }
     ],
     "wof:id": 1511935603,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "timetable: Aero Commuter and Catalina Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +224,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

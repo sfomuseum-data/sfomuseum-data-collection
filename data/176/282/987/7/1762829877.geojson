@@ -33,32 +33,48 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#292718"
+          "hex": "#292718",
+          "name": "#292718",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7b8da4"
+          "hex": "#9ea7b3",
+          "name": "#9ea7b3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9ea7b3"
+          "hex": "#7b8da4",
+          "name": "#7b8da4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +170,7 @@
       }
     ],
     "wof:id": 1762829877,
-    "wof:lastmodified": 1758181337,
+    "wof:lastmodified": 1758233687,
     "wof:name": "slide: Delta Air Lines, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +187,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

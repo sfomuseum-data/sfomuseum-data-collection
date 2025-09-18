@@ -37,44 +37,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#eceabe"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ff4500"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fdf2ca"
+          "hex": "#252310",
+          "name": "#252310",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9a15d"
+          "hex": "#f72412",
+          "name": "#f72412",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f72412"
+          "hex": "#fdf2ca",
+          "name": "#fdf2ca",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252310"
+          "hex": "#d9a15d",
+          "name": "#d9a15d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +176,7 @@
       }
     ],
     "wof:id": 1511956563,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233652,
     "wof:name": "airmail flight cover: Scandinavian Airlines System (SAS), first polar flight",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +207,5 @@
     18.035164,
     61.195429
   ],
-  "geometry": {"coordinates":[[-149.358257,61.195429],[18.035164,59.275254]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-149.358257,61.195429],[18.035164,59.275254]]}
 }

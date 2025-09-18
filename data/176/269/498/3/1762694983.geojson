@@ -31,77 +31,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c7c38"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#58427c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#58427c",
+          "name": "Cyber Grape",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#333320"
+          "hex": "#b3a473",
+          "name": "#b3a473",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c8c72"
+          "hex": "#394942",
+          "name": "#394942",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0dac8"
+          "hex": "#6c8c72",
+          "name": "#6c8c72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a76c2f"
+          "hex": "#333320",
+          "name": "#333320",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b3a473"
+          "hex": "#a76c2f",
+          "name": "#a76c2f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1a269"
+          "hex": "#b1a269",
+          "name": "#b1a269",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f528b"
+          "hex": "#4f528b",
+          "name": "#4f528b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0c09a"
+          "hex": "#e0dac8",
+          "name": "#e0dac8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#394942"
+          "hex": "#d0c09a",
+          "name": "#d0c09a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -199,7 +245,7 @@
       }
     ],
     "wof:id": 1762694983,
-    "wof:lastmodified": 1758181326,
+    "wof:lastmodified": 1758233679,
     "wof:name": "postcard: New York International Airport, Lockheed Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -216,5 +262,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

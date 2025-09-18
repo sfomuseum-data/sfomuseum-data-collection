@@ -22,35 +22,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7a8687"
+          "hex": "#dad2b4",
+          "name": "#dad2b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121618"
+          "hex": "#7a8687",
+          "name": "#7a8687",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dad2b4"
+          "hex": "#121618",
+          "name": "#121618",
+          "reference": "marekm4"
         }
       ]
     },
@@ -120,7 +138,7 @@
       }
     ],
     "wof:id": 1511939411,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Oklahoma City, spring and summer schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -138,5 +156,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

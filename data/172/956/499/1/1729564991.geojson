@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#f8d568",
+          "name": "Orange Yellow",
+          "reference": "crayola"
         },
         {
-          "hex": "#f8d568"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e4d8bc"
+          "hex": "#99543b",
+          "name": "#99543b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#62140b"
+          "hex": "#62140b",
+          "name": "#62140b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#99543b"
+          "hex": "#e4be5e",
+          "name": "#e4be5e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4be5e"
+          "hex": "#e4d8bc",
+          "name": "#e4d8bc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +164,7 @@
       }
     ],
     "wof:id": 1729564991,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "timetable: Qantas Empire Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +182,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

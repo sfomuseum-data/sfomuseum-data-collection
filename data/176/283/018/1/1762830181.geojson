@@ -35,50 +35,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5d7895"
+          "hex": "#867c68",
+          "name": "#867c68",
+          "reference": "marekm4"
         },
         {
-          "hex": "#adaaa7"
+          "hex": "#3b4343",
+          "name": "#3b4343",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b4343"
+          "hex": "#adaaa7",
+          "name": "#adaaa7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#867c68"
+          "hex": "#8e8372",
+          "name": "#8e8372",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e8372"
+          "hex": "#5d7895",
+          "name": "#5d7895",
+          "reference": "marekm4"
         }
       ]
     },
@@ -182,7 +210,7 @@
       }
     ],
     "wof:id": 1762830181,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233688,
     "wof:name": "slide: LanChile Cargo, Boeing 707-323C, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -199,5 +227,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

@@ -29,56 +29,88 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2b48c"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c89849"
+          "hex": "#d2bdac",
+          "name": "#d2bdac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfb9a3"
+          "hex": "#cfb9a3",
+          "name": "#cfb9a3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#303036"
+          "hex": "#c89849",
+          "name": "#c89849",
+          "reference": "marekm4"
         },
         {
-          "hex": "#333333"
+          "hex": "#303036",
+          "name": "#303036",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d2bdac"
+          "hex": "#333333",
+          "name": "#333333",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bd6723"
+          "hex": "#bd6723",
+          "name": "#bd6723",
+          "reference": "marekm4"
         }
       ]
     },
@@ -159,7 +191,7 @@
       }
     ],
     "wof:id": 1511953985,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American Airways, first airmail flight, Manila - Honolulu route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +209,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

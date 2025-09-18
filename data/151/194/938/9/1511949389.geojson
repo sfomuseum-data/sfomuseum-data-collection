@@ -25,35 +25,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#41403d"
+          "hex": "#8c9174",
+          "name": "#8c9174",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c3c7c6"
+          "hex": "#41403d",
+          "name": "#41403d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8c9174"
+          "hex": "#c3c7c6",
+          "name": "#c3c7c6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -147,7 +165,7 @@
       }
     ],
     "wof:id": 1511949389,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233644,
     "wof:name": "negative: San Francisco International Airport (SFO), personnel",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +183,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

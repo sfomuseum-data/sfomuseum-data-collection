@@ -23,9 +23,9 @@
       1159293599
     ],
     "millsfield:exhibition_ids": [
-      1947305543,
       1897466923,
-      1914632791
+      1914632791,
+      1947305543
     ],
     "millsfield:images": [
       1746281503,
@@ -40,86 +40,138 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#a57164"
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bdbcbb"
+          "hex": "#bab9b8",
+          "name": "#bab9b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#55393b"
+          "hex": "#6a5f60",
+          "name": "#6a5f60",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a5f60"
+          "hex": "#8e5e60",
+          "name": "#8e5e60",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4f2b2d"
+          "hex": "#8a857a",
+          "name": "#8a857a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bab9b8"
+          "hex": "#55393b",
+          "name": "#55393b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e5e60"
+          "hex": "#acacab",
+          "name": "#acacab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a5f60"
+          "hex": "#4f2b2d",
+          "name": "#4f2b2d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f4a4b"
+          "hex": "#945a5a",
+          "name": "#945a5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#985d60"
+          "hex": "#5f4a4b",
+          "name": "#5f4a4b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#acacab"
+          "hex": "#985d60",
+          "name": "#985d60",
+          "reference": "marekm4"
         },
         {
-          "hex": "#945a5a"
+          "hex": "#bdbcbb",
+          "name": "#bdbcbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a857a"
+          "hex": "#8a5f60",
+          "name": "#8a5f60",
+          "reference": "marekm4"
         }
       ]
     },
@@ -215,7 +267,7 @@
       }
     ],
     "wof:id": 1511907541,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233603,
     "wof:name": "model airplane: Granville (Gee Bee) Model R-1 Super Sportster",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -233,5 +285,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -51,50 +51,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2a2d0"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7b8ac2"
+          "hex": "#857b9e",
+          "name": "#857b9e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a49abc"
+          "hex": "#7b8ac2",
+          "name": "#7b8ac2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#696891"
+          "hex": "#696891",
+          "name": "#696891",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857b9e"
+          "hex": "#313244",
+          "name": "#313244",
+          "reference": "marekm4"
         },
         {
-          "hex": "#313244"
+          "hex": "#a49abc",
+          "name": "#a49abc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -214,7 +242,7 @@
       }
     ],
     "wof:id": 1511926465,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Canadian Airlines International, Boeing 747-400, Toronto Pearson International Airport (YYZ)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -232,5 +260,5 @@
     -79.628342,
     43.676352
   ],
-  "geometry": {"coordinates":[[-79.628342,43.676352]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-79.628342,43.676352]]}
 }

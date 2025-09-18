@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cbd9c0"
+          "hex": "#95905b",
+          "name": "#95905b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#58513f"
+          "hex": "#cbd9c0",
+          "name": "#cbd9c0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#887340"
+          "hex": "#887340",
+          "name": "#887340",
+          "reference": "marekm4"
         },
         {
-          "hex": "#95905b"
+          "hex": "#58513f",
+          "name": "#58513f",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +179,7 @@
       }
     ],
     "wof:id": 1762828657,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233686,
     "wof:name": "negative: San Francisco International Airport (SFO), pier interior",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +196,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

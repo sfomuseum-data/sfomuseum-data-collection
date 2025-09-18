@@ -29,47 +29,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ece5d1"
+          "hex": "#f2ecd5",
+          "name": "#f2ecd5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#37324e"
+          "hex": "#37324e",
+          "name": "#37324e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ab6b9b"
+          "hex": "#ab6b9b",
+          "name": "#ab6b9b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2ecd5"
+          "hex": "#ba3b2a",
+          "name": "#ba3b2a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ba3b2a"
+          "hex": "#ece5d1",
+          "name": "#ece5d1",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +187,7 @@
       }
     ],
     "wof:id": 1511923243,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233612,
     "wof:name": "airmail flight cover: First airmail flight, AM-31, Jacksonville - New York route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +205,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

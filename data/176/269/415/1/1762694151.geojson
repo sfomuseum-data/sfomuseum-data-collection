@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4a4a4b"
+          "hex": "#4573b2",
+          "name": "#4573b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d441e"
+          "hex": "#ccc9c8",
+          "name": "#ccc9c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ccc9c8"
+          "hex": "#e1dacb",
+          "name": "#e1dacb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1dacb"
+          "hex": "#6290c5",
+          "name": "#6290c5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4573b2"
+          "hex": "#4a4a4b",
+          "name": "#4a4a4b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6290c5"
+          "hex": "#3d441e",
+          "name": "#3d441e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +213,7 @@
       }
     ],
     "wof:id": 1762694151,
-    "wof:lastmodified": 1758181325,
+    "wof:lastmodified": 1758233678,
     "wof:name": "postcard: Vancouver Airport, Canadian Pacific, Bristol Britannia",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -200,5 +230,5 @@
     -123.1792,
     49.19333
   ],
-  "geometry": {"coordinates":[[-123.1792,49.19333]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-123.1792,49.19333]]}
 }

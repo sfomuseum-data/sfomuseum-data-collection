@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfcda8"
+          "hex": "#ebae19",
+          "name": "#ebae19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0e246b"
+          "hex": "#465b89",
+          "name": "#465b89",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d91f09"
+          "hex": "#dfcda8",
+          "name": "#dfcda8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#465b89"
+          "hex": "#d91f09",
+          "name": "#d91f09",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebae19"
+          "hex": "#0e246b",
+          "name": "#0e246b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +183,7 @@
       }
     ],
     "wof:id": 1511952859,
-    "wof:lastmodified": 1758181305,
+    "wof:lastmodified": 1758233648,
     "wof:name": "luggage label: Avianca Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

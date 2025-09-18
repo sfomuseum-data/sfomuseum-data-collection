@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5dc"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#8b0000",
+          "name": "darkred",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#8b0000"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f0ebe1"
+          "hex": "#f9f4e8",
+          "name": "#f9f4e8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#040201"
+          "hex": "#622825",
+          "name": "#622825",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9f4e8"
+          "hex": "#f0ebe1",
+          "name": "#f0ebe1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c0d04"
+          "hex": "#040201",
+          "name": "#040201",
+          "reference": "marekm4"
         },
         {
-          "hex": "#622825"
+          "hex": "#9c0d04",
+          "name": "#9c0d04",
+          "reference": "marekm4"
         }
       ]
     },
@@ -161,7 +189,7 @@
       }
     ],
     "wof:id": 1511922079,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233611,
     "wof:name": "menu: Eastern Air Lines, First Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +207,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

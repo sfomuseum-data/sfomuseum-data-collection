@@ -22,26 +22,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4f4851"
+          "hex": "#ebe7d8",
+          "name": "#ebe7d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebe7d8"
+          "hex": "#4f4851",
+          "name": "#4f4851",
+          "reference": "marekm4"
         }
       ]
     },
@@ -123,7 +135,7 @@
       }
     ],
     "wof:id": 1511906779,
-    "wof:lastmodified": 1758181394,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: National Air and Space Museum, Smithsonian Institution, Mrs. Ralph Van Deman",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -141,5 +153,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

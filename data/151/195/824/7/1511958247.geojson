@@ -22,26 +22,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c2f2a"
+          "hex": "#cccdc9",
+          "name": "#cccdc9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cccdc9"
+          "hex": "#2c2f2a",
+          "name": "#2c2f2a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -108,7 +120,7 @@
       }
     ],
     "wof:id": 1511958247,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "photograph: Panama-Pacific International Exposition",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -126,5 +138,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

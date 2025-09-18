@@ -29,47 +29,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faf0e6"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#686b8f"
+          "hex": "#1c1c35",
+          "name": "#1c1c35",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1a1b4a"
+          "hex": "#686b8f",
+          "name": "#686b8f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dddede"
+          "hex": "#ebece9",
+          "name": "#ebece9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1c1c35"
+          "hex": "#dddede",
+          "name": "#dddede",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebece9"
+          "hex": "#1a1b4a",
+          "name": "#1a1b4a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +177,7 @@
       }
     ],
     "wof:id": 1511933345,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233622,
     "wof:name": "timetable: Delta Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +195,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

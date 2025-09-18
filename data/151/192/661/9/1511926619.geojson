@@ -32,53 +32,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#926eae"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6f7393"
+          "hex": "#8e6869",
+          "name": "#8e6869",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e6869"
+          "hex": "#6f7393",
+          "name": "#6f7393",
+          "reference": "marekm4"
         },
         {
-          "hex": "#322e39"
+          "hex": "#322e39",
+          "name": "#322e39",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7c83a2"
+          "hex": "#7c83a2",
+          "name": "#7c83a2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a4a3b2"
+          "hex": "#a4a3b2",
+          "name": "#a4a3b2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -175,7 +205,7 @@
       }
     ],
     "wof:id": 1511926619,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Air Aruba, Douglas DC-9, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -193,5 +223,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

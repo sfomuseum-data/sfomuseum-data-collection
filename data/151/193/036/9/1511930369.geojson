@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a52a2a"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3e244e"
+          "hex": "#e9e3cc",
+          "name": "#e9e3cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8e2cc"
+          "hex": "#b12836",
+          "name": "#b12836",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e79f0b"
+          "hex": "#e8e2cc",
+          "name": "#e8e2cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b12836"
+          "hex": "#3e244e",
+          "name": "#3e244e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e3cc"
+          "hex": "#462653",
+          "name": "#462653",
+          "reference": "marekm4"
         },
         {
-          "hex": "#462653"
+          "hex": "#e79f0b",
+          "name": "#e79f0b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +183,7 @@
       }
     ],
     "wof:id": 1511930369,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233619,
     "wof:name": "timetable: AirCal, quick reference, San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

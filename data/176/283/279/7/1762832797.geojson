@@ -24,38 +24,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5c5f59"
+          "hex": "#979992",
+          "name": "#979992",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7e817a"
+          "hex": "#7e817a",
+          "name": "#7e817a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#82847d"
+          "hex": "#82847d",
+          "name": "#82847d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#979992"
+          "hex": "#5c5f59",
+          "name": "#5c5f59",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +165,7 @@
       }
     ],
     "wof:id": 1762832797,
-    "wof:lastmodified": 1758181339,
+    "wof:lastmodified": 1758233692,
     "wof:name": "photograph: San Francisco International Airport (SFO), fire department",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +182,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

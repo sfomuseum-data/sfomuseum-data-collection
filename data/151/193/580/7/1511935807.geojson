@@ -29,89 +29,143 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffa343"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#ca3767"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#de5d83"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#de5d83",
+          "name": "Blush",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ca3767",
+          "name": "Jazzberry Jam",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#ffc0cb",
+          "name": "pink",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#ffc0cb"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d0a03c"
+          "hex": "#341720",
+          "name": "#341720",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2638f"
+          "hex": "#eec7c5",
+          "name": "#eec7c5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eda54d"
+          "hex": "#a93324",
+          "name": "#a93324",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ded9d0"
+          "hex": "#cc3961",
+          "name": "#cc3961",
+          "reference": "marekm4"
         },
         {
-          "hex": "#341720"
+          "hex": "#34105c",
+          "name": "#34105c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc3961"
+          "hex": "#eda54d",
+          "name": "#eda54d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eec7c5"
+          "hex": "#ded9d0",
+          "name": "#ded9d0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#34105c"
+          "hex": "#e2638f",
+          "name": "#e2638f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a93324"
+          "hex": "#d0a03c",
+          "name": "#d0a03c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -192,7 +246,7 @@
       }
     ],
     "wof:id": 1511935807,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: AirCal",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -210,5 +264,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

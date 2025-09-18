@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#78dbe2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#78dbe2",
+          "name": "Aquamarine",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faf0e6"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#87ceeb"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#87ceeb",
+          "name": "skyblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e2e6e4"
+          "hex": "#ecedea",
+          "name": "#ecedea",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ecedea"
+          "hex": "#db3c3c",
+          "name": "#db3c3c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b1f41"
+          "hex": "#262f4d",
+          "name": "#262f4d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dd3331"
+          "hex": "#e2e6e4",
+          "name": "#e2e6e4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#262f4d"
+          "hex": "#1b1f41",
+          "name": "#1b1f41",
+          "reference": "marekm4"
         },
         {
-          "hex": "#db3c3c"
+          "hex": "#78bed1",
+          "name": "#78bed1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#78bed1"
+          "hex": "#dd3331",
+          "name": "#dd3331",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +218,7 @@
       }
     ],
     "wof:id": 1511906893,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American Airways, San Francisco - Singapore route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +236,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

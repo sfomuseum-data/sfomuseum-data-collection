@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1e2260"
+          "hex": "#ba3432",
+          "name": "#ba3432",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c3c2b5"
+          "hex": "#1e2260",
+          "name": "#1e2260",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c7c6b8"
+          "hex": "#35375f",
+          "name": "#35375f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#35375f"
+          "hex": "#c7c6b8",
+          "name": "#c7c6b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf1f1c"
+          "hex": "#c3c2b5",
+          "name": "#c3c2b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ba3432"
+          "hex": "#bf1f1c",
+          "name": "#bf1f1c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +188,7 @@
       }
     ],
     "wof:id": 1511907343,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "airmail flight cover: First airmail service, Noumea (New Caledonia) - Suva (Fiji) route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +206,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,26 +28,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5d5854"
+          "hex": "#b1aeab",
+          "name": "#b1aeab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1aeab"
+          "hex": "#5d5854",
+          "name": "#5d5854",
+          "reference": "marekm4"
         }
       ]
     },
@@ -126,7 +138,7 @@
       }
     ],
     "wof:id": 1511921225,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233610,
     "wof:name": "children's souvenir wings: American Airlines",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",
@@ -144,5 +156,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
 }

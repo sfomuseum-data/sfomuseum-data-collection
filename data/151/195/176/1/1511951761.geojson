@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         },
         {
-          "hex": "#6b8e23"
+          "hex": "#006400",
+          "name": "darkgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#006400"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#265b0c"
+          "hex": "#265b0c",
+          "name": "#265b0c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2dfd7"
+          "hex": "#5a8e38",
+          "name": "#5a8e38",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a8e38"
+          "hex": "#e2dfd7",
+          "name": "#e2dfd7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511951761,
-    "wof:lastmodified": 1758181303,
+    "wof:lastmodified": 1758233647,
     "wof:name": "timetable: Wings West Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

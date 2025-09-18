@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fd5e53"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fd5e53",
+          "name": "Sunset Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#daa520"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#ff6347"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#ff6347",
+          "name": "tomato",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ede7da"
+          "hex": "#f0b54b",
+          "name": "#f0b54b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#373a33"
+          "hex": "#ede7da",
+          "name": "#ede7da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e65d45"
+          "hex": "#d8a642",
+          "name": "#d8a642",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ca4f37"
+          "hex": "#373a33",
+          "name": "#373a33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0b54b"
+          "hex": "#3b3130",
+          "name": "#3b3130",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b3130"
+          "hex": "#e65d45",
+          "name": "#e65d45",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8a642"
+          "hex": "#e5dcd0",
+          "name": "#e5dcd0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5dcd0"
+          "hex": "#ca4f37",
+          "name": "#ca4f37",
+          "reference": "marekm4"
         }
       ]
     },
@@ -181,7 +223,7 @@
       }
     ],
     "wof:id": 1511935631,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "timetable: Air California",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -199,5 +241,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

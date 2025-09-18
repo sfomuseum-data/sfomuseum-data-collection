@@ -34,44 +34,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ee204d"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3c529e"
+          "hex": "#272b74",
+          "name": "#272b74",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1142e"
+          "hex": "#d1142e",
+          "name": "#d1142e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae3de"
+          "hex": "#eae3de",
+          "name": "#eae3de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#272b74"
+          "hex": "#3c529e",
+          "name": "#3c529e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +198,7 @@
       }
     ],
     "wof:id": 1779488427,
-    "wof:lastmodified": 1758181354,
+    "wof:lastmodified": 1758233716,
     "wof:name": "poster: TWA (Trans World Airlines), New York Helicopter",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +215,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

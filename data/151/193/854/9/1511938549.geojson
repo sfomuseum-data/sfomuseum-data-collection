@@ -31,47 +31,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#333d34"
+          "hex": "#333d34",
+          "name": "#333d34",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfc4bc"
+          "hex": "#b52920",
+          "name": "#b52920",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7a8a85"
+          "hex": "#7a8a85",
+          "name": "#7a8a85",
+          "reference": "marekm4"
         },
         {
-          "hex": "#788479"
+          "hex": "#bfc4bc",
+          "name": "#bfc4bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b52920"
+          "hex": "#788479",
+          "name": "#788479",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +181,7 @@
       }
     ],
     "wof:id": 1511938549,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: USAir",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +199,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

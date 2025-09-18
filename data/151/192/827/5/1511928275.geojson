@@ -28,50 +28,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c54b8c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#c54b8c",
+          "name": "Mulberry",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#af5f9d"
+          "hex": "#9d8e73",
+          "name": "#9d8e73",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0d2b9"
+          "hex": "#af5f9d",
+          "name": "#af5f9d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#916c6a"
+          "hex": "#33302a",
+          "name": "#33302a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#33302a"
+          "hex": "#916c6a",
+          "name": "#916c6a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9d8e73"
+          "hex": "#e0d2b9",
+          "name": "#e0d2b9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +179,7 @@
       }
     ],
     "wof:id": 1511928275,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "timetable: Air India",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +197,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

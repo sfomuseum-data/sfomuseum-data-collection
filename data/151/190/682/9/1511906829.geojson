@@ -22,41 +22,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5d5255"
+          "hex": "#5d5255",
+          "name": "#5d5255",
+          "reference": "marekm4"
         },
         {
-          "hex": "#96847c"
+          "hex": "#aea39d",
+          "name": "#aea39d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#946359"
+          "hex": "#96847c",
+          "name": "#96847c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aea39d"
+          "hex": "#946359",
+          "name": "#946359",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +161,7 @@
       }
     ],
     "wof:id": 1511906829,
-    "wof:lastmodified": 1758181394,
+    "wof:lastmodified": 1758233602,
     "wof:name": "sheet music: “Hippity Hop”, by Walter Donaldson",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +179,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

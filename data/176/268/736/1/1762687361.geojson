@@ -24,38 +24,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#8e4585"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#8e4585",
+          "name": "Plum",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#8b008b"
+          "hex": "#8b008b",
+          "name": "darkmagenta",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#800080"
+          "hex": "#800080",
+          "name": "purple",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e4e0e2"
+          "hex": "#e4e0e2",
+          "name": "#e4e0e2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f0151"
+          "hex": "#8e1774",
+          "name": "#8e1774",
+          "reference": "marekm4"
         },
         {
-          "hex": "#983288"
+          "hex": "#983288",
+          "name": "#983288",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e1774"
+          "hex": "#6f0151",
+          "name": "#6f0151",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +177,7 @@
       }
     ],
     "wof:id": 1762687361,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233670,
     "wof:name": "timetable: San Jose International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -174,5 +194,5 @@
     -121.928755,
     37.363728
   ],
-  "geometry": {"coordinates":[[-121.928755,37.363728]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728]]}
 }

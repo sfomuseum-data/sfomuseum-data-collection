@@ -34,62 +34,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c0c8c6"
+          "hex": "#8c6252",
+          "name": "#8c6252",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b2725"
+          "hex": "#549ece",
+          "name": "#549ece",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efe6d1"
+          "hex": "#2b2725",
+          "name": "#2b2725",
+          "reference": "marekm4"
         },
         {
-          "hex": "#549ece"
+          "hex": "#c0c8c6",
+          "name": "#c0c8c6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f8c77"
+          "hex": "#efe6d1",
+          "name": "#efe6d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8c6252"
+          "hex": "#9f8c77",
+          "name": "#9f8c77",
+          "reference": "marekm4"
         }
       ]
     },
@@ -189,7 +225,7 @@
       }
     ],
     "wof:id": 1762683441,
-    "wof:lastmodified": 1758181323,
+    "wof:lastmodified": 1758233665,
     "wof:name": "postcard: Continental Airlines, Boeing 720, Stapleton International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -206,5 +242,5 @@
     -104.891972,
     39.760722
   ],
-  "geometry": {"coordinates":[[-104.891972,39.760722]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-104.891972,39.760722]]}
 }

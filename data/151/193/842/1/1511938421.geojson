@@ -28,50 +28,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#fefe22",
+          "name": "Laser Lemon",
+          "reference": "crayola"
         },
         {
-          "hex": "#80daeb"
+          "hex": "#9aceeb",
+          "name": "Cornflower",
+          "reference": "crayola"
         },
         {
-          "hex": "#9aceeb"
+          "hex": "#80daeb",
+          "name": "Sky Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fefe22"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffff00"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#ffff00",
+          "name": "yellow",
+          "reference": "css4"
         },
         {
-          "hex": "#87cefa"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#87cefa",
+          "name": "lightskyblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#fef807"
+          "hex": "#fef807",
+          "name": "#fef807",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fa5313"
+          "hex": "#71b7fe",
+          "name": "#71b7fe",
+          "reference": "marekm4"
         },
         {
-          "hex": "#97cdfe"
+          "hex": "#0f0c2f",
+          "name": "#0f0c2f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#71b7fe"
+          "hex": "#fa5313",
+          "name": "#fa5313",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0f0c2f"
+          "hex": "#97cdfe",
+          "name": "#97cdfe",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +177,7 @@
       }
     ],
     "wof:id": 1511938421,
-    "wof:lastmodified": 1758181298,
+    "wof:lastmodified": 1758233630,
     "wof:name": "timetable: Sunworld International Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +195,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#abab9d"
+          "hex": "#998c6b",
+          "name": "#998c6b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e3526"
+          "hex": "#abab9d",
+          "name": "#abab9d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#998c6b"
+          "hex": "#3e3526",
+          "name": "#3e3526",
+          "reference": "marekm4"
         },
         {
-          "hex": "#887959"
+          "hex": "#887959",
+          "name": "#887959",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +182,7 @@
       }
     ],
     "wof:id": 1511957137,
-    "wof:lastmodified": 1758181311,
+    "wof:lastmodified": 1758233653,
     "wof:name": "photograph: San Francisco International Airport (SFO), North Terminal construction",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +200,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

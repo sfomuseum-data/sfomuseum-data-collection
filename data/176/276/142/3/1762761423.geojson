@@ -33,35 +33,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#524e5e"
+          "hex": "#524e5e",
+          "name": "#524e5e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#717682"
+          "hex": "#717682",
+          "name": "#717682",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dddbd8"
+          "hex": "#dddbd8",
+          "name": "#dddbd8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +181,7 @@
       }
     ],
     "wof:id": 1762761423,
-    "wof:lastmodified": 1758181333,
+    "wof:lastmodified": 1758233684,
     "wof:name": "photograph: United Air Lines, Boeing 747, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +198,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

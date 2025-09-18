@@ -35,38 +35,58 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#7366bd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#131215"
+          "hex": "#7a86b8",
+          "name": "#7a86b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7a86b8"
+          "hex": "#6b79af",
+          "name": "#6b79af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bec2dd"
+          "hex": "#bec2dd",
+          "name": "#bec2dd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b79af"
+          "hex": "#131215",
+          "name": "#131215",
+          "reference": "marekm4"
         }
       ]
     },
@@ -164,7 +184,7 @@
       }
     ],
     "wof:id": 1762828651,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233686,
     "wof:name": "slide: LanChile Cargo, Boeing 707-323C, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +201,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

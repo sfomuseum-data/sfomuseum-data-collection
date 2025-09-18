@@ -31,92 +31,148 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ede4d3"
+          "hex": "#2e3b33",
+          "name": "#2e3b33",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e3b33"
+          "hex": "#978c75",
+          "name": "#978c75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#302721"
+          "hex": "#cc1718",
+          "name": "#cc1718",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4110c"
+          "hex": "#d6d5cc",
+          "name": "#d6d5cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#978c75"
+          "hex": "#d4110c",
+          "name": "#d4110c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#162c87"
+          "hex": "#151f64",
+          "name": "#151f64",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc1718"
+          "hex": "#302721",
+          "name": "#302721",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6d8eb1"
+          "hex": "#ede4d3",
+          "name": "#ede4d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#151f64"
+          "hex": "#162c87",
+          "name": "#162c87",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9e3d2"
+          "hex": "#6d8eb1",
+          "name": "#6d8eb1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d31d20"
+          "hex": "#e9e3d2",
+          "name": "#e9e3d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6d5cc"
+          "hex": "#d31d20",
+          "name": "#d31d20",
+          "reference": "marekm4"
         }
       ]
     },
@@ -185,7 +241,7 @@
       }
     ],
     "wof:id": 1914488905,
-    "wof:lastmodified": 1758181400,
+    "wof:lastmodified": 1758233770,
     "wof:name": "safety information card: Delta Air Lines, Douglas DC-8-61",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -202,5 +258,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

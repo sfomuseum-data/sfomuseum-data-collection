@@ -29,71 +29,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfdccc"
+          "hex": "#112232",
+          "name": "#112232",
+          "reference": "marekm4"
         },
         {
-          "hex": "#112232"
+          "hex": "#6990b5",
+          "name": "#6990b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5d5c9"
+          "hex": "#dfdccc",
+          "name": "#dfdccc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4977a5"
+          "hex": "#476d90",
+          "name": "#476d90",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1a2224"
+          "hex": "#4977a5",
+          "name": "#4977a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f8a9e"
+          "hex": "#1a2224",
+          "name": "#1a2224",
+          "reference": "marekm4"
         },
         {
-          "hex": "#476d90"
+          "hex": "#6f8a9e",
+          "name": "#6f8a9e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6990b5"
+          "hex": "#d5d5c9",
+          "name": "#d5d5c9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +211,7 @@
       }
     ],
     "wof:id": 1729564919,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "brochure: British Commonwealth Pacific Airlines (BCPA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +229,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

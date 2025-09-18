@@ -26,35 +26,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d2b48c"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ad9977"
+          "hex": "#ad9977",
+          "name": "#ad9977",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47393a"
+          "hex": "#cfc1a5",
+          "name": "#cfc1a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cfc1a5"
+          "hex": "#47393a",
+          "name": "#47393a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -133,7 +151,7 @@
       }
     ],
     "wof:id": 1511931821,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "airmail flight cover: U.S. Navy Hawaii, Midway Island Mass Return Flight, May 23-24, 1935",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -151,5 +169,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -34,71 +34,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffae42"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#eceabe"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#b0c4de"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#b0c4de",
+          "name": "lightsteelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#acc7cb"
+          "hex": "#eee3c3",
+          "name": "#eee3c3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#51482d"
+          "hex": "#acc7cb",
+          "name": "#acc7cb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#67abc8"
+          "hex": "#67abc8",
+          "name": "#67abc8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eee3c3"
+          "hex": "#c3b929",
+          "name": "#c3b929",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e502b"
+          "hex": "#51482d",
+          "name": "#51482d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c3b929"
+          "hex": "#3e3721",
+          "name": "#3e3721",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e3721"
+          "hex": "#9e502b",
+          "name": "#9e502b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -196,7 +238,7 @@
       }
     ],
     "wof:id": 1762690479,
-    "wof:lastmodified": 1758181318,
+    "wof:lastmodified": 1758233673,
     "wof:name": "postcard: Northwest Orient, Boeing 747, Minneapolis-St. Paul Metropolitan International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -213,5 +255,5 @@
     -93.200317,
     44.883321
   ],
-  "geometry": {"coordinates":[[-93.200317,44.883321]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-93.200317,44.883321]]}
 }

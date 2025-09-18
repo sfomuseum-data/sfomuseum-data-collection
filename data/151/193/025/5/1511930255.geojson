@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#cc6666",
+          "name": "Fuzzy Wuzzy",
+          "reference": "crayola"
         },
         {
-          "hex": "#cc6666"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5298cd"
+          "hex": "#d35148",
+          "name": "#d35148",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1ecdc"
+          "hex": "#d86254",
+          "name": "#d86254",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d86254"
+          "hex": "#5298cd",
+          "name": "#5298cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece7d6"
+          "hex": "#569ac5",
+          "name": "#569ac5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#569ac5"
+          "hex": "#f1ecdc",
+          "name": "#f1ecdc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d35148"
+          "hex": "#ece7d6",
+          "name": "#ece7d6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +181,7 @@
       }
     ],
     "wof:id": 1511930255,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233619,
     "wof:name": "brochure: TWA (Trans World Airlines), Boston - New York - San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +199,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -29,80 +29,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#dd9475"
+          "hex": "#dd9475",
+          "name": "Copper",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#fffafa"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dfa961"
+          "hex": "#2f2631",
+          "name": "#2f2631",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e4e5"
+          "hex": "#9f5e56",
+          "name": "#9f5e56",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f5e56"
+          "hex": "#fafbfb",
+          "name": "#fafbfb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fafbfb"
+          "hex": "#216a9f",
+          "name": "#216a9f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5b565a"
+          "hex": "#e6e4e5",
+          "name": "#e6e4e5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2f2631"
+          "hex": "#dfa961",
+          "name": "#dfa961",
+          "reference": "marekm4"
         },
         {
-          "hex": "#216a9f"
+          "hex": "#0768a8",
+          "name": "#0768a8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0768a8"
+          "hex": "#5b565a",
+          "name": "#5b565a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +231,7 @@
       }
     ],
     "wof:id": 1511930285,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233619,
     "wof:name": "brochure: Air New Zealand, Olympic Games",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +249,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

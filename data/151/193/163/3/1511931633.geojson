@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd9575"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd853f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c19e6a"
+          "hex": "#d8c298",
+          "name": "#d8c298",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e5044"
+          "hex": "#c19e6a",
+          "name": "#c19e6a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8c298"
+          "hex": "#5e5044",
+          "name": "#5e5044",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ab6f4b"
+          "hex": "#ab6f4b",
+          "name": "#ab6f4b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +166,7 @@
       }
     ],
     "wof:id": 1511931633,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "airmail cover: Amelia Earhart, Honolulu to Oakland Solo Flight, January 11-12, 1935",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +184,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

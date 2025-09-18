@@ -25,53 +25,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#968b77"
+          "hex": "#968b77",
+          "name": "#968b77",
+          "reference": "marekm4"
         },
         {
-          "hex": "#464634"
+          "hex": "#857a6a",
+          "name": "#857a6a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ded5c5"
+          "hex": "#555048",
+          "name": "#555048",
+          "reference": "marekm4"
         },
         {
-          "hex": "#555048"
+          "hex": "#d9d3bb",
+          "name": "#d9d3bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9d3bb"
+          "hex": "#ded5c5",
+          "name": "#ded5c5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857a6a"
+          "hex": "#464634",
+          "name": "#464634",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +198,7 @@
       }
     ],
     "wof:id": 1762828235,
-    "wof:lastmodified": 1758181334,
+    "wof:lastmodified": 1758233685,
     "wof:name": "map and report: San Francisco Department of Public Works, Bureau of Engineering, proposed airport site",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +215,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

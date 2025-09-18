@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#8b4513"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#800000"
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4b181c"
+          "hex": "#924c18",
+          "name": "#924c18",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6d5c7"
+          "hex": "#e3ded2",
+          "name": "#e3ded2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#924c18"
+          "hex": "#6a0d00",
+          "name": "#6a0d00",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6a0d00"
+          "hex": "#e6d5c7",
+          "name": "#e6d5c7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3ded2"
+          "hex": "#4b181c",
+          "name": "#4b181c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -78,7 +102,7 @@
       1527818405,
       1527851251
     ],
-    "millsfield:primary_image": 1527818405,
+    "millsfield:primary_image": 1527851251,
     "millsfield:subcategory_id": 1511213425,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -158,7 +182,7 @@
       }
     ],
     "wof:id": 1511909267,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233605,
     "wof:name": "timetable: West Coast Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

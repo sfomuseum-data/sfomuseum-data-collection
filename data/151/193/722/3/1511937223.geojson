@@ -33,95 +33,153 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dacab2"
+          "hex": "#013694",
+          "name": "#013694",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6690ab"
+          "hex": "#de290f",
+          "name": "#de290f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#013694"
+          "hex": "#d8210d",
+          "name": "#d8210d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#010c30"
+          "hex": "#6690ab",
+          "name": "#6690ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dacdb2"
+          "hex": "#010c30",
+          "name": "#010c30",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0a419a"
+          "hex": "#2360a0",
+          "name": "#2360a0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b8da9"
+          "hex": "#6b8da9",
+          "name": "#6b8da9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5cbb1"
+          "hex": "#0a419a",
+          "name": "#0a419a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2360a0"
+          "hex": "#de370e",
+          "name": "#de370e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#de370e"
+          "hex": "#d5cbb1",
+          "name": "#d5cbb1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#de290f"
+          "hex": "#030b2d",
+          "name": "#030b2d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#030b2d"
+          "hex": "#dacab2",
+          "name": "#dacab2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8210d"
+          "hex": "#dacdb2",
+          "name": "#dacdb2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -236,7 +294,7 @@
       }
     ],
     "wof:id": 1511937223,
-    "wof:lastmodified": 1758181296,
+    "wof:lastmodified": 1758233628,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -254,5 +312,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

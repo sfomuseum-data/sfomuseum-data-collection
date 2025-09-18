@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1cac78"
+          "hex": "#1cac78",
+          "name": "Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f0fff0"
+          "hex": "#f0fff0",
+          "name": "honeydew",
+          "reference": "css4"
         },
         {
-          "hex": "#3cb371"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#3cb371",
+          "name": "mediumseagreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3ec15b"
+          "hex": "#f4f8ec",
+          "name": "#f4f8ec",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4f8ec"
+          "hex": "#1a1918",
+          "name": "#1a1918",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1a1918"
+          "hex": "#3ec15b",
+          "name": "#3ec15b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -137,7 +155,7 @@
       }
     ],
     "wof:id": 1511950351,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: Swissair and Interflug, Leipzig Fair",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +173,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

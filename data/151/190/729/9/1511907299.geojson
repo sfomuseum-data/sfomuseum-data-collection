@@ -31,44 +31,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6c598b"
+          "hex": "#ece1d1",
+          "name": "#ece1d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#353053"
+          "hex": "#353053",
+          "name": "#353053",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1442b"
+          "hex": "#e1442b",
+          "name": "#e1442b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece1d1"
+          "hex": "#6c598b",
+          "name": "#6c598b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +187,7 @@
       }
     ],
     "wof:id": 1511907299,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: United States Air Mail, FAM-19, Honolulu - Los Angeles route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +205,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

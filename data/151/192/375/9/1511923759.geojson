@@ -23,65 +23,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#6dae81"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9d4241"
+          "hex": "#ddcda9",
+          "name": "#ddcda9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a51d0e"
+          "hex": "#e2d3ac",
+          "name": "#e2d3ac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#709686"
+          "hex": "#a51d0e",
+          "name": "#a51d0e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d384e"
+          "hex": "#608879",
+          "name": "#608879",
+          "reference": "marekm4"
         },
         {
-          "hex": "#23304b"
+          "hex": "#709686",
+          "name": "#709686",
+          "reference": "marekm4"
         },
         {
-          "hex": "#608879"
+          "hex": "#23304b",
+          "name": "#23304b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ddcda9"
+          "hex": "#9d4241",
+          "name": "#9d4241",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2d3ac"
+          "hex": "#3d384e",
+          "name": "#3d384e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +192,7 @@
       }
     ],
     "wof:id": 1511923759,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "airmail flight cover: United States Air Mail, first airmail flight, Fairbanks - Juneau route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +210,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

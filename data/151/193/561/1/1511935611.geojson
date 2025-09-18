@@ -29,80 +29,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff5349"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#c54b8c",
+          "name": "Mulberry",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#bf4f51"
+          "hex": "#ff5349",
+          "name": "Red Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c54b8c"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#cd5c5c"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e4512a"
+          "hex": "#e4512a",
+          "name": "#e4512a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b59055"
+          "hex": "#e4ceb5",
+          "name": "#e4ceb5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b26086"
+          "hex": "#2b1e1b",
+          "name": "#2b1e1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bb5348"
+          "hex": "#b59055",
+          "name": "#b59055",
+          "reference": "marekm4"
         },
         {
-          "hex": "#333232"
+          "hex": "#b26086",
+          "name": "#b26086",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b1e1b"
+          "hex": "#cbbfb2",
+          "name": "#cbbfb2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4ceb5"
+          "hex": "#333232",
+          "name": "#333232",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbbfb2"
+          "hex": "#bb5348",
+          "name": "#bb5348",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +231,7 @@
       }
     ],
     "wof:id": 1511935611,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "timetable: Air California",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +249,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

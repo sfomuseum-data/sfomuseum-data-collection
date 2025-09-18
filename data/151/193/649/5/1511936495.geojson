@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ded9c8"
+          "hex": "#ded9c8",
+          "name": "#ded9c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9cfbe"
+          "hex": "#323a36",
+          "name": "#323a36",
+          "reference": "marekm4"
         },
         {
-          "hex": "#154233"
+          "hex": "#154233",
+          "name": "#154233",
+          "reference": "marekm4"
         },
         {
-          "hex": "#323a36"
+          "hex": "#d9cfbe",
+          "name": "#d9cfbe",
+          "reference": "marekm4"
         }
       ]
     },
@@ -138,7 +156,7 @@
       }
     ],
     "wof:id": 1511936495,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233627,
     "wof:name": "timetable: Holiday Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +174,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

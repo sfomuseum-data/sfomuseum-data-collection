@@ -33,86 +33,138 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a61610"
+          "hex": "#a61610",
+          "name": "#a61610",
+          "reference": "marekm4"
         },
         {
-          "hex": "#352f26"
+          "hex": "#975538",
+          "name": "#975538",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1dccc"
+          "hex": "#868573",
+          "name": "#868573",
+          "reference": "marekm4"
         },
         {
-          "hex": "#898979"
+          "hex": "#dbd7c6",
+          "name": "#dbd7c6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7f8070"
+          "hex": "#32322b",
+          "name": "#32322b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bfb9a7"
+          "hex": "#352f26",
+          "name": "#352f26",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbd7c6"
+          "hex": "#e1dccc",
+          "name": "#e1dccc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#868573"
+          "hex": "#bfb9a7",
+          "name": "#bfb9a7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#232a37"
+          "hex": "#898979",
+          "name": "#898979",
+          "reference": "marekm4"
         },
         {
-          "hex": "#898879"
+          "hex": "#7f8070",
+          "name": "#7f8070",
+          "reference": "marekm4"
         },
         {
-          "hex": "#32322b"
+          "hex": "#232a37",
+          "name": "#232a37",
+          "reference": "marekm4"
         },
         {
-          "hex": "#975538"
+          "hex": "#898879",
+          "name": "#898879",
+          "reference": "marekm4"
         }
       ]
     },
@@ -196,7 +248,7 @@
       }
     ],
     "wof:id": 1729564561,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "safety information card: TWA (Trans World Airlines), Boeing 727",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -214,5 +266,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

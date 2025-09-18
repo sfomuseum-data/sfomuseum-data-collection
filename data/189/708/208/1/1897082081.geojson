@@ -30,35 +30,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#86857a"
+          "hex": "#86857a",
+          "name": "#86857a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#42443b"
+          "hex": "#42443b",
+          "name": "#42443b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c7c2b9"
+          "hex": "#c7c2b9",
+          "name": "#c7c2b9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -148,7 +166,7 @@
       }
     ],
     "wof:id": 1897082081,
-    "wof:lastmodified": 1758181381,
+    "wof:lastmodified": 1758233758,
     "wof:name": "photograph: four aircraft parked at CNAC terminal, Shanghai",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +191,5 @@
     121.483385,
     31.246027
   ],
-  "geometry": {"coordinates":[[121.483385,31.246027]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[121.483385,31.246027]]}
 }

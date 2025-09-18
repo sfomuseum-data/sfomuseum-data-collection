@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000080"
+          "hex": "#000080",
+          "name": "navy",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#484241"
+          "hex": "#7589ab",
+          "name": "#7589ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b6b9c4"
+          "hex": "#e3e0d9",
+          "name": "#e3e0d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7d8394"
+          "hex": "#7d8394",
+          "name": "#7d8394",
+          "reference": "marekm4"
         },
         {
-          "hex": "#102687"
+          "hex": "#102687",
+          "name": "#102687",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7589ab"
+          "hex": "#031475",
+          "name": "#031475",
+          "reference": "marekm4"
         },
         {
-          "hex": "#031475"
+          "hex": "#484241",
+          "name": "#484241",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3e0d9"
+          "hex": "#b6b9c4",
+          "name": "#b6b9c4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +212,7 @@
       }
     ],
     "wof:id": 1511925203,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "menu: TWA (Trans World Airlines), Lockheed L-1649A Starliner super Constellation",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +230,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

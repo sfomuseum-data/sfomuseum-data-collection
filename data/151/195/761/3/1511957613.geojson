@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#393b30"
+          "hex": "#dadcda",
+          "name": "#dadcda",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dadcda"
+          "hex": "#7d8279",
+          "name": "#7d8279",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7d8279"
+          "hex": "#393b30",
+          "name": "#393b30",
+          "reference": "marekm4"
         }
       ]
     },
@@ -174,7 +192,7 @@
       }
     ],
     "wof:id": 1511957613,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233653,
     "wof:name": "photograph: San Francisco International Airport (SFO), fuel service system",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -192,5 +210,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

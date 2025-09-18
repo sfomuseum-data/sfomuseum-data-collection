@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#c8385a"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#c8385a",
+          "name": "Maroon",
+          "reference": "crayola"
         },
         {
-          "hex": "#fc6c85"
+          "hex": "#fc6c85",
+          "name": "Wild Watermelon",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffe4c4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ea6e94"
+          "hex": "#ba1c58",
+          "name": "#ba1c58",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9e0ce"
+          "hex": "#ea6e94",
+          "name": "#ea6e94",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b2624"
+          "hex": "#4b2624",
+          "name": "#4b2624",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ba1c58"
+          "hex": "#f9e0ce",
+          "name": "#f9e0ce",
+          "reference": "marekm4"
         }
       ]
     },
@@ -143,7 +167,7 @@
       }
     ],
     "wof:id": 1511941037,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Mexicana Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -161,5 +185,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

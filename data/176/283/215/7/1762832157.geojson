@@ -24,26 +24,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1d2956"
+          "hex": "#eeead5",
+          "name": "#eeead5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eeead5"
+          "hex": "#1d2956",
+          "name": "#1d2956",
+          "reference": "marekm4"
         }
       ]
     },
@@ -138,7 +150,7 @@
       }
     ],
     "wof:id": 1762832157,
-    "wof:lastmodified": 1758181338,
+    "wof:lastmodified": 1758233691,
     "wof:name": "plat: San Francisco Department of Public Works, Bureau of Engineering, proposed airport site",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +167,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

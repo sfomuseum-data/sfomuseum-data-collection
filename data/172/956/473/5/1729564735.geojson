@@ -31,41 +31,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#9d81ba",
+          "name": "Purple Mountain's Majesty",
+          "reference": "crayola"
         },
         {
-          "hex": "#9d81ba"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#9370db"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         },
         {
-          "hex": "#8b4513"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#9370db",
+          "name": "mediumpurple",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a674b1"
+          "hex": "#a674b1",
+          "name": "#a674b1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#884631"
+          "hex": "#6c300a",
+          "name": "#6c300a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c300a"
+          "hex": "#e3e2e1",
+          "name": "#e3e2e1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e3e2e1"
+          "hex": "#884631",
+          "name": "#884631",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +184,7 @@
       }
     ],
     "wof:id": 1729564735,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "baggage destination tag: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +202,5 @@
     -86.312675,
     41.701381
   ],
-  "geometry": {"coordinates":[[-86.312675,41.701381]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-86.312675,41.701381]]}
 }

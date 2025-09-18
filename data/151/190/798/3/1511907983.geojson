@@ -26,80 +26,128 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5f5"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#f5f5f5",
+          "name": "whitesmoke",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e6e6e6"
+          "hex": "#625f5a",
+          "name": "#625f5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bcbab7"
+          "hex": "#e6e6e6",
+          "name": "#e6e6e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bcbbb8"
+          "hex": "#47403c",
+          "name": "#47403c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d4039"
+          "hex": "#4d4039",
+          "name": "#4d4039",
+          "reference": "marekm4"
         },
         {
-          "hex": "#64605c"
+          "hex": "#86827d",
+          "name": "#86827d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0f0f1"
+          "hex": "#bcbab7",
+          "name": "#bcbab7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#86827d"
+          "hex": "#f0f0f1",
+          "name": "#f0f0f1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#625f5a"
+          "hex": "#eaebec",
+          "name": "#eaebec",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eaebec"
+          "hex": "#86837d",
+          "name": "#86837d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#86837d"
+          "hex": "#bcbbb8",
+          "name": "#bcbbb8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47403c"
+          "hex": "#64605c",
+          "name": "#64605c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -171,7 +219,7 @@
       }
     ],
     "wof:id": 1511907983,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "toy airplane: twin engine aircraft",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +237,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

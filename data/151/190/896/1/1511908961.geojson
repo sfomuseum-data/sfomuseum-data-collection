@@ -32,59 +32,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#8e7287"
+          "hex": "#8e7287",
+          "name": "#8e7287",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3c9ab"
+          "hex": "#d3caad",
+          "name": "#d3caad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a02f20"
+          "hex": "#a12f22",
+          "name": "#a12f22",
+          "reference": "marekm4"
         },
         {
-          "hex": "#363943"
+          "hex": "#d3c9ab",
+          "name": "#d3c9ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a12f22"
+          "hex": "#978f75",
+          "name": "#978f75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#353943"
+          "hex": "#353943",
+          "name": "#353943",
+          "reference": "marekm4"
         },
         {
-          "hex": "#978f75"
+          "hex": "#363943",
+          "name": "#363943",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3caad"
+          "hex": "#a02f20",
+          "name": "#a02f20",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +202,7 @@
       }
     ],
     "wof:id": 1511908961,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233604,
     "wof:name": "airmail flight cover: first airmail flight, CAM-27, South Bend, Indiana - Chicago route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +232,5 @@
     -86.277976,
     41.87897
   ],
-  "geometry": {"coordinates":[[-86.277976,41.672118],[-87.66063,41.87897]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-86.277976,41.672118],[-87.66063,41.87897]]}
 }

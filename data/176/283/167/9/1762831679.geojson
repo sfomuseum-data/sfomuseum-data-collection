@@ -29,68 +29,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#eceabe"
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#8c8a75"
+          "hex": "#8d8b75",
+          "name": "#8d8b75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2dabe"
+          "hex": "#595945",
+          "name": "#595945",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5a5a46"
+          "hex": "#565540",
+          "name": "#565540",
+          "reference": "marekm4"
         },
         {
-          "hex": "#595945"
+          "hex": "#dfd7bb",
+          "name": "#dfd7bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#585844"
+          "hex": "#e0d9bd",
+          "name": "#e0d9bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#565540"
+          "hex": "#e2dabd",
+          "name": "#e2dabd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0d9bd"
+          "hex": "#e2dabe",
+          "name": "#e2dabe",
+          "reference": "marekm4"
         },
         {
-          "hex": "#575642"
+          "hex": "#8c8a75",
+          "name": "#8c8a75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d8b74"
+          "hex": "#575642",
+          "name": "#575642",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d8b75"
+          "hex": "#585844",
+          "name": "#585844",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2dabd"
+          "hex": "#8d8b74",
+          "name": "#8d8b74",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e1d9bd"
+          "hex": "#e1d9bd",
+          "name": "#e1d9bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfd7bb"
+          "hex": "#5a5a46",
+          "name": "#5a5a46",
+          "reference": "marekm4"
         }
       ]
     },
@@ -195,7 +235,7 @@
       }
     ],
     "wof:id": 1762831679,
-    "wof:lastmodified": 1758181338,
+    "wof:lastmodified": 1758233690,
     "wof:name": "correspondence: Aviation Committee of Down Town Association, Mills Field Municipal Airport of San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +252,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

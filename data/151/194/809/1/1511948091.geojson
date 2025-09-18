@@ -25,26 +25,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e4e4e4"
+          "hex": "#252525",
+          "name": "#252525",
+          "reference": "marekm4"
         },
         {
-          "hex": "#252525"
+          "hex": "#e4e4e4",
+          "name": "#e4e4e4",
+          "reference": "marekm4"
         }
       ]
     },
@@ -145,7 +157,7 @@
       }
     ],
     "wof:id": 1511948091,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233643,
     "wof:name": "negative: San Francisco International Airport (SFO), welcome sign",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +175,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

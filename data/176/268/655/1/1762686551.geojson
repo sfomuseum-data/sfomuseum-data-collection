@@ -32,71 +32,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c7c38"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#9c7c38",
+          "name": "Metallic Sunburst",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#deaa88"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#deb887"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#323213"
+          "hex": "#ece7db",
+          "name": "#ece7db",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5ab68"
+          "hex": "#d6b878",
+          "name": "#d6b878",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b8e6f"
+          "hex": "#6b8e6f",
+          "name": "#6b8e6f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#484743"
+          "hex": "#484743",
+          "name": "#484743",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dfc997"
+          "hex": "#dfc997",
+          "name": "#dfc997",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6b878"
+          "hex": "#c5ab68",
+          "name": "#c5ab68",
+          "reference": "marekm4"
         },
         {
-          "hex": "#956018"
+          "hex": "#956018",
+          "name": "#956018",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece7db"
+          "hex": "#323213",
+          "name": "#323213",
+          "reference": "marekm4"
         }
       ]
     },
@@ -197,7 +239,7 @@
       }
     ],
     "wof:id": 1762686551,
-    "wof:lastmodified": 1758181328,
+    "wof:lastmodified": 1758233669,
     "wof:name": "postcard: Washington National Airport, American Air Lines, Douglas DC-3",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -214,5 +256,5 @@
     -77.041643,
     38.850639
   ],
-  "geometry": {"coordinates":[[-77.041643,38.850639]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-77.041643,38.850639]]}
 }

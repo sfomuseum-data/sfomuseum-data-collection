@@ -24,9 +24,9 @@
       1159290019
     ],
     "millsfield:exhibition_ids": [
-      1947305543,
       1897466923,
-      1914632791
+      1914632791,
+      1947305543
     ],
     "millsfield:images": [
       1746281499,
@@ -37,86 +37,138 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dba640"
+          "hex": "#434852",
+          "name": "#434852",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8b8b8"
+          "hex": "#466592",
+          "name": "#466592",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6b8db9"
+          "hex": "#6b8db9",
+          "name": "#6b8db9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c1c1c0"
+          "hex": "#a4513c",
+          "name": "#a4513c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b4d54"
+          "hex": "#dba640",
+          "name": "#dba640",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebb841"
+          "hex": "#3f689a",
+          "name": "#3f689a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a4513c"
+          "hex": "#c1c1c0",
+          "name": "#c1c1c0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f689a"
+          "hex": "#b8b8b8",
+          "name": "#b8b8b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#466592"
+          "hex": "#ebb841",
+          "name": "#ebb841",
+          "reference": "marekm4"
         },
         {
-          "hex": "#434852"
+          "hex": "#4b4d54",
+          "name": "#4b4d54",
+          "reference": "marekm4"
         }
       ]
     },
@@ -203,7 +255,7 @@
       }
     ],
     "wof:id": 1511907557,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "model airplane: Boeing P-26A (Model 266)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -221,5 +273,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

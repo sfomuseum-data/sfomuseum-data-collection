@@ -34,35 +34,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#83827e"
+          "hex": "#83827e",
+          "name": "#83827e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5c3bd"
+          "hex": "#535251",
+          "name": "#535251",
+          "reference": "marekm4"
         },
         {
-          "hex": "#535251"
+          "hex": "#c5c3bd",
+          "name": "#c5c3bd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +186,7 @@
       }
     ],
     "wof:id": 1762831037,
-    "wof:lastmodified": 1758181336,
+    "wof:lastmodified": 1758233689,
     "wof:name": "photograph: United Air Lines, Newark International Airport, New Jersey",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -185,5 +203,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

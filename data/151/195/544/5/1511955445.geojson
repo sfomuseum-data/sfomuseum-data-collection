@@ -33,65 +33,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#d68a59"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd853f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#8b0000"
+          "hex": "#8b0000",
+          "name": "darkred",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d2d2cb"
+          "hex": "#c89950",
+          "name": "#c89950",
+          "reference": "marekm4"
         },
         {
-          "hex": "#080404"
+          "hex": "#080404",
+          "name": "#080404",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b50105"
+          "hex": "#b50105",
+          "name": "#b50105",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c89950"
+          "hex": "#010101",
+          "name": "#010101",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1f0e6"
+          "hex": "#ae4621",
+          "name": "#ae4621",
+          "reference": "marekm4"
         },
         {
-          "hex": "#010101"
+          "hex": "#f1f0e6",
+          "name": "#f1f0e6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ae4621"
+          "hex": "#d2d2cb",
+          "name": "#d2d2cb",
+          "reference": "marekm4"
         }
       ]
     },
@@ -181,7 +219,7 @@
       }
     ],
     "wof:id": 1511955445,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "brochure: TAP Air Portugal, Boeing 747B",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -199,5 +237,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

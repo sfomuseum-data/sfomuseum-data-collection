@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3f140d"
+          "hex": "#d7240b",
+          "name": "#d7240b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26201d"
+          "hex": "#ea3216",
+          "name": "#ea3216",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4e5cd"
+          "hex": "#f4e5cd",
+          "name": "#f4e5cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ebdfcd"
+          "hex": "#0a2f97",
+          "name": "#0a2f97",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d7240b"
+          "hex": "#3f140d",
+          "name": "#3f140d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ea3216"
+          "hex": "#ebdfcd",
+          "name": "#ebdfcd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0a2f97"
+          "hex": "#26201d",
+          "name": "#26201d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +196,7 @@
       }
     ],
     "wof:id": 1511941069,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233634,
     "wof:name": "timetable: Philippine Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

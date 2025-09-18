@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#bab86c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#bdb76b"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b5a05a"
+          "hex": "#9f5a3e",
+          "name": "#9f5a3e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f5a3e"
+          "hex": "#c9c5b8",
+          "name": "#c9c5b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c9c5b8"
+          "hex": "#b5a05a",
+          "name": "#b5a05a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f2924"
+          "hex": "#3f2924",
+          "name": "#3f2924",
+          "reference": "marekm4"
         }
       ]
     },
@@ -157,7 +181,7 @@
       }
     ],
     "wof:id": 1511939569,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: San Diego International Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +199,5 @@
     -117.185927,
     32.733534
   ],
-  "geometry": {"coordinates":[[-117.185927,32.733534]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-117.185927,32.733534]]}
 }

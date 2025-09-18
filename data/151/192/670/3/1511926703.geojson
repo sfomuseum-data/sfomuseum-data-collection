@@ -34,53 +34,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#926eae"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#7851a9"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#a2a2d0"
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#a2a2d0",
+          "name": "Blue Bell",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#7851a9",
+          "name": "Royal Purple",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#9370db"
+          "hex": "#9370db",
+          "name": "mediumpurple",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7688de"
+          "hex": "#9191d8",
+          "name": "#9191d8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#716a9e"
+          "hex": "#716a9e",
+          "name": "#716a9e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8b75a2"
+          "hex": "#8b75a2",
+          "name": "#8b75a2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#433b44"
+          "hex": "#7688de",
+          "name": "#7688de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9191d8"
+          "hex": "#433b44",
+          "name": "#433b44",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +213,7 @@
       }
     ],
     "wof:id": 1511926703,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Northwest Airlines, Douglas DC-9 Series 50, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +231,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

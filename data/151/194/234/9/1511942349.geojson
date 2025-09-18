@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         },
         {
-          "hex": "#319177"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2e8b57",
+          "name": "seagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#2e8b57"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#877960"
+          "hex": "#d1bc99",
+          "name": "#d1bc99",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a59474"
+          "hex": "#d5bea0",
+          "name": "#d5bea0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#373126"
+          "hex": "#223e38",
+          "name": "#223e38",
+          "reference": "marekm4"
         },
         {
-          "hex": "#223e38"
+          "hex": "#a59474",
+          "name": "#a59474",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1bc99"
+          "hex": "#877960",
+          "name": "#877960",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5bea0"
+          "hex": "#4a8476",
+          "name": "#4a8476",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4a8476"
+          "hex": "#373126",
+          "name": "#373126",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +196,7 @@
       }
     ],
     "wof:id": 1511942349,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233635,
     "wof:name": "timetable: Pan American Airways, New York / Bermuda",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +214,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

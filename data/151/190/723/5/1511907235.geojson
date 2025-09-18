@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#de382d"
+          "hex": "#de382d",
+          "name": "#de382d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e3148"
+          "hex": "#f4e6d4",
+          "name": "#f4e6d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4e6d4"
+          "hex": "#2e3148",
+          "name": "#2e3148",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +154,7 @@
       }
     ],
     "wof:id": 1511907235,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American Airways, first airmail flight, Canton Island - Noumea (New Caledonia) route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

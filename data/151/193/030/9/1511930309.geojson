@@ -28,41 +28,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2d6b9a"
+          "hex": "#1f2943",
+          "name": "#1f2943",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c3c9bd"
+          "hex": "#2d6b9a",
+          "name": "#2d6b9a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1f2943"
+          "hex": "#3f92c2",
+          "name": "#3f92c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f92c2"
+          "hex": "#c3c9bd",
+          "name": "#c3c9bd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -141,7 +163,7 @@
       }
     ],
     "wof:id": 1511930309,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233619,
     "wof:name": "brochure: Mount Cook Airlines, general service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -159,5 +181,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#29142b"
+          "hex": "#f4ead8",
+          "name": "#f4ead8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4ead8"
+          "hex": "#29142b",
+          "name": "#29142b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#edb029"
+          "hex": "#edb029",
+          "name": "#edb029",
+          "reference": "marekm4"
         },
         {
-          "hex": "#af3014"
+          "hex": "#af3014",
+          "name": "#af3014",
+          "reference": "marekm4"
         }
       ]
     },
@@ -140,7 +164,7 @@
       }
     ],
     "wof:id": 1729563963,
-    "wof:lastmodified": 1758181312,
+    "wof:lastmodified": 1758233654,
     "wof:name": "ticket jacket: TWA (Trans World Airlines), Rome",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -158,5 +182,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

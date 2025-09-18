@@ -33,77 +33,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c04032"
+          "hex": "#c04032",
+          "name": "#c04032",
+          "reference": "marekm4"
         },
         {
-          "hex": "#29263a"
+          "hex": "#be3623",
+          "name": "#be3623",
+          "reference": "marekm4"
         },
         {
-          "hex": "#466399"
+          "hex": "#32395e",
+          "name": "#32395e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9d2c2"
+          "hex": "#f9f0d7",
+          "name": "#f9f0d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d3548"
+          "hex": "#466399",
+          "name": "#466399",
+          "reference": "marekm4"
         },
         {
-          "hex": "#be3623"
+          "hex": "#d9d2c2",
+          "name": "#d9d2c2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f8cad"
+          "hex": "#6f8cad",
+          "name": "#6f8cad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dad3c7"
+          "hex": "#3d3548",
+          "name": "#3d3548",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9f0d7"
+          "hex": "#29263a",
+          "name": "#29263a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#32395e"
+          "hex": "#dad3c7",
+          "name": "#dad3c7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +240,7 @@
       }
     ],
     "wof:id": 1511907387,
-    "wof:lastmodified": 1758181395,
+    "wof:lastmodified": 1758233603,
     "wof:name": "airmail flight cover: Pan American World Airways, FAM-19, Canton Island - Sydney route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -212,5 +258,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

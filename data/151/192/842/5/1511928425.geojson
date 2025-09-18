@@ -30,29 +30,43 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#072261"
+          "hex": "#072261",
+          "name": "#072261",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e6dc"
+          "hex": "#123686",
+          "name": "#123686",
+          "reference": "marekm4"
         },
         {
-          "hex": "#123686"
+          "hex": "#e5e6dc",
+          "name": "#e5e6dc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +148,7 @@
       }
     ],
     "wof:id": 1511928425,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233618,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +166,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

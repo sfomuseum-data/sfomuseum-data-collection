@@ -30,35 +30,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bbb9ad"
+          "hex": "#85867a",
+          "name": "#85867a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#85867a"
+          "hex": "#bbb9ad",
+          "name": "#bbb9ad",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3d3e33"
+          "hex": "#3d3e33",
+          "name": "#3d3e33",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +170,7 @@
       }
     ],
     "wof:id": 1913687615,
-    "wof:lastmodified": 1758181385,
+    "wof:lastmodified": 1758233764,
     "wof:name": "photograph: San Francisco International Airport (SFO), Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +187,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

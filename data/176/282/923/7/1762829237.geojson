@@ -35,53 +35,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#a57164"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#352f3d"
+          "hex": "#6f90bf",
+          "name": "#6f90bf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f90bf"
+          "hex": "#956667",
+          "name": "#956667",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b6bfcd"
+          "hex": "#5f719e",
+          "name": "#5f719e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f719e"
+          "hex": "#b6bfcd",
+          "name": "#b6bfcd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#956667"
+          "hex": "#352f3d",
+          "name": "#352f3d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -191,7 +221,7 @@
       }
     ],
     "wof:id": 1762829237,
-    "wof:lastmodified": 1758181336,
+    "wof:lastmodified": 1758233686,
     "wof:name": "slide: San Francisco International Airport (SFO), Delta Air Lines [digital image]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -208,5 +238,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

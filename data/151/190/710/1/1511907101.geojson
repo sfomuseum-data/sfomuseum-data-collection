@@ -29,50 +29,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#d68a59"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c0448f"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c0448f",
+          "name": "Red Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5f5dc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#c71585"
+          "hex": "#fff8dc",
+          "name": "cornsilk",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#c71585",
+          "name": "mediumvioletred",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#fff8dc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bd4099"
+          "hex": "#514b4a",
+          "name": "#514b4a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d39457"
+          "hex": "#d39457",
+          "name": "#d39457",
+          "reference": "marekm4"
         },
         {
-          "hex": "#faf5dc"
+          "hex": "#bd4099",
+          "name": "#bd4099",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fdf9de"
+          "hex": "#fdf9de",
+          "name": "#fdf9de",
+          "reference": "marekm4"
         },
         {
-          "hex": "#514b4a"
+          "hex": "#faf5dc",
+          "name": "#faf5dc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -155,7 +183,7 @@
       }
     ],
     "wof:id": 1511907101,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American World Airways, Singapore - Saigon route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

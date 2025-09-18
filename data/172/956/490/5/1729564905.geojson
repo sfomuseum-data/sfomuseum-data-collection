@@ -30,65 +30,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#30252a"
+          "hex": "#ddcda7",
+          "name": "#ddcda7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ca2e12"
+          "hex": "#ca2e12",
+          "name": "#ca2e12",
+          "reference": "marekm4"
         },
         {
-          "hex": "#475b8d"
+          "hex": "#343326",
+          "name": "#343326",
+          "reference": "marekm4"
         },
         {
-          "hex": "#343326"
+          "hex": "#30252a",
+          "name": "#30252a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9c9272"
+          "hex": "#d3c8b2",
+          "name": "#d3c8b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ddcda7"
+          "hex": "#9c9272",
+          "name": "#9c9272",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3c8b2"
+          "hex": "#475b8d",
+          "name": "#475b8d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +207,7 @@
       }
     ],
     "wof:id": 1729564905,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "timetable: British Commonwealth Pacific Airlines (BCPA), transpacific Douglas DC-6 Sleeper Service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +225,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

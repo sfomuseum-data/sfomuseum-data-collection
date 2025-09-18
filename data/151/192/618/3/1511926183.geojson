@@ -34,50 +34,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4a4355"
+          "hex": "#7685b6",
+          "name": "#7685b6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#84758a"
+          "hex": "#4a4355",
+          "name": "#4a4355",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3d0d3"
+          "hex": "#84758a",
+          "name": "#84758a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7685b6"
+          "hex": "#6d75a1",
+          "name": "#6d75a1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6d75a1"
+          "hex": "#d3d0d3",
+          "name": "#d3d0d3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -180,7 +208,7 @@
       }
     ],
     "wof:id": 1511926183,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Singapore Airlines, Airbus A310, Manila International Airport (MNL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -198,5 +226,5 @@
     121.015152,
     14.517768
   ],
-  "geometry": {"coordinates":[[121.015152,14.517768]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[121.015152,14.517768]]}
 }

@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#efeae6"
+          "hex": "#313133",
+          "name": "#313133",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dc1b1a"
+          "hex": "#dc1b1a",
+          "name": "#dc1b1a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#313133"
+          "hex": "#efeae6",
+          "name": "#efeae6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -131,7 +149,7 @@
       }
     ],
     "wof:id": 1511934587,
-    "wof:lastmodified": 1758181292,
+    "wof:lastmodified": 1758233624,
     "wof:name": "timetable: TWA (Trans World Airlines), including Trans World Express Service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -149,5 +167,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

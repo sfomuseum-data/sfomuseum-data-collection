@@ -44,35 +44,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4a4c40"
+          "hex": "#888879",
+          "name": "#888879",
+          "reference": "marekm4"
         },
         {
-          "hex": "#888879"
+          "hex": "#4a4c40",
+          "name": "#4a4c40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1cebe"
+          "hex": "#d1cebe",
+          "name": "#d1cebe",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +176,7 @@
       }
     ],
     "wof:id": 1762832757,
-    "wof:lastmodified": 1758181339,
+    "wof:lastmodified": 1758233692,
     "wof:name": "photograph: John F. Kennedy International Airport (JFK), The Beatles",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -175,5 +193,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286],[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286],[-73.787845,40.643286]]}
 }

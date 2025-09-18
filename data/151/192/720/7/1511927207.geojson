@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d9cebd"
+          "hex": "#c82d19",
+          "name": "#c82d19",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c82d19"
+          "hex": "#d9cebd",
+          "name": "#d9cebd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121343"
+          "hex": "#121343",
+          "name": "#121343",
+          "reference": "marekm4"
         }
       ]
     },
@@ -142,7 +160,7 @@
       }
     ],
     "wof:id": 1511927207,
-    "wof:lastmodified": 1758181291,
+    "wof:lastmodified": 1758233616,
     "wof:name": "timetable: National Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -160,5 +178,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

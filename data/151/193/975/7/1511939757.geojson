@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#c8385a",
+          "name": "Maroon",
+          "reference": "crayola"
         },
         {
-          "hex": "#324ab2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c8385a"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dc143c"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bd2647"
+          "hex": "#201d1b",
+          "name": "#201d1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e6db"
+          "hex": "#e6e6db",
+          "name": "#e6e6db",
+          "reference": "marekm4"
         },
         {
-          "hex": "#234cb8"
+          "hex": "#234cb8",
+          "name": "#234cb8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#201d1b"
+          "hex": "#bd2647",
+          "name": "#bd2647",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +173,7 @@
       }
     ],
     "wof:id": 1511939757,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: United Airlines, San Francisco / Oakland / San Jose",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +191,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

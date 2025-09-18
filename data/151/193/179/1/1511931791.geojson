@@ -29,53 +29,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8caaf"
+          "hex": "#a83832",
+          "name": "#a83832",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b4c56"
+          "hex": "#d8caaf",
+          "name": "#d8caaf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a83832"
+          "hex": "#4b4c56",
+          "name": "#4b4c56",
+          "reference": "marekm4"
         },
         {
-          "hex": "#778695"
+          "hex": "#778695",
+          "name": "#778695",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c7988"
+          "hex": "#6c7988",
+          "name": "#6c7988",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +188,7 @@
       }
     ],
     "wof:id": 1511931791,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "airmail flight cover: U.S. Navy Hawaii, Midway Island Mass Flight, May 9-11, 1935",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +206,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

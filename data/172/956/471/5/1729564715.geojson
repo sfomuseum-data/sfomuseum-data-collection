@@ -31,50 +31,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#373a2a"
+          "hex": "#888d7a",
+          "name": "#888d7a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7c8575"
+          "hex": "#215ea2",
+          "name": "#215ea2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#215ea2"
+          "hex": "#373a2a",
+          "name": "#373a2a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#888d7a"
+          "hex": "#7c8575",
+          "name": "#7c8575",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a4aaa0"
+          "hex": "#a4aaa0",
+          "name": "#a4aaa0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -170,7 +198,7 @@
       }
     ],
     "wof:id": 1729564715,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "baggage destination tag: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +216,5 @@
     -115.15644,
     36.081003
   ],
-  "geometry": {"coordinates":[[-115.15644,36.081003]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-115.15644,36.081003]]}
 }

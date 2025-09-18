@@ -37,77 +37,123 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#5f433b"
+          "hex": "#55433c",
+          "name": "#55433c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bcbbba"
+          "hex": "#544541",
+          "name": "#544541",
+          "reference": "marekm4"
         },
         {
-          "hex": "#58403a"
+          "hex": "#53423b",
+          "name": "#53423b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bab9b8"
+          "hex": "#b5b4b2",
+          "name": "#b5b4b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#916a60"
+          "hex": "#b8b7b5",
+          "name": "#b8b7b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#55433c"
+          "hex": "#8f6b5d",
+          "name": "#8f6b5d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8f6b5d"
+          "hex": "#bcbbba",
+          "name": "#bcbbba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b5b4b2"
+          "hex": "#5f433b",
+          "name": "#5f433b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#53423b"
+          "hex": "#bab9b8",
+          "name": "#bab9b8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b3b2b0"
+          "hex": "#916a60",
+          "name": "#916a60",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b8b7b5"
+          "hex": "#58403a",
+          "name": "#58403a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#544541"
+          "hex": "#5c5150",
+          "name": "#5c5150",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c5150"
+          "hex": "#b3b2b0",
+          "name": "#b3b2b0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -212,7 +258,7 @@
       }
     ],
     "wof:id": 1511909297,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233605,
     "wof:name": "model airplane: Southwest Airlines, Boeing 737",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -230,5 +276,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

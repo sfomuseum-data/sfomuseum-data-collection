@@ -30,101 +30,163 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c54b8c"
+          "hex": "#c54b8c",
+          "name": "Mulberry",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#4a646c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#708090"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c36692"
+          "hex": "#e5e5e4",
+          "name": "#e5e5e4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#333851"
+          "hex": "#c36692",
+          "name": "#c36692",
+          "reference": "marekm4"
         },
         {
-          "hex": "#373563"
+          "hex": "#14204d",
+          "name": "#14204d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4e658d"
+          "hex": "#bc3636",
+          "name": "#bc3636",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f6f8a"
+          "hex": "#333851",
+          "name": "#333851",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc3636"
+          "hex": "#4e658d",
+          "name": "#4e658d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#14204d"
+          "hex": "#373563",
+          "name": "#373563",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc2b1b"
+          "hex": "#6f6f8a",
+          "name": "#6f6f8a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece7da"
+          "hex": "#bc2b1b",
+          "name": "#bc2b1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8ebec"
+          "hex": "#e8ebec",
+          "name": "#e8ebec",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e5e4"
+          "hex": "#ece7da",
+          "name": "#ece7da",
+          "reference": "marekm4"
         }
       ]
     },
@@ -220,7 +282,7 @@
       }
     ],
     "wof:id": 1511906971,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233602,
     "wof:name": "airmail flight cover: Pan American World Airways, Bangkok - Calcutta route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -238,5 +300,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

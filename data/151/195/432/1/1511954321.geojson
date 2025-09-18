@@ -29,65 +29,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#bf4f51"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#bf4f51",
+          "name": "Bittersweet Shimmer",
+          "reference": "crayola"
         },
         {
-          "hex": "#e7c697"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c03417"
+          "hex": "#c03417",
+          "name": "#c03417",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a28e75"
+          "hex": "#d8c7b1",
+          "name": "#d8c7b1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d273d"
+          "hex": "#a28e75",
+          "name": "#a28e75",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbc6ab"
+          "hex": "#2d273d",
+          "name": "#2d273d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8c7b1"
+          "hex": "#dbc6ab",
+          "name": "#dbc6ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e3540"
+          "hex": "#3e3540",
+          "name": "#3e3540",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b1472e"
+          "hex": "#af9476",
+          "name": "#af9476",
+          "reference": "marekm4"
         },
         {
-          "hex": "#af9476"
+          "hex": "#b1472e",
+          "name": "#b1472e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -169,7 +207,7 @@
       }
     ],
     "wof:id": 1511954321,
-    "wof:lastmodified": 1758181307,
+    "wof:lastmodified": 1758233650,
     "wof:name": "airmail flight cover: Pan American Airways, FAM-18, first airmail flight, Marseilles - New York route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -187,5 +225,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

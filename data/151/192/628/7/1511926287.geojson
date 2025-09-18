@@ -31,26 +31,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c9c6c6"
+          "hex": "#333a3b",
+          "name": "#333a3b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#333a3b"
+          "hex": "#c9c6c6",
+          "name": "#c9c6c6",
+          "reference": "marekm4"
         }
       ]
     },
@@ -131,7 +143,7 @@
       }
     ],
     "wof:id": 1511926287,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: Garuda Indonesia, Airbus A300",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -149,5 +161,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

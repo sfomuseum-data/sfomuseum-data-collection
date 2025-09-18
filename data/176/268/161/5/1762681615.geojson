@@ -34,65 +34,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fae7b5"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#fae7b5",
+          "name": "Banana Mania",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#778899"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b0b6b4"
+          "hex": "#b0b6b4",
+          "name": "#b0b6b4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1deb5"
+          "hex": "#9b8b6e",
+          "name": "#9b8b6e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7493ab"
+          "hex": "#7493ab",
+          "name": "#7493ab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#463a37"
+          "hex": "#f1deb5",
+          "name": "#f1deb5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8a6f5b"
+          "hex": "#3b3b3d",
+          "name": "#3b3b3d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9b8b6e"
+          "hex": "#8a6f5b",
+          "name": "#8a6f5b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3b3b3d"
+          "hex": "#463a37",
+          "name": "#463a37",
+          "reference": "marekm4"
         }
       ]
     },
@@ -196,7 +234,7 @@
       }
     ],
     "wof:id": 1762681615,
-    "wof:lastmodified": 1758181319,
+    "wof:lastmodified": 1758233663,
     "wof:name": "postcard: Zurich Airport, Swissair, Boeing 747",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -213,5 +251,5 @@
     8.559692,
     47.455793
   ],
-  "geometry": {"coordinates":[[8.559692,47.455793]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[8.559692,47.455793]]}
 }

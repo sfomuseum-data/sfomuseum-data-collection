@@ -24,26 +24,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a52a2a"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a11c20"
+          "hex": "#cbcac7",
+          "name": "#cbcac7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbcac7"
+          "hex": "#a11c20",
+          "name": "#a11c20",
+          "reference": "marekm4"
         }
       ]
     },
@@ -131,7 +143,7 @@
       }
     ],
     "wof:id": 1779945265,
-    "wof:lastmodified": 1758181359,
+    "wof:lastmodified": 1758233724,
     "wof:name": "cocktail pick: Seattle-Tacoma International Airport, Horizon Room",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +160,5 @@
     -122.304268,
     47.441823
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.304268,47.441823]]}
 }

@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#324ab2"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#324ab2",
+          "name": "Violet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6b8e23"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3459b0"
+          "hex": "#3459b0",
+          "name": "#3459b0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5f8c37"
+          "hex": "#294739",
+          "name": "#294739",
+          "reference": "marekm4"
         },
         {
-          "hex": "#294739"
+          "hex": "#cbd7dd",
+          "name": "#cbd7dd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e90db"
+          "hex": "#5e90db",
+          "name": "#5e90db",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbd7dd"
+          "hex": "#5f8c37",
+          "name": "#5f8c37",
+          "reference": "marekm4"
         }
       ]
     },
@@ -153,7 +183,7 @@
       }
     ],
     "wof:id": 1511940047,
-    "wof:lastmodified": 1758181295,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Aer Lingus, summer revised schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -171,5 +201,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

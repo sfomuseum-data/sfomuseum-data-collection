@@ -29,59 +29,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1974d2"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eae4d1"
+          "hex": "#146dc8",
+          "name": "#146dc8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c4262c"
+          "hex": "#5594cd",
+          "name": "#5594cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5094d1"
+          "hex": "#eae4d1",
+          "name": "#eae4d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e8e3d2"
+          "hex": "#5094d1",
+          "name": "#5094d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d76cc"
+          "hex": "#c4262c",
+          "name": "#c4262c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#146dc8"
+          "hex": "#e8e3d2",
+          "name": "#e8e3d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5594cd"
+          "hex": "#1d76cc",
+          "name": "#1d76cc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -163,7 +197,7 @@
       }
     ],
     "wof:id": 1511925487,
-    "wof:lastmodified": 1758181289,
+    "wof:lastmodified": 1758233614,
     "wof:name": "timetable: VARIG, Los Angeles",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -181,5 +215,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -25,62 +25,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a25623"
+          "hex": "#a25623",
+          "name": "#a25623",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2b2315"
+          "hex": "#514c3f",
+          "name": "#514c3f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ece3d5"
+          "hex": "#ded9cc",
+          "name": "#ded9cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ded9cc"
+          "hex": "#2b2315",
+          "name": "#2b2315",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8bd1c"
+          "hex": "#ece3d5",
+          "name": "#ece3d5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#514c3f"
+          "hex": "#d8bd1c",
+          "name": "#d8bd1c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -172,7 +208,7 @@
       }
     ],
     "wof:id": 1762687465,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233670,
     "wof:name": "postcard: Portland International Airport (Oregon)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +225,5 @@
     -122.597389,
     45.586144
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.597389,45.586144]]}
 }

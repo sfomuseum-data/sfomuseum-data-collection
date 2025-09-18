@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8fd400"
+          "hex": "#8fd400",
+          "name": "Sheen Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#1dacd6",
+          "name": "Cerulean",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#1dacd6"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#1e90ff"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         },
         {
-          "hex": "#6b8e23"
+          "hex": "#9acd32",
+          "name": "yellowgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#006400"
+          "hex": "#006400",
+          "name": "darkgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         },
         {
-          "hex": "#9acd32"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2495df"
+          "hex": "#aec31f",
+          "name": "#aec31f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#49942e"
+          "hex": "#e9ecdb",
+          "name": "#e9ecdb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e9ecdb"
+          "hex": "#1b5213",
+          "name": "#1b5213",
+          "reference": "marekm4"
         },
         {
-          "hex": "#aec31f"
+          "hex": "#2495df",
+          "name": "#2495df",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1b5213"
+          "hex": "#49942e",
+          "name": "#49942e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511939581,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Saudia (Saudi Arabian Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

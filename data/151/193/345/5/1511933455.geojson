@@ -28,44 +28,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#0081ab"
+          "hex": "#0081ab",
+          "name": "Steel Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6"
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1a4876"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b0e0e6"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#b0e0e6",
+          "name": "powderblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#041c52"
+          "hex": "#47a7c8",
+          "name": "#47a7c8",
+          "reference": "marekm4"
         },
         {
-          "hex": "#badde2"
+          "hex": "#0175a4",
+          "name": "#0175a4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#47a7c8"
+          "hex": "#badde2",
+          "name": "#badde2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0175a4"
+          "hex": "#041c52",
+          "name": "#041c52",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +168,7 @@
       }
     ],
     "wof:id": 1511933455,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233623,
     "wof:name": "timetable: Eastern Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +186,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

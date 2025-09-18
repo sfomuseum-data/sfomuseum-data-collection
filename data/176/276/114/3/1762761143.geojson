@@ -30,26 +30,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#6a5acd"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#6a5acd",
+          "name": "slateblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#282437"
+          "hex": "#6770b9",
+          "name": "#6770b9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6770b9"
+          "hex": "#282437",
+          "name": "#282437",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +158,7 @@
       }
     ],
     "wof:id": 1762761143,
-    "wof:lastmodified": 1758094884,
+    "wof:lastmodified": 1758233684,
     "wof:name": "slide: Northwest Airlines, Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +175,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

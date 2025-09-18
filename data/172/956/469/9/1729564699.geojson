@@ -31,41 +31,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#b4674d",
+          "name": "Brown",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#b4674d"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eaebe9"
+          "hex": "#d3853a",
+          "name": "#d3853a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bc7636"
+          "hex": "#bc7636",
+          "name": "#bc7636",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3853a"
+          "hex": "#141d58",
+          "name": "#141d58",
+          "reference": "marekm4"
         },
         {
-          "hex": "#141d58"
+          "hex": "#eaebe9",
+          "name": "#eaebe9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -162,7 +184,7 @@
       }
     ],
     "wof:id": 1729564699,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "baggage destination tag: TWA (Trans World Airlines)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -180,5 +202,5 @@
     -104.672219,
     39.864939
   ],
-  "geometry": {"coordinates":[[-104.672219,39.864939]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-104.672219,39.864939]]}
 }

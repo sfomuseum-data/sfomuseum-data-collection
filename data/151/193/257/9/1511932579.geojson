@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#8fd400",
+          "name": "Sheen Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#8fd400"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7"
+          "hex": "#b8860b",
+          "name": "darkgoldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#b8860b"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#006400"
+          "hex": "#006400",
+          "name": "darkgreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ede9d9"
+          "hex": "#135425",
+          "name": "#135425",
+          "reference": "marekm4"
         },
         {
-          "hex": "#135425"
+          "hex": "#ede9d9",
+          "name": "#ede9d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a1a613"
+          "hex": "#a1a613",
+          "name": "#a1a613",
+          "reference": "marekm4"
         }
       ]
     },
@@ -136,7 +154,7 @@
       }
     ],
     "wof:id": 1511932579,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Braniff International, winter schedule",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

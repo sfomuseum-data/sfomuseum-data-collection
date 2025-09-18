@@ -29,68 +29,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1f75fe"
+          "hex": "#1f75fe",
+          "name": "Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#714b23"
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#f8d568",
+          "name": "Orange Yellow",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#f8d568"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffffff"
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#fffaf0",
+          "name": "floralwhite",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#fffaf0"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#556b2f"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#468ff2"
+          "hex": "#e4e7ee",
+          "name": "#e4e7ee",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9faee"
+          "hex": "#3e2d0f",
+          "name": "#3e2d0f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#080b41"
+          "hex": "#ddd152",
+          "name": "#ddd152",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ddd152"
+          "hex": "#080b41",
+          "name": "#080b41",
+          "reference": "marekm4"
         },
         {
-          "hex": "#407be9"
+          "hex": "#407be9",
+          "name": "#407be9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4e7ee"
+          "hex": "#f9faee",
+          "name": "#f9faee",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3e2d0f"
+          "hex": "#468ff2",
+          "name": "#468ff2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +208,7 @@
       }
     ],
     "wof:id": 1511930675,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "menu: Austrian Airlines, First Class",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +226,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

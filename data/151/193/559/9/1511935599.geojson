@@ -29,41 +29,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fdbcb4"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#fdbcb4",
+          "name": "Melon",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#ffb6c1"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#ffb6c1",
+          "name": "lightpink",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#eeb9b8"
+          "hex": "#584c50",
+          "name": "#584c50",
+          "reference": "marekm4"
         },
         {
-          "hex": "#322328"
+          "hex": "#edb6b2",
+          "name": "#edb6b2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8b7375"
+          "hex": "#8b7375",
+          "name": "#8b7375",
+          "reference": "marekm4"
         },
         {
-          "hex": "#edb6b2"
+          "hex": "#322328",
+          "name": "#322328",
+          "reference": "marekm4"
         },
         {
-          "hex": "#584c50"
+          "hex": "#eeb9b8",
+          "name": "#eeb9b8",
+          "reference": "marekm4"
         }
       ]
     },
@@ -144,7 +166,7 @@
       }
     ],
     "wof:id": 1511935599,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233625,
     "wof:name": "timetable: Aero Commuter and Catalina Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -162,5 +184,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

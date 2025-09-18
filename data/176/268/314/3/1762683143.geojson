@@ -24,44 +24,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#4d4d46"
+          "hex": "#f4501e",
+          "name": "#f4501e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f4501e"
+          "hex": "#d1d0cc",
+          "name": "#d1d0cc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d1d0cc"
+          "hex": "#4d4d46",
+          "name": "#4d4d46",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a18575"
+          "hex": "#a18575",
+          "name": "#a18575",
+          "reference": "marekm4"
         }
       ]
     },
@@ -148,7 +172,7 @@
       }
     ],
     "wof:id": 1762683143,
-    "wof:lastmodified": 1758181322,
+    "wof:lastmodified": 1758233665,
     "wof:name": "timetable: San Diego International Airport, Flight Times and News of the Port",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +189,5 @@
     -117.185927,
     32.733534
   ],
-  "geometry": {"coordinates":[[-117.185927,32.733534]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-117.185927,32.733534]]}
 }

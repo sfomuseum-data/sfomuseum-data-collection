@@ -25,26 +25,38 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffdead"
+          "hex": "#ffdead",
+          "name": "navajowhite",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2f2218"
+          "hex": "#f5cb9b",
+          "name": "#f5cb9b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f5cb9b"
+          "hex": "#2f2218",
+          "name": "#2f2218",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +161,7 @@
       }
     ],
     "wof:id": 1511923163,
-    "wof:lastmodified": 1758094838,
+    "wof:lastmodified": 1758233612,
     "wof:name": "annual report: San Francisco International Airport (SFO), 1981/1982 [1 issue: 1981/1982]",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +179,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

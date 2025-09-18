@@ -36,59 +36,93 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ebddc4"
+          "hex": "#ebddc4",
+          "name": "#ebddc4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#926948"
+          "hex": "#926948",
+          "name": "#926948",
+          "reference": "marekm4"
         },
         {
-          "hex": "#418cbd"
+          "hex": "#d5d2cd",
+          "name": "#d5d2cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#221b14"
+          "hex": "#418cbd",
+          "name": "#418cbd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5d2cd"
+          "hex": "#221b14",
+          "name": "#221b14",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1879bc"
+          "hex": "#1879bc",
+          "name": "#1879bc",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +228,7 @@
       }
     ],
     "wof:id": 1762683045,
-    "wof:lastmodified": 1758181322,
+    "wof:lastmodified": 1758233665,
     "wof:name": "postcard: Frankfurt Main Airport, Boeing 727, Boeing 747, Pan American Airways, World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -211,5 +245,5 @@
     7.267284,
     49.945918
   ],
-  "geometry": {"coordinates":[[7.267284,49.945918]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[7.267284,49.945918]]}
 }

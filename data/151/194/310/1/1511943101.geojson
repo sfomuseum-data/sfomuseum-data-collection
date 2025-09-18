@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2e2c20"
+          "hex": "#4294d3",
+          "name": "#4294d3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d4dcd5"
+          "hex": "#d4dcd5",
+          "name": "#d4dcd5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4294d3"
+          "hex": "#147ad0",
+          "name": "#147ad0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#147ad0"
+          "hex": "#2e2c20",
+          "name": "#2e2c20",
+          "reference": "marekm4"
         }
       ]
     },
@@ -158,7 +182,7 @@
       }
     ],
     "wof:id": 1511943101,
-    "wof:lastmodified": 1758181300,
+    "wof:lastmodified": 1758233636,
     "wof:name": "timetable: Cologne Bonn Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +200,5 @@
     7.127735,
     50.874056
   ],
-  "geometry": {"coordinates":[[7.127735,50.874056]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[7.127735,50.874056]]}
 }

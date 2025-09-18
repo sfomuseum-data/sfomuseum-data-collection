@@ -33,50 +33,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#5d76cb"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a83a47"
+          "hex": "#bac1c7",
+          "name": "#bac1c7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bac1c7"
+          "hex": "#4876b7",
+          "name": "#4876b7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4876b7"
+          "hex": "#2e262a",
+          "name": "#2e262a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2e262a"
+          "hex": "#5e8fc3",
+          "name": "#5e8fc3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e8fc3"
+          "hex": "#a83a47",
+          "name": "#a83a47",
+          "reference": "marekm4"
         }
       ]
     },
@@ -183,7 +211,7 @@
       }
     ],
     "wof:id": 1511935815,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: AirCal, American Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +229,5 @@
     -87.894364,
     41.983038
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-87.894364,41.983038]]}
 }

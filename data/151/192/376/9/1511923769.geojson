@@ -32,62 +32,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8d4e85"
+          "hex": "#8d4e85",
+          "name": "Razzmic Berry",
+          "reference": "crayola"
         },
         {
-          "hex": "#9c2542"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#87a96b"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6a9b65"
+          "hex": "#d3ccb6",
+          "name": "#d3ccb6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3ccb6"
+          "hex": "#d0c9b5",
+          "name": "#d0c9b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8d6d8a"
+          "hex": "#6a9b65",
+          "name": "#6a9b65",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4b455e"
+          "hex": "#4b455e",
+          "name": "#4b455e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0c9b5"
+          "hex": "#9f271d",
+          "name": "#9f271d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f271d"
+          "hex": "#383d51",
+          "name": "#383d51",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a42312"
+          "hex": "#a42312",
+          "name": "#a42312",
+          "reference": "marekm4"
         },
         {
-          "hex": "#383d51"
+          "hex": "#8d6d8a",
+          "name": "#8d6d8a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -173,7 +209,7 @@
       }
     ],
     "wof:id": 1511923769,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233613,
     "wof:name": "airmail flight cover: Pan American World Airways, first airmail flight, Beirut - Rangoon route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -191,5 +227,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

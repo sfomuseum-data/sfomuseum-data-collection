@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#935536"
+          "hex": "#6f9ca7",
+          "name": "#6f9ca7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#3f383b"
+          "hex": "#3f383b",
+          "name": "#3f383b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ada9a5"
+          "hex": "#ada9a5",
+          "name": "#ada9a5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f9ca7"
+          "hex": "#935536",
+          "name": "#935536",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9a9560"
+          "hex": "#9a9560",
+          "name": "#9a9560",
+          "reference": "marekm4"
         }
       ]
     },
@@ -149,7 +179,7 @@
       }
     ],
     "wof:id": 1729564795,
-    "wof:lastmodified": 1758181313,
+    "wof:lastmodified": 1758233655,
     "wof:name": "miniature playing cards: Qantas Empire Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +197,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

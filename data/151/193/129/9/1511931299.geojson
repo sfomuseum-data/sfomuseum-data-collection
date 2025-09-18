@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#fdd9b5",
+          "name": "Apricot",
+          "reference": "crayola"
         },
         {
-          "hex": "#fdd9b5"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#ff4500"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#678962"
+          "hex": "#2d5337",
+          "name": "#2d5337",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2dbb3"
+          "hex": "#e73b10",
+          "name": "#e73b10",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2d5337"
+          "hex": "#f2dbb3",
+          "name": "#f2dbb3",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e73b10"
+          "hex": "#678962",
+          "name": "#678962",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b09470"
+          "hex": "#b09470",
+          "name": "#b09470",
+          "reference": "marekm4"
         }
       ]
     },
@@ -164,7 +194,7 @@
       }
     ],
     "wof:id": 1511931299,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "timetable: SCADTA (Sociedad Colombo-Alemana de Transpoertes Aereos)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -182,5 +212,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

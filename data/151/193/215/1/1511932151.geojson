@@ -26,35 +26,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#008080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e1e0db"
+          "hex": "#0151b5",
+          "name": "#0151b5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0151b5"
+          "hex": "#e1e0db",
+          "name": "#e1e0db",
+          "reference": "marekm4"
         },
         {
-          "hex": "#010102"
+          "hex": "#010102",
+          "name": "#010102",
+          "reference": "marekm4"
         }
       ]
     },
@@ -132,7 +150,7 @@
       }
     ],
     "wof:id": 1511932151,
-    "wof:lastmodified": 1758181288,
+    "wof:lastmodified": 1758233621,
     "wof:name": "timetable: Northwest Airlines, Sacramento / San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -150,5 +168,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

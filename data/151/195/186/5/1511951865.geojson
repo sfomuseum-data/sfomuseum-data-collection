@@ -25,44 +25,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b4674d"
+          "hex": "#b4674d",
+          "name": "Brown",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d"
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#cd853f"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bd903d"
+          "hex": "#bd903d",
+          "name": "#bd903d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#33291e"
+          "hex": "#e6cda5",
+          "name": "#e6cda5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b46733"
+          "hex": "#33291e",
+          "name": "#33291e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6cda5"
+          "hex": "#b46733",
+          "name": "#b46733",
+          "reference": "marekm4"
         }
       ]
     },
@@ -138,7 +162,7 @@
       }
     ],
     "wof:id": 1511951865,
-    "wof:lastmodified": 1758181303,
+    "wof:lastmodified": 1758233647,
     "wof:name": "The bird boys, or, The young sky pilot's first air voyage",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +180,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

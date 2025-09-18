@@ -30,83 +30,133 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#319177"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#6dae81"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#daa520"
+          "hex": "#8fbc8f",
+          "name": "darkseagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#8fbc8f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#3cb371",
+          "name": "mediumseagreen",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#3cb371"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#182c1b"
+          "hex": "#383d3c",
+          "name": "#383d3c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#383d3c"
+          "hex": "#b4cfb6",
+          "name": "#b4cfb6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c7988"
+          "hex": "#e5e0da",
+          "name": "#e5e0da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#79b18b"
+          "hex": "#5c7988",
+          "name": "#5c7988",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8a41e"
+          "hex": "#63858e",
+          "name": "#63858e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5e0da"
+          "hex": "#182c1b",
+          "name": "#182c1b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d9b64"
+          "hex": "#79b18b",
+          "name": "#79b18b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b4cfb6"
+          "hex": "#4d9b64",
+          "name": "#4d9b64",
+          "reference": "marekm4"
         },
         {
-          "hex": "#63858e"
+          "hex": "#d8a41e",
+          "name": "#d8a41e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +234,7 @@
       }
     ],
     "wof:id": 1813192519,
-    "wof:lastmodified": 1758181368,
+    "wof:lastmodified": 1758233738,
     "wof:name": "safety information card: Continental Airlines, Boeing 737-200/300",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -201,5 +251,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

@@ -32,50 +32,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#7366bd",
+          "name": "Blue Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#7366bd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2e2c3d"
+          "hex": "#576aa2",
+          "name": "#576aa2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#7381b0"
+          "hex": "#cbc9d4",
+          "name": "#cbc9d4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#576aa2"
+          "hex": "#86778e",
+          "name": "#86778e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#86778e"
+          "hex": "#2e2c3d",
+          "name": "#2e2c3d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cbc9d4"
+          "hex": "#7381b0",
+          "name": "#7381b0",
+          "reference": "marekm4"
         }
       ]
     },
@@ -168,7 +196,7 @@
       }
     ],
     "wof:id": 1511926185,
-    "wof:lastmodified": 1758181290,
+    "wof:lastmodified": 1758233615,
     "wof:name": "slide: FIA, Boeing 707-320, Sharjah International Airport (SHJ)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -186,5 +214,5 @@
     55.518278,
     25.322186
   ],
-  "geometry": {"coordinates":[[55.518278,25.322186]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[55.518278,25.322186]]}
 }

@@ -32,110 +32,178 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ee204d"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fc6c85"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#fc6c85",
+          "name": "Wild Watermelon",
+          "reference": "crayola"
         },
         {
-          "hex": "#1974d2"
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#1974d2",
+          "name": "Navy Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#cb4154"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dd9475"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#d68a59"
+          "hex": "#dd9475",
+          "name": "Copper",
+          "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b"
+          "hex": "#cb4154",
+          "name": "Brick Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         },
         {
-          "hex": "#f08080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#e9967a"
+          "hex": "#e9967a",
+          "name": "darksalmon",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#faebd7"
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         },
         {
-          "hex": "#f4a460"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#a52a2a"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#f08080",
+          "name": "lightcoral",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#be3439"
+          "hex": "#1d1f22",
+          "name": "#1d1f22",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d92b2c"
+          "hex": "#090509",
+          "name": "#090509",
+          "reference": "marekm4"
         },
         {
-          "hex": "#090509"
+          "hex": "#e97389",
+          "name": "#e97389",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1e1a1e"
+          "hex": "#0b75c9",
+          "name": "#0b75c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1e1d7"
+          "hex": "#e7a157",
+          "name": "#e7a157",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0b75c9"
+          "hex": "#f1e1d7",
+          "name": "#f1e1d7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d3c7bf"
+          "hex": "#1e1a1e",
+          "name": "#1e1a1e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1d1f22"
+          "hex": "#1372d2",
+          "name": "#1372d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e02c42"
+          "hex": "#ed946a",
+          "name": "#ed946a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1372d2"
+          "hex": "#be3439",
+          "name": "#be3439",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e97389"
+          "hex": "#d92b2c",
+          "name": "#d92b2c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ed946a"
+          "hex": "#eae3da",
+          "name": "#eae3da",
+          "reference": "marekm4"
         },
         {
-          "hex": "#eae3da"
+          "hex": "#e02c42",
+          "name": "#e02c42",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e7a157"
+          "hex": "#d3c7bf",
+          "name": "#d3c7bf",
+          "reference": "marekm4"
         }
       ]
     },
@@ -214,7 +282,7 @@
       }
     ],
     "wof:id": 1762830111,
-    "wof:lastmodified": 1758181335,
+    "wof:lastmodified": 1758233688,
     "wof:name": "safety information card: Pan Am Express, de Havilland DHC-7 Dash 7",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -231,5 +299,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

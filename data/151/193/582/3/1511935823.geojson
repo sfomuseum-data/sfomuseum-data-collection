@@ -28,35 +28,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697"
+          "hex": "#c0448f",
+          "name": "Red Violet",
+          "reference": "crayola"
         },
         {
-          "hex": "#ee204d"
+          "hex": "#ee204d",
+          "name": "Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#c0448f"
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         },
         {
-          "hex": "#c71585"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#c71585",
+          "name": "mediumvioletred",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ca1929"
+          "hex": "#dbcba9",
+          "name": "#dbcba9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ba3088"
+          "hex": "#ba3088",
+          "name": "#ba3088",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbcba9"
+          "hex": "#ca1929",
+          "name": "#ca1929",
+          "reference": "marekm4"
         }
       ]
     },
@@ -134,7 +152,7 @@
       }
     ],
     "wof:id": 1511935823,
-    "wof:lastmodified": 1758181294,
+    "wof:lastmodified": 1758233626,
     "wof:name": "timetable: Air West",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -152,5 +170,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

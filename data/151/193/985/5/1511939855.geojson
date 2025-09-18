@@ -32,89 +32,143 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2b6cc4"
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#ffa343",
+          "name": "Neon Carrot",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffa343"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f4a460"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#6495ed",
+          "name": "cornflowerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#6495ed"
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#4169e1",
+          "name": "royalblue",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#faf0e6"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4169e1"
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3870cd"
+          "hex": "#25262e",
+          "name": "#25262e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8b243"
+          "hex": "#f8b243",
+          "name": "#f8b243",
+          "reference": "marekm4"
         },
         {
-          "hex": "#29190c"
+          "hex": "#5d8cd4",
+          "name": "#5d8cd4",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cdd2d1"
+          "hex": "#29190c",
+          "name": "#29190c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5d8cd4"
+          "hex": "#ededea",
+          "name": "#ededea",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ededea"
+          "hex": "#cdd2d1",
+          "name": "#cdd2d1",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fe9a29"
+          "hex": "#fe9a29",
+          "name": "#fe9a29",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ad641e"
+          "hex": "#3870cd",
+          "name": "#3870cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#25262e"
+          "hex": "#ad641e",
+          "name": "#ad641e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -201,7 +255,7 @@
       }
     ],
     "wof:id": 1511939855,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233632,
     "wof:name": "timetable: Japan Airlines, international service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -219,5 +273,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

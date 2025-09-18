@@ -29,29 +29,43 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#4a646c"
+          "hex": "#4a646c",
+          "name": "Deep Space Sparkle",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#486361"
+          "hex": "#f0efe0",
+          "name": "#f0efe0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f0efe0"
+          "hex": "#efeee0",
+          "name": "#efeee0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#efeee0"
+          "hex": "#486361",
+          "name": "#486361",
+          "reference": "marekm4"
         }
       ]
     },
@@ -129,7 +143,7 @@
       }
     ],
     "wof:id": 1511908667,
-    "wof:lastmodified": 1758181396,
+    "wof:lastmodified": 1758233604,
     "wof:name": "airsickness bag: Korean Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -147,5 +161,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

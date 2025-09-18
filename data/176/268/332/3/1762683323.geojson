@@ -35,62 +35,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#a5694f"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#ceff1d"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ceff1d",
+          "name": "Electric Lime",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#ffe4c4"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#4682b4"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#ffd700"
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
         },
         {
-          "hex": "#a0522d"
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#1d0f0a"
+          "hex": "#48a3c6",
+          "name": "#48a3c6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#48a3c6"
+          "hex": "#f1e6c9",
+          "name": "#f1e6c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1e6c9"
+          "hex": "#1d0f0a",
+          "name": "#1d0f0a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e0cf0f"
+          "hex": "#e0cf0f",
+          "name": "#e0cf0f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c5d1c2"
+          "hex": "#a0593b",
+          "name": "#a0593b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a0593b"
+          "hex": "#c5d1c2",
+          "name": "#c5d1c2",
+          "reference": "marekm4"
         }
       ]
     },
@@ -194,7 +230,7 @@
       }
     ],
     "wof:id": 1762683323,
-    "wof:lastmodified": 1758181323,
+    "wof:lastmodified": 1758233665,
     "wof:name": "postcard: Eppley Field, Omaha, United Air Lines, Boeing 727",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -211,5 +247,5 @@
     -95.897601,
     41.301438
   ],
-  "geometry": {"coordinates":[[-95.897601,41.301438]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-95.897601,41.301438]]}
 }

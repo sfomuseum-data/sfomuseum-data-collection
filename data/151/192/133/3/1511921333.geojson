@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#319177"
+          "hex": "#6dae81",
+          "name": "Forest Green",
+          "reference": "crayola"
         },
         {
-          "hex": "#6dae81"
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969"
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#778899"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#73a187"
+          "hex": "#538d72",
+          "name": "#538d72",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d5d1bb"
+          "hex": "#195e4a",
+          "name": "#195e4a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#195e4a"
+          "hex": "#d5d1bb",
+          "name": "#d5d1bb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#538d72"
+          "hex": "#73a187",
+          "name": "#73a187",
+          "reference": "marekm4"
         }
       ]
     },
@@ -130,7 +154,7 @@
       }
     ],
     "wof:id": 1511921333,
-    "wof:lastmodified": 1758181285,
+    "wof:lastmodified": 1758233610,
     "wof:name": "combined timetable: Washington flights",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

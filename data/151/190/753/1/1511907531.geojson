@@ -23,9 +23,9 @@
       1159293889
     ],
     "millsfield:exhibition_ids": [
-      1947305543,
       1897466923,
-      1914632791
+      1914632791,
+      1947305543
     ],
     "millsfield:images": [
       1746281491,
@@ -38,68 +38,108 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#95918c"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#6e5160"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#bc8f8f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c1c0bc"
+          "hex": "#b2b2af",
+          "name": "#b2b2af",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6f6e6d"
+          "hex": "#544b40",
+          "name": "#544b40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c1c0ba"
+          "hex": "#5e544c",
+          "name": "#5e544c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5e544c"
+          "hex": "#c1c0bc",
+          "name": "#c1c0bc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a89a75"
+          "hex": "#6f6e6d",
+          "name": "#6f6e6d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#b2b2af"
+          "hex": "#c1c0ba",
+          "name": "#c1c0ba",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a89c79"
+          "hex": "#a89c79",
+          "name": "#a89c79",
+          "reference": "marekm4"
         },
         {
-          "hex": "#544b40"
+          "hex": "#a89a75",
+          "name": "#a89a75",
+          "reference": "marekm4"
         }
       ]
     },
@@ -184,7 +224,7 @@
       }
     ],
     "wof:id": 1511907531,
-    "wof:lastmodified": 1758181399,
+    "wof:lastmodified": 1758233603,
     "wof:name": "model airplane: Curtiss JN-4D Jenny",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -202,5 +242,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

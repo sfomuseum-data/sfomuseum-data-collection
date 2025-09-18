@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
         },
         {
-          "hex": "#fddde6"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffcf48"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#c364c5"
+          "hex": "#c364c5",
+          "name": "Fuchsia",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd5c5c"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#e6e6fa",
+          "name": "lavender",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
         },
         {
-          "hex": "#e6e6fa"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#db7093"
+          "hex": "#db7093",
+          "name": "palevioletred",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#392732"
+          "hex": "#d35aab",
+          "name": "#d35aab",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d35aab"
+          "hex": "#f9c638",
+          "name": "#f9c638",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e2eef3"
+          "hex": "#cc4b46",
+          "name": "#cc4b46",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc4b46"
+          "hex": "#392732",
+          "name": "#392732",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f9c638"
+          "hex": "#e2eef3",
+          "name": "#e2eef3",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511938895,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Aloha Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

@@ -28,53 +28,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1dacd6"
+          "hex": "#ceff1d",
+          "name": "Electric Lime",
+          "reference": "crayola"
         },
         {
-          "hex": "#1164b4"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#1dacd6",
+          "name": "Cerulean",
+          "reference": "crayola"
         },
         {
-          "hex": "#ceff1d"
+          "hex": "#1164b4",
+          "name": "Green Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#ffd700",
+          "name": "gold",
+          "reference": "css4"
         },
         {
-          "hex": "#1e90ff"
+          "hex": "#1e90ff",
+          "name": "dodgerblue",
+          "reference": "css4"
         },
         {
-          "hex": "#ffd700"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#008b8b"
+          "hex": "#008b8b",
+          "name": "darkcyan",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e7e107"
+          "hex": "#e7e107",
+          "name": "#e7e107",
+          "reference": "marekm4"
         },
         {
-          "hex": "#2192dc"
+          "hex": "#222321",
+          "name": "#222321",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0865b7"
+          "hex": "#2192dc",
+          "name": "#2192dc",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d0ded9"
+          "hex": "#0865b7",
+          "name": "#0865b7",
+          "reference": "marekm4"
         },
         {
-          "hex": "#222321"
+          "hex": "#d0ded9",
+          "name": "#d0ded9",
+          "reference": "marekm4"
         }
       ]
     },
@@ -152,7 +182,7 @@
       }
     ],
     "wof:id": 1511940823,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233633,
     "wof:name": "timetable: KLM (Royal Dutch Airlines), World edition",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -170,5 +200,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

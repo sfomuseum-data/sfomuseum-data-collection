@@ -32,65 +32,103 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#87a96b"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
         },
         {
-          "hex": "#6699cc"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#5f9ea0"
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ffebcd"
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#8e8c5d"
+          "hex": "#8e8c5d",
+          "name": "#8e8c5d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#778767"
+          "hex": "#dce0d9",
+          "name": "#dce0d9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2e9c9"
+          "hex": "#989a5f",
+          "name": "#989a5f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#989a5f"
+          "hex": "#5c9dac",
+          "name": "#5c9dac",
+          "reference": "marekm4"
         },
         {
-          "hex": "#41492e"
+          "hex": "#778767",
+          "name": "#778767",
+          "reference": "marekm4"
         },
         {
-          "hex": "#5c9dac"
+          "hex": "#f2e9c9",
+          "name": "#f2e9c9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dce0d9"
+          "hex": "#41492e",
+          "name": "#41492e",
+          "reference": "marekm4"
         }
       ]
     },
@@ -196,7 +234,7 @@
       }
     ],
     "wof:id": 1762683023,
-    "wof:lastmodified": 1758181322,
+    "wof:lastmodified": 1758233664,
     "wof:name": "postcard: United Air Lines, Douglas DC-8, Pittsburgh Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -213,5 +251,5 @@
     -80.259551,
     40.492624
   ],
-  "geometry": {"coordinates":[[-80.259551,40.492624]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-80.259551,40.492624]]}
 }

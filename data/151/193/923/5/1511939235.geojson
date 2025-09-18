@@ -31,44 +31,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#c8385a"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#c8385a",
+          "name": "Maroon",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3"
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
         },
         {
-          "hex": "#191970"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#483d8b"
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
         },
         {
-          "hex": "#dc143c"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2a4e92"
+          "hex": "#312b5a",
+          "name": "#312b5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#312b5a"
+          "hex": "#2a4e92",
+          "name": "#2a4e92",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c51a5a"
+          "hex": "#c51a5a",
+          "name": "#c51a5a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d6d1c7"
+          "hex": "#d6d1c7",
+          "name": "#d6d1c7",
+          "reference": "marekm4"
         }
       ]
     },
@@ -151,7 +175,7 @@
       }
     ],
     "wof:id": 1511939235,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Hawaiian Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +193,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

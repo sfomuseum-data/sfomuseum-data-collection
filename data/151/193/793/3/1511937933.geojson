@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         },
         {
-          "hex": "#fdd9b5"
+          "hex": "#fdd9b5",
+          "name": "Apricot",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f5deb3"
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#ff0000"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#e41b12"
+          "hex": "#121424",
+          "name": "#121424",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f2ddbd"
+          "hex": "#e41b12",
+          "name": "#e41b12",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e51b10"
+          "hex": "#f1ddbb",
+          "name": "#f1ddbb",
+          "reference": "marekm4"
         },
         {
-          "hex": "#121424"
+          "hex": "#e51b10",
+          "name": "#e51b10",
+          "reference": "marekm4"
         },
         {
-          "hex": "#101425"
+          "hex": "#101425",
+          "name": "#101425",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f1ddbb"
+          "hex": "#f2ddbd",
+          "name": "#f2ddbd",
+          "reference": "marekm4"
         }
       ]
     },
@@ -147,7 +171,7 @@
       }
     ],
     "wof:id": 1511937933,
-    "wof:lastmodified": 1758181297,
+    "wof:lastmodified": 1758233629,
     "wof:name": "timetable: Imperial Japan Airways (Dai Nippon Koku)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -165,5 +189,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

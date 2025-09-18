@@ -29,62 +29,98 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#c46210"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2"
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#d3d3d3"
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c26903"
+          "hex": "#c26903",
+          "name": "#c26903",
+          "reference": "marekm4"
         },
         {
-          "hex": "#292322"
+          "hex": "#d9dcd5",
+          "name": "#d9dcd5",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d8d8d2"
+          "hex": "#ce9b0c",
+          "name": "#ce9b0c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d9dcd5"
+          "hex": "#1c120a",
+          "name": "#1c120a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#ce9b0c"
+          "hex": "#cc981b",
+          "name": "#cc981b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#cc981b"
+          "hex": "#292322",
+          "name": "#292322",
+          "reference": "marekm4"
         },
         {
-          "hex": "#1c120a"
+          "hex": "#d8d8d2",
+          "name": "#d8d8d2",
+          "reference": "marekm4"
         },
         {
-          "hex": "#bf6f16"
+          "hex": "#bf6f16",
+          "name": "#bf6f16",
+          "reference": "marekm4"
         }
       ]
     },
@@ -165,7 +201,7 @@
       }
     ],
     "wof:id": 1511939253,
-    "wof:lastmodified": 1758181299,
+    "wof:lastmodified": 1758233631,
     "wof:name": "timetable: Japan Asia Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +219,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

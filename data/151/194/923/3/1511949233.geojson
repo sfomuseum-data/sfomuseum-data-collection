@@ -35,50 +35,78 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c"
+          "hex": "#a8e4a0",
+          "name": "Granny Smith Apple",
+          "reference": "crayola"
         },
         {
-          "hex": "#757575"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#a8e4a0"
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#d2b48c"
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bccd9b"
+          "hex": "#857467",
+          "name": "#857467",
+          "reference": "marekm4"
         },
         {
-          "hex": "#989a76"
+          "hex": "#989a76",
+          "name": "#989a76",
+          "reference": "marekm4"
         },
         {
-          "hex": "#857467"
+          "hex": "#bccd9b",
+          "name": "#bccd9b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#74728b"
+          "hex": "#53454d",
+          "name": "#53454d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#53454d"
+          "hex": "#74728b",
+          "name": "#74728b",
+          "reference": "marekm4"
         }
       ]
     },
@@ -192,7 +220,7 @@
       }
     ],
     "wof:id": 1511949233,
-    "wof:lastmodified": 1758181310,
+    "wof:lastmodified": 1758233644,
     "wof:name": "negative: San Francisco International Airport (SFO), Concorde",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -210,5 +238,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

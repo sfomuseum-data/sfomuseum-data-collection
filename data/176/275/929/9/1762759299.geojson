@@ -33,47 +33,73 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575"
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#708090"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#8a6a66"
+          "hex": "#a0a19f",
+          "name": "#a0a19f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a0a19f"
+          "hex": "#8a6a66",
+          "name": "#8a6a66",
+          "reference": "marekm4"
         },
         {
-          "hex": "#76858c"
+          "hex": "#6c798b",
+          "name": "#6c798b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#4d4341"
+          "hex": "#4d4341",
+          "name": "#4d4341",
+          "reference": "marekm4"
         },
         {
-          "hex": "#6c798b"
+          "hex": "#76858c",
+          "name": "#76858c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -172,7 +198,7 @@
       }
     ],
     "wof:id": 1762759299,
-    "wof:lastmodified": 1758181329,
+    "wof:lastmodified": 1758233681,
     "wof:name": "negative: TWA (Trans World Airlines), Lockheed L-1011 TriStar, Lambert - St. Louis International Airport (STL)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +215,5 @@
     -90.367632,
     38.743872
   ],
-  "geometry": {"coordinates":[[-90.367632,38.743872]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-90.367632,38.743872]]}
 }

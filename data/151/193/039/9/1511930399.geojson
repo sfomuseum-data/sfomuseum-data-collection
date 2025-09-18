@@ -29,35 +29,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#8b4513"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3f3046"
+          "hex": "#3f3046",
+          "name": "#3f3046",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6e1cd"
+          "hex": "#e6e1cd",
+          "name": "#e6e1cd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9e300a"
+          "hex": "#9e300a",
+          "name": "#9e300a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -137,7 +155,7 @@
       }
     ],
     "wof:id": 1511930399,
-    "wof:lastmodified": 1758181286,
+    "wof:lastmodified": 1758233619,
     "wof:name": "timetable: Kuwait Airways / Japan Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -155,5 +173,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

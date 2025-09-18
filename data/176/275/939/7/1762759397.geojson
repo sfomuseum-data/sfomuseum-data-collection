@@ -35,41 +35,63 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         },
         {
-          "hex": "#979aaa"
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
         },
         {
-          "hex": "#8a795d"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#a9a9a9"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#87786d"
+          "hex": "#87786d",
+          "name": "#87786d",
+          "reference": "marekm4"
         },
         {
-          "hex": "#94887a"
+          "hex": "#afaca6",
+          "name": "#afaca6",
+          "reference": "marekm4"
         },
         {
-          "hex": "#afaca6"
+          "hex": "#343333",
+          "name": "#343333",
+          "reference": "marekm4"
         },
         {
-          "hex": "#343333"
+          "hex": "#94887a",
+          "name": "#94887a",
+          "reference": "marekm4"
         }
       ]
     },
@@ -173,7 +195,7 @@
       }
     ],
     "wof:id": 1762759397,
-    "wof:lastmodified": 1758181330,
+    "wof:lastmodified": 1758233681,
     "wof:name": "photograph: Alaska Airlines, Boeing 727, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -190,5 +212,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

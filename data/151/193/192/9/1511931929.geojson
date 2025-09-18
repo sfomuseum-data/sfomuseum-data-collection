@@ -22,53 +22,83 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876"
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#2e5894"
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         },
         {
-          "hex": "#c46210"
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2"
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         },
         {
-          "hex": "#ffae42"
+          "hex": "#ffae42",
+          "name": "Yellow Orange",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#191970"
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         },
         {
-          "hex": "#daa520"
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
         },
         {
-          "hex": "#b22222"
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
         },
         {
-          "hex": "#c0c0c0"
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
         },
         {
-          "hex": "#008080"
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bdbcae"
+          "hex": "#c92c08",
+          "name": "#c92c08",
+          "reference": "marekm4"
         },
         {
-          "hex": "#192e5f"
+          "hex": "#192e5f",
+          "name": "#192e5f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#18558f"
+          "hex": "#dbb71b",
+          "name": "#dbb71b",
+          "reference": "marekm4"
         },
         {
-          "hex": "#dbb71b"
+          "hex": "#18558f",
+          "name": "#18558f",
+          "reference": "marekm4"
         },
         {
-          "hex": "#c92c08"
+          "hex": "#bdbcae",
+          "name": "#bdbcae",
+          "reference": "marekm4"
         }
       ]
     },
@@ -139,7 +169,7 @@
       }
     ],
     "wof:id": 1511931929,
-    "wof:lastmodified": 1758181287,
+    "wof:lastmodified": 1758233620,
     "wof:name": "timetable: GATA (Guia Argentina De Trafico Aereo), quick reference",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -157,5 +187,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

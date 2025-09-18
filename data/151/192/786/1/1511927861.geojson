@@ -22,44 +22,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b2ec5d"
+          "hex": "#b2ec5d",
+          "name": "Inchworm",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#85754e"
+          "hex": "#85754e",
+          "name": "Gold Fusion",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000"
+          "hex": "#6b8e23",
+          "name": "olivedrab",
+          "reference": "css4"
         },
         {
-          "hex": "#9acd32"
+          "hex": "#9acd32",
+          "name": "yellowgreen",
+          "reference": "css4"
         },
         {
-          "hex": "#f5f5dc"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#6b8e23"
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f1fbd9"
+          "hex": "#f1fbd9",
+          "name": "#f1fbd9",
+          "reference": "marekm4"
         },
         {
-          "hex": "#a4ce4c"
+          "hex": "#709239",
+          "name": "#709239",
+          "reference": "marekm4"
         },
         {
-          "hex": "#709239"
+          "hex": "#0f2131",
+          "name": "#0f2131",
+          "reference": "marekm4"
         },
         {
-          "hex": "#0f2131"
+          "hex": "#a4ce4c",
+          "name": "#a4ce4c",
+          "reference": "marekm4"
         }
       ]
     },
@@ -130,7 +154,7 @@
       }
     ],
     "wof:id": 1511927861,
-    "wof:lastmodified": 1758181293,
+    "wof:lastmodified": 1758233617,
     "wof:name": "Glory gamblers: the story of the Dole Race",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +172,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

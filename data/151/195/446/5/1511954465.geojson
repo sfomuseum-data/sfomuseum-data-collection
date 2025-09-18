@@ -28,71 +28,113 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fae7b5"
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
         },
         {
-          "hex": "#8d4e85"
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         },
         {
-          "hex": "#efdecd"
+          "hex": "#fae7b5",
+          "name": "Banana Mania",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
         },
         {
-          "hex": "#000000"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         },
         {
-          "hex": "#9f8170"
+          "hex": "#8d4e85",
+          "name": "Razzmic Berry",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         },
         {
-          "hex": "#ffe4c4"
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         },
         {
-          "hex": "#808080"
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         },
         {
-          "hex": "#696969"
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         },
         {
-          "hex": "#000000"
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
         },
         {
-          "hex": "#dcdcdc"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#413f40"
+          "hex": "#26281a",
+          "name": "#26281a",
+          "reference": "marekm4"
         },
         {
-          "hex": "#382139"
+          "hex": "#413f40",
+          "name": "#413f40",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f946e"
+          "hex": "#e6dfd0",
+          "name": "#e6dfd0",
+          "reference": "marekm4"
         },
         {
-          "hex": "#f8e6bf"
+          "hex": "#382139",
+          "name": "#382139",
+          "reference": "marekm4"
         },
         {
-          "hex": "#9f956d"
+          "hex": "#fae8bd",
+          "name": "#fae8bd",
+          "reference": "marekm4"
         },
         {
-          "hex": "#8e5e6e"
+          "hex": "#9f946e",
+          "name": "#9f946e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#fae8bd"
+          "hex": "#f8e6bf",
+          "name": "#f8e6bf",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e6dfd0"
+          "hex": "#8e5e6e",
+          "name": "#8e5e6e",
+          "reference": "marekm4"
         },
         {
-          "hex": "#26281a"
+          "hex": "#9f956d",
+          "name": "#9f956d",
+          "reference": "marekm4"
         }
       ]
     },
@@ -177,7 +219,7 @@
       }
     ],
     "wof:id": 1511954465,
-    "wof:lastmodified": 1758181308,
+    "wof:lastmodified": 1758233651,
     "wof:name": "airmail flight cover: Mass naval flight, November 1935",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -195,5 +237,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

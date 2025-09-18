@@ -25,35 +25,53 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#edd19c"
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
         },
         {
-          "hex": "#deaa88"
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         },
         {
-          "hex": "#414a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#eee8aa"
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
         },
         {
-          "hex": "#2f4f4f"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#deb887"
+          "hex": "#eee8aa",
+          "name": "palegoldenrod",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d8bb77"
+          "hex": "#403821",
+          "name": "#403821",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e5d19c"
+          "hex": "#e5d19c",
+          "name": "#e5d19c",
+          "reference": "marekm4"
         },
         {
-          "hex": "#403821"
+          "hex": "#d8bb77",
+          "name": "#d8bb77",
+          "reference": "marekm4"
         }
       ]
     },
@@ -154,7 +172,7 @@
       }
     ],
     "wof:id": 1511910085,
-    "wof:lastmodified": 1758181397,
+    "wof:lastmodified": 1758233606,
     "wof:name": "correspondence: City of Cleveland, airport inquiry from San Francisco Mayor James Rolfe, Jr.",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,5 +190,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

@@ -29,44 +29,68 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c"
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
         },
         {
-          "hex": "#dd9475"
+          "hex": "#dd9475",
+          "name": "Copper",
+          "reference": "crayola"
         },
         {
-          "hex": "#efcdb8"
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c"
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f"
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
         },
         {
-          "hex": "#e9967a"
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         },
         {
-          "hex": "#f5deb3"
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         },
         {
-          "hex": "#d2691e"
+          "hex": "#e9967a",
+          "name": "darksalmon",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c2720"
+          "hex": "#d44935",
+          "name": "#d44935",
+          "reference": "marekm4"
         },
         {
-          "hex": "#d44935"
+          "hex": "#e88a71",
+          "name": "#e88a71",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e88a71"
+          "hex": "#2c2720",
+          "name": "#2c2720",
+          "reference": "marekm4"
         },
         {
-          "hex": "#e4cdbe"
+          "hex": "#e4cdbe",
+          "name": "#e4cdbe",
+          "reference": "marekm4"
         }
       ]
     },
@@ -146,7 +170,7 @@
       }
     ],
     "wof:id": 1511950349,
-    "wof:lastmodified": 1758181301,
+    "wof:lastmodified": 1758233646,
     "wof:name": "timetable: Air Wisconsin, Eastern Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +188,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

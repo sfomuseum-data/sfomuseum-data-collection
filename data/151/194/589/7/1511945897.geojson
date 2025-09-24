@@ -24,8 +24,12 @@
       85922583,
       102087579
     ],
-    "geotag:whosonfirst_camera": 102085387,
-    "geotag:whosonfirst_target": 85922583,
+    "geotag:whosonfirst_camera": [
+      102085387
+    ],
+    "geotag:whosonfirst_target": [
+      85922583
+    ],
     "iso:country": "US",
     "millsfield:airport_id": [
       102527513
@@ -151,7 +155,7 @@
       }
     ],
     "wof:id": 1511945897,
-    "wof:lastmodified": 1758613198,
+    "wof:lastmodified": 1758754113,
     "wof:name": "negative: San Francisco International Airport (SFO), aerial",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,5 +173,5 @@
     -122.36984252929688,
     37.58158917213053
   ],
-  "geometry": {"coordinates":[[-122.36984252929688,37.58158917213053]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.36984252929688,37.58158917213053]]}
 }

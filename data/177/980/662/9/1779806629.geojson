@@ -57,7 +57,7 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 03/26/2021-05/07/2021.",
     "sfomuseum:subcategory": "Interview Transcript",
-    "sfomuseum:subject": "Airports\rAirports—Employees \rAirports—Management\rAirports—Planning \rAirports—Environmental aspects\rAirports—Finance\rAirport authorities\rRunways (Aeronautics)\rStapleton International Airport\rDenver International Airport\rChicago O’Hare International Airport\rMidway Airport\rAirports—Security Measures—United States\rSeptember 11 Terrorist Attacks, 2001",
+    "sfomuseum:subject": "Airports\rAirports—Employees \rAirports—Management\rAirports—Planning \rAirports—Environmental aspects\rAirports—Finance\rAirport authorities\rRunways (Aeronautics)\rStapleton International Airport\rDenver International Airport\rChicago O’Hare International Airport\rMidway Airport\rAirports—Security measures—United States\rSeptember 11 terrorist attacks, 2001",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
       102531205,
@@ -94,35 +94,13 @@
     "wof:country": "US",
     "wof:created": 1657354262,
     "wof:depicts": [
-      102531205,
-      102533631,
       102531189,
-      1360695657
+      1360695657,
+      102531205,
+      102533631
     ],
     "wof:geomhash": "4e6deaa7ee37220104fc98c4f0a70ff8",
     "wof:hierarchy": [
-      {
-        "campus_id": 102531189,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086135,
-        "custom_id": 1779806629,
-        "locality_id": 85928879,
-        "macrohood_id": 1108750025,
-        "neighbourhood_id": -1,
-        "object_id": 1779806629,
-        "region_id": 85688603
-      },
-      {
-        "campus_id": 1360695657,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102086135,
-        "custom_id": 1779806629,
-        "locality_id": 85928879,
-        "object_id": 1779806629,
-        "region_id": 85688603
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -163,10 +141,32 @@
         "neighbourhood_id": 1024608977,
         "object_id": 1779806629,
         "region_id": 85688697
+      },
+      {
+        "campus_id": 102531189,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086135,
+        "custom_id": 1779806629,
+        "locality_id": 85928879,
+        "macrohood_id": 1108750025,
+        "neighbourhood_id": -1,
+        "object_id": 1779806629,
+        "region_id": 85688603
+      },
+      {
+        "campus_id": 1360695657,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086135,
+        "custom_id": 1779806629,
+        "locality_id": 85928879,
+        "object_id": 1779806629,
+        "region_id": 85688603
       }
     ],
     "wof:id": 1779806629,
-    "wof:lastmodified": 1757537499,
+    "wof:lastmodified": 1762245167,
     "wof:name": "oral history transcript: Ginger Evans",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -183,5 +183,5 @@
     -87.745903,
     41.983038
   ],
-  "geometry": {"coordinates":[[-87.745903,41.787532],[-87.894364,41.983038],[-104.672219,39.864939],[-104.891972,39.760722]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-87.745903,41.787532],[-87.894364,41.983038],[-104.672219,39.864939],[-104.891972,39.760722]]}
 }

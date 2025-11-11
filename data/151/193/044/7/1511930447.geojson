@@ -2,13 +2,13 @@
   "id": 1511930447,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1975-01-01",
-    "date:cessation_upper": "1975-12-31",
-    "date:inception_lower": "1975-01-01",
-    "date:inception_upper": "1975-12-31",
-    "edtf:cessation": "1975~",
+    "date:cessation_lower": "1979-01-01",
+    "date:cessation_upper": "1979-12-31",
+    "date:inception_lower": "1979-01-01",
+    "date:inception_upper": "1979-12-31",
+    "edtf:cessation": "1979~",
     "edtf:date": "1975~",
-    "edtf:inception": "1975~",
+    "edtf:inception": "1979~",
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
     "geom:latitude": 37.61799,
@@ -130,10 +130,10 @@
     "sfomuseum:classification_id": 284,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
-    "sfomuseum:date": "c. 1975",
+    "sfomuseum:date": "c. 1979",
     "sfomuseum:date_acquired": "2006-11-10",
-    "sfomuseum:daterange_end": "1980-12-31",
-    "sfomuseum:daterange_start": "1970-01-01",
+    "sfomuseum:daterange_end": "1984-12-31",
+    "sfomuseum:daterange_start": "1974-01-01",
     "sfomuseum:description": "Brochure issued by Alaska Airlines announcing the airline’s presence at San Francisco International Airport (SFO); bi-fold format; blue and white cover with illustration of Alaska Airlines’ ticket counter at SFO; contains description of new ticketing and boarding areas.",
     "sfomuseum:dimensions": "9 x 4 inches (22.9 x 10.2 cm)",
     "sfomuseum:media_ids": [
@@ -145,7 +145,7 @@
     "sfomuseum:object_id": 87298,
     "sfomuseum:placetype": "object",
     "sfomuseum:primary_media_id": 1527848543,
-    "sfomuseum:publication": ": , c. 1975.",
+    "sfomuseum:publication": ": , c. 1979.",
     "sfomuseum:subcategory": "Brochure, Airport",
     "sfomuseum:subject": "Airlines -- Commercial -- Alaska Airlines",
     "src:geom": "sfomuseum#derived",
@@ -178,6 +178,17 @@
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1511930447,
+        "locality_id": 85922583,
+        "object_id": 1511930447,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1511930447,
         "object_id": 1511930447,
@@ -197,21 +208,10 @@
         "object_id": 1511930447,
         "region_id": 85688637,
         "wing_id": 1159160869
-      },
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1511930447,
-        "locality_id": 85922583,
-        "object_id": 1511930447,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1511930447,
-    "wof:lastmodified": 1758613182,
+    "wof:lastmodified": 1762849856,
     "wof:name": "brochure: Alaska Airlines, San Francisco International Airport (SFO)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -229,5 +229,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

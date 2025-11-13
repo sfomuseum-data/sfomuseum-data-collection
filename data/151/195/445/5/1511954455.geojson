@@ -10,9 +10,29 @@
     "edtf:date": "1935-04-16",
     "edtf:inception": "1935-04-16",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-157.837169,21.330576,-73.767075,40.713095",
+    "geom:latitude": 34.35950925,
+    "geom:longitude": -119.10541775000002,
+    "georef:depicted": {
+      "from": [
+        85937601
+      ],
+      "postmark": [
+        85922583,
+        85937601
+      ],
+      "to": [
+        85825929
+      ]
+    },
+    "georef:depictions": [
+      1527853763
+    ],
+    "georef:whosonfirst_belongsto": [
+      85922583,
+      85825929,
+      85937601
+    ],
     "iso:country": "XX",
     "millsfield:airline_id": [
       1159284991
@@ -160,18 +180,24 @@
     "sfomuseum:publication": ": , 04/16/1935.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
     "sfomuseum:subject": "Airlines -- Commercial -- Pan American Airways.",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum#georeference",
     "wof:belongsto": [
-      1511214215,
       102527513,
       102191575,
       85633793,
-      1511213159,
       85922583,
       102087579,
-      1511214277,
-      1511214207,
-      85688637
+      85688637,
+      421205767,
+      102082377,
+      85977539,
+      85825929,
+      85688543,
+      102085417,
+      85937601,
+      85688671,
+      1159162825,
+      1159160869
     ],
     "wof:breaches": [],
     "wof:country": "XX",
@@ -180,13 +206,42 @@
       1159284991,
       1159286839
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "abf2a4ecbc92ba74977b679aed288669",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213159,
-        "building_id": 1511214277,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1511954455,
+        "locality_id": 85922583,
+        "object_id": 1511954455,
+        "region_id": 85688637
+      },
+      {
+        "borough_id": 421205767,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "custom_id": 1511954455,
+        "locality_id": 85977539,
+        "neighbourhood_id": 85825929,
+        "object_id": 1511954455,
+        "region_id": 85688543
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085417,
+        "custom_id": 1511954455,
+        "locality_id": 85937601,
+        "object_id": 1511954455,
+        "region_id": 85688671
+      },
+      {
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214215,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -195,12 +250,11 @@
         "neighbourhood_id": -1,
         "object_id": 1511954455,
         "region_id": 85688637,
-        "venue_id": 1511954455,
-        "wing_id": 1511214207
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1511954455,
-    "wof:lastmodified": 1758613205,
+    "wof:lastmodified": 1763063629,
     "wof:name": "airmail flight cover: Pan American Airways, first Pacific survey flight, California - Hawaii and return route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -213,10 +267,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -157.837169,
+    21.330576,
+    -73.767075,
+    40.713095
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386155,37.616358],[-73.767075,40.713095],[-157.837169,21.330576],[-122.431272,37.778008]]}
 }

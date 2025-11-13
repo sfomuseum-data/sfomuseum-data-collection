@@ -10,13 +10,20 @@
     "edtf:date": "1935-04-16",
     "edtf:inception": "1935-04-16",
     "geom:area": 0,
-    "geom:bbox": "-157.837169,21.330576,-122.273474,37.754780",
-    "geom:latitude": 32.23390466666667,
-    "geom:longitude": -134.16559933333335,
+    "geom:bbox": "-157.837169,21.330576,-73.767075,40.713095",
+    "geom:latitude": 32.75389883333333,
+    "geom:longitude": -126.08871900000001,
     "georef:depicted": {
+      "from": [
+        85937601
+      ],
       "postmark": [
         85937601,
-        85921923
+        85921923,
+        85922583
+      ],
+      "to": [
+        85825929
       ]
     },
     "georef:depictions": [
@@ -24,7 +31,19 @@
     ],
     "georef:whosonfirst_belongsto": [
       85937601,
-      85921923
+      85921923,
+      85688543,
+      102082377,
+      102087579,
+      85688671,
+      85977539,
+      421205767,
+      102191575,
+      85922583,
+      85825929,
+      85633793,
+      102085417,
+      85688637
     ],
     "iso:country": "XX",
     "millsfield:airline_id": [
@@ -196,7 +215,7 @@
       1159284991,
       1159286839
     ],
-    "wof:geomhash": "710fafb5ca4a0dd03c032862b07836b8",
+    "wof:geomhash": "44a7fcaa854b368948e3367ad768b3c5",
     "wof:hierarchy": [
       {
         "continent_id": 102191575,
@@ -233,7 +252,7 @@
       }
     ],
     "wof:id": 1511954455,
-    "wof:lastmodified": 1763063703,
+    "wof:lastmodified": 1763074333,
     "wof:name": "airmail flight cover: Pan American Airways, first Pacific survey flight, California - Hawaii and return route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -248,8 +267,8 @@
   "bbox": [
     -157.837169,
     21.330576,
-    -122.273474,
-    37.75478
+    -73.767075,
+    40.713095
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.386155,37.616358],[-157.837169,21.330576],[-122.273474,37.75478]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386155,37.616358],[-157.837169,21.330576],[-122.273474,37.75478],[-73.767075,40.713095],[-157.837169,21.330576],[-122.431272,37.778008]]}
 }

@@ -9,9 +9,9 @@
     "edtf:cessation": "1954",
     "edtf:inception": "1954",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,-17.800000,177.416670,37.616358",
-    "geom:latitude": 9.908178999999999,
-    "geom:longitude": 27.515257500000004,
+    "geom:bbox": "177.416670,-17.800000,177.416670,-17.800000",
+    "geom:latitude": -17.8,
+    "geom:longitude": 177.41667,
     "georef:depicted": {
       "location": [
         421179869
@@ -20,7 +20,7 @@
     "georef:depictions": [
       1897903507
     ],
-    "georef:lastmodified": 1759960898,
+    "georef:lastmodified": 1763424602,
     "georef:whosonfirst_belongsto": [
       421179869
     ],
@@ -109,16 +109,8 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1954.",
     "sfomuseum:subcategory": "Slide",
-    "src:geom": "sfomuseum#georeference",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513,
-      1159162825,
-      102191575,
-      85633793,
-      102087579,
-      85922583,
-      85688637,
-      1159160869,
       102191583,
       85632755,
       421179869,
@@ -130,7 +122,7 @@
       1159284989,
       1159286839
     ],
-    "wof:geomhash": "ed6c40a467608cac4b32affa85701f42",
+    "wof:geomhash": "0660da8c31222953ec23d77691580d16",
     "wof:hierarchy": [
       {
         "continent_id": 102191583,
@@ -139,25 +131,10 @@
         "locality_id": 421179869,
         "object_id": 1897903159,
         "region_id": 85671181
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1897903159,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1897903159,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1897903159,
-    "wof:lastmodified": 1763147492,
+    "wof:lastmodified": 1763424602,
     "wof:name": "slide: Pan American World Airways, Nandi, Fiji, crew layover",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -169,10 +146,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386155,
+    177.41667,
     -17.8,
     177.41667,
-    37.616358
+    -17.8
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.386155,37.616358],[177.41667,-17.8]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[177.41667,-17.8]]}
 }

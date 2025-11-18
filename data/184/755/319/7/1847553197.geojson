@@ -9,9 +9,9 @@
     "edtf:cessation": "1946~",
     "edtf:inception": "1946~",
     "geom:area": 0,
-    "geom:bbox": "-147.629116,37.616358,-122.386155,64.829440",
-    "geom:latitude": 51.222899,
-    "geom:longitude": -135.0076355,
+    "geom:bbox": "-147.629116,64.829440,-147.629116,64.829440",
+    "geom:latitude": 64.82944,
+    "geom:longitude": -147.629116,
     "georef:depicted": {
       "location": [
         85915635
@@ -20,7 +20,7 @@
     "georef:depictions": [
       1847553657
     ],
-    "georef:lastmodified": 1760568681,
+    "georef:lastmodified": 1763424593,
     "georef:whosonfirst_belongsto": [
       85915635
     ],
@@ -117,16 +117,10 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , c. 1946.",
     "sfomuseum:subcategory": "Print, Photograph",
-    "src:geom": "sfomuseum#georeference",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513,
-      1159162825,
       102191575,
       85633793,
-      102087579,
-      85922583,
-      85688637,
-      1159160869,
       102081397,
       85915635,
       85688573
@@ -138,7 +132,7 @@
       1159293697,
       1159284991
     ],
-    "wof:geomhash": "0b13624a904532a58b6ca191fe3da0a1",
+    "wof:geomhash": "53c65b8dc3d289adbe6731a5f2c93619",
     "wof:hierarchy": [
       {
         "continent_id": 102191575,
@@ -148,25 +142,10 @@
         "locality_id": 85915635,
         "object_id": 1847553197,
         "region_id": 85688573
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1847553197,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1847553197,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1847553197,
-    "wof:lastmodified": 1763147491,
+    "wof:lastmodified": 1763424593,
     "wof:name": "photograph: Lockheed 18 Lodestar, Fairbanks, Alaska",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,9 +158,9 @@
   },
   "bbox": [
     -147.629116,
-    37.616358,
-    -122.386155,
+    64.82944,
+    -147.629116,
     64.82944
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.386155,37.616358],[-147.629116,64.82944]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-147.629116,64.82944]]}
 }

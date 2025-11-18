@@ -9,9 +9,9 @@
     "edtf:cessation": "1988~",
     "edtf:inception": "1988~",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.370943,37.617990",
-    "geom:latitude": 37.617174,
-    "geom:longitude": -122.37854899999999,
+    "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
+    "geom:latitude": 37.61799,
+    "geom:longitude": -122.370943,
     "georef:depicted": {
       "location": [
         102527513
@@ -20,7 +20,7 @@
     "georef:depictions": [
       1913663501
     ],
-    "georef:lastmodified": 1759857264,
+    "georef:lastmodified": 1763424606,
     "georef:whosonfirst_belongsto": [
       102527513
     ],
@@ -101,19 +101,17 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , c. 1988.",
     "sfomuseum:subcategory": "Slide",
-    "src:geom": "sfomuseum#georeference",
+    "src:geom": "sfomuseum",
     "src:geom_derived_from": [
       102527513
     ],
     "wof:belongsto": [
       102527513,
-      1159162825,
       102191575,
       85633793,
       102087579,
       85922583,
       85688637,
-      1159160869,
       102085387,
       554784711
     ],
@@ -122,19 +120,8 @@
     "wof:depicts": [
       102527513
     ],
-    "wof:geomhash": "0e66d9a886b02ff44d7a157e11f0e7f8",
+    "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1913662853,
-        "locality_id": 85922583,
-        "object_id": 1913662853,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
-      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -145,23 +132,19 @@
         "region_id": 85688637
       },
       {
-        "building_id": -1,
         "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "custom_id": 1913662853,
         "locality_id": 85922583,
-        "neighbourhood_id": -1,
         "object_id": 1913662853,
-        "region_id": 85688637,
-        "wing_id": 1159160869
+        "postalcode_id": 554784711,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1913662853,
-    "wof:lastmodified": 1763147492,
+    "wof:lastmodified": 1763424606,
     "wof:name": "slide: San Francisco International Airport (SFO), personnel",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,10 +156,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
+    -122.370943,
+    37.61799,
     -122.370943,
     37.61799
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.386155,37.616358],[-122.370943,37.61799]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

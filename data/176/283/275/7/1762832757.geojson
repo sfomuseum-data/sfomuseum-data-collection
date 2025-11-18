@@ -20,16 +20,9 @@
     "georef:depictions": [
       1762898605
     ],
-    "georef:lastmodified": 1759277332,
+    "georef:lastmodified": 1763424592,
     "georef:whosonfirst_belongsto": [
-      102534365,
-      421205767,
-      102191575,
-      85633793,
-      102082377,
-      85977539,
-      907131691,
-      85688543
+      102534365
     ],
     "millsfield:airline_id": [
       1159284989
@@ -107,16 +100,10 @@
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1964.",
     "sfomuseum:subcategory": "Print, Photograph",
-    "src:geom": "sfomuseum#georeference",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513,
-      1159162825,
       102191575,
       85633793,
-      102087579,
-      85922583,
-      85688637,
-      1159160869,
       421205767,
       102534365,
       102082377,
@@ -131,7 +118,7 @@
       1159286839,
       1159284989
     ],
-    "wof:geomhash": "bc7d34037f86a5fdb168697727f64cd0",
+    "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
       {
         "borough_id": 421205767,
@@ -144,25 +131,10 @@
         "neighbourhood_id": 907131691,
         "object_id": 1762832757,
         "region_id": 85688543
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1762832757,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762832757,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1762832757,
-    "wof:lastmodified": 1763147490,
+    "wof:lastmodified": 1763424592,
     "wof:name": "photograph: John F. Kennedy International Airport (JFK), The Beatles",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -179,5 +151,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286],[-73.787845,40.643286]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
 }

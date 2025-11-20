@@ -12,6 +12,18 @@
     "geom:bbox": "-74.177526,40.691243,-74.177526,40.691243",
     "geom:latitude": 40.691243,
     "geom:longitude": -74.177526,
+    "georef:depicted": {
+      "location": [
+        102530049
+      ]
+    },
+    "georef:depictions": [
+      1763388777
+    ],
+    "georef:lastmodified": 1763673420,
+    "georef:whosonfirst_belongsto": [
+      102530049
+    ],
     "iso:country": "US",
     "millsfield:aircraft_id": [
       1159289827
@@ -101,19 +113,13 @@
     "sfomuseum:publication": ": , 1994.",
     "sfomuseum:registration_number": "N161FN",
     "sfomuseum:subcategory": "Slide",
-    "src:geom": "sfomuseum#derived",
+    "src:geom": "sfomuseum",
     "src:geom_derived_from": [
       102530049
     ],
     "wof:belongsto": [
-      102527513,
-      1159162825,
       102191575,
       85633793,
-      102087579,
-      85922583,
-      85688637,
-      1159160869,
       102530049,
       102085043,
       404478049,
@@ -131,21 +137,6 @@
     "wof:geomhash": "4b819771a65ce5f91cf16e2f94402c48",
     "wof:hierarchy": [
       {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1762829251,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762829251,
-        "region_id": 85688637,
-        "wing_id": 1159160869
-      },
-      {
         "campus_id": 102530049,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -159,7 +150,7 @@
       }
     ],
     "wof:id": 1762829251,
-    "wof:lastmodified": 1758613231,
+    "wof:lastmodified": 1763673420,
     "wof:name": "slide: Apple Vacations, Boeing 737-200, Newark International Airport (EWR)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -176,5 +167,5 @@
     -74.177526,
     40.691243
   ],
-  "geometry": {"coordinates":[[-74.177526,40.691243]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243]]}
 }

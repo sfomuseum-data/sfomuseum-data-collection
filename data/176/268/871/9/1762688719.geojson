@@ -14,7 +14,7 @@
     "geom:longitude": -83.351709,
     "iso:country": "US",
     "millsfield:airport_id": [
-      102525635
+      -1
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
@@ -171,12 +171,13 @@
         "custom_id": 1762688719,
         "localadmin_id": 404508657,
         "locality_id": 85951131,
+        "neighbourhood_id": -1,
         "object_id": 1762688719,
         "region_id": 85688599
       }
     ],
     "wof:id": 1762688719,
-    "wof:lastmodified": 1758613227,
+    "wof:lastmodified": 1763713902,
     "wof:name": "postcard: Detroit Metropolitan Airport",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -193,5 +194,5 @@
     -83.351709,
     42.21886
   ],
-  "geometry": {"coordinates":[[-83.351709,42.21886]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-83.351709,42.21886]]}
 }

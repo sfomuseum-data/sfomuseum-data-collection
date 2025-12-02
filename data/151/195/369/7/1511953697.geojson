@@ -10,9 +10,21 @@
     "edtf:date": "1959-10-02",
     "edtf:inception": "1959-10-02",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
+    "geom:latitude": 47.673455,
+    "geom:longitude": -122.331537,
+    "georef:depicted": {
+      "postmark": [
+        101730401
+      ]
+    },
+    "georef:depictions": [
+      1527832993
+    ],
+    "georef:lastmodified": 1764710838,
+    "georef:whosonfirst_belongsto": [
+      101730401
+    ],
     "iso:country": "XX",
     "millsfield:airline_id": [
       1159284989
@@ -119,18 +131,13 @@
     "sfomuseum:primary_media_id": 1527832993,
     "sfomuseum:publication": ": , 10/02/1959.",
     "sfomuseum:subcategory": "Airmail Flight Cover",
-    "src:geom": "sfomuseum#undetermined",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1511214215,
-      102527513,
       102191575,
       85633793,
-      1511213159,
-      85922583,
-      102087579,
-      1511214277,
-      1511214207,
-      85688637
+      102086191,
+      101730401,
+      85688623
     ],
     "wof:breaches": [],
     "wof:country": "XX",
@@ -139,27 +146,20 @@
       1159284989,
       1159286839
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "c79a6c88f0b3430bebe162312d877dee",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213159,
-        "building_id": 1511214277,
-        "campus_id": 102527513,
-        "concourse_id": 1511214215,
         "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102087579,
+        "county_id": 102086191,
         "custom_id": 1511953697,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
+        "locality_id": 101730401,
         "object_id": 1511953697,
-        "region_id": 85688637,
-        "venue_id": 1511953697,
-        "wing_id": 1511214207
+        "region_id": 85688623
       }
     ],
     "wof:id": 1511953697,
-    "wof:lastmodified": 1758613204,
+    "wof:lastmodified": 1764710838,
     "wof:name": "airmail flight cover: Pan American World Airways, Seattle - Honolulu route",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -172,10 +172,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    -122.331537,
+    47.673455,
+    -122.331537,
+    47.673455
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.331537,47.673455]]}
 }

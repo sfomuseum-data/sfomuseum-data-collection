@@ -14,6 +14,9 @@
     "geom:latitude": 48.352681,
     "geom:longitude": 11.776808,
     "iso:country": "",
+    "millsfield:airline_id": [
+      1780379247
+    ],
     "millsfield:airport_id": [
       102549067
     ],
@@ -87,6 +90,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2009.162.020",
+    "sfomuseum:airline": "Oman Air",
+    "sfomuseum:airline_id": [
+      1567
+    ],
     "sfomuseum:airport": "Munich Airport",
     "sfomuseum:airport_id": [
       91
@@ -131,7 +138,8 @@
     "wof:country": "",
     "wof:created": 1579906677,
     "wof:depicts": [
-      102549067
+      102549067,
+      1780379247
     ],
     "wof:geomhash": "891dd97a1c1e798b32957ec4f0ad3ce2",
     "wof:hierarchy": [
@@ -159,7 +167,7 @@
       }
     ],
     "wof:id": 1511939971,
-    "wof:lastmodified": 1758613198,
+    "wof:lastmodified": 1766824242,
     "wof:name": "timetable: Oman Air",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -177,5 +185,5 @@
     11.776808,
     48.352681
   ],
-  "geometry": {"coordinates":[[11.776808,48.352681]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[11.776808,48.352681]]}
 }

@@ -14,11 +14,17 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iso:country": "US",
+    "millsfield:airline_id": [
+      1159285141
+    ],
     "millsfield:airport_id": [
       102527513
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159288051
+    ],
     "millsfield:images": [
       1527825229
     ],
@@ -60,6 +66,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2011.032.1289",
+    "sfomuseum:airline": "SFO Helicopter Airlines",
+    "sfomuseum:airline_id": [
+      754
+    ],
     "sfomuseum:airport": "San Francisco International Airport",
     "sfomuseum:airport_id": [
       121
@@ -105,7 +115,8 @@
     "wof:depicts": [
       1159285141,
       1159291711,
-      102527513
+      102527513,
+      1159288051
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -146,7 +157,7 @@
       }
     ],
     "wof:id": 1511946157,
-    "wof:lastmodified": 1758613198,
+    "wof:lastmodified": 1766824233,
     "wof:name": "negative: San Francisco International Airport (SFO), SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -164,5 +175,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

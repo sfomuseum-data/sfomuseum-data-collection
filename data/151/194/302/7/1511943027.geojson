@@ -14,8 +14,14 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "XX",
+    "millsfield:airline_id": [
+      1159286017
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1360700619
+    ],
     "millsfield:images": [
       1527848369,
       1527848445
@@ -80,6 +86,10 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2010.225.009",
+    "sfomuseum:airline": "American Airways",
+    "sfomuseum:airline_id": [
+      1169
+    ],
     "sfomuseum:category": "Scheduling / Ticketing",
     "sfomuseum:classification_id": 158,
     "sfomuseum:collection": "Aviation Archive",
@@ -116,6 +126,10 @@
     "wof:breaches": [],
     "wof:country": "XX",
     "wof:created": 1579906673,
+    "wof:depicts": [
+      1159286017,
+      1360700619
+    ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
       {
@@ -136,7 +150,7 @@
       }
     ],
     "wof:id": 1511943027,
-    "wof:lastmodified": 1758613193,
+    "wof:lastmodified": 1767169756,
     "wof:name": "timetable: All American Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -154,5 +168,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

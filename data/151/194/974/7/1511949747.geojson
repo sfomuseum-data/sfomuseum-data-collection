@@ -78,7 +78,7 @@
     "sfomuseum:date_acquired": "2011-03-02",
     "sfomuseum:daterange_end": "1928-12-31",
     "sfomuseum:daterange_start": "1928-01-01",
-    "sfomuseum:description": "Black and white photographic negative depicting Hangar No. 1 from north with lamps, platform, beacon, and wind sock atop structure, Mills Field Municipal Airport of San Francisco, January 13, 1928; “MILLS FIELD SAN FRANCISCO AIRPORT” lettering on roof; inscribed on black border, bottom: “A 780 1-13-28 Hangar #1 viewed from north west”.",
+    "sfomuseum:description": "Black and white photographic negative depicting Hangar No. 1 from north with lamps, platform, beacon, and wind sock atop structure, Mills Field Municipal Airport of San Francisco, January 13, 1928; “MILLS FIELD SAN FRANCISCO AIRPORT” lettering on roof; labeled on bottom: “A 780 1-13-28 Hangar #1 viewed from north west”.",
     "sfomuseum:dimensions": "3 1/2 x 5 3/4 inches (8.9 x 14.6 cm)",
     "sfomuseum:exhibition_ids": [
       2169
@@ -120,46 +120,6 @@
     "wof:geomhash": "fda2c2562cae0b6b99a07b8f9ebb436d",
     "wof:hierarchy": [
       {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1511949747,
-        "locality_id": 85922583,
-        "object_id": 1511949747,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1511949747,
-        "object_id": 1511949747,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 1360695653,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1511949747,
-        "locality_id": 85922583,
-        "object_id": 1511949747,
-        "postalcode_id": 554784711,
-        "region_id": 85688637
-      },
-      {
-        "campus_id": 1360695653,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1511949747,
-        "object_id": 1511949747,
-        "region_id": 85688637
-      },
-      {
         "building_id": -1,
         "campus_id": 102527513,
         "collection_id": 1159162825,
@@ -173,10 +133,50 @@
         "object_id": 1511949747,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1511949747,
+        "locality_id": 85922583,
+        "object_id": 1511949747,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1511949747,
+        "object_id": 1511949747,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 1360695653,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1511949747,
+        "locality_id": 85922583,
+        "object_id": 1511949747,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 1360695653,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1511949747,
+        "object_id": 1511949747,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1511949747,
-    "wof:lastmodified": 1758613204,
+    "wof:lastmodified": 1767901524,
     "wof:name": "negative: Mills Field Municipal Airport of San Francisco, Hangar No. 1",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -194,5 +194,5 @@
     -122.370943,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]]}
 }

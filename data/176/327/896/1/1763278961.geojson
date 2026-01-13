@@ -12,13 +12,17 @@
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159284165
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287917
+      1159293593,
+      1159289935
     ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images": [
@@ -156,6 +160,10 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2021.020.1009 a c",
+    "sfomuseum:aircraft": "Boeing 757-200",
+    "sfomuseum:aircraft_id": [
+      260
+    ],
     "sfomuseum:airline": "China Southern Airlines",
     "sfomuseum:airline_id": [
       312
@@ -168,7 +176,7 @@
     "sfomuseum:date_acquired": "2021-03-31",
     "sfomuseum:daterange_end": "1999-12-31",
     "sfomuseum:daterange_start": "1990-01-01",
-    "sfomuseum:description": "Model airplane of China Airlines, Boeing 737; \ra. gold with logotype on fuselage;\rb. gold plastic base and stand;\rc. presentation box.",
+    "sfomuseum:description": "Model airplane of China Airlines, Boeing 757-200; \ra. gold with logotype on fuselage;\rb. gold plastic base and stand;\rc. presentation box.",
     "sfomuseum:dimensions": "1 1/4 x 5 x 6 1/4 inches (3.2 x 12.7 x 15.9 cm)",
     "sfomuseum:medium": "metal, paper, ink",
     "sfomuseum:object_id": 222885,
@@ -190,7 +198,10 @@
     "wof:created": 1647330126,
     "wof:depicts": [
       1159284165,
-      1159287917
+      1159287917,
+      1159289939,
+      1159293593,
+      1159289935
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -211,8 +222,8 @@
       }
     ],
     "wof:id": 1763278961,
-    "wof:lastmodified": 1758613244,
-    "wof:name": "model airplane: China Southern Airlines, Boeing 737",
+    "wof:lastmodified": 1768293019,
+    "wof:name": "model airplane: China Southern Airlines, Boeing 757-200",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -228,5 +239,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

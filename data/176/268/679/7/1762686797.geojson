@@ -2,12 +2,12 @@
   "id": 1762686797,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1980-01-01",
-    "date:cessation_upper": "1989-12-31",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1989-12-31",
-    "edtf:cessation": "198X",
-    "edtf:inception": "198X",
+    "date:cessation_lower": "1978-01-01",
+    "date:cessation_upper": "1978-12-31",
+    "date:inception_lower": "1978-01-01",
+    "date:inception_upper": "1978-12-31",
+    "edtf:cessation": "1978",
+    "edtf:inception": "1978",
     "geom:area": 0,
     "geom:bbox": "140.395257,35.755744,140.395257,35.755744",
     "geom:latitude": 35.755744,
@@ -110,16 +110,16 @@
     "sfomuseum:classification_id": 127,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of Thomas G. Dragges",
-    "sfomuseum:date": "1980s",
+    "sfomuseum:date": "1978",
     "sfomuseum:date_acquired": "2017-01-13",
-    "sfomuseum:daterange_end": "1989-12-31",
-    "sfomuseum:daterange_start": "1980-01-01",
+    "sfomuseum:daterange_end": "1978-12-31",
+    "sfomuseum:daterange_start": "1978-01-01",
     "sfomuseum:description": "Postcard with color photographic image depicting New Tokyo International Airport (Narita); aerial view.",
     "sfomuseum:dimensions": "3 1/2 x 5 1/2 inches (8.9 x 14 cm)",
     "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 182118,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , 1980s.",
+    "sfomuseum:publication": ": , 1978.",
     "sfomuseum:subcategory": "Postcard",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
@@ -144,22 +144,12 @@
     "wof:country": "JP",
     "wof:created": 1641341753,
     "wof:depicts": [
+      1159288505,
       1159285785,
-      1746879101,
-      1159288505
+      1746879101
     ],
     "wof:geomhash": "57134c91d5fe4cbc8a8afe0d934bd822",
     "wof:hierarchy": [
-      {
-        "campus_id": 1746879101,
-        "continent_id": 102191569,
-        "country_id": 85632429,
-        "county_id": 890524535,
-        "custom_id": 1762686797,
-        "locality_id": 102031933,
-        "object_id": 1762686797,
-        "region_id": 85672797
-      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -174,10 +164,20 @@
         "object_id": 1762686797,
         "region_id": 85688637,
         "wing_id": 1159160869
+      },
+      {
+        "campus_id": 1746879101,
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 890524535,
+        "custom_id": 1762686797,
+        "locality_id": 102031933,
+        "object_id": 1762686797,
+        "region_id": 85672797
       }
     ],
     "wof:id": 1762686797,
-    "wof:lastmodified": 1758613224,
+    "wof:lastmodified": 1768293031,
     "wof:name": "postcard: New Tokyo International Airport (Narita)",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -194,5 +194,5 @@
     140.395257,
     35.755744
   ],
-  "geometry": {"coordinates":[[140.395257,35.755744]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[140.395257,35.755744]]}
 }

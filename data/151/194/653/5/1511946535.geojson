@@ -66,7 +66,7 @@
     "sfomuseum:date_acquired": "2011-03-02",
     "sfomuseum:daterange_end": "1966-12-31",
     "sfomuseum:daterange_start": "1966-01-01",
-    "sfomuseum:description": "Black and white photographic negative depicting oblique aerial view of Central Terminal (Harvey Milk Terminal 1), San Francisco International Airport (SFO), March 2, 1966.",
+    "sfomuseum:description": "Black and white photographic negative depicting oblique aerial view of Central Terminal (Terminal 2), San Francisco International Airport (SFO), March 2, 1966.",
     "sfomuseum:dimensions": "4 x 5 inches (10.2 x 12.7 cm)",
     "sfomuseum:media_ids": [
       1527825495
@@ -102,6 +102,21 @@
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1511946535,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "object_id": 1511946535,
+        "region_id": 85688637,
+        "wing_id": 1159160869
+      },
+      {
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -120,25 +135,10 @@
         "custom_id": 1511946535,
         "object_id": 1511946535,
         "region_id": 85688637
-      },
-      {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1511946535,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1511946535,
-        "region_id": 85688637,
-        "wing_id": 1159160869
       }
     ],
     "wof:id": 1511946535,
-    "wof:lastmodified": 1758613199,
+    "wof:lastmodified": 1768293043,
     "wof:name": "negative: San Francisco International Airport (SFO), aerial",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -156,5 +156,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

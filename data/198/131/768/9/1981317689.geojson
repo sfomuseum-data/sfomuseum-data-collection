@@ -2,14 +2,24 @@
   "id": 1981317689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-12-01",
+    "date:cessation_upper": "1970-12-31",
+    "date:inception_lower": "1970-09-01",
+    "date:inception_upper": "1970-09-30",
+    "edtf:cessation": "1970-12",
+    "edtf:inception": "1970-09",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1762679663,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159286839
+    ],
     "millsfield:images": [
       2015007113
     ],
@@ -20,20 +30,29 @@
       2015007113
     ],
     "millsfield:primary_image": 2015007113,
-    "millsfield:subcategory_id": 1511213187,
+    "millsfield:subcategory_id": 1511213429,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:accession_number": "2025.063.050 a c",
+    "sfomuseum:airline": "Pan American World Airways",
+    "sfomuseum:airline_id": [
+      684
+    ],
     "sfomuseum:category": "Passenger Amenity, Museum",
-    "sfomuseum:classification_id": 23,
+    "sfomuseum:classification_id": 159,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:creditline": "Gift of the National Air and Space Museum, Smithsonian Institution, Washington, D.C. ",
-    "sfomuseum:description": "Amenity kit issued by unknown airline; in multiple parts:\ra. black and white amenity kit cover with fold-over closure and printed pattern;\rb. soap;\rc. case.",
-    "sfomuseum:dimensions": "8 x 7 inches (20.3 x 17.8 cm)",
-    "sfomuseum:medium": "plastic, fabric, cosmetic products, elastic, paper, ink",
+    "sfomuseum:date": "late 1970s",
+    "sfomuseum:daterange_end": "1979-12-31",
+    "sfomuseum:daterange_start": "1977-01-01",
+    "sfomuseum:description": "Cologne set issued by Pan American World Airways for first class male passenger; co-branded to promoting Givenchy products; in multiple parts:\ra. black and white repeated manufacturer pattern cover with fold-over closure with white “Givenchy Gentleman” on center;\rb. soap;\rc. cologne;\rd. after shave.",
+    "sfomuseum:dimensions": "3 1/2 x 5 1/4 x 1 inches (8.9 x 13.3 x 2.5 cm)",
+    "sfomuseum:maker": "Givenchy",
+    "sfomuseum:medium": "plastic, cosmetic products,glass, paper, ink",
     "sfomuseum:object_id": 259594,
     "sfomuseum:placetype": "object",
-    "sfomuseum:subcategory": "Amenity Kit",
+    "sfomuseum:publication": ": , late 1970s.",
+    "sfomuseum:subcategory": "Toiletries",
     "src:geom": "sfomuseum#undetermined",
     "wof:belongsto": [
       102527513,
@@ -47,6 +66,10 @@
     ],
     "wof:country": "XY",
     "wof:created": 1757145350,
+    "wof:depicts": [
+      1159284989,
+      1159286839
+    ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
@@ -66,8 +89,8 @@
       }
     ],
     "wof:id": 1981317689,
-    "wof:lastmodified": 1773473544,
-    "wof:name": "amenity kit: unknown airline",
+    "wof:lastmodified": 1773940442,
+    "wof:name": "cologne set: Pan American World Airways",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

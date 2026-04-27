@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "1960-01-01",
-    "date:cessation_upper": "1960-12-31",
+    "date:cessation_upper": "1969-12-31",
     "date:inception_lower": "1960-01-01",
-    "date:inception_upper": "1960-12-31",
-    "edtf:cessation": "1960~",
-    "edtf:inception": "1960~",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "196X",
+    "edtf:inception": "196X",
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-122.370943,37.617990",
     "geom:latitude": 37.61799,
@@ -77,16 +77,16 @@
     "sfomuseum:classification_id": 129,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Collection of SFO Museum",
-    "sfomuseum:date": "c. 1960",
+    "sfomuseum:date": "1960s",
     "sfomuseum:date_acquired": "2011-06-21",
-    "sfomuseum:daterange_end": "1965-12-31",
-    "sfomuseum:daterange_start": "1955-01-01",
-    "sfomuseum:description": "Black and white photograph depicting JAL (Japan Air Lines) ticket counter at San Francisco International Airport (SFO); group of customers greeting and waiting in line, with “Japan Air Lines” sign installed above counter and partial view of tsuru (crane) logo in background; CPAir counter visible in background at right; original identification number 73-189-B-4, 01823.",
+    "sfomuseum:daterange_end": "1969-12-31",
+    "sfomuseum:daterange_start": "1960-01-01",
+    "sfomuseum:description": "Black and white photograph depicting JAL (Japan Air Lines) ticket counter at San Francisco International Airport (SFO); group of customers greeting and waiting in line in South Terminal, with “Japan Air Lines” sign installed above counter and partial view of tsuru (crane) logo in background; CPAir counter visible in background at right; original identification number 73-189-B-4, 01823.",
     "sfomuseum:dimensions": "10 x 8 inches (25.4 x 20.3 cm)",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 114459,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , c. 1960.",
+    "sfomuseum:publication": ": , 1960s.",
     "sfomuseum:subcategory": "Print, Photograph",
     "src:geom": "sfomuseum#derived",
     "src:geom_derived_from": [
@@ -150,7 +150,7 @@
       }
     ],
     "wof:id": 1762832579,
-    "wof:lastmodified": 1758613234,
+    "wof:lastmodified": 1777275197,
     "wof:name": "photograph: San Francisco International Airport (SFO), Japan Air Lines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +167,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

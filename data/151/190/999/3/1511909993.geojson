@@ -131,7 +131,7 @@
     "sfomuseum:date_acquired": "2000-08-18",
     "sfomuseum:daterange_end": "1934-12-31",
     "sfomuseum:daterange_start": "1924-01-01",
-    "sfomuseum:description": "Promotional brochure issued by Mills Field Municipal Airport of San Francisco; tri-fold fromat; white cover with text “Already with America's greatest sea port... San Francisco now plans the world’s greatest airport... Mills Field covering more than 1100 acres on Bayshore Boulevard”; contains schematic drawing and description of proposed airfield; back cover features images of Mills Field  planners E. J. Spaulding, Carl W. Miles, Jefferson E. Peyser, and Roy N. Francis.",
+    "sfomuseum:description": "Promotional brochure issued by Mills Field Municipal Airport of San Francisco; tri-fold format; white cover with text “Already with America's greatest sea port... San Francisco now plans the world’s greatest airport... Mills Field covering more than 1100 acres on Bayshore Boulevard”; contains schematic drawing and description of proposed airfield; back cover features images of Mills Field  planners E. J. Spaulding, Carl W. Miles, Jefferson E. Peyser, and Roy N. Francis.",
     "sfomuseum:dimensions": "8 x 11 inches (20.3 x 27.9 cm)",
     "sfomuseum:media_ids": [
       1527828655,
@@ -169,15 +169,6 @@
     "wof:geomhash": "3abf1c04b00c12d6593e9cd3c35f0056",
     "wof:hierarchy": [
       {
-        "campus_id": 1360695653,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1511909993,
-        "object_id": 1511909993,
-        "region_id": 85688637
-      },
-      {
         "building_id": -1,
         "campus_id": 102527513,
         "collection_id": 1159162825,
@@ -202,10 +193,19 @@
         "object_id": 1511909993,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 1360695653,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1511909993,
+        "object_id": 1511909993,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1511909993,
-    "wof:lastmodified": 1758613295,
+    "wof:lastmodified": 1777879968,
     "wof:name": "brochure: Mills Field Municipal Airport of San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -223,5 +223,5 @@
     -122.391953,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.391953,37.624731]]}
 }

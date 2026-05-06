@@ -22,6 +22,9 @@
     "millsfield:company_id": [
       1159287531
     ],
+    "millsfield:exhibition_ids": [
+      2031188719
+    ],
     "millsfield:images": [
       1729565551
     ],
@@ -84,6 +87,7 @@
     "millsfield:images_texts_ids": [
       1729565551
     ],
+    "millsfield:on_view": 1,
     "millsfield:primary_image": 1729565551,
     "millsfield:subcategory_id": 1511213421,
     "mz:hierarchy_label": 1,
@@ -104,8 +108,12 @@
     "sfomuseum:daterange_start": "1971-01-01",
     "sfomuseum:description": "Ticket jacket and boarding pass issued by TWA (Trans World Airlines); date of use: March 1971;\ra. ticket jacket; white and purple cover with color illustration of with cable car and Golden Gate Bridge and caption “Great Cities of the World- San Francisco”;\rb. boarding pass; green; flight 80.",
     "sfomuseum:dimensions": "8 1/4 x 3 3/4 inches (21 x 9.5 cm)",
+    "sfomuseum:exhibition_ids": [
+      2165
+    ],
     "sfomuseum:medium": "paper, ink",
     "sfomuseum:object_id": 59882,
+    "sfomuseum:on_view": 1,
     "sfomuseum:placetype": "object",
     "sfomuseum:publication": ": , 1971.",
     "sfomuseum:subcategory": "Ticket Jacket / Ticket",
@@ -126,8 +134,8 @@
     "wof:country": "XX",
     "wof:created": 1618962246,
     "wof:depicts": [
-      1159285393,
-      1159287531
+      1159287531,
+      1159285393
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -149,7 +157,7 @@
       }
     ],
     "wof:id": 1729563959,
-    "wof:lastmodified": 1758613205,
+    "wof:lastmodified": 1778053212,
     "wof:name": "ticket: TWA (Trans World Airlines), San Francisco",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -167,5 +175,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

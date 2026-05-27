@@ -2,12 +2,12 @@
   "id": 1762829125,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1965-01-01",
-    "date:cessation_upper": "1965-12-31",
-    "date:inception_lower": "1965-01-01",
-    "date:inception_upper": "1965-12-31",
-    "edtf:cessation": "1965~",
-    "edtf:inception": "1965~",
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1980-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980~",
+    "edtf:inception": "1980~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -17,6 +17,9 @@
     ],
     "millsfield:airline_id": [
       1159285341
+    ],
+    "millsfield:airport_id": [
+      102531041
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
@@ -92,20 +95,24 @@
     "sfomuseum:airline_id": [
       848
     ],
+    "sfomuseum:airport": "Oakland International Airport",
+    "sfomuseum:airport_id": [
+      97
+    ],
     "sfomuseum:category": "Photograph",
     "sfomuseum:classification_id": 129,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:creditline": "Gift of the William Hough Collection",
-    "sfomuseum:date": "c. 1965",
+    "sfomuseum:date": "c. 1980",
     "sfomuseum:date_acquired": "2013-03-21",
-    "sfomuseum:daterange_end": "1970-12-31",
-    "sfomuseum:daterange_start": "1960-01-01",
+    "sfomuseum:daterange_end": "1985-12-31",
+    "sfomuseum:daterange_start": "1975-01-01",
     "sfomuseum:description": "Color photograph depicting profile view of Transamerica Airlines Lockheed L-188 Electra parked on airport ramp; green and white fuselage with stylized “T” on vertical stabilizer; aircraft registration number “N858U”; airport building in background.",
     "sfomuseum:dimensions": "8 x 10 inches (20.3 x 25.4 cm)",
     "sfomuseum:medium": "photograph",
     "sfomuseum:object_id": 129399,
     "sfomuseum:placetype": "object",
-    "sfomuseum:publication": ": , c. 1965.",
+    "sfomuseum:publication": ": , c. 1980.",
     "sfomuseum:registration_number": "N858U",
     "sfomuseum:subcategory": "Print, Photograph",
     "src:geom": "sfomuseum#undetermined",
@@ -122,10 +129,11 @@
     "wof:country": "XY",
     "wof:created": 1642729610,
     "wof:depicts": [
+      1159285341,
+      102531041,
       1159291115,
       1159293697,
-      1159292825,
-      1159285341
+      1159292825
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -146,7 +154,7 @@
       }
     ],
     "wof:id": 1762829125,
-    "wof:lastmodified": 1758613231,
+    "wof:lastmodified": 1779866533,
     "wof:name": "photograph: Transamerica Airlines, Lockheed L-188 Electra",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -163,5 +171,5 @@
     -122.38583385944366,
     37.61661101879963
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]]}
 }

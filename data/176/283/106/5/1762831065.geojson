@@ -56,6 +56,7 @@
     "sfomuseum:airport_id": [
       121
     ],
+    "sfomuseum:artist": "Marshall Moxom",
     "sfomuseum:category": "Photograph",
     "sfomuseum:classification_id": 129,
     "sfomuseum:collection": "Aviation Archive",
@@ -95,15 +96,6 @@
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
       {
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1762831065,
-        "object_id": 1762831065,
-        "region_id": 85688637
-      },
-      {
         "building_id": -1,
         "campus_id": 102527513,
         "collection_id": 1159162825,
@@ -128,10 +120,19 @@
         "object_id": 1762831065,
         "postalcode_id": 554784711,
         "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1762831065,
+        "object_id": 1762831065,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1762831065,
-    "wof:lastmodified": 1758613232,
+    "wof:lastmodified": 1787791988,
     "wof:name": "photograph: San Francisco International Airport (SFO), Terminal Building",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -148,5 +149,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

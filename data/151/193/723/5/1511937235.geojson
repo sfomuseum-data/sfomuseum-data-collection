@@ -67,7 +67,7 @@
       ]
     },
     "millsfield:images_texts": [
-      "SFO\nHeLICOPTeR\nAIRLINES\nSCHEDULE EFFECTIVE APRIL 27, 1969\nDowntown San Francisco\nSan Francisco Airport\nOakland Airport\nSan Jose\nConcord\nBerkeley\nMarin\nPalo Alto\nHELPORT\nDowntown San Francisco Heliport"
+      "SFO\nHELICOPTER\nAIRLINES\nSCHEDULE EFFECTIVE APRIL 27, 1969\nDowntown San Francisco\nSan Francisco Airport\nOakland Airport\nSan Jose\nConcord\nBerkeley\nMarin\nPalo Alto\nHELPORT\nDowntown San Francisco Heliport"
     ],
     "millsfield:images_texts_ids": [
       1527837963
@@ -125,12 +125,12 @@
     "wof:country": "US",
     "wof:created": 1579906674,
     "wof:depicts": [
-      102527513,
       1159285141,
       1108830801,
       85688637,
       1159288051,
-      85633793
+      85633793,
+      102527513
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -171,7 +171,7 @@
       }
     ],
     "wof:id": 1511937235,
-    "wof:lastmodified": 1758613193,
+    "wof:lastmodified": 1787988183,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -189,5 +189,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

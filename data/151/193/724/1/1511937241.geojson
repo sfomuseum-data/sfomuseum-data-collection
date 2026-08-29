@@ -92,8 +92,8 @@
       ]
     },
     "millsfield:images_texts": [
-      "SFO\nHELICOPTER\nAIRLINES\nSCHEDULE EFFECTIVE OCTOBER 26, 1969\nDowntown San Francisco\nSan Francisco Airport\nOakland Airport\nSunnyvale/ San Jose\nConcord\nBerkeley\nMarin\nPalo Alto",
-      "SFO\nHELICOPTeR\nAIRLINES\nSCHEDULE EFFECTIVE OCTOBER 26, 1969\nDowntown San Francisco\nSan Francisco Airport\nOakland Airport\nSunnyvale/ San Jose\nConcord\nBerkeley\nMarin\nPalo Alto"
+      "SFO\nHELICOPTER\nAIRLINES\nSCHEDULE EFFECTIVE OCTOBER 26, 1969\nDowntown San Francisco\nSan Francisco Airport\nOakland Airport\nSunnyvale/ San Jose\nConcord\nBerkeley\nMarin\nPalo Alto\nHELPOR",
+      "SFO\nHELICOPTER\nAIRLINES\nSCHEDULE EFFECTIVE OCTOBER 26, 1969\nDowntown San Francisco\nSan Francisco Airport\nOakland Airport\nSunnyvale/ San Jose\nConcord\nBerkeley\nMarin\nPalo Alto\nHELIPORT"
     ],
     "millsfield:images_texts_ids": [
       1527837925,
@@ -153,12 +153,12 @@
     "wof:country": "US",
     "wof:created": 1579906674,
     "wof:depicts": [
+      1108830801,
+      85688637,
       85633793,
       102527513,
       1159288051,
-      1159285141,
-      1108830801,
-      85688637
+      1159285141
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1511937241,
-    "wof:lastmodified": 1758613193,
+    "wof:lastmodified": 1787988183,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -217,5 +217,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

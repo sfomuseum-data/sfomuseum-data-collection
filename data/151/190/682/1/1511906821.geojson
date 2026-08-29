@@ -82,7 +82,7 @@
       ]
     },
     "millsfield:images_texts": [
-      "SFE\nHELICOPTER AIRLINES, INC.\nSAN FRANCISCO INTERNATIONAL AIRPORT\nROUTE MAP • SERVICE • SCHEDULES\nSCHEDULED HELICOPTER PASSENGER SERVICE\nSAN FRANCISCO AIRPORT\nOAKLAND AIRPORT\nDOWNTOWN OAKLAND\nDOWNTOWN SAN FRANCISCO\nDOWNTOWN BERKELEY"
+      "SFC\nHELICOPTER AIRLINES, INC.\nSAN FRANCISCO INTERNATIONAL AIRPORT\nROUTE MAP • SERVICE • SCHEDULES\nSCHEDULED HELICOPTER PASSENGER SERVICE\nSAN FRANCISCO AIRPORT\nOAKLAND AIRPORT\nDOWNTOWN OAKLAND\nDOWNTOWN SAN FRANCISCO\nDOWNTOWN BERKELEY"
     ],
     "millsfield:images_texts_ids": [
       1527837927
@@ -142,9 +142,9 @@
     "wof:country": "US",
     "wof:created": 1579906674,
     "wof:depicts": [
-      1159288051,
       102527513,
-      1159285141
+      1159285141,
+      1159288051
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -185,7 +185,7 @@
       }
     ],
     "wof:id": 1511906821,
-    "wof:lastmodified": 1758613295,
+    "wof:lastmodified": 1787988175,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -203,5 +203,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
 }

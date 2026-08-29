@@ -79,7 +79,7 @@
       ]
     },
     "millsfield:images_texts": [
-      "AIR\nCANADA\nNorth American\n/ Horaire\nTimetable /\nd'Amérique du Nord\nEFFECTIVE\nEN VIGUEUR 1\nMARCH 1979\nMARS"
+      "AIR\n*\nCANADA\nNorth American\nHoraire\nTimetable /\nd'Amérique du Nord\nEFFECTIVE\nEN VIGUEUR\n1\nMARS\nMARG 1979"
     ],
     "millsfield:images_texts_ids": [
       1527832065
@@ -129,11 +129,11 @@
     "wof:country": "XX",
     "wof:created": 1579906656,
     "wof:depicts": [
-      85688637,
       85633793,
       1159283597,
       85921881,
-      1159288851
+      1159288851,
+      85688637
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1511940191,
-    "wof:lastmodified": 1758613188,
+    "wof:lastmodified": 1787988185,
     "wof:name": "timetable: Air Canada, North American service",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -173,5 +173,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

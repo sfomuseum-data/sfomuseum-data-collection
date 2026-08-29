@@ -82,7 +82,7 @@
       ]
     },
     "millsfield:images_texts": [
-      "AIRCAL\nEffective March 2, 1987\nIncludes American Airlines\nChicago\nO'Hare\nConnection Supplement"
+      "AIRCAL\nEffective March 2, 1987\nIncludes American Airlines\nChicago O'Hare\nConnection Supplement"
     ],
     "millsfield:images_texts_ids": [
       1527834203
@@ -146,9 +146,9 @@
     "wof:country": "US",
     "wof:created": 1579906661,
     "wof:depicts": [
-      102533631,
       1159286809,
-      1159283791
+      1159283791,
+      102533631
     ],
     "wof:geomhash": "7b3bbc54c892c856b4b1b7eb583f40c7",
     "wof:hierarchy": [
@@ -182,7 +182,7 @@
       }
     ],
     "wof:id": 1511932561,
-    "wof:lastmodified": 1758613185,
+    "wof:lastmodified": 1787988181,
     "wof:name": "timetable: AirCal",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -200,5 +200,5 @@
     -87.894364,
     41.983038
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-87.894364,41.983038]]}
 }

@@ -75,7 +75,7 @@
     "sfomuseum:date_acquired": "2011-03-02",
     "sfomuseum:daterange_end": "1932-12-31",
     "sfomuseum:daterange_start": "1932-01-01",
-    "sfomuseum:description": "Black and white photographic negative depicting aviators left to right Madeline Royle, Vera “Johnny” Johnson, and Marian Trace carrying mail bags in cockpit of Stearman 4D, San Francisco Airport.",
+    "sfomuseum:description": "Black and white photographic negative depicting aviators left to right Madeline Royle, Vera “Johnny” Johnson, and Marian Trace in cockpit of Stearman 4D, San Francisco Airport.",
     "sfomuseum:dimensions": "4 x 5 inches (10.2 x 12.7 cm)",
     "sfomuseum:media_ids": [
       1527821383
@@ -113,6 +113,15 @@
     ],
     "wof:geomhash": "fda2c2562cae0b6b99a07b8f9ebb436d",
     "wof:hierarchy": [
+      {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1511943529,
+        "object_id": 1511943529,
+        "region_id": 85688637
+      },
       {
         "building_id": -1,
         "campus_id": 102527513,
@@ -158,19 +167,10 @@
         "object_id": 1511943529,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      },
-      {
-        "campus_id": 1360695655,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "custom_id": 1511943529,
-        "object_id": 1511943529,
-        "region_id": 85688637
       }
     ],
     "wof:id": 1511943529,
-    "wof:lastmodified": 1758613194,
+    "wof:lastmodified": 1788247162,
     "wof:name": "negative: San Francisco Airport, aviators",
     "wof:parent_id": 1159162825,
     "wof:placetype": "custom",
@@ -188,5 +188,5 @@
     -122.370943,
     37.624731
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-122.391953,37.624731]]}
 }
